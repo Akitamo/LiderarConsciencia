@@ -21,10 +21,10 @@ if (result.successful && result.value.values.length > 0) {
       const displayText = filename
         .replace(/^m\d{2}-[e]?\d{2}-/, '')  // quita prefijo mXX-NN- o mXX-eNN-
         .replace(/-/g, ' ')                  // guiones a espacios
-        .replace(/\.md$/, '')                // quita .md
         .replace(/^\w/, c => c.toUpperCase()); // capitaliza
       
-      return `- [${displayText}](./${encodeURI(filename)})`;
+      // Añadir .md para compatibilidad con GitHub
+      return `- [${displayText}](./${encodeURI(filename)}.md)`;
     })
     .join("\n");
   
