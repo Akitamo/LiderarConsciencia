@@ -14,8 +14,7 @@ tags: [neurociencia, cerebro, evolucion, supervivencia]
 • No se trata solo de percibir el presente, sino de proyectar y prepararnos para el futuro.
 
 #imagen
-<!-- IMAGEN: m01-01-vineta-evolucion -->
-<!-- Descripción: Viñeta humorística de evolución mostrando reptil, mamífero, primate y humano en secuencia, todos pensando "COMER, SOBREVIVIR, REPRODUCIRSE" excepto el humano que piensa "¿...DE QUÉ IBA ESTO...?" Firmada por HARDIN -->
+`[IMG: m01-01-vineta-evolucion]` Viñeta humorística de evolución mostrando reptil, mamífero, primate y humano en secuencia, todos pensando "COMER, SOBREVIVIR, REPRODUCIRSE" excepto el humano que piensa "¿...DE QUÉ IBA ESTO...?" Firmada por HARDIN
 
 #explicacion
 El Cerebro: Una Máquina de Supervivencia
@@ -26,12 +25,10 @@ No se trata solo de percibir el presente, sino de proyectar y prepararnos para e
 Sistema de Supervivencia Eficiente: A lo largo de millones de años, el cerebro ha evolucionado de tal manera que cada una de sus partes cumple una función crucial en la anticipación y adaptación al entorno. Este diseño no es accidental; ha sido moldeado para responder rápidamente a las amenazas, reconocer patrones en el entorno y aprovechar las oportunidades de forma precisa y eficiente.
 
 #imagen
-<!-- IMAGEN: m01-01-hominido-depredadores -->
-<!-- Descripción: Dos ilustraciones de homínidos prehistóricos enfrentándose a depredadores: izquierda muestra homínido frente a tigre dientes de sable, derecha muestra homínido huyendo de dinosaurio -->
+`[IMG: m01-01-hominido-depredadores]` Dos ilustraciones de homínidos prehistóricos enfrentándose a depredadores: izquierda muestra homínido frente a tigre dientes de sable, derecha muestra homínido huyendo de dinosaurio
 
 #imagen
-<!-- IMAGEN: m01-01-evolucion-cerebro -->
-<!-- Descripción: Secuencia evolutiva mostrando mono confundido con interrogaciones, flecha hacia secuencia de 4 homínidos en progresión evolutiva (de primate a humano moderno) con cerebros vistos desde arriba mostrando incremento progresivo de tamaño y complejidad -->
+`[IMG: m01-01-evolucion-cerebro]` Secuencia evolutiva mostrando mono confundido con interrogaciones, flecha hacia secuencia de 4 homínidos en progresión evolutiva (de primate a humano moderno) con cerebros vistos desde arriba mostrando incremento progresivo de tamaño y complejidad
 
 #teoria
 El cerebro crearía un "modelo del mundo" para anticipar eventos futuros.
@@ -39,12 +36,10 @@ El cerebro crearía un "modelo del mundo" para anticipar eventos futuros.
 La evolución ha favorecido este sistema por su capacidad de aumentar las posibilidades de supervivencia. Las redes neuronales, la memoria, los sentidos, la corteza asociativa y las emociones trabajan en conjunto para generar este "teatro mental" que nos permite navegar por el mundo e interactuar con él.
 
 #imagen
-<!-- IMAGEN: m01-01-libro-rafael-yuste -->
-<!-- Descripción: Portada del libro "El cerebro, el teatro del mundo" de Rafael Yuste con subtítulo "Descubre cómo funciona y cómo crea nuestra realidad" -->
+`[IMG: m01-01-libro-rafael-yuste]` Portada del libro "El cerebro, el teatro del mundo" de Rafael Yuste con subtítulo "Descubre cómo funciona y cómo crea nuestra realidad"
 
 #imagen
-<!-- IMAGEN: m01-01-diagrama-modelo-mundo -->
-<!-- Descripción: Diagrama circular con cerebro en el centro rodeado de 4 elementos conectados: "Memoria y recuerdos" (arriba), "Emociones" (derecha), "Información sentidos" (abajo), "Modelo del mundo" (izquierda). Todos conectados por flechas bidireccionales hacia "Supervivencia" en el exterior -->
+`[IMG: m01-01-diagrama-modelo-mundo]` Diagrama circular con cerebro en el centro rodeado de 4 elementos conectados: "Memoria y recuerdos" (arriba), "Emociones" (derecha), "Información sentidos" (abajo), "Modelo del mundo" (izquierda). Todos conectados por flechas bidireccionales hacia "Supervivencia" en el exterior
 
 #explicacion
 1. La Máquina de Supervivencia
