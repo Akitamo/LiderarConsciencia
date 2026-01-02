@@ -9,8 +9,7 @@ tags: [atencion, consciencia, william-james, posner, rothbart, SODA, entrenamien
 # La Atención: Puerta de Entrada a la Consciencia
 
 #imagen
-<!-- IMAGEN: m01-09-soda-desactivar-automatismo -->
-<!-- Descripción: Recuadro azul con texto "Desactivando el piloto automático: SODA ('Si Observas Desactivas el Automatismo')". Concepto clave que sintetiza cómo la observación consciente desactiva las respuestas automáticas. -->
+`[IMG: m01-09-soda-desactivar-automatismo]` Recuadro azul con texto "Desactivando el piloto automático: SODA ('Si Observas Desactivas el Automatismo')". Concepto clave que sintetiza cómo la observación consciente desactiva las respuestas automáticas.
 
 #teoria
 **EL MODO EN QUE DESPLEGAMOS NUESTRA ATENCIÓN DETERMINA LO QUE VEMOS**
@@ -27,9 +26,7 @@ tags: [atencion, consciencia, william-james, posner, rothbart, SODA, entrenamien
 QUE PUEDE SER ENTRENADO Y FORTALECIDO
 
 #imagen
-<!-- IMAGEN: m01-09-bombillas-atencion -->
-<!-- Descripción: Secuencia de tres bombillas representando niveles de atención: una bombilla encendida con luz cálida intensa (atención plena), una bombilla con luz media (atención parcial), y una bombilla apagada (sin atención). Metáfora visual de cómo la atención es un recurso limitado que puede "agotarse". -->
+`[IMG: m01-09-bombillas-atencion]` Secuencia de tres bombillas representando niveles de atención: una bombilla encendida con luz cálida intensa (atención plena), una bombilla con luz media (atención parcial), y una bombilla apagada (sin atención). Metáfora visual de cómo la atención es un recurso limitado que puede "agotarse".
 
 #imagen
-<!-- IMAGEN: m01-09-cerebro-pesas -->
-<!-- Descripción: Ilustración de un cerebro antropomorfizado con brazos y piernas levantando una barra de pesas. Representa el concepto de que la atención, como un músculo, puede ser entrenada y fortalecida mediante la práctica deliberada. -->
+`[IMG: m01-09-cerebro-pesas]` Ilustración de un cerebro antropomorfizado con brazos y piernas levantando una barra de pesas. Representa el concepto de que la atención, como un músculo, puede ser entrenada y fortalecida mediante la práctica deliberada.

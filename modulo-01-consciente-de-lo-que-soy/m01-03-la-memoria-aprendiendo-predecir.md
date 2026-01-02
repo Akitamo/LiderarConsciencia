@@ -14,8 +14,7 @@ tags: [memoria, automatismos, hipocampo, prediccion, neurociencia, cerebro]
 - La memoria no solo almacena información, sino que también participa en la generación de **comportamientos automáticos**
 
 #imagen
-<!-- IMAGEN: m01-03-cerebro-pelicula-recuerdos -->
-<!-- Descripción: Ilustración de un cerebro humano con carretes de película cinematográfica atravesándolo, simbolizando el almacenamiento de recuerdos como "fotogramas" de experiencias. Las neuronas se muestran conectándose en la base del cerebro. -->
+`[IMG: m01-03-cerebro-pelicula-recuerdos]` Ilustración de un cerebro humano con carretes de película cinematográfica atravesándolo, simbolizando el almacenamiento de recuerdos como "fotogramas" de experiencias. Las neuronas se muestran conectándose en la base del cerebro.
 
 #explicacion
 El modelo mental del cerebro se basa en la experiencia pasada, almacenada como recuerdos. Al enfrentarnos a una nueva situación, el cerebro busca en la memoria experiencias similares y utiliza la información almacenada en ellas para predecir lo que sucederá a continuación
@@ -36,37 +35,31 @@ Percepción: Facilita la identificación de objetos y patrones a partir de infor
 Automatismos: Permite ejecutar secuencias complejas de acciones a partir de un estímulo inicial simple.
 
 #imagen
-<!-- IMAGEN: m01-03-conduccion-automatica -->
-<!-- Descripción: Fotografía de un hombre conduciendo un coche mientras habla por teléfono móvil. Ilustra el concepto de automatismos: conducir es una actividad que se automatiza con la práctica, permitiendo realizar otras tareas simultáneamente. -->
+`[IMG: m01-03-conduccion-automatica]` Fotografía de un hombre conduciendo un coche mientras habla por teléfono móvil. Ilustra el concepto de automatismos: conducir es una actividad que se automatiza con la práctica, permitiendo realizar otras tareas simultáneamente.
 
 #ejercicio
 ?
 
 #imagen
-<!-- IMAGEN: m01-03-acertijo-cerillas-1-pregunta -->
-<!-- Descripción: Acertijo con cerillas sobre fondo negro mostrando la ecuación "II + II = IX" (en números romanos con cerillas). Ejercicio de pensamiento lateral donde hay que mover una cerilla para corregir la ecuación. -->
+`[IMG: m01-03-acertijo-cerillas-1-pregunta]` Acertijo con cerillas sobre fondo negro mostrando la ecuación "II + II = IX" (en números romanos con cerillas). Ejercicio de pensamiento lateral donde hay que mover una cerilla para corregir la ecuación.
 
 #imagen
-<!-- IMAGEN: m01-03-acertijo-cerillas-1-solucion -->
-<!-- Descripción: Solución al primer acertijo de cerillas: "II + II = IV" (2 + 2 = 4 en números romanos). Se ha movido una cerilla de la X para formar la V. -->
+`[IMG: m01-03-acertijo-cerillas-1-solucion]` Solución al primer acertijo de cerillas: "II + II = IV" (2 + 2 = 4 en números romanos). Se ha movido una cerilla de la X para formar la V.
 
 #ejercicio
 ?
 
 #imagen
-<!-- IMAGEN: m01-03-acertijo-cerillas-2-pregunta -->
-<!-- Descripción: Segundo acertijo con cerillas sobre fondo negro mostrando la ecuación "II = X - XII" (en números romanos con cerillas). Ejercicio donde hay que mover una cerilla para corregir la ecuación. -->
+`[IMG: m01-03-acertijo-cerillas-2-pregunta]` Segundo acertijo con cerillas sobre fondo negro mostrando la ecuación "II = X - XII" (en números romanos con cerillas). Ejercicio donde hay que mover una cerilla para corregir la ecuación.
 
 #imagen
-<!-- IMAGEN: m01-03-acertijo-cerillas-2-solucion -->
-<!-- Descripción: Solución al segundo acertijo de cerillas: "II = X - VIII" (2 = 10 - 8 en números romanos). Se ha movido una cerilla del XII para formar VIII. -->
+`[IMG: m01-03-acertijo-cerillas-2-solucion]` Solución al segundo acertijo de cerillas: "II = X - VIII" (2 = 10 - 8 en números romanos). Se ha movido una cerilla del XII para formar VIII.
 
 #ejercicio
 ?
 
 #imagen
-<!-- IMAGEN: m01-03-acertijo-cerillas-3-pregunta -->
-<!-- Descripción: Tercer acertijo con cerillas sobre fondo negro mostrando la ecuación "VI = VI + VI" (en números romanos con cerillas). Ejercicio donde hay que mover una cerilla para corregir la ecuación. -->
+`[IMG: m01-03-acertijo-cerillas-3-pregunta]` Tercer acertijo con cerillas sobre fondo negro mostrando la ecuación "VI = VI + VI" (en números romanos con cerillas). Ejercicio donde hay que mover una cerilla para corregir la ecuación.
 
 #video
-<!-- VIDEO: Contenido multimedia relacionado con la memoria y los automatismos (placeholder para vídeo incrustado en la presentación) -->
+`[VID: m01-03-memoria-automatismos]` Contenido multimedia relacionado con la memoria y los automatismos

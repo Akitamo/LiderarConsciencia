@@ -9,8 +9,7 @@ tags: [mindfulness, kabat-zinn, MBSR, MBCT, meditacion, atencion-plena, tercera-
 # Descubriendo el Mindfulness
 
 #imagen
-<!-- IMAGEN: m01-10-cerebro-saltando-comba -->
-<!-- Descripción: Ilustración de un cerebro antropomorfizado con cinta deportiva en la frente, brazos y piernas, saltando a la comba sobre fondo amarillo. Representa el concepto de entrenamiento mental que es el mindfulness. -->
+`[IMG: m01-10-cerebro-saltando-comba]` Ilustración de un cerebro antropomorfizado con cinta deportiva en la frente, brazos y piernas, saltando a la comba sobre fondo amarillo. Representa el concepto de entrenamiento mental que es el mindfulness.
 
 #teoria
 **ALGUNAS CONFUSIONES**
@@ -34,12 +33,10 @@ Diferenciar Un estado de la mente ("be mindful") vs la técnica psicológica que
 - **Walpola Rahula** (1965): «Consiste simplemente en observar, contemplar y examinar. Y el papel que asumimos no es el de juez, sino el de científico».
 
 #imagen
-<!-- IMAGEN: m01-10-diagrama-mindfulness -->
-<!-- Descripción: Diagrama conceptual de mindfulness con un cerebro en el centro rodeado de elementos: Thoughts, Feelings, Bodily Sensations, Awareness, Acceptance, Surrounding Environment, Present Moment. Visualiza los componentes de la atención plena. -->
+`[IMG: m01-10-diagrama-mindfulness]` Diagrama conceptual de mindfulness con un cerebro en el centro rodeado de elementos: Thoughts, Feelings, Bodily Sensations, Awareness, Acceptance, Surrounding Environment, Present Moment. Visualiza los componentes de la atención plena.
 
 #imagen
-<!-- IMAGEN: m01-10-mindfulness-not-what-you-think -->
-<!-- Descripción: Ilustración de un cerebro con una nube de pensamiento que dice "Mindfulness Is Not What You Think". Representa las confusiones comunes sobre qué es mindfulness. -->
+`[IMG: m01-10-mindfulness-not-what-you-think]` Ilustración de un cerebro con una nube de pensamiento que dice "Mindfulness Is Not What You Think". Representa las confusiones comunes sobre qué es mindfulness.
 
 #explicacion
 El mindfulness puede entenderse en al menos dos sentidos principales: como un estado mental natural y como una técnica desarrollada para cultivar ese estado. A continuación se explican ambos sentidos, así como algunos conceptos erróneos comunes sobre lo que mindfulness no es.
@@ -67,8 +64,7 @@ Las definiciones de mindfulness siempre deben incluir los siguientes aspectos (G
 - Orientado a la observación y conocimiento
 
 #imagen
-<!-- IMAGEN: m01-10-meditador -->
-<!-- Descripción: Ilustración de una persona sentada en posición de meditación con las piernas cruzadas, en tonos azules, representando la práctica formal de mindfulness. -->
+`[IMG: m01-10-meditador]` Ilustración de una persona sentada en posición de meditación con las piernas cruzadas, en tonos azules, representando la práctica formal de mindfulness.
 
 #explicacion
 1. Capacidad de estar atento: el individuo no esta distraido, somnoliento o indolente, sino atento y perfectamente centrado en lo que esta viviendo.
@@ -84,8 +80,7 @@ RECONOCIMIENTO DE LAS RAICES BUDISTAS pero evolucionando hacia una forma "occide
 - Se incorpora al mainstream
 
 #imagen
-<!-- IMAGEN: m01-10-buda-moderno -->
-<!-- Descripción: Imagen de una estatua de Buda en posición de meditación, representando las raíces budistas del mindfulness. -->
+`[IMG: m01-10-buda-moderno]` Imagen de una estatua de Buda en posición de meditación, representando las raíces budistas del mindfulness.
 
 #explicacion
 El mindfulness tiene sus raíces en el término budista sati, que significa "recordar" o "tener en mente". En el contexto budista, sati se asocia con la práctica de recordar las enseñanzas de la tradición y mantener en mente los dharmas virtuosos.
@@ -109,19 +104,13 @@ El budismo moderno surge en parte como una crítica al budismo tradicional, simi
 3. Mindfulness-Based Cognitive Therapy (MBCT), (Segal y cols., 2002): disminución significativa del riesgo de recaida en la depresión (Dimidjian, 2016).
 
 #imagen
-<!-- IMAGEN: m01-10-center-mindfulness-umass -->
-<!-- Descripción: Logo del Center for Mindfulness in Medicine, Health Care, and Society de la University of Massachusetts Medical School. Centro fundado por Jon Kabat-Zinn donde se desarrolló el programa MBSR. -->
+`[IMG: m01-10-center-mindfulness-umass]` Logo del Center for Mindfulness in Medicine, Health Care, and Society de la University of Massachusetts Medical School. Centro fundado por Jon Kabat-Zinn donde se desarrolló el programa MBSR.
 
 #imagen
-<!-- IMAGEN: m01-10-kabat-zinn -->
-<!-- Descripción: Fotografía de Jon Kabat-Zinn, fundador del programa MBSR, con estetoscopio. Texto: "¿Meditar en los hospitales contra el estrés? La historia de Jon Kabat-Zinn y el MBSR". -->
+`[IMG: m01-10-kabat-zinn]` Fotografía de Jon Kabat-Zinn, fundador del programa MBSR, con estetoscopio. Texto: "¿Meditar en los hospitales contra el estrés? La historia de Jon Kabat-Zinn y el MBSR".
 
 #imagen
-<!-- IMAGEN: m01-10-tres-olas-terapia -->
-<!-- Descripción: Diagrama de las tres olas de terapias conductuales:
-- First Wave: Behavior Therapy - Behavior modifications based on conditioning
-- Second Wave: Cognitive Therapy & CBT - Identify & challenge dysfunctional cognitions  
-- Third Wave: MBSR, MBCT, ACT - Metacognitive shifts, experiential change strategies -->
+`[IMG: m01-10-tres-olas-terapia]` Diagrama de las tres olas de terapias conductuales: First Wave (Behavior Therapy - Behavior modifications based on conditioning), Second Wave (Cognitive Therapy & CBT - Identify & challenge dysfunctional cognitions), Third Wave (MBSR, MBCT, ACT - Metacognitive shifts, experiential change strategies).
 
 #explicacion
 1. Inicios del Mindfulness en Occidente
@@ -146,24 +135,16 @@ Las terapias conductuales de tercera generación representan una evolución de l
 - Flexibilidad psicológica: El objetivo principal es aumentar la flexibilidad psicológica, es decir, la capacidad de aceptar las experiencias internas, conectar con el presente y actuar en función de los valores personales, incluso en presencia de malestar.
 
 #imagen
-<!-- IMAGEN: m01-10-portadas-revistas -->
-<!-- Descripción: Collage de portadas de revistas mainstream sobre mindfulness:
-- TIME Magazine: "The Mindful Revolution" (mujer meditando)
-- TIME Magazine: "The Science of Meditation"
-- National Geographic: "What's in your mind"
-Evidencia de la incorporación del mindfulness al mainstream mediático. -->
+`[IMG: m01-10-portadas-revistas]` Collage de portadas de revistas mainstream sobre mindfulness: TIME Magazine "The Mindful Revolution" (mujer meditando), TIME Magazine "The Science of Meditation", National Geographic "What's in your mind". Evidencia de la incorporación del mindfulness al mainstream mediático.
 
 #imagen
-<!-- IMAGEN: m01-10-hbr-mindfulness-leadership -->
-<!-- Descripción: Captura de Harvard Business Review con artículo "Mindfulness Helps You Become a Better Leader" por Bill George (October 26, 2012). Muestra la adopción del mindfulness en el mundo empresarial y del liderazgo. -->
+`[IMG: m01-10-hbr-mindfulness-leadership]` Captura de Harvard Business Review con artículo "Mindfulness Helps You Become a Better Leader" por Bill George (October 26, 2012). Muestra la adopción del mindfulness en el mundo empresarial y del liderazgo.
 
 #imagen
-<!-- IMAGEN: m01-10-search-inside-yourself -->
-<!-- Descripción: Logo del programa "Search Inside Yourself" de Google, con silueta de cabeza hecha de engranajes. Texto: "The groundbreaking course developed at Google, as featured in The New York Times". -->
+`[IMG: m01-10-search-inside-yourself]` Logo del programa "Search Inside Yourself" de Google, con silueta de cabeza hecha de engranajes. Texto: "The groundbreaking course developed at Google, as featured in The New York Times".
 
 #imagen
-<!-- IMAGEN: m01-10-empresas-mindfulness -->
-<!-- Descripción: Panel "Mindful Business Companies" mostrando logos de empresas que implementan programas de mindfulness: Google, IBM, Intel, McKinsey & Company, Apple, Goldman Sachs, GE, General Mills, CNH Industrial, Nike, Sony, Ford, IKEA, eBay, LinkedIn, UBS, SCOA. -->
+`[IMG: m01-10-empresas-mindfulness]` Panel "Mindful Business Companies" mostrando logos de empresas que implementan programas de mindfulness: Google, IBM, Intel, McKinsey & Company, Apple, Goldman Sachs, GE, General Mills, CNH Industrial, Nike, Sony, Ford, IKEA, eBay, LinkedIn, UBS, SCOA.
 
 #teoria
 Mindfulness-based therapies are recommended by the National Institute for Health and Care Excellence (NICE) as a way to treat less severe depression.
@@ -193,5 +174,4 @@ NICE also recommends that employers make mindfulness available to all employees,
 "Más allá del McMindfulness" de Ron Purser y David Loy (2013)
 
 #imagen
-<!-- IMAGEN: m01-10-mcmindfulness-critica -->
-<!-- Descripción: Collage crítico sobre la comercialización y trivialización del mindfulness ("McMindfulness") mostrando portadas de libros como "Catfulness" (mindfulness para gatos), "Mindfulness for Dogs", "Mindful Cooking", "Dancing Mindfulness", "Mindfulsex", junto con imagen de Mr. Bean con expresión confusa. Ilustra la banalización y mercantilización del concepto de mindfulness. -->
+`[IMG: m01-10-mcmindfulness-critica]` Collage crítico sobre la comercialización y trivialización del mindfulness ("McMindfulness") mostrando portadas de libros como "Catfulness" (mindfulness para gatos), "Mindfulness for Dogs", "Mindful Cooking", "Dancing Mindfulness", "Mindfulsex", junto con imagen de Mr. Bean con expresión confusa. Ilustra la banalización y mercantilización del concepto de mindfulness.

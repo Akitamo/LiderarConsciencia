@@ -9,8 +9,7 @@ tags: [mindfulness, atencion, entrenamiento, malinowski, neurociencia, meditacio
 # Entrenando la Atención a través del Mindfulness
 
 #imagen
-<!-- IMAGEN: m01-11-cerebro-cinta-correr -->
-<!-- Descripción: Ilustración de un cerebro antropomorfizado corriendo en una cinta de correr sobre fondo azul. Representa el concepto de entrenamiento mental a través del mindfulness, como si la atención fuera un músculo que se ejercita. -->
+`[IMG: m01-11-cerebro-cinta-correr]` Ilustración de un cerebro antropomorfizado corriendo en una cinta de correr sobre fondo azul. Representa el concepto de entrenamiento mental a través del mindfulness, como si la atención fuera un músculo que se ejercita.
 
 #teoria
 **El círculo de la atención**
@@ -23,12 +22,10 @@ El proceso de meditación mindfulness sigue un ciclo continuo:
 5. **Volver al objeto de la atención** - Redirigir la atención al objeto original
 
 #imagen
-<!-- IMAGEN: m01-11-circulo-atencion -->
-<!-- Descripción: Diagrama circular con 5 etapas del ciclo de atención en meditación, representado con círculos de colores conectados por flechas: Concentración en el objeto (naranja) → Mente se distrae (amarillo) → Darse cuenta de la mente distraída (verde oscuro) → Soltar el objeto de la distracción (verde claro) → Volver al objeto de la atención (azul) → y vuelta al inicio. -->
+`[IMG: m01-11-circulo-atencion]` Diagrama circular con 5 etapas del ciclo de atención en meditación, representado con círculos de colores conectados por flechas: Concentración en el objeto (naranja) → Mente se distrae (amarillo) → Darse cuenta de la mente distraída (verde oscuro) → Soltar el objeto de la distracción (verde claro) → Volver al objeto de la atención (azul) → y vuelta al inicio.
 
 #imagen
-<!-- IMAGEN: m01-11-malinowski-brain-networks -->
-<!-- Descripción: Diagrama científico de Malinowski (2013) mostrando el proceso de meditación y las redes cerebrales implicadas. Panel A: Círculo concéntrico del proceso meditativo (Alerting, Sustaining, focus on object, Default Mode/Distraction/mind wanders, Salience/Monitoring/recognize wandering, Executive/Disengaging/letting go, Orienting/Shifting/return to object). Panel B: Redes cerebrales correspondientes (Alerting, Default Mode, Salience, Executive, Orienting) con ilustraciones de cerebros mostrando las áreas activadas. Referencia: Malinowski, Peter. (2013). Neural mechanisms of attentional control in mindfulness meditation. Frontiers in Neuroscience. 7. 8. 10.3389/fnins.2013.00008. -->
+`[IMG: m01-11-malinowski-brain-networks]` Diagrama científico de Malinowski (2013) mostrando el proceso de meditación y las redes cerebrales implicadas. Panel A: Círculo concéntrico del proceso meditativo (Alerting, Sustaining, focus on object, Default Mode/Distraction/mind wanders, Salience/Monitoring/recognize wandering, Executive/Disengaging/letting go, Orienting/Shifting/return to object). Panel B: Redes cerebrales correspondientes (Alerting, Default Mode, Salience, Executive, Orienting) con ilustraciones de cerebros mostrando las áreas activadas. Referencia: Malinowski, Peter. (2013). Neural mechanisms of attentional control in mindfulness meditation. Frontiers in Neuroscience. 7. 8. 10.3389/fnins.2013.00008.
 
 #explicacion
 Sustained Attention
@@ -50,15 +47,10 @@ Selective Attention or Cognitive inhibition: ability to inhibit secondary elabor
 | **CONTROL EJECUTIVO** | ★★★★★ |
 
 #imagen
-<!-- IMAGEN: m01-11-estudios-mindfulness-atencion -->
-<!-- Descripción: Gráfico de dispersión mostrando el crecimiento exponencial de estudios sobre "Mindfulness Training of Attention" desde 1973 hasta 2018. Los puntos representan estudios individuales, con un aumento notable a partir de 2010. El gráfico incluye criterios de calidad metodológica: Discussion of group content, Attention to reduction of demand characteristics, Inclusion of an active control group, Randomization of participants to groups, Following of reporting guidelines (such as CONSORT). -->
+`[IMG: m01-11-estudios-mindfulness-atencion]` Gráfico de dispersión mostrando el crecimiento exponencial de estudios sobre "Mindfulness Training of Attention" desde 1973 hasta 2018. Los puntos representan estudios individuales, con un aumento notable a partir de 2010. El gráfico incluye criterios de calidad metodológica: Discussion of group content, Attention to reduction of demand characteristics, Inclusion of an active control group, Randomization of participants to groups, Following of reporting guidelines (such as CONSORT).
 
 #imagen
-<!-- IMAGEN: m01-11-referencias-cientificas -->
-<!-- Descripción: Referencias a artículos científicos clave:
-- Chiesa, A. et al. (2011). "Does mindfulness training improve cognitive abilities? A systematic review of neuropsychological findings." Clinical Psychology Review.
-- Gallant, S.N. (2016). "Mindfulness meditation practice and executive functioning: Breaking down the benefit." Consciousness and Cognition.
-- Prakash, R.S. et al. (2020). "Mindfulness and Attention: Current State-of-Affairs and Future Considerations." J Cogn Enhanc. -->
+`[IMG: m01-11-referencias-cientificas]` Referencias a artículos científicos clave: Chiesa, A. et al. (2011) "Does mindfulness training improve cognitive abilities? A systematic review of neuropsychological findings" Clinical Psychology Review; Gallant, S.N. (2016) "Mindfulness meditation practice and executive functioning: Breaking down the benefit" Consciousness and Cognition; Prakash, R.S. et al. (2020) "Mindfulness and Attention: Current State-of-Affairs and Future Considerations" J Cogn Enhanc.
 
 #explicacion
 1. Componentes de la Atención
@@ -99,12 +91,10 @@ Los tres vértices del triángulo representan los tres canales principales de la
 **Los afluentes de la consciencia**
 
 #imagen
-<!-- IMAGEN: m01-11-triangulo-atencion -->
-<!-- Descripción: Diagrama del Triángulo de la Atención con tres vértices etiquetados: Pensamientos (arriba), Sensaciones (abajo izquierda), Emociones (abajo derecha). En el interior del triángulo hay tres círculos de colores (azul, verde, rojo) que representan las tres fuentes de experiencia consciente y su interrelación. -->
+`[IMG: m01-11-triangulo-atencion]` Diagrama del Triángulo de la Atención con tres vértices etiquetados: Pensamientos (arriba), Sensaciones (abajo izquierda), Emociones (abajo derecha). En el interior del triángulo hay tres círculos de colores (azul, verde, rojo) que representan las tres fuentes de experiencia consciente y su interrelación.
 
 #imagen
-<!-- IMAGEN: m01-11-afluentes-consciencia -->
-<!-- Descripción: Metáfora visual de los afluentes de la consciencia: imagen de varios grifos vertiendo agua a través de un embudo hacia un cerebro hecho de agua/cristal. Representa cómo diferentes canales de información (sensaciones, pensamientos, emociones) fluyen y convergen en la consciencia. -->
+`[IMG: m01-11-afluentes-consciencia]` Metáfora visual de los afluentes de la consciencia: imagen de varios grifos vertiendo agua a través de un embudo hacia un cerebro hecho de agua/cristal. Representa cómo diferentes canales de información (sensaciones, pensamientos, emociones) fluyen y convergen en la consciencia.
 
 #explicacion
 En el mindfulness, la metáfora de la "rueda de la conciencia" ilustra cómo diferentes aspectos de la experiencia fluyen hacia el centro de nuestra mente, alimentando el "río de la conciencia". Estos aspectos se conocen como los afluentes de la conciencia y son cuatro:

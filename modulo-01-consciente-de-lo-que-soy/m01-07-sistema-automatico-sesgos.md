@@ -61,12 +61,7 @@ La mortalidad de la cirugía es de un 10%
 Premios Nobel de Economía
 
 #imagen
-<!-- IMAGEN: m01-07-premios-nobel-economia -->
-<!-- Descripción: Collage con tres Premios Nobel de Economía que han trabajado sobre sesgos cognitivos y economía del comportamiento:
-- Daniel Kahneman (2002) con su libro "Pensar rápido, Pensar despacio"
-- Robert J. Shiller (2013) con su libro "Exuberancia Irracional"
-- Richard H. Thaler (2017) con su libro "Misbehaving"
-Cada economista aparece con su foto y la portada de su libro más conocido. -->
+`[IMG: m01-07-premios-nobel-economia]` Collage con tres Premios Nobel de Economía que han trabajado sobre sesgos cognitivos y economía del comportamiento: Daniel Kahneman (2002) con su libro "Pensar rápido, Pensar despacio", Robert J. Shiller (2013) con su libro "Exuberancia Irracional", Richard H. Thaler (2017) con su libro "Misbehaving". Cada economista aparece con su foto y la portada de su libro más conocido.
 
 #teoria
 **Características del Sistema Automático de Procesamiento**
@@ -77,11 +72,4 @@ Cada economista aparece con su foto y la portada de su libro más conocido. -->
 - Condicionado por patrones y sesgos
 
 #imagen
-<!-- IMAGEN: m01-07-homer-simpson-sistema-automatico -->
-<!-- Descripción: Diagrama usando escenas de Los Simpson para ilustrar las características del sistema automático de procesamiento:
-- Centro: Homer Simpson con un mono sentado en su cabeza (representa la relación entre mente consciente y mente reactiva/automática)
-- "Reactivo (Instintos, impulsos)": Homer dormido sobre un libro
-- "Veloz-inmediato": Homer con gorra "Meals on Wheels" con expresión de sorpresa
-- "Trabaja con sentimientos y emociones": Homer bailando y Milhouse expresando emociones
-- "Condicionado por patrones y sesgos": Homer con mirada perdida/hipnotizada
-El diagrama ilustra de forma humorística cómo funciona el Sistema 1 de pensamiento. -->
+`[IMG: m01-07-homer-simpson-sistema-automatico]` Diagrama usando escenas de Los Simpson para ilustrar las características del sistema automático de procesamiento: Centro con Homer Simpson con un mono sentado en su cabeza (representa la relación entre mente consciente y mente reactiva/automática). "Reactivo" (Homer dormido sobre un libro), "Veloz-inmediato" (Homer con expresión de sorpresa), "Trabaja con sentimientos y emociones" (Homer bailando y Milhouse expresando emociones), "Condicionado por patrones y sesgos" (Homer con mirada perdida/hipnotizada). El diagrama ilustra de forma humorística cómo funciona el Sistema 1 de pensamiento.

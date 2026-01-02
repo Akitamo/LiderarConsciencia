@@ -19,12 +19,10 @@ Cuando pensamos en nosotros mismos nos identificamos con el sistema 2, con el yo
 Pordemos estar ciegos para lo evidente y, además, ciegos para nuestra ceguera"
 
 #imagen
-<!-- IMAGEN: m01-06-portada-kahneman -->
-<!-- Descripción: Portada del libro "Pensar rápido, pensar despacio" de Daniel Kahneman. Muestra el título del libro con un lápiz que tiene una goma de borrar. Kahneman es descrito como "El psicólogo más importante de la actualidad y Premio Nobel de Economía". -->
+`[IMG: m01-06-portada-kahneman]` Portada del libro "Pensar rápido, pensar despacio" de Daniel Kahneman. Muestra el título del libro con un lápiz que tiene una goma de borrar. Kahneman es descrito como "El psicólogo más importante de la actualidad y Premio Nobel de Economía".
 
 #imagen
-<!-- IMAGEN: m01-06-cerebros-corriendo -->
-<!-- Descripción: Ilustración humorística de dos cerebros antropomorfizados corriendo. El cerebro etiquetado como "System 1" va adelantado y corre rápidamente, mientras el cerebro "System 2" va detrás, más lento. Representa metafóricamente cómo el pensamiento automático (Sistema 1) suele llegar antes que el pensamiento deliberativo (Sistema 2). -->
+`[IMG: m01-06-cerebros-corriendo]` Ilustración humorística de dos cerebros antropomorfizados corriendo. El cerebro etiquetado como "System 1" va adelantado y corre rápidamente, mientras el cerebro "System 2" va detrás, más lento. Representa metafóricamente cómo el pensamiento automático (Sistema 1) suele llegar antes que el pensamiento deliberativo (Sistema 2).
 
 #explicacion
 Los Sistemas de Pensamiento 1 y 2: Una Mirada Profunda
@@ -37,15 +35,7 @@ La Interacción entre los Sistemas:
 Ambos sistemas interactúan constantemente. El Sistema 1 ofrece sugerencias, impresiones e intuiciones al Sistema 2, que puede aceptarlas, modificarlas o rechazarlas. Idealmente, el Sistema 2 actúa como un "controlador" del Sistema 1, supervisando sus sugerencias y corrigiendo sus errores. Sin embargo, el Sistema 2 es "perezoso" y tiende a conservar energía, por lo que a menudo acepta las sugerencias del Sistema 1 sin un análisis exhaustivo. Esto puede llevar a decisiones precipitadas e irracionales.
 
 #imagen
-<!-- IMAGEN: m01-06-tabla-comparativa -->
-<!-- Descripción: Tabla comparativa entre Sistema 1 y Sistema 2 con las siguientes características:
-| Característica | Sistema 1 | Sistema 2 |
-| Velocidad | Rápido, automático | Lento, deliberativo |
-| Esfuerzo | Sin esfuerzo, intuitivo | Requiere esfuerzo consciente |
-| Base | Emociones, experiencias, heurística | Lógica, razonamiento, análisis |
-| Control | Involuntario, difícil de controlar | Voluntario, controlable (aunque perezoso) |
-| Precisión | Propenso a sesgos y errores | Más preciso y confiable |
-| Eficiencia | Eficiente para tareas rutinarias y situaciones conocidas | Necesario para tareas complejas y situaciones novedosas | -->
+`[IMG: m01-06-tabla-comparativa]` Tabla comparativa entre Sistema 1 y Sistema 2 con las siguientes características: Velocidad (Rápido, automático vs Lento, deliberativo), Esfuerzo (Sin esfuerzo, intuitivo vs Requiere esfuerzo consciente), Base (Emociones, experiencias, heurística vs Lógica, razonamiento, análisis), Control (Involuntario, difícil de controlar vs Voluntario, controlable aunque perezoso), Precisión (Propenso a sesgos y errores vs Más preciso y confiable), Eficiencia (Eficiente para tareas rutinarias y situaciones conocidas vs Necesario para tareas complejas y situaciones novedosas).
 
 #explicacion
 Característica Sistema 1 Sistema 2
@@ -76,16 +66,13 @@ IZQUIERDA
            derecha
 
 #imagen
-<!-- IMAGEN: m01-06-ejercicio-stroop -->
-<!-- Descripción: Ejercicio tipo Stroop con las palabras "IZQUIERDA", "izquierda", "Derecha", "DERECHA", "derecha" dispuestas en diferentes posiciones y con diferentes formatos (mayúsculas/minúsculas). El ejercicio demuestra la interferencia cognitiva entre el Sistema 1 (leer automáticamente) y el Sistema 2 (identificar la posición). -->
+`[IMG: m01-06-ejercicio-stroop]` Ejercicio tipo Stroop con las palabras "IZQUIERDA", "izquierda", "Derecha", "DERECHA", "derecha" dispuestas en diferentes posiciones y con diferentes formatos (mayúsculas/minúsculas). El ejercicio demuestra la interferencia cognitiva entre el Sistema 1 (leer automáticamente) y el Sistema 2 (identificar la posición).
 
 #ejercicio
 UN EXPERIMENTO HA DEMOSTRADO QUE 876598761 PERSONAS HASTA AHORA HAN PASADO POR ALTO LEER EN DETALLE EL NÚMERO DE ESTE TEXTO PORQUE YA SE HAN HECHO UNA IDEA DE QUE EL NÚMERO REPRESENTA UNA ALTA CANTIDAD DE PERSONAS Y ESO YA ES SUFICIENTE PARA ENTENDER DE QUÉ VA EL TEXTO AHORRÁNDOSE UN ESFUERZO.
 
 #imagen
-<!-- IMAGEN: m01-06-ejercicio-you-simple -->
-<!-- Descripción: Cuadrícula de 3x3 con la palabra "YOU" repetida 9 veces, pero una de ellas dice "YOO" (marcada con círculo rojo). Ejercicio de atención selectiva que demuestra cómo el Sistema 1 puede hacernos pasar por alto detalles cuando cree reconocer un patrón familiar. -->
+`[IMG: m01-06-ejercicio-you-simple]` Cuadrícula de 3x3 con la palabra "YOU" repetida 9 veces, pero una de ellas dice "YOO" (marcada con círculo rojo). Ejercicio de atención selectiva que demuestra cómo el Sistema 1 puede hacernos pasar por alto detalles cuando cree reconocer un patrón familiar.
 
 #imagen
-<!-- IMAGEN: m01-06-ejercicio-you-completo -->
-<!-- Descripción: Versión ampliada del ejercicio anterior: múltiples filas con la palabra "YOU" repetida muchas veces (aproximadamente 100+ repeticiones), con un único "YOO" escondido entre ellas (marcado con círculo rojo). Demuestra la ceguera por inatención y cómo el Sistema 1 nos hace "ver" lo que esperamos ver en lugar de lo que realmente hay. -->
+`[IMG: m01-06-ejercicio-you-completo]` Versión ampliada del ejercicio anterior: múltiples filas con la palabra "YOU" repetida muchas veces (aproximadamente 100+ repeticiones), con un único "YOO" escondido entre ellas (marcado con círculo rojo). Demuestra la ceguera por inatención y cómo el Sistema 1 nos hace "ver" lo que esperamos ver en lugar de lo que realmente hay.

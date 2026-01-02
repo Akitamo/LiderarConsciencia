@@ -19,20 +19,16 @@ tags: [atencion, abajo-arriba, arriba-abajo, corteza-prefrontal, goleman, neuroc
 - Este sistema requiere esfuerzo consciente y es crucial para mantener el foco en tareas complejas, planificación y regulación de emociones
 
 #imagen
-<!-- IMAGEN: m01-08-atencion-estimulo -->
-<!-- Descripción: Imagen de un muñeco cabezón (bobblehead) de un piloto o policía con gorra azul, representando metafóricamente el modo "piloto automático" del sistema de atención de abajo-arriba. -->
+`[IMG: m01-08-atencion-estimulo]` Imagen de un muñeco cabezón (bobblehead) de un piloto o policía con gorra azul, representando metafóricamente el modo "piloto automático" del sistema de atención de abajo-arriba.
 
 #imagen
-<!-- IMAGEN: m01-08-atencion-dirigida -->
-<!-- Descripción: Fotografía de un director de orquesta visto desde atrás, dirigiendo a una orquesta sinfónica completa. Representa el sistema de atención de arriba-abajo: la capacidad de dirigir intencionalmente la atención, como un director que coordina y focaliza los diferentes elementos de la orquesta. -->
+`[IMG: m01-08-atencion-dirigida]` Fotografía de un director de orquesta visto desde atrás, dirigiendo a una orquesta sinfónica completa. Representa el sistema de atención de arriba-abajo: la capacidad de dirigir intencionalmente la atención, como un director que coordina y focaliza los diferentes elementos de la orquesta.
 
 #imagen
-<!-- IMAGEN: m01-08-diagrama-stimulus-driven -->
-<!-- Descripción: Diagrama con silueta de persona y ondas concéntricas entrando hacia ella, etiquetado "Stimulus Driven Attention". Representa la atención capturada por estímulos externos (sistema abajo-arriba). -->
+`[IMG: m01-08-diagrama-stimulus-driven]` Diagrama con silueta de persona y ondas concéntricas entrando hacia ella, etiquetado "Stimulus Driven Attention". Representa la atención capturada por estímulos externos (sistema abajo-arriba).
 
 #imagen
-<!-- IMAGEN: m01-08-diagrama-goal-directed -->
-<!-- Descripción: Diagrama con silueta de persona y flechas saliendo de ella hacia afuera, etiquetado "Goal Directed Attention". Representa la atención dirigida intencionalmente hacia objetivos (sistema arriba-abajo). -->
+`[IMG: m01-08-diagrama-goal-directed]` Diagrama con silueta de persona y flechas saliendo de ella hacia afuera, etiquetado "Goal Directed Attention". Representa la atención dirigida intencionalmente hacia objetivos (sistema arriba-abajo).
 
 #explicacion
 Los procesos de arriba abajo son muy poderosos a la hora de esclavizar a la información viva que accede momento a momento, ya que están respaldados por una conectividad neural muy potente (Siegel, 2007). La información del aquí y ahora (de abajo arriba) tiene, por tanto, muchas dificultades para hacer llegar a la conciencia su auténtico mensaje. La riqueza de matices presente en los niveles sensoriales iniciales se va perdiendo a medida que los procesos de arriba abajo surten su efecto y asimilan su contenido informativo a categorías previamente determinadas.
