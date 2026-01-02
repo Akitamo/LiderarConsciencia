@@ -8,13 +8,13 @@ tags: [neurociencia, memoria, automatismos, hipocampo, habitos]
 
 # La memoria y los automatismos
 
-#teoria #neurociencia
+#teoria 
 
 El modelo mental del cerebro se basa en la experiencia pasada, almacenada como recuerdos. Al enfrentarnos a una nueva situación, el cerebro busca en la memoria patrones similares para responder.
 
 ## El rol del hipocampo
 
-#teoria #neurociencia
+#teoria 
 
 El hipocampo no solo consolida los recuerdos, sino que también los "etiqueta" con información espacial y temporal. Esto permite:
 
@@ -24,7 +24,7 @@ El hipocampo no solo consolida los recuerdos, sino que también los "etiqueta" c
 
 ## De la memoria al automatismo
 
-#teoria #automatismos
+#teoria 
 
 La memoria no solo almacena información, sino que también participa en la generación de comportamientos automáticos. Lo que en su día requirió atención consciente (conducir, escribir, gestionar reuniones) se convierte en rutina.
 
@@ -32,7 +32,7 @@ La memoria no solo almacena información, sino que también participa en la gene
 
 ---
 
-#ejercicio #autoobservacion
+#ejercicio 
 
 **Ejercicio: Cazador de automatismos**
 
