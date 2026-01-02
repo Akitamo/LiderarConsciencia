@@ -1,4 +1,0 @@
----
-tipo: book
-tags: 
----
