@@ -1,8 +1,16 @@
-
 # Obsidian
-*.Obsidian
 .obsidian/
-# Ignorar la carpeta de documentos
-documentos/
-# Ignorar la carpeta de templates
-_templates/
+
+# Carpetas legacy (borrar cuando migres)
+Documentos/
+B1_Consciente de lo que soy/
+proyecto LiderarCURSO/
+
+# Sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Archivos temporales
+*.tmp
+*~
