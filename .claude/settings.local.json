@@ -1,0 +1,9 @@
+{
+  "enabledMcpjsonServers": [
+    "postgresql",
+    "playwright",
+    "context7",
+    "memory"
+  ],
+  "enableAllProjectMcpServers": true
+}
