@@ -5,7 +5,9 @@ modulo: 3
 orden: 00
 tags: [indice, modulo-3]
 ---
-- [Pienso siento](./m03-01-pienso-siento.md)
-- [Importancia emociones](./m03-02-importancia-emociones.md)
-- [Desentranar proceso inmediato](./m03-03-desentranar-proceso-inmediato.md)
+- [Inseparabilidad emocion pensamiento](./m03-01-inseparabilidad-emocion-pensamiento.md)
+- [Rol emociones decisiones](./m03-02-rol-emociones-decisiones.md)
+- [Cadena automatica reaccion](./m03-03-cadena-automatica-reaccion.md)
 - [Mindfulness generar espacio](./m03-04-mindfulness-generar-espacio.md)
+
+

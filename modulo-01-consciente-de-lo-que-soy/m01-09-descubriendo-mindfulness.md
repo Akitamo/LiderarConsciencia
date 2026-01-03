@@ -1,8 +1,8 @@
 ---
-id: m01-10
+id: m01-09
 titulo: "Descubriendo el Mindfulness"
 modulo: 1
-orden: 10
+orden: 09
 tags: [mindfulness, kabat-zinn, MBSR, MBCT, meditacion, atencion-plena, tercera-generacion]
 ---
 

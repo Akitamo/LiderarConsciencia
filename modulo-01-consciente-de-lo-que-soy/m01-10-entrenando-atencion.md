@@ -1,8 +1,8 @@
 ---
-id: m01-11
+id: m01-10
 titulo: "Entrenando la Atención a través del Mindfulness"
 modulo: 1
-orden: 11
+orden: 10
 tags: [mindfulness, atencion, entrenamiento, malinowski, neurociencia, meditacion]
 ---
 

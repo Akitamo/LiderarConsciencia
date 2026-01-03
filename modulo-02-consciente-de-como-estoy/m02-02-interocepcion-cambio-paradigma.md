@@ -1,4 +1,12 @@
+---
+id: m02-02
+titulo: "La Interocepción: Un cambio de paradigma"
+modulo: 2
+orden: 02
+tags: [interocepcion, corazon, percepcion, identidad, emociones, HER, VFC, william-james]
+---
 
+# La Interocepción: Un cambio de paradigma
 
 #teoria
 **La Influencia del Corazón en la Experiencia Humana: Más Allá del Bombeo Sanguíneo**
@@ -13,7 +21,7 @@
 - **Debilitamiento de la Conexión Corazón-Cerebro en el Alzheimer:** La importancia de la comunicación entre el corazón y el cerebro para la percepción del "yo" se evidencia también en el caso de la enfermedad de Alzheimer. En las primeras etapas de esta enfermedad, que se caracteriza por la pérdida de memoria y la desorientación, se observa un debilitamiento de la conexión entre el corazón y el cerebro. Esto sugiere que la comunicación fluida entre estos dos órganos es esencial para mantener una percepción del "yo" estable y coherente a lo largo del tiempo.
 
 #imagen
-`[IMG: m02-04-corazon-cerebro-conexion]` Ilustración de un corazón y un cerebro conectados, con el corazón en tonos rojos/rosados y el cerebro en tonos azules. Representación visual de la comunicación bidireccional entre ambos órganos y su influencia en la experiencia subjetiva.
+`[IMG: m02-02-corazon-cerebro-conexion]` Ilustración de un corazón y un cerebro conectados, con el corazón en tonos rojos/rosados y el cerebro en tonos azules. Representación visual de la comunicación bidireccional entre ambos órganos y su influencia en la experiencia subjetiva.
 
 #explicacion
 La Influencia del Corazón en la Experiencia Humana: Más Allá del Bombeo Sanguíneo
@@ -44,4 +52,4 @@ Las personas con mayor conciencia interoceptiva, es decir, con mayor capacidad d
 **William James. Principios de Psicología.**
 
 #imagen
-`[IMG: m02-04-william-james-libro]` Portada del libro "The Principles of Psychology" de William James. Se muestra una fotografía en blanco y negro del autor (hombre con barba) y el título del libro. Editorial Walrus Books.
+`[IMG: m02-02-william-james-libro]` Portada del libro "The Principles of Psychology" de William James. Se muestra una fotografía en blanco y negro del autor (hombre con barba) y el título del libro. Editorial Walrus Books.

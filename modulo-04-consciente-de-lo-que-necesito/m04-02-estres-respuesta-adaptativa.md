@@ -1,12 +1,12 @@
 ---
 id: m04-02
-titulo: "El estrés"
+titulo: "El estrés como respuesta adaptativa"
 modulo: 4
 orden: 02
 tags: [estres, lucha-huida, eustres, distres, adaptacion, supervivencia]
 ---
 
-# El estrés
+# El estrés como respuesta adaptativa
 
 #teoria
 "El estrés es una respuesta natural y automática del cuerpo y la mente ante demandas o amenazas percibidas como desafiantes o peligrosas."

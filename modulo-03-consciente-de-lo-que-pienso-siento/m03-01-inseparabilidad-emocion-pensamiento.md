@@ -1,12 +1,12 @@
 ---
 id: m03-01
-titulo: "¿Pienso_Siento?"
+titulo: "La inseparabilidad de la emoción y el pensamiento"
 modulo: 3
 orden: 01
 tags: [emociones, pensamiento, neurociencia, afecto, cognicion, amigdala, insula, corteza-prefrontal]
 ---
 
-# ¿Pienso_Siento?
+# La inseparabilidad de la emoción y el pensamiento
 
 #teoria
 La Inseparabilidad del Pensamiento y la Emoción

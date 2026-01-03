@@ -1,18 +1,18 @@
 ---
-id: m02-05
+id: m02-03
 titulo: "El mapa interoceptivo en el cerebro"
 modulo: 2
-orden: 05
+orden: 03
 tags: [interocepcion, cerebro, insula, corteza-somatosensorial, talamo, nervio-vago]
 ---
 
 # El mapa interoceptivo en el cerebro
 
 #imagen
-`[IMG: m02-05-referencia-articulo]` Recuadro con referencia bibliográfica: "The Emerging Science of Interoception: Sensing, Integrating, Interpreting, and Regulating Signals within the Self" - January 2021, Trends in Neurosciences 44(1):3-16, DOI:10.1016/j.tins.2020.10.007, License: CC BY 4.0
+`[IMG: m02-03-referencia-articulo]` Recuadro con referencia bibliográfica: "The Emerging Science of Interoception: Sensing, Integrating, Interpreting, and Regulating Signals within the Self" - January 2021, Trends in Neurosciences 44(1):3-16, DOI:10.1016/j.tins.2020.10.007, License: CC BY 4.0
 
 #imagen
-`[IMG: m02-05-cerebro-insula]` Ilustración anatómica del cerebro humano en vista lateral, con dos áreas señaladas: la "Corteza somatosensorial" (parte superior, sombreada en gris oscuro) y la "Ínsula" (parte inferior central, sombreada en gris). Dibujo en estilo científico con líneas limpias.
+`[IMG: m02-03-cerebro-insula]` Ilustración anatómica del cerebro humano en vista lateral, con dos áreas señaladas: la "Corteza somatosensorial" (parte superior, sombreada en gris oscuro) y la "Ínsula" (parte inferior central, sombreada en gris). Dibujo en estilo científico con líneas limpias.
 
 #teoria
 El cerebro integra la información proveniente de los diferentes órganos internos a través de una red neuronal distribuida. Las señales interoceptivas son transmitidas al cerebro a través de vías nerviosas, como el nervio vago, y la médula espinal. El tálamo recibe estas señales y las distribuye a las áreas corticales, donde son procesadas e integradas con otra información sensorial, emocional y cognitiva.

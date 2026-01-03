@@ -1,12 +1,12 @@
 ---
 id: m03-03
-titulo: "Desentrañando un proceso que se percibe "inmediato""
+titulo: "La cadena automática de la reacción"
 modulo: 3
 orden: 03
 tags: [emociones, interocepcion, afecto-base, valencia, activacion, atencion, amigdala, habitos, patrones-automaticos, toma-de-decisiones, pensamientos, regulacion-emocional]
 ---
 
-# Desentrañando un proceso que se percibe "inmediato"
+# La cadena automática de la reacción
 
 #teoria
 La conexión entre cuerpo y emociones con nuestras decisiones y acciones

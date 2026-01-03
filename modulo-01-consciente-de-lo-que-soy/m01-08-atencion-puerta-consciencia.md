@@ -1,12 +1,12 @@
 ---
 id: m01-08
-titulo: "La Importancia de la Atención"
+titulo: "La Atención: Puerta de Entrada a la Consciencia"
 modulo: 1
 orden: 08
-tags: [atencion, abajo-arriba, arriba-abajo, corteza-prefrontal, goleman, neurociencia]
+tags: [atencion, consciencia, abajo-arriba, arriba-abajo, corteza-prefrontal, goleman, william-james, posner, rothbart, SODA, entrenamiento, neurociencia]
 ---
 
-# La Importancia de la Atención
+# La Atención: Puerta de Entrada a la Consciencia
 
 #teoria
 **Sistema de Abajo-Arriba:**
@@ -42,3 +42,28 @@ Este sistema es rápido, automático y está diseñado para captar estímulos ex
 
 Sistema de Arriba-Abajo:
 En contraste, el sistema de arriba-abajo es más lento, deliberado y controlado por la corteza prefrontal, permitiéndonos dirigir intencionalmente nuestra atención hacia lo que decidimos priorizar. Este sistema requiere esfuerzo consciente y es crucial para mantener el foco en tareas complejas, planificación y regulación de emociones. Por ejemplo, cuando decidimos concentrarnos en una lectura profunda o evitar responder impulsivamente a una situación emocional, estamos empleando el sistema de arriba-abajo para ejercer control sobre los impulsos automáticos generados por el sistema de abajo-arriba.
+
+---
+
+#imagen
+`[IMG: m01-08-soda-desactivar-automatismo]` Recuadro azul con texto "Desactivando el piloto automático: SODA ('Si Observas Desactivas el Automatismo')". Concepto clave que sintetiza cómo la observación consciente desactiva las respuestas automáticas.
+
+#teoria
+**EL MODO EN QUE DESPLEGAMOS NUESTRA ATENCIÓN DETERMINA LO QUE VEMOS**
+
+"La atención proporciona el mecanismo «que subyace a nuestra conciencia del mundo y a la regulación voluntaria de nuestros pensamientos y sentimientos".
+*Michael Posner y Mary Rothbart (neurocientíficos cognitivos)*
+
+"La capacidad de centrar deliberadamente la atención errante una y otra vez constituye el fundamente del discernimiento, el carácter y la voluntad. Una estructura educativa que se dedicara a adiestrar esta facultad sería la educación por antonomasia"
+*Williams James, "The Principles of Psychology"*
+
+#teoria
+**La atención es un recurso cognitivo limitado**
+
+QUE PUEDE SER ENTRENADO Y FORTALECIDO
+
+#imagen
+`[IMG: m01-08-bombillas-atencion]` Secuencia de tres bombillas representando niveles de atención: una bombilla encendida con luz cálida intensa (atención plena), una bombilla con luz media (atención parcial), y una bombilla apagada (sin atención). Metáfora visual de cómo la atención es un recurso limitado que puede "agotarse".
+
+#imagen
+`[IMG: m01-08-cerebro-pesas]` Ilustración de un cerebro antropomorfizado con brazos y piernas levantando una barra de pesas. Representa el concepto de que la atención, como un músculo, puede ser entrenada y fortalecida mediante la práctica deliberada.

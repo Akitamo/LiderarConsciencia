@@ -1,12 +1,12 @@
 ---
 id: m04-06
-titulo: "Efectos del Mindfulness en la Regulación Emocional"
+titulo: "Mindfulness y regulación emocional"
 modulo: 4
 orden: 06
 tags: [mindfulness, regulacion-emocional, neurociencia, amigdala, corteza-prefrontal, investigacion]
 ---
 
-# Efectos del Mindfulness en la Regulación Emocional
+# Mindfulness y regulación emocional
 
 #teoria
 ## Efectos del Mindfulness en la Regulación Emocional: Resumen de Hallazgos de la Investigación

@@ -1,12 +1,12 @@
 ---
 id: m04-01
-titulo: "Autocuidado: Más allá del bienestar personal"
+titulo: "Autocuidado para un liderazgo efectivo"
 modulo: 4
 orden: 01
 tags: [autocuidado, liderazgo, bienestar, estres]
 ---
 
-# Autocuidado: Más allá del bienestar personal
+# Autocuidado para un liderazgo efectivo
 
 #teoria
 EL autocuidado no es un lujo, sino una necesidad para un liderazgo efectivo

@@ -1,12 +1,12 @@
 ---
 id: m03-02
-titulo: "La importancia de las emociones"
+titulo: "El rol de las emociones en las decisiones"
 modulo: 3
 orden: 02
 tags: [emociones, neurociencia, supervivencia, toma-de-decisiones, homeostasis, conexion-social, damasio, marcador-somatico]
 ---
 
-# La importancia de las emociones
+# El rol de las emociones en las decisiones
 
 #teoria
 La transformación de la concepción tradicional de la emoción en la ciencia
