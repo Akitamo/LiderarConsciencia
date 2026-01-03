@@ -14,7 +14,8 @@ tags: [neurociencia, cerebro, evolucion, supervivencia]
 • No se trata solo de percibir el presente, sino de proyectar y prepararnos para el futuro.
 
 #imagen
-`[IMG: m01-01-vineta-evolucion]` Viñeta humorística de evolución mostrando reptil, mamífero, primate y humano en secuencia, todos pensando "COMER, SOBREVIVIR, REPRODUCIRSE" excepto el humano que piensa "¿...DE QUÉ IBA ESTO...?" Firmada por HARDIN
+![m01-01-vineta-evolucion](recursos/imagenes/m01-01-vineta-evolucion.png)
+*Viñeta humorística de evolución mostrando reptil, mamífero, primate y humano en secuencia, todos pensando "COMER, SOBREVIVIR, REPRODUCIRSE" excepto el humano que piensa "¿...DE QUÉ IBA ESTO...?" Firmada por HARDIN*
 
 #explicacion
 El Cerebro: Una Máquina de Supervivencia
@@ -39,7 +40,8 @@ La evolución ha favorecido este sistema por su capacidad de aumentar las posibi
 `[IMG: m01-01-libro-rafael-yuste]` Portada del libro "El cerebro, el teatro del mundo" de Rafael Yuste con subtítulo "Descubre cómo funciona y cómo crea nuestra realidad"
 
 #imagen
-`[IMG: m01-01-diagrama-modelo-mundo]` Diagrama circular con cerebro en el centro rodeado de 4 elementos conectados: "Memoria y recuerdos" (arriba), "Emociones" (derecha), "Información sentidos" (abajo), "Modelo del mundo" (izquierda). Todos conectados por flechas bidireccionales hacia "Supervivencia" en el exterior
+![m01-01-diagrama-modelo-mundo](recursos/imagenes/m01-01-diagrama-modelo-mundo.png)
+*Diagrama circular con cerebro en el centro rodeado de 4 elementos conectados: "Memoria y recuerdos" (arriba), "Emociones" (derecha), "Información sentidos" (abajo), "Modelo del mundo" (izquierda). Todos conectados por flechas bidireccionales hacia "Supervivencia" en el exterior*
 
 #explicacion
 1. La Máquina de Supervivencia

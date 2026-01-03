@@ -14,7 +14,8 @@ tags: [neurociencia, sentidos, percepcion]
 • La percepción sensorial como una construcción interna:
 
 #imagen
-`[IMG: m01-02-cerebro-sentidos]` Diagrama de cerebro en el centro rodeado por iconos de los 5 sentidos en círculos: mano (tacto), ojo (vista), oreja (oído), nariz (olfato), boca (gusto)
+![m01-02-cerebro-sentidos](recursos/imagenes/m01-02-cerebro-sentidos.png)
+*Diagrama de cerebro en el centro rodeado por iconos de los 5 sentidos en círculos: mano (tacto), ojo (vista), oreja (oído), nariz (olfato), boca (gusto)*
 
 #explicacion
 Los sentidos actúan como puentes entre el "teatro mental" del cerebro y el mundo exterior. Su función principal no se limita a la mera recepción de información sensorial, sino que se centra en la **medición del contraste**, es decir, los cambios en la información que proviene del entorno. Esta información sobre el contraste es la que el cerebro utiliza para actualizar y refinar constantemente su modelo interno, asegurando que se mantenga fiel a la realidad cambiante.
@@ -33,7 +34,9 @@ Las alucinaciones: En algunos casos, como en la esquizofrenia, el cerebro puede 
 `[VID: m01-02-percepcion-sensorial]` Video demostrativo sobre la percepción sensorial y cómo el cerebro construye la realidad
 
 #imagen
-`[IMG: m01-02-texto-desordenado-espanol]` Texto en español con letras desordenadas sobre fondo negro: "Según un etsduio de una uivennrsdiad ignlsea no ipmotra el odren en el que las ltears etsen ersciats, la uicna csoa ipormnte es que la pmriera y la utlima ltera esten ecsritas en la psiocion cocrrtea. El rsteo peuden estar taotlmntee mal y aun prodas lerelo sin pobrleams. Etso es pquore no lemeos cada ltera en si msima, pero si la paalbra cmoo un todo. ¿No te parcee aglo icrneible?"
+![m01-02-texto-desordenado-espanol](recursos/imagenes/m01-02-texto-desordenado-espanol.png)
+*Texto en español con letras desordenadas sobre fondo negro: "Según un etsduio de una uivennrsdiad ignlsea no ipmotra el odren en el que las ltears etsen ersciats, la uicna csoa ipormnte es que la pmriera y la utlima ltera esten ecsritas en la psiocion cocrrtea. El rsteo peuden estar taotlmntee mal y aun prodas lerelo sin pobrleams. Etso es pquore no lemeos cada ltera en si msima, pero si la paalbra cmoo un todo. ¿No te parcee aglo icrneible?"*
 
 #imagen
-`[IMG: m01-02-texto-numeros-letras]` Texto en español con números sustituyendo letras sobre fondo negro: "C13R70 D14 D3 V3R4N0 3574B4 3N L4 PL4Y4 0853RV4ND0 4 D05 CH1C45 8R1NC4ND0 3N 14 4R3N4, 357484N 7R484J4ND0 MUCH0 C0N57RUY3ND0 UN C4571LL0 D3 4R3N4 C0N 70RR35, P454D1Z05 0CUL705 Y PU3N735..."
+![m01-02-texto-numeros-letras](recursos/imagenes/m01-02-texto-numeros-letras.png)
+*Texto en español con números sustituyendo letras sobre fondo negro: "C13R70 D14 D3 V3R4N0 3574B4 3N L4 PL4Y4 0853RV4ND0 4 D05 CH1C45 8R1NC4ND0 3N 14 4R3N4, 357484N 7R484J4ND0 MUCH0 C0N57RUY3ND0 UN C4571LL0 D3 4R3N4 C0N 70RR35, P454D1Z05 0CUL705 Y PU3N735..."*
