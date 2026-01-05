@@ -1,11 +1,6 @@
 # Obsidian
 .obsidian/
 
-# Carpetas legacy (borrar cuando migres)
-Documentos/
-B1_Consciente de lo que soy/
-proyecto LiderarCURSO/
-
 # Sistema
 .DS_Store
 Thumbs.db
@@ -14,3 +9,21 @@ desktop.ini
 # Archivos temporales
 *.tmp
 *~
+
+# Exports generados (adjuntar a releases, no versionar)
+_exports/
+*.pdf
+*.pptx
+!Documentos/*.pdf
+
+# Node modules (si se usan scripts)
+node_modules/
+
+# Python
+__pycache__/
+*.pyc
+.env
+
+# IDE
+.vscode/
+.idea/
