@@ -11,3 +11,16 @@ tags: [indice, modulo-2]
 - [Interocepcion cambio paradigma](./m02-04-interocepcion-cambio-paradigma.md)
 - [Mapa interoceptivo cerebro](./m02-05-mapa-interoceptivo-cerebro.md)
 - [Mindfulness interocepcion](./m02-06-mindfulness-interocepcion.md)
+
+
+SISTEMAS PERCEPTIVOS              FUNDAMENTACIÓN CIENTÍFICA                APLICACIÓN PRÁCTICA
+┌──────────────────────────┐    ┌─────────────────────────────────┐    ┌──────────────────────────┐
+│ 01. Triángulo atención   │    │ 02. Cambio de paradigma         │    │ 04. Mindfulness          │
+│     • Exterocepción      │    │     Descartes → integración     │    │     • Cuerpo como anclaje│
+│     • Interocepción      │ →  │     Experimentos cuerpo-mente   │ →  │     • Beneficios         │
+│     • Propiocepción      │    │     (postura, respiración,      │    │     • Evidencia MBSR     │
+│     Sentidos → cognición │    │     corazón)                    │    └──────────────────────────┘
+│     y consciencia        │    ├─────────────────────────────────┤
+└──────────────────────────┘    │ 03. Neuroanatomía               │
+                                │     Vías cuerpo-cerebro → Ínsula│
+                                └─────────────────────────────────┘

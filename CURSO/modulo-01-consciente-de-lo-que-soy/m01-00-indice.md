@@ -17,3 +17,11 @@ tags: [indice, modulo-1]
 - [Entrenando atencion](./m01-10-entrenando-atencion.md)
 
 
+FUNDAMENTOS NEUROLÓGICOS                    PROCESAMIENTO              ATENCIÓN Y MINDFULNESS
+┌─────────────────────────────────────┐    ┌──────────────────┐    ┌──────────────────────────┐
+│ 01. Cerebro evolutivo               │    │ 06. Sistema 1/2  │    │ 08. Atención (puerta)    │
+│ 02. Sentidos → percepción           │ →  │ 07. Sesgos       │ →  │ 09. Mindfulness (qué es) │
+│ 03. Memoria → predicción            │    │                  │    │ 10. Entrenamiento        │
+│ 04. Emociones → aprendizaje         │    └──────────────────┘    └──────────────────────────┘
+│ 05. Integración cerebral            │
+└─────────────────────────────────────┘

@@ -12,3 +12,17 @@ tags: [indice, modulo-4]
 - [Aceptacion vs lucha](./m04-05-aceptacion-vs-lucha.md)
 - [Mindfulness regulacion emocional](./m04-06-mindfulness-regulacion-emocional.md)
 
+
+FUNDAMENTO           COMPRENSIÓN DEL ESTRÉS                    SOLUCIÓN: MINDFULNESS
+┌────────────────┐   ┌─────────────────────────────────┐    ┌─────────────────────────────────┐
+│ 01. Autocuidado│   │ 02. El estrés                   │    │ 04. Resiliencia                 │
+│     Base del   │   │     Respuesta adaptativa        │    │     De reacción a regulación    │
+│     liderazgo  │ → │     Eustrés vs Distrés          │ →  │                                 │
+│     efectivo   │   │                                 │    │ 05. Aceptación                  │
+└────────────────┘   │ 03. Efectos negativos           │    │     Soltar la lucha             │
+                     │     Burnout e impacto           │    │                                 │
+                     │     en liderazgo                │    │ 06. Regulación emocional        │
+                     └─────────────────────────────────┘    │     Bases cerebrales            │
+                                                           └─────────────────────────────────┘
+
+Viaje del alumno: PREMISA (autocuidado) → PROBLEMA (estrés y efectos) → SOLUCIÓN (mindfulness como herramienta)

@@ -11,3 +11,15 @@ tags: [indice, modulo-3]
 - [Mindfulness generar espacio](./m03-04-mindfulness-generar-espacio.md)
 
 
+COMPRENSIÓN                          MECANISMO                        HERRAMIENTA
+┌──────────────────────────────┐    ┌──────────────────────────┐    ┌──────────────────────────┐
+│ 01. Inseparabilidad          │    │ 03. Cadena automática    │    │ 04. Mindfulness          │
+│     Emoción y pensamiento    │    │     Interocepción →      │    │     Generar espacio      │
+│     son una unidad funcional │ →  │     Afecto → Valencia →  │ →  │     entre estímulo       │
+│                              │    │     Activación → Acción  │    │     y respuesta          │
+│ 02. Rol de las emociones     │    │                          │    │                          │
+│     Sistema de guía para     │    │                          │    │                          │
+│     decisiones adaptativas   │    │                          │    │                          │
+└──────────────────────────────┘    └──────────────────────────┘    └──────────────────────────┘
+
+Viaje del alumno: Del QUÉ (emoción-pensamiento unidos) → al CÓMO (cadena automática) → al QUÉ HACER (mindfulness)
