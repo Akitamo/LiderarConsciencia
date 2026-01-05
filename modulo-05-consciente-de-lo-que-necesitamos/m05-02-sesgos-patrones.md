@@ -74,12 +74,13 @@ Ejemplos detallados:
 - Comunicación no verbal: Si un líder se siente frustrado, podría inconscientemente evitar el contacto visual, cruzar los brazos o mostrar microexpresiones de desagrado, lo cual afecta la interacción.
 - Limitación de la acción consciente: En lugar de escuchar activamente a un colaborador, un líder que reacciona automáticamente puede tender a imponer su perspectiva o desestimar las ideas del otro.
 
+#video
+ ![vid-m05-Cavadas](recursos/videos/vid-m05-Cavadas.mp4)Vídeo de Pedro Cavadas. Placeholder gris con texto "VÍDEO CAVADAS" visible en la diapositiva.
+
 ---
 
 ### Las cuatro preguntas para comprender el trasfondo de nuestras opiniones
 
-#video
-`[VID: m05-02-video-cavadas]` Vídeo de Pedro Cavadas. Placeholder gris con texto "VÍDEO CAVADAS" visible en la diapositiva.
 
 #teoria
 Las cuatro preguntas que ayudan a comprender el trasfondo de nuestras opiniones:

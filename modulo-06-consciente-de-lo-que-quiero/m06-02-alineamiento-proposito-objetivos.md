@@ -8,7 +8,7 @@ tags: [proposito, objetivos, intencion, alineamiento, coherencia, motivacion, re
 
 # Importancia de alinear el propósito personal con los objetivos profesionales y con la intención de cada acción y decisión
 
-#imagen
+#imagen #modelo 
 ![img-m06-modelo-alineamiento](recursos/imagenes/img-m06-modelo-alineamiento.png) Diagrama del modelo mostrando el óvalo con niveles "Conductual", "Profesional" y "Personal", con la línea temporal Propósito→Objetivos→Intención.
 
 #teoria

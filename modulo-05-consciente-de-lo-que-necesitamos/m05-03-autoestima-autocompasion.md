@@ -10,29 +10,24 @@ tags: [autoestima, autoestima-contingente, autocompasion, mindfulness, bienestar
 
 ## Importancia de la estabilidad de la autoestima
 
-#teoria
-Importancia de la estabilidad de la autoestima
-- Forma de autoestima vinculada a aprobación interna y externa
-- Sensibilidad tanto al éxito como al fracaso
-
+#teoria #referencia 
 Consecuencias negativas de la autoestima alta
 Estrategias de autoprotección y automejora.
 (Verkuyten y Masson, 1995), (Baumeister y cols., 1993), (Baumeister y cols. (2003), (Baumeister y Vohs, 2018)
 
+#imagen #referencia 
+![img-m05-busquedas-autoestima](recursos/imagenes/img-m05-busquedas-autoestima.png) Captura de pantalla de resultados de búsqueda web mostrando artículos sobre autoestima y liderazgo: "Great Leaders Have Strong Self-Esteem", "Why Leaders Need to Build Self Esteem", "Why is self-esteem so critical to successful leadership?", "Cultivating Effective Leadership Through Self-Esteem", "Overcoming low self esteem and growing as a leader", "Unpacking the Impact of Lower Self-Esteem on Leadership".
+
+#teoria #referencia 
+Importancia de la estabilidad de la autoestima
+- Forma de autoestima vinculada a aprobación interna y externa
+- Sensibilidad tanto al éxito como al fracaso
+
 #imagen
 ![img-m05-autoestima-grafico](recursos/imagenes/img-m05-autoestima-grafico.png) Ilustración de dos figuras humanas sobre flechas de tendencia: una en equilibrio sobre flecha ascendente azul, otra cayendo con flecha descendente roja. Representa la inestabilidad de la autoestima.
 
-#imagen
-![img-m05-busquedas-autoestima](recursos/imagenes/img-m05-busquedas-autoestima.png) Captura de pantalla de resultados de búsqueda web mostrando artículos sobre autoestima y liderazgo: "Great Leaders Have Strong Self-Esteem", "Why Leaders Need to Build Self Esteem", "Why is self-esteem so critical to successful leadership?", "Cultivating Effective Leadership Through Self-Esteem", "Overcoming low self esteem and growing as a leader", "Unpacking the Impact of Lower Self-Esteem on Leadership".
-
-#imagen
-![img-m05-conclusiones-mbsr-1](recursos/imagenes/img-m05-conclusiones-mbsr-1.png) Diagrama de conclusiones MBSR: flecha desde MBSR hacia Autoestima Explícita (+) y hacia Autoestima Contingente (++).
-
-#imagen
-![img-m05-conclusiones-mbsr-2](recursos/imagenes/img-m05-conclusiones-mbsr-2.png) Diagrama de conclusiones: flechas desde Autoestima Explícita (+) y Autoestima Contingente (++) hacia Bienestar.
-
-#cita
-Luna, S. , Rodríguez-Carvajal, R. (2023). 'Mindfulness-Based Stress Reduction for Optimizing Self-Esteem and Well-Being: The Key Role of Contingent Self-Esteem in Predicting Well-Being Compared to Explicit Self-Esteem'. World Academy of Science, Engineering and Technology, Open Science Index 199, International Journal of Psychological and Behavioral Sciences, 17(7), 486 - 493.
+#imagen #referencia 
+![img-m05-conclusiones-autocompasion](recursos/imagenes/img-m05-conclusiones-autocompasion.png)Luna, S. , Rodríguez-Carvajal, R. (2023). 'Mindfulness-Based Stress Reduction for Optimizing Self-Esteem and Well-Being: The Key Role of Contingent Self-Esteem in Predicting Well-Being Compared to Explicit Self-Esteem'. World Academy of Science, Engineering and Technology, Open Science Index 199, International Journal of Psychological and Behavioral Sciences, 17(7), 486 - 493. Diagrama de conclusiones MBSR: flecha desde MBSR hacia Autoestima Explícita (+) y hacia Autoestima Contingente (++).Diagrama de conclusiones: flechas desde Autoestima Explícita (+) y Autoestima Contingente (++) hacia Bienestar.
 
 ---
 
@@ -56,4 +51,4 @@ Las personas con mayor autocompasión son menos propensas a depender de la valid
 Al reducir la autoestima contingente, la autocompasión facilita una autorregulación más efectiva, permitiendo a los individuos enfocarse en sus valores y metas reales.
 
 #imagen
-![img-m05-conclusiones-autocompasion](recursos/imagenes/img-m05-conclusiones-autocompasion.png) Diagrama de conclusiones mostrando la cadena: Mindfulness → Autocompasión → Aut. Contingente → Bienestar. Fondo azul oscuro con iconos ilustrativos.
+ ![mindfulness-autocompasion-autoestima](recursos/imagenes/img-m05-mindfulness-autocompasion-autoestima.png)Diagrama de conclusiones mostrando la cadena: Mindfulness → Autocompasión → Aut. Contingente → Bienestar. Fondo azul oscuro con iconos ilustrativos.

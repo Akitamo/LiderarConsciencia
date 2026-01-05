@@ -41,7 +41,7 @@ El modelo de Escucha Profunda se compone de tres habilidades centrales intercone
 
 **3.Conexión Compasiva:** Este componente introduce la dimensión de la compasión en la escucha. Se trata de conectar con el sufrimiento del hablante y de nosotros mismos con amabilidad y comprensión.
 
-#imagen
+#imagen #referencia 
 ![img-m05-modelo-escucha-profunda](recursos/imagenes/img-m05-modelo-escucha-profunda.png) Diagrama de Venn con tres círculos interconectados titulado "The Deep Listening Model" (Figure 6.1). Los tres círculos representan: "Coming to EMBODIED AWARENESS", "Holding SUPPORTIVE PRESENCE", y "Generating COMPASSIONATE CONNECTION". En el centro donde se cruzan los tres: "AWARENESS CENTRED DEEP LISTENING".
 
 #explicacion

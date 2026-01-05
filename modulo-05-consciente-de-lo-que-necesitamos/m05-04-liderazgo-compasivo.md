@@ -48,10 +48,10 @@ Es importante destacar que la compasión no se trata de complacer a los demás o
 **The Wise Compassion Leadership Matrix**
 Compare this leadership style to three other common ones.
 
-#imagen
+#imagen #referencia 
 ![img-m05-matriz-compasion](recursos/imagenes/img-m05-matriz-compasion.png) Matriz 2x2 de Rasmus Hougaard (HBR). Ejes: vertical "COMPASSION-INDIFFERENCE", horizontal "IGNORANCE-WISDOM". Cuatro cuadrantes: (1) Caring avoidance - Letting empathy be a barrier to action, (2) Wise compassion - Getting tough things done in a human way, (3) Ineffective indifference - Lacking interest in and concern for others, (4) Uncaring execution - Putting results before people's well-being. Fuente: Rasmus Hougaard, HBR.
 
-#imagen
+#imagen #referencia 
 ![img-m05-flywheel-compasion](recursos/imagenes/img-m05-flywheel-compasion.png) Diagrama circular "The Wise Compassion Flywheel" con cuatro elementos conectados: (1) Caring presence - Be here now, (2) Caring courage - Courage over comfort, (3) Caring candour - Direct is faster, (4) Caring transparency - Clarity is kindness. Fuente: Potential Project.
 
 #explicacion
