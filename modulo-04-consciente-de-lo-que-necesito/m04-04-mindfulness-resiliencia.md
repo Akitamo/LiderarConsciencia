@@ -18,16 +18,15 @@ La capacidad de un líder para adaptarse y aprender de situaciones estresantes d
 - **Claridad mental en situaciones críticas:** Los líderes resilientes no solo soportan el estrés, sino que lo canalizan para pensar con mayor claridad. Este enfoque les permite tomar decisiones fundamentadas, incluso bajo presión, y evitar errores que podrían surgir de una respuesta impulsiva.
 
 #imagen
-`[IMG: m04-04-muelle-resiliencia]` Fotografía de muelle/resorte metálico rojo en forma de arco sobre fondo amarillo brillante, simbolizando la capacidad de recuperación y flexibilidad de la resiliencia.
+![img-m04-muelle-resiliencia](recursos/imagenes/img-m04-muelle-resiliencia.png) Muelle/resorte metálico rojo en forma de arco sobre fondo amarillo brillante, simbolizando la capacidad de recuperación y flexibilidad de la resiliencia.
 
 ---
 
 #imagen
-`[IMG: m04-04-modelo-regulacion-emocional-gross]` Dos diagramas del "Process Model of Emotion Regulation Proposed by Gross (1998a)":
+![img-m04-gross-modelo-lineal](recursos/imagenes/img-m04-gross-modelo-lineal.png) Modelo lineal "Process Model of Emotion Regulation Proposed by Gross (1998a)": Situation Selection → Situation Modification → Attentional Deployment → Cognitive Change → Response Modulation. Con fases: Situation → Attention → Appraisal → Response. División entre "Antecedent-focused" y "Response-focused".
 
-**Diagrama superior:** Modelo lineal mostrando: Situation Selection (e.g. Avoiding) → Situation Modification (e.g. Problem-solving) → Attentional Deployment (e.g. Distraction) → Cognitive Change (e.g. Distancing & Reinterpretation) → Response Modulation (e.g. Expressive suppression). Con fases: Situation → Attention → Appraisal → Response. División entre "Antecedent-focused" y "Response-focused".
-
-**Diagrama inferior:** Ejemplo aplicado con escenario social: Situations (Don't go to party / Go to party → Small talk with ex / Don't talk to ex) → Aspects (Watch karaoke / Watch ex flirt) con Situation Selection, Situation Modification, Attentional Deployment → Meanings (New partner is better than you / Good to see ex happy) con Cognitive Change, Reappraisal → Emotion Response (Jealousy, Anger) → Responses (Get drunk / Response Modulation, Suppression).
+#imagen
+![img-m04-gross-ejemplo](recursos/imagenes/img-m04-gross-ejemplo.png) Ejemplo aplicado del modelo de Gross con escenario social: Situations (Don't go to party / Go to party) → Aspects (Watch karaoke / Watch ex flirt) → Meanings (New partner is better than you / Good to see ex happy) → Emotion Response (Jealousy, Anger) → Responses (Get drunk / Response Modulation, Suppression).
 
 ---
 
@@ -35,19 +34,7 @@ La capacidad de un líder para adaptarse y aprender de situaciones estresantes d
 **Con entrenamiento Mindfulness vs Sin entrenamiento Mindfulness**
 
 #imagen
-`[IMG: m04-04-comparativa-mindfulness]` Diagrama comparativo de línea temporal mostrando:
-
-- Eje horizontal: "Tiempo" dividido en dos fases: "Darse Cuenta" (naranja) y "Gestionar respuesta" (naranja)
-- Triángulos verdes pequeños: "Sin entrenamiento Mindfulness" (detección tardía)
-- Triángulos verdes grandes: "Con entrenamiento Mindfulness" (detección anticipada y mejor regulación)
-
-**Fase "Darse Cuenta":**
-- Atención + Body Awareness (Consciencia sin juicio)
-- Beneficios: Toma de consciencia anticipada, Mayor cantidad y calidad de información de la experiencia
-
-**Fase "Gestionar respuesta":**
-- Regulación emocional (dejar ir, desidentificación, aceptación..)
-- Beneficios: Regulación emocional más rápida y efectiva, Con menor coste mental y físico
+![img-m04-comparativa-mindfulness](recursos/imagenes/img-m04-comparativa-mindfulness.jpg) Diagrama comparativo de línea temporal mostrando diferencias entre "Con entrenamiento Mindfulness" y "Sin entrenamiento Mindfulness" en las fases de "Darse Cuenta" y "Gestionar respuesta".
 
 ---
 
@@ -66,28 +53,24 @@ La capacidad de un líder para adaptarse y aprender de situaciones estresantes d
 **Mindfulness – Desarrollo de Nuevas Habilidades para la Gestión y Control Emocional**
 
 #imagen
-`[IMG: m04-04-reaccion-vs-regulacion]` Diagrama comparativo con dos columnas:
+![img-m04-reaccion-explosion](recursos/imagenes/img-m04-reaccion-explosion.jpg) REACCIÓN: Explosión nuclear/bomba atómica representando la respuesta automática, patrones reactivos, sin visión de consecuencias, guiado por la emoción, Self > objetivo, rigidez.
 
-**Izquierda - REACCIÓN:** Fotografía de explosión nuclear/bomba atómica. Recuadro naranja con características: Automático, Patrones reactivos, Sin visión de consecuencias, Guiado por la emoción, Self > objetivo, Rigidez.
-
-**Derecha - REGULACIÓN:** Fotografía de grifo/llave de agua de latón antiguo. Recuadro azul con características: Espacios estímulo - respuesta, Evaluación inputs de información emocional y sensorial, Guiado por lo que la situación reclama, Objetivo > Self, Flexibilidad.
+#imagen
+![img-m04-regulacion-grifo](recursos/imagenes/img-m04-regulacion-grifo.jpg) REGULACIÓN: Grifo/llave de agua de latón antiguo representando espacios estímulo-respuesta, evaluación de inputs emocionales y sensoriales, guiado por lo que la situación reclama, Objetivo > Self, flexibilidad.
+#imagen 
+![img-m04-reaccion-regulacion](recursos/imagenes/img-m04-reaccion-regulacion.png) imagen que integra las imagenes de la reacción vs regulación para mostrar cómo el mindfulness permite generar espacio para hacer ese proceso
 
 #cita
 "Cualquiera puede enfadarse, eso es algo muy sencillo. Pero enfadarse con la persona adecuada, en el grado exacto, en el momento oportuno. Con el propósito justo y del modo correcto, eso, ciertamente, no resulta tan sencillo."
 — **Aristóteles**, *Ética a Nicómaco*
 
 #imagen
-`[IMG: m04-04-busto-aristoteles]` Fotografía de busto clásico de Aristóteles en mármol/piedra.
+![img-m04-cita-aristoteles](recursos/imagenes/img-m04-cita-aristoteles.png) Cita de Aristóteles con busto clásico en mármol/piedra.
 
 ---
 
 #video
-`[VID: m04-04-futbol-conflicto]` Fotograma de retransmisión de partido de fútbol (GOLTV LIVE, BAR-MLL 2-0, 26:38). Escena de conflicto/tensión entre jugadores del FC Barcelona (equipación azulgrana) y otro equipo (equipación blanca), con árbitro de amarillo interviniendo. Marca de agua "[by nitter]".
+ ![vid-m04-Puyol-autocontrol](recursos/videos/vid-m04-Puyol-autocontrol.mp4)Fotograma de retransmisión de partido de fútbol (GOLTV LIVE, BAR-MLL 2-0, 26:38). Escena de conflicto/tensión entre jugadores del FC Barcelona (equipación azulgrana) y otro equipo (equipación blanca), con árbitro de amarillo interviniendo. Muestra la capacidad del jugador del Barcelona Puyol para mantener el dominio frente a una agresión de un jugador
 
 ---
 
-#ejercicio
-**Pausa Mindfulness - 3 minutos**
-
-#imagen
-`[IMG: m04-04-pausa-mindfulness]` Imagen promocional de ejercicio "Pausa Mindfulness 3 minutos". Mujer en postura de meditación sentada junto a árbol en entorno natural otoñal, ojos cerrados, expresión serena. Texto superpuesto: "Pausa Mindfulness 3 minutos".

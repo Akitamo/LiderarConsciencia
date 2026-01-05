@@ -15,4 +15,4 @@ tags: [liderazgo, crisis, cinismo, confianza, sociedad-cansancio, etica]
 - **Sociedad del cansancio:** Los líderes exigen a sus seguidores conseguir más resultados en menos tiempo, ser más eficientes y más diligentes, mejorar los niveles de competitividad, pero con frecuencia no encuentran o no conocen las maneras ni las formas para motivar el movimiento de sus seguidores.
 
 #imagen
-`[IMG: m07-01-marionetas-manipulacion]` Fotografía artística sobre fondo negro mostrando dos manos humanas controlando marionetas de madera con hilos. Las figuras de madera aparecen suspendidas, representando visualmente la manipulación y el control en las relaciones de poder.
+![img-m07-marionetas-manipulacion](recursos/imagenes/img-m07-marionetas-manipulacion.png) Fotografía artística sobre fondo negro mostrando dos manos humanas controlando marionetas de madera con hilos. Las figuras de madera aparecen suspendidas, representando visualmente la manipulación y el control en las relaciones de poder.

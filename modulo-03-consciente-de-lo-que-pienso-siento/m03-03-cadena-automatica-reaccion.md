@@ -18,19 +18,37 @@ Primero, captamos señales internas que nos indican nuestro estado físico. Por 
 **Afecto de Base: Generar una Sensación General**
 El cerebro no interpreta la información interoceptiva de forma aislada; en cambio, la combina con datos del entorno y de la memoria. Esto genera una sensación general o "afecto de base" que determina si, en un momento dado, nos sentimos bien, mal o neutrales. En este caso, el nudo en el estómago junto con la memoria de eventos similares (quizá experiencias pasadas de incomodidad social) hace que el cerebro genere un afecto de base de incomodidad o inquietud. Este afecto de base es una "impresión general" de cómo te sientes, y aquí surge el malestar emocional generalizado, pero aún sin definir una acción específica. Supongamos que sientes el ritmo cardíaco acelerado (interocepción). Si estás en un entorno seguro, como tu casa, el cerebro podría interpretar este estado físico como una respuesta a la emoción positiva de haber hecho ejercicio. Pero, si estás a punto de dar una presentación, el mismo síntoma se interpretaría como ansiedad.
 
+
 **Valencia: Evaluar si el Afecto de Base es Positivo o Negativo**
 La "valencia" del afecto se refiere a si la sensación general es positiva (placer) o negativa (displacer). Es una respuesta automática que nos empuja a acercarnos a lo que es bueno para nuestro bienestar y a evitar lo que podría dañarnos. Este proceso de placer/displacer es fundamental para generar emociones (como felicidad o miedo), que a su vez nos impulsan a actuar de manera que mejore nuestro bienestar o nos aleje del malestar.
 La valencia negativa del afecto de base (incomodidad y displacer) motiva a que tomes alguna acción para reducir esa sensación incómoda. Puedes decidir evitar el evento social para reducir el malestar, o bien, prepararte emocionalmente, buscando sentirte más seguro (como respirando profundamente o recordando que puedes irte si no te sientes cómodo).
 
+
+
 **Activación: Intensidad de la Respuesta**
 La activación mide el nivel de energía o urgencia asociado a la emoción. Una activación alta impulsa una respuesta rápida y fuerte, mientras que una activación baja permite una respuesta más calmada. Ejemplo: Si tu activación es alta (tu corazón late rápidamente, estás en alerta), sentirás una urgencia más intensa por hacer algo para reducir el malestar. Podrías decidir practicar técnicas de respiración o incluso evitar el evento. Si la activación es baja, puedes decidir asistir, pero con cierta precaución y más control.
+
+
 
 **Impulso hacia la Acción**
 La combinación de valencia y activación guía tu decisión final. La valencia (displacer) te indica que necesitas reducir el malestar, mientras que el nivel de activación influye en qué tan urgente o intensa será tu respuesta.
 Ejemplo: Si la activación es alta, podrías optar por evitar el evento. Si es baja, podrías ir al evento, pero preparándote mentalmente para manejar la incomodidad de forma calmada.
 
+#imagen 
+![img-m03-radar-emocional](recursos/imagenes/img-m03-radar-emocional.png) imagen de radar representando captar señal cuerpo
+
+#imagen 
+![img-m03-clima-emocional](recursos/imagenes/img-m03-clima-emocional.png) imagen de varios climas representando diferentes climas emocionales o afectos de base
+
+#imagen 
+![img-m03-valor-emocinal.](recursos/imagenes/img-m03-valor-emocinal.png) imagen de me gusta y no me gusta representado la valencia positiva o negativa de emociones
+#imagen 
+![img-m03-intensidad-emocional](recursos/imagenes/img-m03-intensidad-emocional.png)imagen de nivel de intensidad que refleja nivel de activación a la sensación
+#imagen 
+![img-m03-lucha-huida](recursos/imagenes/img-m03-lucha-huida.png) imagen de lucha y huida que representa el impulso a la acción
+
 #imagen
-`[IMG: m03-03-diagrama-sentir-pensar-actuar]` Diagrama circular con cuatro elementos conectados por flechas en ciclo: "SENTIR" (arriba), "PENSAR" (derecha), "ACTUAR" (abajo-izquierda), y "PROCESO EMOCIONAL" (centro). Las flechas indican flujo bidireccional entre los elementos. Colores azul y blanco sobre fondo claro.
+![img-m03-diagrama-sentir-pensar-actuar](recursos/imagenes/img-m03-diagrama-sentir-pensar-actuar.png) Diagrama circular con cuatro elementos conectados por flechas en ciclo: "SENTIR" (arriba), "PENSAR" (derecha), "ACTUAR" (abajo-izquierda), y "PROCESO EMOCIONAL" (centro). Las flechas indican flujo bidireccional entre los elementos. Colores azul y blanco sobre fondo claro.
 
 #explicacion
 Resumen del Esquema Completo:
@@ -51,6 +69,27 @@ Importancia de la Conciencia del Afecto de Base:
 - Tomar decisiones más informadas: Al ser conscientes del afecto de base, podemos evaluar con mayor precisión si nuestras decisiones están siendo influenciadas por emociones pasajeras o por una evaluación racional de la situación.
 - Regular nuestras emociones: La conciencia del afecto de base nos permite emplear estrategias para modular nuestras emociones, como la revaloración, la meditación o técnicas de relajación, para promover un estado de bienestar.
 
+1. Interocepción: El "Escaneo Interno" del Cuerpo
+
+La interocepción es la capacidad de sentir señales internas del cuerpo, como el ritmo cardíaco o el estado del estómago. Por ejemplo, imagina que antes de dar una conferencia sientes un "nudo en el estómago". Este nudo es una señal que el cuerpo envía y tú lo percibes a través de la interocepción. Podemos entender la interocepción como un "radar interno" que constantemente monitorea tu cuerpo y te da información sobre tu estado físico.
+
+2. Afecto de Base: El Clima Emocional del Momento
+
+El afecto de base es la impresión general o "clima emocional" que tienes en un momento específico, una mezcla de señales físicas y recuerdos. Ese nudo en el estómago, combinado con experiencias previas de ansiedad en situaciones similares, puede hacer que sientas una incomodidad general. Es decir, el cerebro evalúa la señal del cuerpo en su contexto y genera una sensación emocional que puede ser incómoda o agradable. El afecto de base funciona como el "clima" emocional en el que te encuentras, así como el clima de un día puede influir en tu estado de ánimo sin que lo notes directamente.
+
+3. Valencia: La Evaluación Positiva o Negativa
+
+La valencia es la evaluación que hace el cerebro sobre el afecto de base: si es positivo (placentero) o negativo (desagradable). Si el afecto de base es el nudo en el estómago que asociamos con incomodidad, la valencia sería negativa, indicando al cerebro que "esto no es agradable" y activando una necesidad de reducir la incomodidad. La valencia actúa como un "filtro de evaluación" que le dice a tu mente si esa sensación general es algo a lo que deseas acercarte o algo de lo que quieres alejarte.
+
+4. Activación: La Intensidad de la Sensación
+
+La activación mide la energía o urgencia de la experiencia. Puede ser alta, como un impulso fuerte de actuar, o baja, lo que indica que la necesidad de responder es menor. Si sientes ansiedad intensa antes de un evento importante, la activación es alta, y tu impulso de actuar (tal vez evitar la situación) será más fuerte que si la ansiedad fuera leve. La activación funciona como el "volumen" de la experiencia: alta activación suena fuerte y pide atención urgente; baja activación es más silenciosa y menos urgente.
+
+5. Impulso hacia la Acción: Decidir Basado en Sentimientos
+
+La combinación de valencia y activación guía tus acciones. Una experiencia negativa y de alta activación puede llevar a evitar la situación o buscar calma. Si decides no ir al evento porque la ansiedad es intensa (alta activación y valencia negativa), has actuado para evitar el malestar. Alternativamente, puedes preparar estrategias para calmarte y enfrentarlo, equilibrando la respuesta. Este impulso es como un "sistema de navegación emocional" que te guía hacia acciones que te acercan al bienestar o te alejan del malestar.
+
+
 #teoria
 La Interconexión entre Emoción y Atención
 
@@ -67,13 +106,13 @@ Las emociones negativas, como el miedo o la ansiedad, pueden estrechar nuestro f
 Por otro lado, las emociones positivas, como la alegría, la curiosidad y el entusiasmo, amplían nuestro foco de atención, permitiéndonos explorar el entorno con mayor amplitud y receptividad.
 
 #imagen
-`[IMG: m03-03-mujer-asustada-arana]` Fotografía de una mujer joven con expresión de miedo/sorpresa, con las manos levantadas en gesto defensivo, mirando hacia una araña. Ilustra la respuesta emocional automática ante estímulos amenazantes.
+![img-m03-mujer-asustada-arana](recursos/imagenes/img-m03-mujer-asustada-arana.jpeg) Fotografía de una mujer joven con expresión de miedo/sorpresa, con las manos levantadas en gesto defensivo, mirando hacia una araña. Ilustra la respuesta emocional automática ante estímulos amenazantes.
 
 #imagen
-`[IMG: m03-03-diagrama-funcion-amigdala]` Diagrama educativo titulado "AMYGDALA FUNCTION" mostrando el proceso de respuesta al miedo. Incluye ilustración de cerebro con tálamo visual, córtex visual y amígdala señalados, con flechas indicando el flujo de información desde un estímulo de miedo (araña) hasta la respuesta. Etiquetas: "VISUAL THALAMUS", "VISUAL CORTEX", "AMYGDALA", "FEARFUL INPUT".
+![img-m03-diagrama-funcion-amigdala](recursos/imagenes/img-m03-diagrama-funcion-amigdala.png) Diagrama educativo titulado "AMYGDALA FUNCTION" mostrando el proceso de respuesta al miedo. Incluye ilustración de cerebro con tálamo visual, córtex visual y amígdala señalados, con flechas indicando el flujo de información desde un estímulo de miedo (araña) hasta la respuesta. Etiquetas: "VISUAL THALAMUS", "VISUAL CORTEX", "AMYGDALA", "FEARFUL INPUT".
 
 #video
-`[VID: m03-03-video-atencion-emocion]` Fotograma de vídeo mostrando dos hombres caminando por una calle urbana, uno con camisa blanca y otro con chaleco oscuro y pañuelo verde, aparentemente en conversación. Contexto relacionado con la interconexión entre emoción y atención.
+ ![vid-m03-mago](recursos/videos/vid-m03-mago.mp4)Fotograma de vídeo mostrando dos hombres caminando por una calle urbana, uno con camisa blanca y otro con chaleco oscuro y pañuelo verde, aparentemente en conversación. Contexto relacionado con la interconexión entre emoción y atención.
 
 #teoria
 La cadena de hábitos y patrones automáticos
@@ -88,7 +127,7 @@ La mente automática establece conexiones rápidas y repetitivas entre las sensa
 Con cada repetición, los patrones automáticos se consolidan y se fortalecen, formando un ciclo de perpetuación que hace que estas respuestas sean cada vez más rápidas y difíciles de interrumpir. Al no ser conscientes de estos patrones, la mente automática sigue respondiendo de la misma forma, reforzando la asociación entre ciertos estímulos y las respuestas de acción. El cerebro anticipa futuras experiencias basándose en predicciones de patrones pasados, creando una "autopista de hábitos" en la que las emociones, pensamientos y sensaciones se activan de forma automática y rápida. Esto perpetúa las reacciones sin que seamos conscientes de cómo se originan o se fortalecen en cada repetición.
 
 #imagen
-`[IMG: m03-03-ciclo-patrones-conducta]` Diagrama de ciclo con cuatro elementos conectados por flechas en forma circular: "Marcos de referencia personales" → "Como veo la realidad" → "Como reacciono a los hechos" → "Modelos y patrones de conducta" → (vuelve al inicio). Flechas en colores naranja y azul sobre fondo blanco.
+![img-m03-ciclo-patrones-conducta](recursos/imagenes/img-m03-ciclo-patrones-conducta.png) Diagrama de ciclo con cuatro elementos conectados por flechas en forma circular: "Marcos de referencia personales" → "Como veo la realidad" → "Como reacciono a los hechos" → "Modelos y patrones de conducta" → (vuelve al inicio). Flechas en colores naranja y azul sobre fondo blanco.
 
 #teoria
 Cómo las Emociones Influyen en Nuestras Decisiones
@@ -102,7 +141,9 @@ Las emociones actúan como un filtro a través del cual percibimos el mundo y ev
 - Importancia de las **emociones incidentales**, es decir, aquellas que no están directamente relacionadas con la decisión que debemos tomar, pero que pueden influir en nuestro juicio sin que nos demos cuenta. Ejemplo: Si tenemos una discusión con un compañero de trabajo por la mañana, esa experiencia podría generar un estado de ánimo negativo que luego influya en nuestra forma de evaluar una propuesta de un cliente, llevándonos a ser más críticos o a rechazarla sin una evaluación objetiva. *Funcionarios de la libertad condicional y el cansancio: Las decisiones de los funcionarios de la junta de libertad condicional se ven influenciadas por su estado de fatiga, un indicador de un afecto de base negativo. A medida que avanza la jornada, tienden a negar la libertad condicional con mayor frecuencia, a pesar de que los casos no difieren significativamente en cuanto a su mérito.*
 
 #imagen
-`[IMG: m03-03-triangulo-atencion-emocion]` Diagrama del triángulo de la atención con tres vértices etiquetados: "Pensamientos" (arriba, círculo azul), "Sensaciones" (abajo izquierda, círculo gris), "Emociones" (abajo derecha, círculo rojo). En el centro, una esfera grande roja etiquetada "Emoción" representa el foco del contenido actual.
+![img-m03-triangulo-atencion-emocion](recursos/imagenes/img-m03-triangulo-atencion-emocion.png) Diagrama del triángulo de la atención con tres vértices etiquetados: "Pensamientos" (arriba, círculo azul), "Sensaciones" (abajo izquierda, círculo gris), "Emociones" (abajo derecha, círculo rojo). En el centro, una esfera grande roja etiquetada "Emoción" representa el foco del contenido actual.
+#imagen 
+![img-m03-eleccion-emocion](recursos/imagenes/img-m03-eleccion-emocion.png)Ilustración de un hombre ante una bifurcación que lleva a comida sana o comida basura como ejemplo de cómo la emoción a veces nos lleva a decisiones emocionales 
 
 #explicacion
 Las emociones actúan como un filtro a través del cual percibimos el mundo y evaluamos las opciones, lo que nos lleva a tomar decisiones distintas según nuestro estado emocional, incluso si los hechos objetivos son los mismos.
@@ -144,7 +185,7 @@ Si bien las emociones pueden influir en nuestros pensamientos, también es ciert
 - **Reinterpretación de las Emociones: Cambiando el Significado para Modificar la Respuesta:** La reinterpretación emocional consiste en cambiar la forma en que interpretamos la fuente de una emoción. Este proceso permite transformar una emoción intensa en una menos negativa o incluso positiva, lo cual impacta directamente en las acciones que tomamos.
 
 #imagen
-`[IMG: m03-03-ilustracion-pensamientos-mente]` Ilustración artística de una cabeza humana de perfil con múltiples rostros superpuestos emergiendo de ella, representando la multiplicidad de pensamientos y estados mentales. Estilo de dibujo lineal en blanco y negro.
+![img-m03-ilustracion-pensamientos-mente](recursos/imagenes/img-m03-ilustracion-pensamientos-mente.png) Ilustración artística de una cabeza humana de perfil con múltiples rostros superpuestos emergiendo de ella, representando la multiplicidad de pensamientos y estados mentales. Estilo de dibujo lineal en blanco y negro.
 
 #explicacion
 1. Reestructuración Cognitiva: Cambiando el Impacto del Pensamiento en la Emoción
@@ -166,5 +207,4 @@ Situación: Una persona debe liderar una reunión importante y siente un intenso
 - Reinterpretación de la Ansiedad: Al analizar la situación, la persona reinterpreta la ansiedad como una señal de que le importa hacer un buen trabajo. Este cambio de enfoque transforma la emoción en una motivación positiva.
 - Resultado: La persona se siente más tranquila y enfocada, lista para llevar adelante la reunión con confianza en lugar de paralizarse por la ansiedad.
 
-#imagen
-`[IMG: m03-03-cerebro-ejercicio]` Ilustración humorística de un cerebro antropomórfico de color rosa/rojo haciendo ejercicio con pesas (mancuernas amarillas). El cerebro lleva una cinta blanca en la "frente", tiene expresión de esfuerzo con gotas de sudor, y está de pie sobre una plataforma circular. Fondo azul verdoso. Representa el concepto de "entrenar" la mente.
+

@@ -20,13 +20,16 @@ Estrategias de autoprotección y automejora.
 (Verkuyten y Masson, 1995), (Baumeister y cols., 1993), (Baumeister y cols. (2003), (Baumeister y Vohs, 2018)
 
 #imagen
-`[IMG: m05-03-autoestima-grafico]` Ilustración de una figura humana en equilibrio sobre una flecha que sube y baja, representando la inestabilidad de la autoestima. Fondo con tonos naranjas y rojos.
+![img-m05-autoestima-grafico](recursos/imagenes/img-m05-autoestima-grafico.png) Ilustración de dos figuras humanas sobre flechas de tendencia: una en equilibrio sobre flecha ascendente azul, otra cayendo con flecha descendente roja. Representa la inestabilidad de la autoestima.
 
 #imagen
-`[IMG: m05-03-busquedas-autoestima]` Captura de pantalla de resultados de búsqueda web mostrando artículos sobre autoestima y liderazgo: "Great Leaders Have Strong Self-Esteem", "Why Leaders Need to Build Self Esteem", "Why is self-esteem so critical to successful leadership?", "Cultivating Effective Leadership Through Self-Esteem", "Overcoming low self esteem and growing as a leader", "Unpacking the Impact of Lower Self-Esteem on Leadership".
+![img-m05-busquedas-autoestima](recursos/imagenes/img-m05-busquedas-autoestima.png) Captura de pantalla de resultados de búsqueda web mostrando artículos sobre autoestima y liderazgo: "Great Leaders Have Strong Self-Esteem", "Why Leaders Need to Build Self Esteem", "Why is self-esteem so critical to successful leadership?", "Cultivating Effective Leadership Through Self-Esteem", "Overcoming low self esteem and growing as a leader", "Unpacking the Impact of Lower Self-Esteem on Leadership".
 
 #imagen
-`[IMG: m05-03-conclusiones-mbsr]` Dos diagramas de conclusiones del estudio MBSR. Primer diagrama: flecha desde MBSR hacia Autoestima Explícita (positiva) y hacia Autoestima Contingente (negativa). Segundo diagrama: flechas desde Autoestima Explícita y Autoestima Contingente hacia Bienestar.
+![img-m05-conclusiones-mbsr-1](recursos/imagenes/img-m05-conclusiones-mbsr-1.png) Diagrama de conclusiones MBSR: flecha desde MBSR hacia Autoestima Explícita (+) y hacia Autoestima Contingente (++).
+
+#imagen
+![img-m05-conclusiones-mbsr-2](recursos/imagenes/img-m05-conclusiones-mbsr-2.png) Diagrama de conclusiones: flechas desde Autoestima Explícita (+) y Autoestima Contingente (++) hacia Bienestar.
 
 #cita
 Luna, S. , Rodríguez-Carvajal, R. (2023). 'Mindfulness-Based Stress Reduction for Optimizing Self-Esteem and Well-Being: The Key Role of Contingent Self-Esteem in Predicting Well-Being Compared to Explicit Self-Esteem'. World Academy of Science, Engineering and Technology, Open Science Index 199, International Journal of Psychological and Behavioral Sciences, 17(7), 486 - 493.
@@ -45,7 +48,7 @@ La autocompasión, un concepto central en la psicología del bienestar, se prese
 **Mindfulness:** Te ayuda a observar tus pensamientos y emociones dolorosas con claridad y aceptación, sin juzgarte ni exagerar tu sufrimiento.
 
 #imagen
-`[IMG: m05-03-autocompasion-abrazo]` Ilustración en blanco y negro de una figura humana abrazándose a sí misma, con líneas que sugieren movimiento o energía alrededor. Representa el acto de darse compasión y cuidado a uno mismo. Firma del artista: Hani Abbas.
+![img-m05-autocompasion-hani-abbas](recursos/imagenes/img-m05-autocompasion-hani-abbas.png) Ilustración en blanco y negro de una figura humana que extiende su brazo hacia un globo de pensamiento, representando la autocompasión como alcanzar hacia uno mismo. Firma del artista: Hani Abbas.
 
 #teoria
 Las personas con mayor autocompasión son menos propensas a depender de la validación externa, lo que les permite afrontar mejor las fluctuaciones en la autoestima y mantener un mayor bienestar.
@@ -53,4 +56,4 @@ Las personas con mayor autocompasión son menos propensas a depender de la valid
 Al reducir la autoestima contingente, la autocompasión facilita una autorregulación más efectiva, permitiendo a los individuos enfocarse en sus valores y metas reales.
 
 #imagen
-`[IMG: m05-03-conclusiones-autocompasion]` Diagrama de conclusiones mostrando la cadena: Mindfulness → Autocompasión → Aut. Contingente → Bienestar. Fondo azul oscuro con iconos ilustrativos.
+![img-m05-conclusiones-autocompasion](recursos/imagenes/img-m05-conclusiones-autocompasion.png) Diagrama de conclusiones mostrando la cadena: Mindfulness → Autocompasión → Aut. Contingente → Bienestar. Fondo azul oscuro con iconos ilustrativos.

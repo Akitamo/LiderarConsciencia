@@ -12,7 +12,7 @@ tags: [sensaciones, atencion, triangulo-atencion, sentidos, interocepcion, propi
 SENSACIONES
 
 #imagen
-`[IMG: m02-01-triangulo-atencion]` Diagrama del triángulo de la atención con tres vértices etiquetados: "Pensamientos" (vértice superior), "Emociones" (vértice inferior derecho) y "SENSACIONES" (vértice inferior izquierdo, destacado en azul). En el interior del triángulo hay tres círculos superpuestos: uno verde (asociado a Sensaciones, resaltado), y dos grises (asociados a Pensamientos y Emociones). El círculo verde indica el foco temático del módulo.
+![img-m02-triangulo-atencion](recursos/imagenes/img-m02-triangulo-atencion.png) Diagrama del triángulo de la atención con tres vértices etiquetados: "Pensamientos" (vértice superior), "Emociones" (vértice inferior derecho) y "SENSACIONES" (vértice inferior izquierdo, destacado en azul). En el interior del triángulo hay tres círculos superpuestos: uno verde (asociado a Sensaciones, resaltado), y dos grises (asociados a Pensamientos y Emociones). El círculo verde indica el foco temático del módulo.
 
 ---
 
@@ -22,13 +22,13 @@ SENSACIONES
 **EXTEROCEPCIÓN**
 
 #imagen
-`[IMG: m02-01-exterocepcion]` Ilustración de una silueta de cabeza humana de perfil con iconos de los cinco sentidos tradicionales alrededor: ojo (vista), oreja (oído), nariz (olfato), lengua (gusto) y mano (tacto), conectados por líneas al cerebro. Fondo gris claro.
+![img-m02-exterocepcion](recursos/imagenes/img-m02-exterocepcion.png) Ilustración de una silueta de cabeza humana de perfil con iconos de los cinco sentidos tradicionales alrededor: ojo (vista), oreja (oído), nariz (olfato), lengua (gusto) y mano (tacto), conectados por líneas al cerebro. Fondo gris claro.
 
 #teoria
 **INTEROCEPCIÓN**
 
 #imagen
-`[IMG: m02-01-interocepcion]` Ilustración artística de una figura humana estilizada en tonos naranjas y cálidos sobre fondo oscuro azulado. La figura muestra órganos internos visibles (cerebro, corazón, intestinos) representando la percepción del interior del cuerpo.
+![img-m02-interocepcion](recursos/imagenes/img-m02-interocepcion.jpeg) Ilustración artística de una figura humana estilizada en tonos naranjas y cálidos sobre fondo oscuro azulado. La figura muestra órganos internos visibles (cerebro, corazón, intestinos) representando la percepción del interior del cuerpo.
 
 #teoria
 - La interocepción es como un "sexto sentido" que nos permite percibir las sensaciones internas de nuestro cuerpo.
@@ -37,7 +37,7 @@ SENSACIONES
 **PROPIOCEPCIÓN**
 
 #imagen
-`[IMG: m02-01-propiocepcion]` Ilustración de dos figuras humanas esquemáticas en movimiento (tipo maniquí articulado) sobre fondo azul acuarela, mostrando diferentes posturas corporales que representan la percepción del movimiento y posición en el espacio.
+![img-m02-propiocepcion](recursos/imagenes/img-m02-propiocepcion.png) Ilustración de dos figuras humanas esquemáticas en movimiento (tipo maniquí articulado) sobre fondo azul acuarela, mostrando diferentes posturas corporales que representan la percepción del movimiento y posición en el espacio.
 
 #teoria
 Se refiere a la capacidad de percibir la posición y el movimiento del cuerpo en el espacio.
@@ -74,7 +74,7 @@ Los sentidos permiten la representación en la mente del mundo interno y externo
 4. Los Sentidos Como Base de la Consciencia
 
 #imagen
-`[IMG: m02-01-girasoles-luz]` Fotografía de girasoles amarillos vistos desde abajo contra un cielo azul intenso con rayos de sol brillantes. Imagen que evoca la percepción sensorial y la orientación hacia la luz.
+![img-m02-girasoles-luz](recursos/imagenes/img-m02-girasoles-luz.png) Fotografía de girasoles amarillos vistos desde abajo contra un cielo azul intenso con rayos de sol brillantes. Imagen que evoca la percepción sensorial y la orientación hacia la luz.
 
 #explicacion
 Los sentimientos son una evolución directa de esta capacidad inicial de sentir. Cuando un organismo empieza a percibir su propio estado interno (por ejemplo, hambre o dolor) en relación con los estímulos externos, se da el paso de una mera respuesta sensorial a la experiencia subjetiva de un sentimiento. En los humanos, por ejemplo, sentir frío o hambre no solo es un estímulo físico, sino que está acompañado de una experiencia subjetiva de incomodidad o malestar, que impulsa acciones específicas para modificar la situación.

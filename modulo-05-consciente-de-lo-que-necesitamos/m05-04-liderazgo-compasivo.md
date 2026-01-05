@@ -20,7 +20,7 @@ El liderazgo compasivo es la capacidad de hacer cosas difíciles de una manera h
 **La presencia y la consciencia** son esenciales para este proceso. La presencia nos permite conectar con los demás en el momento presente, mientras que la consciencia nos ayuda a comprender nuestras propias emociones y las de los demás, permitiéndonos tomar decisiones y acciones más sabias y compasivas.
 
 #imagen
-`[IMG: m05-04-manos-apoyo]` Fotografía en primer plano de dos pares de manos entrelazadas en gesto de apoyo y contención. Una persona sostiene las manos de otra sobre lo que parece ser una rodilla con pantalón vaquero. Transmite cercanía, cuidado y conexión humana.
+![img-m05-manos-apoyo](recursos/imagenes/img-m05-manos-apoyo.png) Fotografía en primer plano de dos pares de manos entrelazadas en gesto de apoyo y contención. Una persona sostiene las manos de otra sobre lo que parece ser una rodilla con pantalón vaquero. Transmite cercanía, cuidado y conexión humana.
 
 ---
 
@@ -38,7 +38,7 @@ Es importante destacar que la compasión no se trata de complacer a los demás o
 **La compasión se centra en el bien común, mientras que la empatía puede ser divisiva.** La empatía puede llevar a los líderes a favorecer a aquellos con quienes se sienten más conectados, creando divisiones dentro del equipo. La compasión, por otro lado, se centra en el bienestar de todos, buscando unir a las personas y promover la inclusión.
 
 #imagen
-`[IMG: m05-04-grafico-empatia-compasion]` Gráfico de dos ejes titulado "Distinction between pity, sympathy, empathy, and compassion". Eje vertical: "Willingness to act to support". Eje horizontal: "Understanding of the other's experience". Muestra cuatro niveles ascendentes: Pity ("I feel sorry for you"), Sympathy ("I feel for you"), Empathy ("I feel with you"), Compassion ("I am here to help").
+![img-m05-grafico-empatia-compasion](recursos/imagenes/img-m05-grafico-empatia-compasion.png) Gráfico de dos ejes titulado "Distinction between pity, sympathy, empathy, and compassion". Eje vertical: "Willingness to act to support". Eje horizontal: "Understanding of the other's experience". Muestra cuatro niveles ascendentes: Pity ("I feel sorry for you"), Sympathy ("I feel for you"), Empathy ("I feel with you"), Compassion ("I am here to help").
 
 ---
 
@@ -49,10 +49,10 @@ Es importante destacar que la compasión no se trata de complacer a los demás o
 Compare this leadership style to three other common ones.
 
 #imagen
-`[IMG: m05-04-matriz-compasion]` Matriz 2x2 de Rasmus Hougaard (HBR). Ejes: vertical "COMPASSION-INDIFFERENCE", horizontal "IGNORANCE-WISDOM". Cuatro cuadrantes: (1) Caring avoidance - Letting empathy be a barrier to action, (2) Wise compassion - Getting tough things done in a human way, (3) Ineffective indifference - Lacking interest in and concern for others, (4) Uncaring execution - Putting results before people's well-being. Fuente: Rasmus Hougaard, HBR.
+![img-m05-matriz-compasion](recursos/imagenes/img-m05-matriz-compasion.png) Matriz 2x2 de Rasmus Hougaard (HBR). Ejes: vertical "COMPASSION-INDIFFERENCE", horizontal "IGNORANCE-WISDOM". Cuatro cuadrantes: (1) Caring avoidance - Letting empathy be a barrier to action, (2) Wise compassion - Getting tough things done in a human way, (3) Ineffective indifference - Lacking interest in and concern for others, (4) Uncaring execution - Putting results before people's well-being. Fuente: Rasmus Hougaard, HBR.
 
 #imagen
-`[IMG: m05-04-flywheel-compasion]` Diagrama circular "The Wise Compassion Flywheel" con cuatro elementos conectados: (1) Caring presence - Be here now, (2) Caring courage - Courage over comfort, (3) Caring candour - Direct is faster, (4) Caring transparency - Clarity is kindness. Fuente: Potential Project.
+![img-m05-flywheel-compasion](recursos/imagenes/img-m05-flywheel-compasion.png) Diagrama circular "The Wise Compassion Flywheel" con cuatro elementos conectados: (1) Caring presence - Be here now, (2) Caring courage - Courage over comfort, (3) Caring candour - Direct is faster, (4) Caring transparency - Clarity is kindness. Fuente: Potential Project.
 
 #explicacion
 **Caring presence: be here now**

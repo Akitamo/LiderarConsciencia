@@ -15,7 +15,7 @@ tags: [relaciones, liderazgo, neurociencia, neuronas-espejo, empatia, conexion, 
 Este módulo profundizará en la importancia de RECONOCER Y RESPONDER a las necesidades de los demás en el entorno laboral, utilizando prácticas de mindfulness para mejorar la empatía, la comunicación y la cohesión en los equipos.
 
 #imagen
-`[IMG: m05-01-conexion-cabezas]` Ilustración de dos cabezas de perfil enfrentadas sobre fondo morado. De sus cabezas abiertas emergen rayos amarillos que se conectan en el centro. Pequeñas figuras humanas interactúan sobre las cabezas. Ambas figuras tienen un corazón visible en el pecho.
+![img-m05-conexion-cabezas](recursos/imagenes/img-m05-conexion-cabezas.png) Ilustración de dos cabezas de perfil enfrentadas sobre fondo morado. De sus cabezas abiertas emergen rayos amarillos que se conectan en el centro. Pequeñas figuras humanas interactúan sobre las cabezas. Ambas figuras tienen un corazón visible en el pecho.
 
 ---
 
@@ -29,7 +29,7 @@ Este módulo profundizará en la importancia de RECONOCER Y RESPONDER a las nece
 **Sistemas de Respuesta Emocional:** La amígdala, una región del cerebro encargada de procesar emociones intensas, responde a señales emocionales de los demás, como expresiones faciales o el tono de voz. Esto ocurre de manera casi automática y nos ayuda a sintonizar rápidamente con el estado emocional de la otra persona.
 
 #imagen
-`[IMG: m05-01-primates-grupo]` Fotografía de un grupo numeroso de babuinos reunidos en un entorno natural rocoso. Los primates están en diversas posiciones, algunos sentados, otros de pie, mostrando la naturaleza grupal y social de estos animales.
+![img-m05-primates-grupo](recursos/imagenes/img-m05-primates-grupo.png) Fotografía de un grupo numeroso de babuinos reunidos en un entorno natural rocoso. Los primates están en diversas posiciones, algunos sentados, otros de pie, mostrando la naturaleza grupal y social de estos animales.
 
 ---
 
@@ -47,4 +47,4 @@ La manera en que percibimos y nos relacionamos con los demás influye profundame
 *Ejemplo: Un líder que conversa con un colaborador mostrando interés genuino en sus perspectivas y experiencias, sin reducirlo solo a su rol o a su productividad.*
 
 #imagen
-`[IMG: m05-01-persona-caja-cabeza]` Ilustración conceptual de una figura humana con una caja de cartón abierta en lugar de cabeza, sobre fondo gris verdoso. Representa la despersonalización o cosificación del otro en las relaciones Yo-Ello.
+![img-m05-persona-caja-cabeza](recursos/imagenes/img-m05-persona-caja-cabeza.png) Ilustración conceptual de una figura humana con una caja de cartón abierta en lugar de cabeza, sobre fondo gris verdoso. Representa la despersonalización o cosificación del otro en las relaciones Yo-Ello.

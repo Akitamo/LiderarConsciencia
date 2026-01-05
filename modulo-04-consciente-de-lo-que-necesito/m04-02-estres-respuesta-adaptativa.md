@@ -16,7 +16,10 @@ El estrés es una **reacción adaptativa** que prepara al cuerpo para enfrentar 
 **Eustrés vs. Distrés: Dos caras del estrés**
 
 #imagen
-`[IMG: m04-02-leon-cebra-ejecutivo]` Composición vertical con dos fotografías conectadas por flecha: arriba, león persiguiendo cebra en sabana africana; abajo, escena de oficina con ejecutivos en ambiente tenso/estresante.
+![img-m04-leon-cebra](recursos/imagenes/img-m04-leon-cebra.jpeg) León persiguiendo cebra en sabana africana.
+
+#imagen
+![img-m04-ejecutivo-estres](recursos/imagenes/img-m04-ejecutivo-estres.png) Escena de oficina con ejecutivos en ambiente tenso/estresante.
 
 #explicacion
 El eustrés, también conocido como estrés positivo, es un tipo de estrés que nos motiva, nos energiza y nos ayuda a crecer. Se asocia con retos y experiencias que percibimos como positivas y emocionantes, aunque también pueden activar la respuesta de estrés del organismo.
@@ -35,7 +38,10 @@ El estrés no es solo una respuesta a factores externos, sino una experiencia al
 **Recursos internos y externos:** Estos recursos, como habilidades, apoyo social, tiempo disponible o experiencia previa, actúan como amortiguadores frente a las demandas.
 
 #imagen
-`[IMG: m04-02-percepcion-estres]` Composición de dos fotografías: arriba, persona de pie en rascacielos mirando hacia abajo desde gran altura (vista aérea de ciudad); abajo, mujer en oficina con expresión de estrés/dolor de cabeza, manos en la frente.
+![img-m04-altura-ciudad](recursos/imagenes/img-m04-altura-ciudad.png) Persona de pie en rascacielos mirando hacia abajo desde gran altura (vista aérea de ciudad).
+
+#imagen
+![img-m04-mujer-estresada](recursos/imagenes/img-m04-mujer-estresada.png) Mujer en oficina con expresión de estrés/dolor de cabeza, manos en la frente.
 
 ---
 
@@ -52,7 +58,7 @@ La respuesta de "lucha o huida", también conocida como respuesta de estrés, es
 - **Desactivación de funciones no esenciales:** El cuerpo desactiva funciones no esenciales para la supervivencia inmediata, como la digestión y el sistema inmunológico.
 
 #imagen
-`[IMG: m04-02-fight-flight-response]` Diagrama anatómico "Fight-or-flight response" mostrando figura femenina con señalizaciones de los cambios fisiológicos: tunnel vision, hearing loss, fast breathing, acceleration, converts glycogen to glucose, produces hormones, slow digestion, muscle tension, relaxation.
+![img-m04-fight-flight-response](recursos/imagenes/img-m04-fight-flight-response.png) Diagrama anatómico "Fight-or-flight response" mostrando figura femenina con señalizaciones de los cambios fisiológicos: tunnel vision, hearing loss, fast breathing, acceleration, converts glycogen to glucose, produces hormones, slow digestion, muscle tension, relaxation.
 
 ---
 
@@ -60,10 +66,10 @@ La respuesta de "lucha o huida", también conocida como respuesta de estrés, es
 **La importancia de la gestión de la respuesta a los inputs estresores**
 
 #imagen
-`[IMG: m04-02-cebras-ciclo-estres]` Secuencia de tres fotografías de cebras en sabana: 1) grupo de cebras en calma, 2) león persiguiendo cebra, 3) cebras pastando tranquilamente después del evento. A la derecha, gráfico de "Heart rate (beats per minute)" vs "Time (in minutes)" mostrando curva de respuesta al estrés con pico (Start-Finish) y retorno a nivel "Normal" con "Temporary recovery rate".
+![img-m04-cebras-ciclo-estres](recursos/imagenes/img-m04-cebras-ciclo-estres.png) Secuencia de tres fotografías de cebras en sabana: 1) grupo de cebras en calma, 2) león persiguiendo cebra, 3) cebras pastando tranquilamente después del evento. A la derecha, gráfico de "Heart rate (beats per minute)" vs "Time (in minutes)" mostrando curva de respuesta al estrés con pico (Start-Finish) y retorno a nivel "Normal" con "Temporary recovery rate".
 
 #imagen
-`[IMG: m04-02-estres-humano-acumulativo]` Gráfico de "Heart rate (beats per minute)" vs "Time (in minutes)" mostrando múltiples picos de estrés que no retornan al nivel normal. Incluye fotografías de situaciones estresantes cotidianas: ejecutivo enfadado, niño llorando, hombre preocupado en escaleras, manos con dinero escaso, persona corriendo tarde, persona agotada.
+![img-m04-estres-humano-acumulativo](recursos/imagenes/img-m04-estres-humano-acumulativo.png) Gráfico de "Heart rate (beats per minute)" vs "Time (in minutes)" mostrando múltiples picos de estrés que no retornan al nivel normal. Incluye fotografías de situaciones estresantes cotidianas: ejecutivo enfadado, niño llorando, hombre preocupado en escaleras, manos con dinero escaso, persona corriendo tarde, persona agotada.
 
 ---
 
@@ -71,11 +77,16 @@ La respuesta de "lucha o huida", también conocida como respuesta de estrés, es
 **Respuesta Adaptativa vs Respuesta no adaptativa**
 
 #imagen
-`[IMG: m04-02-respuesta-adaptativa-vs-no-adaptativa]` Comparativa de dos gráficos y fotografías:
+![img-m04-respuesta-adaptativa](recursos/imagenes/img-m04-respuesta-adaptativa.jpeg) (A) Adaptive Stress Response: Gráfico mostrando ciclo Normal state → Event → Arousal → Action to resolve → Extreme relaxation → Normal state.
 
-Izquierda - **(A) Adaptive Stress Response:** Gráfico mostrando ciclo Normal state → Event → Arousal → Action to resolve → Extreme relaxation → Normal state. Fotografía de león persiguiendo cebra.
+#imagen
+![img-m04-adaptativa-leon-cebra](recursos/imagenes/img-m04-adaptativa-leon-cebra.png) León persiguiendo cebra en la pradera - ejemplo de respuesta adaptativa al estrés en la naturaleza.
 
-Derecha - **(B) Chronic Stress Response:** Gráfico mostrando Normal state → Anticipated or perceived event → Arousal → Sustained arousal leading to exhaustion → No ability to resolve event. Fotografía de persona con manos en la cabeza en gesto de agobio.
+#imagen
+![img-m04-respuesta-cronica](recursos/imagenes/img-m04-respuesta-cronica.jpeg) (B) Chronic Stress Response: Gráfico mostrando Normal state → Anticipated or perceived event → Arousal → Sustained arousal leading to exhaustion → No ability to resolve event.
+
+#imagen
+![img-m04-cronica-agobio](recursos/imagenes/img-m04-cronica-agobio.jpeg) Persona con manos en la cabeza en gesto de agobio - ejemplo de respuesta crónica al estrés.
 
 ---
 
@@ -83,11 +94,7 @@ Derecha - **(B) Chronic Stress Response:** Gráfico mostrando Normal state → A
 **La importancia de la gestión de la respuesta a los inputs estresores**
 
 #imagen
-`[IMG: m04-02-sindrome-adaptacion-general]` Gráfico "General Adaptation Syndrome" mostrando las tres fases de la respuesta al estrés:
-- Fase 1 Alarma (Reacción y movilización de recursos) - zona rosa
-- Fase 2 Resistencia (se hace frente al estrés) - zona amarilla
-- Fase 3 Agotamiento (las reservas se vacían) - zona azul
-Con nota: "La resistencia del cuerpo al estrés solo puede durar hasta que se llegue al agotamiento."
+![img-m04-sindrome-adaptacion-general](recursos/imagenes/img-m04-sindrome-adaptacion-general.png) Gráfico "General Adaptation Syndrome" mostrando las tres fases de la respuesta al estrés: Fase 1 Alarma (Reacción y movilización de recursos), Fase 2 Resistencia (se hace frente al estrés), Fase 3 Agotamiento (las reservas se vacían). Con nota: "La resistencia del cuerpo al estrés solo puede durar hasta que se llegue al agotamiento."
 
 #imagen
-`[IMG: m04-02-stress-curve]` Gráfico "STRESS CURVE" mostrando curva de campana con Performance vs Stress Level. Zonas coloreadas: verde (too little stress/underload → inactive, laid back), amarillo-naranja (optimum stress), rojo (too much stress/overload → fatigue, exhaustion, anxiety/panic/anger, breakdown, burn-out).
+![img-m04-stress-curve](recursos/imagenes/img-m04-stress-curve.png) Gráfico "STRESS CURVE" mostrando curva de campana con Performance vs Stress Level. Zonas coloreadas: verde (too little stress/underload → inactive, laid back), amarillo-naranja (optimum stress), rojo (too much stress/overload → fatigue, exhaustion, anxiety/panic/anger, breakdown, burn-out).

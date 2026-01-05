@@ -21,10 +21,10 @@ La mente automática tiende a procesar pensamientos, emociones y sensaciones com
 La mente automática suele establecer una cadena reactiva entre pensamientos, emociones y sensaciones físicas, donde un elemento intensifica al siguiente sin intervención consciente. Mindfulness permite observar esta cadena de relaciones y entender cómo los pensamientos pueden activar emociones, cómo estas emociones generan sensaciones físicas y cómo todo el proceso ocurre de manera automática. Al notar estas relaciones, la persona puede tomar una distancia crítica y no identificarse con la cadena de reacciones automáticas.
 
 #imagen
-`[IMG: m03-04-diagrama-estimulo-respuesta]` Diagrama mostrando el flujo desde "Estímulo" (círculo naranja izquierda) hasta "Respuesta" (círculo naranja derecha), pasando por una zona intermedia con ondas sinusoidales en colores rojo, azul y gris que representan las etapas de Sensaciones, Percepción-Interpretación y Emociones.
+![img-m03-diagrama-estimulo-respuesta](recursos/imagenes/img-m03-diagrama-estimulo-respuesta.png) Diagrama mostrando el flujo desde "Estímulo" (círculo naranja izquierda) hasta "Respuesta" (círculo naranja derecha), pasando por una zona intermedia con ondas sinusoidales en colores rojo, azul y gris que representan las etapas de Sensaciones, Percepción-Interpretación y Emociones.
 
 #imagen
-`[IMG: m03-04-cita-victor-frankl]` Diagrama con dos círculos naranjas etiquetados "Stimulus" y "Response" conectados por dos barras verticales negras que representan el espacio entre ellos. Debajo, la cita de Victor Frankl: "Between stimulus and response there is a space. In that space is our power to choose our response."
+![img-m03-cita-victor-frankl](recursos/imagenes/img-m03-cita-victor-frankl.png) Diagrama con dos círculos naranjas etiquetados "Stimulus" y "Response" conectados por dos barras verticales negras que representan el espacio entre ellos. Debajo, la cita de Victor Frankl: "Between stimulus and response there is a space. In that space is our power to choose our response."
 
 #explicacion
 El mindfulness contrarresta esta tendencia al modo automático al promover un estado de observación consciente, donde la persona puede detenerse, darse cuenta de lo que surge y elegir cómo responder.

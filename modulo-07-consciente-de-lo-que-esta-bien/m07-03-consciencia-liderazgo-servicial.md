@@ -22,7 +22,7 @@ tags: [consciencia, liderazgo-servicial, mindfulness, autenticidad, compasion, e
 **Autenticidad:** Al comprenderse mejor a sí mismos, los líderes pueden actuar de manera más auténtica y coherente con sus valores. Esta autenticidad puede fortalecer las relaciones con los seguidores y fomentar la confianza.
 
 #imagen
-`[IMG: m07-03-mente-superhéroe]` Ilustración conceptual sobre fondo azul claro mostrando la silueta de una cabeza humana de perfil. En el interior de la cabeza, una figura pequeña con capa de superhéroe corre sobre engranajes, simbolizando el poder interior y la activación mental. Engranajes dorados flotan alrededor representando procesos cognitivos.
+![img-m07-mente-superheroe](recursos/imagenes/img-m07-mente-superheroe.png) Ilustración conceptual sobre fondo azul mostrando la silueta de una cabeza humana de perfil. En el interior, una figura pequeña con capa de superhéroe corre sobre engranajes, simbolizando el poder interior y la activación mental.
 
 #explicacion
 La consciencia de uno mismo es un prerrequisito esencial para un liderazgo efectivo, especialmente en el contexto del liderazgo servicial.

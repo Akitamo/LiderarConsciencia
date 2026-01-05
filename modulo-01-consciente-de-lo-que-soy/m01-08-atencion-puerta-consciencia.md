@@ -19,16 +19,15 @@ tags: [atencion, consciencia, abajo-arriba, arriba-abajo, corteza-prefrontal, go
 - Este sistema requiere esfuerzo consciente y es crucial para mantener el foco en tareas complejas, planificación y regulación de emociones
 
 #imagen
-`[IMG: m01-08-atencion-estimulo]` Imagen de un muñeco cabezón (bobblehead) de un piloto o policía con gorra azul, representando metafóricamente el modo "piloto automático" del sistema de atención de abajo-arriba.
+![img-m01-atencion-estimulo](recursos/imagenes/img-m01-atencion-estimulo.png)Imagen de un muñeco cabezón (bobblehead) de un piloto o policía con gorra azul, representando metafóricamente el modo "piloto automático" del sistema de atención de abajo-arriba.
+#imagen
+![img-m01-diagrama-stimulus-drive](recursos/imagenes/img-m01-diagrama-stimulus-driven.png)  Diagrama con silueta de persona y ondas concéntricas entrando hacia ella, etiquetado "Stimulus Driven Attention". Representa la atención capturada por estímulos externos (sistema abajo-arriba).
 
 #imagen
-`[IMG: m01-08-atencion-dirigida]` Fotografía de un director de orquesta visto desde atrás, dirigiendo a una orquesta sinfónica completa. Representa el sistema de atención de arriba-abajo: la capacidad de dirigir intencionalmente la atención, como un director que coordina y focaliza los diferentes elementos de la orquesta.
+![img-m01-atencion-dirigida](recursos/imagenes/img-m01-atencion-dirigida.png)Fotografía de un director de orquesta visto desde atrás, dirigiendo a una orquesta sinfónica completa. Representa el sistema de atención de arriba-abajo: la capacidad de dirigir intencionalmente la atención, como un director que coordina y focaliza los diferentes elementos de la orquesta.
 
 #imagen
-`[IMG: m01-08-diagrama-stimulus-driven]` Diagrama con silueta de persona y ondas concéntricas entrando hacia ella, etiquetado "Stimulus Driven Attention". Representa la atención capturada por estímulos externos (sistema abajo-arriba).
-
-#imagen
-`[IMG: m01-08-diagrama-goal-directed]` Diagrama con silueta de persona y flechas saliendo de ella hacia afuera, etiquetado "Goal Directed Attention". Representa la atención dirigida intencionalmente hacia objetivos (sistema arriba-abajo).
+![img-m01-diagrama-goal-directed](recursos/imagenes/img-m01-diagrama-goal-directed.png) Diagrama con silueta de persona y flechas saliendo de ella hacia afuera, etiquetado "Goal Directed Attention". Representa la atención dirigida intencionalmente hacia objetivos (sistema arriba-abajo).
 
 #explicacion
 Los procesos de arriba abajo son muy poderosos a la hora de esclavizar a la información viva que accede momento a momento, ya que están respaldados por una conectividad neural muy potente (Siegel, 2007). La información del aquí y ahora (de abajo arriba) tiene, por tanto, muchas dificultades para hacer llegar a la conciencia su auténtico mensaje. La riqueza de matices presente en los niveles sensoriales iniciales se va perdiendo a medida que los procesos de arriba abajo surten su efecto y asimilan su contenido informativo a categorías previamente determinadas.
@@ -44,16 +43,15 @@ Sistema de Arriba-Abajo:
 En contraste, el sistema de arriba-abajo es más lento, deliberado y controlado por la corteza prefrontal, permitiéndonos dirigir intencionalmente nuestra atención hacia lo que decidimos priorizar. Este sistema requiere esfuerzo consciente y es crucial para mantener el foco en tareas complejas, planificación y regulación de emociones. Por ejemplo, cuando decidimos concentrarnos en una lectura profunda o evitar responder impulsivamente a una situación emocional, estamos empleando el sistema de arriba-abajo para ejercer control sobre los impulsos automáticos generados por el sistema de abajo-arriba.
 
 ---
-
-#imagen
-`[IMG: m01-08-soda-desactivar-automatismo]` Recuadro azul con texto "Desactivando el piloto automático: SODA ('Si Observas Desactivas el Automatismo')". Concepto clave que sintetiza cómo la observación consciente desactiva las respuestas automáticas.
-
 #teoria
 **EL MODO EN QUE DESPLEGAMOS NUESTRA ATENCIÓN DETERMINA LO QUE VEMOS**
+#imagen
+![img-m01-soda-desactivar-automatismo](recursos/imagenes/img-m01-soda-desactivar-automatismo.png) "Desactivando el piloto automático: SODA ('Si Observas Desactivas el Automatismo')". Concepto clave que sintetiza cómo la observación consciente desactiva las respuestas automáticas.
 
+#cita 
 "La atención proporciona el mecanismo «que subyace a nuestra conciencia del mundo y a la regulación voluntaria de nuestros pensamientos y sentimientos".
 *Michael Posner y Mary Rothbart (neurocientíficos cognitivos)*
-
+#cita 
 "La capacidad de centrar deliberadamente la atención errante una y otra vez constituye el fundamente del discernimiento, el carácter y la voluntad. Una estructura educativa que se dedicara a adiestrar esta facultad sería la educación por antonomasia"
 *Williams James, "The Principles of Psychology"*
 
@@ -63,7 +61,7 @@ En contraste, el sistema de arriba-abajo es más lento, deliberado y controlado 
 QUE PUEDE SER ENTRENADO Y FORTALECIDO
 
 #imagen
-`[IMG: m01-08-bombillas-atencion]` Secuencia de tres bombillas representando niveles de atención: una bombilla encendida con luz cálida intensa (atención plena), una bombilla con luz media (atención parcial), y una bombilla apagada (sin atención). Metáfora visual de cómo la atención es un recurso limitado que puede "agotarse".
+ ![img-m01-bombillas-apagan](recursos/imagenes/img-m01-bombillas-apagan.png)Secuencia de tres bombillas representando niveles de atención: una bombilla encendida con luz cálida intensa (atención plena), una bombilla con luz media (atención parcial), y una bombilla apagada (sin atención). Metáfora visual de cómo la atención es un recurso limitado que puede "agotarse".
 
 #imagen
-`[IMG: m01-08-cerebro-pesas]` Ilustración de un cerebro antropomorfizado con brazos y piernas levantando una barra de pesas. Representa el concepto de que la atención, como un músculo, puede ser entrenada y fortalecida mediante la práctica deliberada.
+![img-m01-cerebro-pesas](recursos/imagenes/img-m01-cerebro-pesas.png) Ilustración de un cerebro antropomorfizado con brazos y piernas levantando una barra de pesas. Representa el concepto de que la atención, como un músculo, puede ser entrenada y fortalecida mediante la práctica deliberada.

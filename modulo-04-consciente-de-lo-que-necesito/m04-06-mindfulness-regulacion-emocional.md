@@ -29,12 +29,12 @@ Aquí hay algunos efectos y estudios clave del mindfulness en la regulación emo
 
 **La investigación sugiere que el mindfulness juega un papel importante en la regulación emocional efectiva.** La forma en que las personas regulan sus emociones puede afectar una serie de resultados conductuales, como el uso de sustancias y los resultados de la abstinencia. La regulación emocional puede ser un mecanismo por el cual el mindfulness promueve patrones de alimentación más saludables.
 
-#imagen
-`[IMG: m04-06-handbook-mindfulness]` Portada del libro "Handbook of Mindfulness and Self-Regulation" (Springer) editado por Brian D. Ostafin, Michael D. Robinson y Brian P. Meier. Portada con diseño abstracto en tonos azules y naranjas.
+#imagen #referencia 
+![img-m04-handbook-mindfulness](recursos/imagenes/img-m04-handbook-mindfulness.png) Portada del libro "Handbook of Mindfulness and Self-Regulation" (Springer) editado por Brian D. Ostafin, Michael D. Robinson y Brian P. Meier. Portada con diseño abstracto en tonos azules y naranjas.
 
 ---
 
-#teoria
+#teoria #referencia 
 **W.L. Heppner et al.**
 
 Research on other behavioral outcomes (e.g., eating) also demonstrates burgeoning evidence that mindfulness aids in the self-regulation of behaviors through its effects on emotion regulation. For example, mindfulness-based treatment programs have been applied to food cravings and eating disorders with some positive results (see Kristeller, Baer, & Quillian-Wolever, 2006, for a review) and aspects of trait mindfulness (Nonjudging and Acting with Awareness) have been linked to fewer eating disorder symptoms (Adams et al., 2012).

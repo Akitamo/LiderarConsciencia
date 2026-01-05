@@ -8,6 +8,10 @@ tags: [emociones, pensamiento, neurociencia, afecto, cognicion, amigdala, insula
 
 # La inseparabilidad de la emoción y el pensamiento
 
+#imagen
+![img-m03-otros-dos-afluentes-atencion](recursos/imagenes/img-m03-otros-dos-afluentes-atencion.png) Imagen que muestra de forma destacada los dos circulos de la atención que hacen referencia a pensamiento y emoción después de haber analizado en el módulo anterior el círculo referido a las sensaciones
+
+
 #teoria
 La Inseparabilidad del Pensamiento y la Emoción
 
@@ -19,7 +23,7 @@ La neurociencia moderna ha demostrado que la emoción y el pensamiento, lejos de
 - Diversas áreas del cerebro, como la amígdala, la ínsula y la corteza prefrontal, trabajan en conjunto para integrar la información emocional y cognitiva.
 
 #imagen
-`[IMG: m03-01-diagrama-emocion-pensamiento-accion]` Diagrama conceptual mostrando tres elementos interconectados con flechas bidireccionales: un corazón con la etiqueta "EMOCIÓN", un cerebro con la etiqueta "PENSAMIENTO", y una espiral con la etiqueta "ACCIÓN". Estilo de dibujo a mano en trazos negros.
+![img-m03-diagrama-emocion-pensamiento-accion](recursos/imagenes/img-m03-diagrama-emocion-pensamiento-accion.png) Diagrama conceptual mostrando tres elementos interconectados con flechas bidireccionales: un corazón con la etiqueta "EMOCIÓN", un cerebro con la etiqueta "PENSAMIENTO", y una espiral con la etiqueta "ACCIÓN". Estilo de dibujo a mano en trazos negros.
 
 #teoria
 La transformación de la concepción tradicional de la emoción en la ciencia
@@ -33,8 +37,8 @@ La ciencia moderna ha revolucionado nuestra comprensión de la emoción, desafia
 - Del enfoque en la emoción negativa a la importancia de la emoción positiva
 - De la idea de emociones universales a la influencia de la cultura y la experiencia
 
-#imagen
-`[IMG: m03-01-estudio-redes-semanticas-emociones]` Captura de publicación científica del Max Planck Institute of Geoanthropology titulada "The meaning of emotion: Cultural and biological evolution impact how humans feel feelings". Incluye tres gráficos de redes semánticas de emociones etiquetados como "Universal", "Austronesian" e "Indo-European", mostrando nodos de colores (azul, rojo, amarillo, verde) conectados representando diferentes emociones y sus relaciones en distintas familias lingüísticas.
+#imagen #referencia 
+![img-m03-estudio-redes-semanticas-emociones](recursos/imagenes/img-m03-estudio-redes-semanticas-emociones.png) Captura de publicación científica del Max Planck Institute of Geoanthropology titulada "The meaning of emotion: Cultural and biological evolution impact how humans feel feelings". Incluye tres gráficos de redes semánticas de emociones etiquetados como "Universal", "Austronesian" e "Indo-European", mostrando nodos de colores (azul, rojo, amarillo, verde) conectados representando diferentes emociones y sus relaciones en distintas familias lingüísticas.
 
 #explicacion
 De un número limitado de emociones "básicas" a un espectro más amplio: La teoría tradicional se centraba en un pequeño conjunto de emociones consideradas universales, como el miedo, la ira, la tristeza y la felicidad. La neurociencia afectiva ha ampliado esta visión, reconociendo una gama mucho más amplia de emociones, incluyendo emociones sociales como la vergüenza, la culpa, el orgullo y los celos.

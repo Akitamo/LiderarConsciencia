@@ -9,7 +9,7 @@ tags: [proposito, objetivos, intencion, alineamiento, coherencia, motivacion, re
 # Importancia de alinear el propósito personal con los objetivos profesionales y con la intención de cada acción y decisión
 
 #imagen
-`[IMG: m06-02-modelo-alineamiento]` Diagrama del modelo mostrando el óvalo con niveles "Conductual", "Profesional" y "Personal", con la línea temporal Propósito→Objetivos→Intención. Flechas bidireccionales (naranja hacia derecha, verde hacia izquierda) indican el alineamiento en ambos sentidos.
+![img-m06-modelo-alineamiento](recursos/imagenes/img-m06-modelo-alineamiento.png) Diagrama del modelo mostrando el óvalo con niveles "Conductual", "Profesional" y "Personal", con la línea temporal Propósito→Objetivos→Intención.
 
 #teoria
 Alineamiento en los dos sentidos:
@@ -42,7 +42,10 @@ Bienestar y Sostenibilidad Personal: Alinear el propósito y los objetivos permi
 ---
 
 #imagen
-`[IMG: m06-02-sesgos-decisiones]` Diagrama con el modelo a la izquierda. A la derecha, señal de advertencia amarilla con figura tropezando ("CUIDADO CON EL ESCALÓN") y comparativa Sistema 1 (95%, cerebro rápido) vs Sistema 2 (5%, cerebro analítico). Debajo, lista de sesgos cognitivos.
+![img-m06-cuidado-escalon](recursos/imagenes/img-m06-cuidado-escalon.png) Señal de advertencia "Cuidado con el escalón" con figura tropezando, representando los sesgos cognitivos como obstáculos en la toma de decisiones.
+
+#imagen
+![img-m06-sistema1-sistema2](recursos/imagenes/img-m06-sistema1-sistema2.png) Comparativa Sistema 1 (95%) vs Sistema 2 (5%): el cerebro rápido e intuitivo frente al analítico y reflexivo.
 
 #teoria
 En un estudio clásico, se pidió a los participantes que leyeran información sobre la pena de muerte y luego evaluaran su postura al respecto. Los resultados mostraron que las personas que estaban a favor de la pena capital tendían a recordar mejor los argumentos que la apoyaban, mientras que aquellos que estaban en contra recordaban mejor los argumentos que la refutaban.

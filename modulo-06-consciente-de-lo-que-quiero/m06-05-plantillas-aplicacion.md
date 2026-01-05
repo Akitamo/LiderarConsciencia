@@ -9,7 +9,10 @@ tags: [modelo, plantilla, aplicacion, reuniones, antes, durante, despues, intenc
 # Modelo para orientar acciones y decisiones con consciencia - Plantillas de aplicación
 
 #imagen
-`[IMG: m06-05-modelo-integrado]` Diagrama completo del modelo sobre fondo azul. A la izquierda, óvalo con niveles Conductual/Profesional/Personal y línea Propósito→Objetivos→Intención. En el centro, área de "Contexto" y "Atención" con los 5 módulos de consciencia alrededor. Arriba, indicadores "01 Antes", "02 Durante", "03 Después". Abajo, iconos de Reuniones, Planning, Mails. A la derecha, ilustración de personas colaborando ensamblando piezas de puzzle gigantes en colores naranja, azul y verde.
+![img-m06-modelo-integrado](recursos/imagenes/img-m06-modelo-integrado.png) Diagrama completo del modelo sobre fondo azul: óvalo con niveles Conductual/Profesional/Personal, línea temporal Propósito→Objetivos→Intención, área central de Contexto y Atención con los 5 módulos de consciencia alrededor, indicadores de fase 01 Antes, 02 Durante, 03 Después, e iconos de Reuniones, Planning, Mails.
+
+#imagen
+![img-m06-puzzle-colaborativo](recursos/imagenes/img-m06-puzzle-colaborativo.png) Ilustración de personas colaborando ensamblando piezas de puzzle gigantes en colores naranja y azul, representando el trabajo en equipo y la integración de elementos.
 
 ---
 
@@ -17,7 +20,7 @@ tags: [modelo, plantilla, aplicacion, reuniones, antes, durante, despues, intenc
 ## Plantilla 01-ANTES
 
 #imagen
-`[IMG: m06-05-plantilla-antes]` Tabla/plantilla con encabezado verde "01-ANTES". Fotografía de reunión de trabajo (personas alrededor de mesa con portátiles) en esquina superior izquierda con etiqueta "INTENCIÓN". Columnas de la plantilla: "CONSCIENTE DE LO QUE SOY", "CONSCIENTE DE LO QUE SIENTO", "CONSCIENTE DE LO QUE PIENSO_SIENTO", "CONSCIENTE DE LO QUE NECESITO", "CONSCIENTE DE LO QUE NECESITAMOS". Filas vacías para completar.
+![img-m06-plantilla-antes](recursos/imagenes/img-m06-plantilla-antes.png) Plantilla 01-ANTES con encabezado verde. Fotografía de reunión de trabajo con etiqueta "INTENCIÓN". Columnas: "Consciente de lo que soy", "Consciente de lo que siento", "Consciente de lo que pienso_siento", "Consciente de lo que necesito", "Consciente de lo que necesitamos".
 
 ---
 
@@ -25,7 +28,7 @@ tags: [modelo, plantilla, aplicacion, reuniones, antes, durante, despues, intenc
 ## Plantilla 02-DURANTE
 
 #imagen
-`[IMG: m06-05-plantilla-durante]` Tabla/plantilla con encabezado cian "02-DURANTE". Fotografía de reunión de trabajo (personas alrededor de mesa con portátiles) en esquina superior izquierda con etiqueta "INTENCIÓN". Columnas de la plantilla: "CONSCIENTE DE LO QUE SOY", "CONSCIENTE DE LO QUE SIENTO", "CONSCIENTE DE LO QUE PIENSO_SIENTO", "CONSCIENTE DE LO QUE NECESITO", "CONSCIENTE DE LO QUE NECESITAMOS". Filas vacías para completar.
+![img-m06-plantilla-durante](recursos/imagenes/img-m06-plantilla-durante.png) Plantilla 02-DURANTE con encabezado cian. Fotografía de reunión de trabajo con etiqueta "INTENCIÓN". Columnas: "Consciente de lo que soy", "Consciente de lo que siento", "Consciente de lo que pienso_siento", "Consciente de lo que necesito", "Consciente de lo que necesitamos".
 
 ---
 
@@ -33,4 +36,4 @@ tags: [modelo, plantilla, aplicacion, reuniones, antes, durante, despues, intenc
 ## Plantilla 03-DESPUÉS
 
 #imagen
-`[IMG: m06-05-plantilla-despues]` Tabla/plantilla con encabezado coral/rosa "03-DESPUÉS". Fotografía de reunión de trabajo (personas alrededor de mesa con portátiles) en esquina superior izquierda con etiqueta "INTENCIÓN". Columnas de la plantilla: "CONSCIENTE DE LO QUE SOY", "CONSCIENTE DE LO QUE SIENTO", "CONSCIENTE DE LO QUE PIENSO_SIENTO", "CONSCIENTE DE LO QUE NECESITO", "CONSCIENTE DE LO QUE NECESITAMOS". Filas vacías para completar.
+![img-m06-plantilla-despues](recursos/imagenes/img-m06-plantilla-despues.png) Plantilla 03-DESPUÉS con encabezado coral/rosa. Fotografía de reunión de trabajo con etiqueta "INTENCIÓN". Columnas: "Consciente de lo que soy", "Consciente de lo que siento", "Consciente de lo que pienso_siento", "Consciente de lo que necesito", "Consciente de lo que necesitamos".

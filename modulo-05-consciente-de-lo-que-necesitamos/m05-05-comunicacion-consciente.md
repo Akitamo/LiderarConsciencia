@@ -24,7 +24,7 @@ La comunicación consciente implica **estar plenamente presente** durante la int
 **Claridad en la Expresión:** Ser claro y honesto al comunicar nuestros propios pensamientos y sentimientos, evitando ambigüedades y suposiciones.
 
 #imagen
-`[IMG: m05-05-comunicacion-consciente]` Ilustración de tres figuras humanas estilizadas en tonos grises y azules. Dos figuras se miran de frente mientras una tercera observa desde atrás. Las figuras tienen ojos representados como círculos azules y rosas, sugiriendo diferentes perspectivas en la comunicación.
+![img-m05-comunicacion-consciente](recursos/imagenes/img-m05-comunicacion-consciente.png) Ilustración de dos figuras humanas estilizadas en tonos grises mirándose a través de prismáticos con lentes azules y rosas. Los brazos se cruzan en el centro, sugiriendo diferentes perspectivas en la comunicación y la importancia de ver desde el punto de vista del otro.
 
 ---
 
@@ -42,7 +42,7 @@ El modelo de Escucha Profunda se compone de tres habilidades centrales intercone
 **3.Conexión Compasiva:** Este componente introduce la dimensión de la compasión en la escucha. Se trata de conectar con el sufrimiento del hablante y de nosotros mismos con amabilidad y comprensión.
 
 #imagen
-`[IMG: m05-05-modelo-escucha-profunda]` Diagrama de Venn con tres círculos interconectados titulado "The Deep Listening Model" (Figure 6.1). Los tres círculos representan: "Coming to EMBODIED AWARENESS", "Holding SUPPORTIVE PRESENCE", y "Generating COMPASSIONATE CONNECTION". En el centro donde se cruzan los tres: "AWARENESS CENTRED DEEP LISTENING".
+![img-m05-modelo-escucha-profunda](recursos/imagenes/img-m05-modelo-escucha-profunda.png) Diagrama de Venn con tres círculos interconectados titulado "The Deep Listening Model" (Figure 6.1). Los tres círculos representan: "Coming to EMBODIED AWARENESS", "Holding SUPPORTIVE PRESENCE", y "Generating COMPASSIONATE CONNECTION". En el centro donde se cruzan los tres: "AWARENESS CENTRED DEEP LISTENING".
 
 #explicacion
 Detalle del modelo de Escucha Profunda:
@@ -69,4 +69,4 @@ La Comunicación de Zona Verde, es un enfoque de comunicación consciente desarr
 **Rojo:** Indica un estado de cierre, donde la comunicación se ha detenido. En este estado, se erigen barreras entre nosotros y los demás, y la intención se centra en "Yo Primero". Es un estado inconsciente donde dejamos de escuchar con atención y podemos mostrar comportamientos defensivos o agresivos.
 
 #imagen
-`[IMG: m05-05-semaforo-comunicacion]` Ilustración de un semáforo con tres luces y sus correspondientes etiquetas a la derecha. Luz roja: "PARAR". Luz amarilla: "PENSAR". Luz verde: "ACTUAR". Representa el modelo de comunicación de zona verde de Susan Gillis Chapman.
+![img-m05-semaforo-comunicacion](recursos/imagenes/img-m05-semaforo-comunicacion.png) Ilustración de un semáforo con tres luces y sus correspondientes etiquetas a la derecha. Luz roja: "PARAR". Luz amarilla: "PENSAR". Luz verde: "ACTUAR". Representa el modelo de comunicación de zona verde de Susan Gillis Chapman.

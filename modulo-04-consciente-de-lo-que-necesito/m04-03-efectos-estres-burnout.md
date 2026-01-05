@@ -8,14 +8,23 @@ tags: [estres, burnout, salud, liderazgo, organizacion, alimentacion, autocuidad
 
 # Efectos negativos del estrés y burnout
 
-#imagen
-`[IMG: m04-03-estadisticas-estres-global]` Composición de tres elementos:
+#imagen #referencia 
+![img-m04-gallup-portada](recursos/imagenes/img-m04-gallup-portada.png) Portada del informe Gallup "State of the Global Workplace" - The Voice of the World's Employees.
 
-1. **Informe Gallup "State of the Global Workplace"** - Gráfico "Daily Stress" mostrando evolución del % YES global desde 2009 (31%) hasta 2023 (41%). Incluye comparativa "Managers have more negative experiences than non-managers" con datos de 2023: Stress 40%/41%, Anger 19%/24%, Sadness 21%/24%, Loneliness 20%/21%, Worry 36%/39%.
+#imagen #referencia 
+![img-m04-gallup-daily-stress](recursos/imagenes/img-m04-gallup-daily-stress.png) Informe Gallup "State of the Global Workplace" - Gráfico "Daily Stress" mostrando evolución del % YES global desde 2009 (31%) hasta 2023 (41%).
 
-2. **Daily Negative Emotions** - Estadísticas: STRESS 41% (-3), ANGER 21% (0), SADNESS 22% (+1), LONELINESS 20%.
+#imagen #referencia 
+![img-m04-managers-experiencias](recursos/imagenes/img-m04-managers-experiencias.png) Comparativa "Managers have more negative experiences than non-managers" con datos de 2023: Stress 40%/41%, Anger 19%/24%, Sadness 21%/24%, Loneliness 20%/21%, Worry 36%/39%.
 
-3. **Informe Anual del Sistema Nacional de Salud 2023** - Gráfico "Problemas de salud mental más frecuentes" mostrando prevalencia por 1.000 habitantes en España 2016-2022 de: Trastornos de la ansiedad (de 49,6 a 106,5), Trastornos del sueño (de 39,1 a 47,8), Trastornos depresivos (de 41,3 a 81,6).
+#imagen #referencia 
+![img-m04-emociones-negativas](recursos/imagenes/img-m04-emociones-negativas.png) Estadísticas "Daily Negative Emotions": STRESS 41% (-3), ANGER 21% (0), SADNESS 22% (+1), LONELINESS 20%.
+
+#imagen #referencia 
+![img-m04-informe-sns-2023](recursos/imagenes/img-m04-informe-sns-2023.png) Informe Anual del Sistema Nacional de Salud 2023 - Problemas de salud mental más frecuentes en España 2016-2022: Trastornos de ansiedad, trastornos del sueño, trastornos depresivos.
+
+#imagen #referencia 
+![img-m04-sns-salud-mental](recursos/imagenes/img-m04-sns-salud-mental.png) Gráfico "Problemas de salud mental más frecuentes" - Prevalencia por 1.000 habitantes en España 2016-2022: Trastornos de la ansiedad (de 49,6 a 106,5), Trastornos del sueño (de 39,1 a 47,8), Trastornos depresivos (de 41,3 a 81,6).
 
 ---
 
@@ -31,7 +40,7 @@ tags: [estres, burnout, salud, liderazgo, organizacion, alimentacion, autocuidad
 - **Consecuencias ocupacionales:** La fatiga laboral puede llevar a una disminución en la satisfacción laboral, un aumento del ausentismo laboral, y un mayor riesgo de recibir una pensión por discapacidad.
 
 #imagen
-`[IMG: m04-03-plos-one-burnout]` Captura de artículo científico PLOS ONE: "Physical, psychological and occupational consequences of job burnout: A systematic review of prospective studies" (Salvagioni et al., 2017). DOI: https://doi.org/10.1371/journal.pone.0185781
+![img-m04-plos-one-burnout](recursos/imagenes/img-m04-plos-one-burnout.png) Artículo científico PLOS ONE: "Physical, psychological and occupational consequences of job burnout: A systematic review of prospective studies" (Salvagioni et al., 2017). DOI: https://doi.org/10.1371/journal.pone.0185781
 
 ---
 
@@ -52,8 +61,8 @@ tags: [estres, burnout, salud, liderazgo, organizacion, alimentacion, autocuidad
 
 - **Dificultad para cambiar hábitos:** El estrés puede dificultar la adopción de hábitos saludables y el abandono de los negativos, ya que las personas buscan alivio inmediato en lugar de bienestar a largo plazo.
 
-#imagen
-`[IMG: m04-03-noticia-estres-cancer]` Captura de noticia 20minutos SALUD: "La falta de sueño y el estrés aumentan el riesgo de sufrir cáncer de colon, según nuevos estudios científicos" (Jorge García, 16.10.2024). Subtítulo: "Dos estudios han relacionado el estrés crónico y la falta de sueño con el cáncer de colon, a través de cambios en la diversidad del microbioma intestinal."
+#imagen #referencia 
+![img-m04-noticia-estres-cancer](recursos/imagenes/img-m04-noticia-estres-cancer.png) Noticia 20minutos SALUD: "La falta de sueño y el estrés aumentan el riesgo de sufrir cáncer de colon, según nuevos estudios científicos" (Jorge García, 16.10.2024). Dos estudios han relacionado el estrés crónico y la falta de sueño con el cáncer de colon, a través de cambios en la diversidad del microbioma intestinal.
 
 ---
 
@@ -74,5 +83,5 @@ tags: [estres, burnout, salud, liderazgo, organizacion, alimentacion, autocuidad
 
 - **Pérdida de Motivación y Rendimiento:** Un ambiente laboral estresante disminuye la motivación y el rendimiento del equipo.
 
-#imagen
-`[IMG: m04-03-gallup-engagement]` Informe Gallup "State of the Global Workplace" - Hallazgo 02: "When managers are engaged, employees are more likely to be engaged." Gráfico de dispersión "Country-Level Relationship Between Manager and Non-Manager Engagement" (r=0.58) mostrando correlación positiva entre % Engaged-Manager y % Engaged-Non-Manager, con países etiquetados: Lesotho, Jamaica, U.S., Mexico, India, Germany, Australia, U.K., France, Pakistan.
+#imagen #referencia 
+![img-m04-gallup-engagement](recursos/imagenes/img-m04-gallup-engagement.png) Informe Gallup "State of the Global Workplace" - Hallazgo 02: "When managers are engaged, employees are more likely to be engaged." Gráfico de dispersión "Country-Level Relationship Between Manager and Non-Manager Engagement" (r=0.58) mostrando correlación positiva entre % Engaged-Manager y % Engaged-Non-Manager.

@@ -25,18 +25,26 @@ No se trata solo de percibir el presente, sino de proyectar y prepararnos para e
 Sistema de Supervivencia Eficiente: A lo largo de millones de años, el cerebro ha evolucionado de tal manera que cada una de sus partes cumple una función crucial en la anticipación y adaptación al entorno. Este diseño no es accidental; ha sido moldeado para responder rápidamente a las amenazas, reconocer patrones en el entorno y aprovechar las oportunidades de forma precisa y eficiente.
 
 #imagen
-`[IMG: m01-01-hominido-depredadores]` Dos ilustraciones de homínidos prehistóricos enfrentándose a depredadores: izquierda muestra homínido frente a tigre dientes de sable, derecha muestra homínido huyendo de dinosaurio
+![img-m01-hominido-tigre](recursos/imagenes/img-m01-hominido-tigre.png) Homínido prehistórico enfrentándose a un tigre dientes de sable.
 
 #imagen
-`[IMG: m01-01-evolucion-cerebro]` Secuencia evolutiva mostrando mono confundido con interrogaciones, flecha hacia secuencia de 4 homínidos en progresión evolutiva (de primate a humano moderno) con cerebros vistos desde arriba mostrando incremento progresivo de tamaño y complejidad
+![img-m01-hominido-dinosaurio](recursos/imagenes/img-m01-hominido-dinosaurio.png) Homínido prehistórico huyendo de un dinosaurio depredador.
 
+#imagen
+![img-m01-mono-confundido](recursos/imagenes/img-m01-mono-confundido.jpeg) Mono confundido con signos de interrogación, representando el punto de partida de la evolución cognitiva.
+
+#imagen
+![img-m01-evolucion-cerebro](recursos/imagenes/img-m01-evolucion-cerebro.png) Secuencia de 4 homínidos en progresión evolutiva (de primate a humano moderno) con cerebros vistos desde arriba mostrando incremento progresivo de tamaño y complejidad.
+
+#ejercicio #Gif 
+![Gif-m01-cerebro-huida](recursos/imagenes/Gif-m01-cerebro-huida.gif)Ejercicio dinámica mostrar qué cerebro es el que ha evolucionado con la necesidad de supervivencia (dinamización de las imagenes anteriores)
 #teoria
 El cerebro crearía un "modelo del mundo" para anticipar eventos futuros.
 
 La evolución ha favorecido este sistema por su capacidad de aumentar las posibilidades de supervivencia. Las redes neuronales, la memoria, los sentidos, la corteza asociativa y las emociones trabajan en conjunto para generar este "teatro mental" que nos permite navegar por el mundo e interactuar con él.
 
 #imagen
-`[IMG: m01-01-libro-rafael-yuste]` Portada del libro "El cerebro, el teatro del mundo" de Rafael Yuste con subtítulo "Descubre cómo funciona y cómo crea nuestra realidad"
+![img-m01-libro-rafael-yuste](recursos/imagenes/img-m01-libro-rafael-yuste.jpeg) Portada del libro "El cerebro, el teatro del mundo" de Rafael Yuste con subtítulo "Descubre cómo funciona y cómo crea nuestra realidad".
 
 #imagen
 ![img-m01-diagrama-modelo-mundo](recursos/imagenes/img-m01-diagrama-modelo-mundo.png) Diagrama circular con cerebro en el centro rodeado de 4 elementos conectados: "Memoria y recuerdos" (arriba), "Emociones" (derecha), "Información sentidos" (abajo), "Modelo del mundo" (izquierda). Todos conectados por flechas bidireccionales hacia "Supervivencia" en el exterior

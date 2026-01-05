@@ -17,7 +17,7 @@ tags: [liderazgo-etico, paradigma, valores, virtud, prudencia, integridad, trans
 	- 3- que actúe con integridad y coherencia
 
 #imagen
-`[IMG: m07-02-escalera-ayuda]` Ilustración estilizada mostrando tres figuras de empresarios en una escalera ascendente. El que está más arriba extiende la mano para ayudar al siguiente a subir, mientras este a su vez ayuda al tercero. Al fondo, una bandera verde marca la meta. Fondo en tonos beige claro.
+![img-m07-escalera-ayuda](recursos/imagenes/img-m07-escalera-ayuda.png) Ilustración estilizada mostrando dos figuras de empresarios en una escalera ascendente. El que está más arriba extiende la mano para ayudar al siguiente a subir. Al fondo, una bandera verde marca la meta. Fondo en tonos beige claro.
 
 ---
 
@@ -29,7 +29,7 @@ tags: [liderazgo-etico, paradigma, valores, virtud, prudencia, integridad, trans
 - **La prudencia,** en particular, se destaca como la virtud cardinal para el liderazgo ético. Esta virtud, **que permite discernir el bien en cada situación**, es fundamental para tomar decisiones sabias, guiar a otros con rectitud y actuar con justicia y equilibrio.
 
 #imagen
-`[IMG: m07-02-muerte-socrates]` Reproducción del cuadro "La muerte de Sócrates" de Jacques-Louis David. Escena clásica mostrando a Sócrates en el centro, semidesnudo con túnica blanca, brazo alzado señalando hacia arriba mientras con la otra mano alcanza la copa de cicuta. Rodeado de discípulos afligidos en distintas posturas de dolor y reflexión.
+![img-m07-muerte-socrates](recursos/imagenes/img-m07-muerte-socrates.png) Reproducción del cuadro "La muerte de Sócrates" de Jacques-Louis David. Escena clásica mostrando a Sócrates en el centro, semidesnudo con túnica blanca, brazo alzado señalando hacia arriba mientras con la otra mano alcanza la copa de cicuta. Rodeado de discípulos afligidos.
 
 ---
 
@@ -61,4 +61,4 @@ Los líderes éticos generan confianza a través de su fiabilidad, credibilidad 
 Los líderes éticos reconocen su responsabilidad de contribuir positivamente a la sociedad y a la comunidad en general. y se esfuerzan por tomar decisiones éticas que beneficien no sólo a su organización, sino también a la sociedad en su conjunto.
 
 #imagen
-`[IMG: m07-02-infografia-8-rasgos]` Infografía circular con "8 rasgos del líder ético" en el centro. Ocho segmentos de colores (amarillo, rojo, verde, azul) rodean el centro, cada uno con un icono y título: Integridad (apretón de manos), Equidad (balanza), Seguridad (escudo), Transparencia (lupa), Predicar con el ejemplo (figura guía), Empatía-Compasión (manos unidas), Confiabilidad (corazón con check), Responsabilidad Social (globo con manos). Cada segmento incluye descripción del rasgo.
+![img-m07-infografia-8-rasgos](recursos/imagenes/img-m07-infografia-8-rasgos.png) Infografía circular con ocho segmentos de colores (amarillo, rojo, verde, azul). Cada segmento con un icono representando los 8 rasgos del líder ético: Integridad, Equidad, Seguridad, Transparencia, Predicar con el ejemplo, Empatía-Compasión, Confiabilidad y Responsabilidad Social.

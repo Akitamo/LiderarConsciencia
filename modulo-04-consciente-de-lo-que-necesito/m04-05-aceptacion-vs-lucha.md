@@ -8,15 +8,14 @@ tags: [mindfulness, aceptacion, lucha, resiliencia, regulacion-emocional, davids
 
 # La aceptación en el mindfulness frente a la lucha
 
-#teoria
+#referencia 
 **Alterations in Brain and Immune Function Produced by Mindfulness Meditation (Davidson et al., 2003)**
 
-#imagen
-`[IMG: m04-05-davidson-graficos]` Dos gráficos del estudio Davidson et al. (2003):
+#imagen #referencia 
+![img-m04-davidson-eeg](recursos/imagenes/img-m04-davidson-eeg.png) Gráfico del estudio Davidson et al. (2003): "Baseline EEG prefrontal α-asymmetry at Time 1 and Time 3" - Gráfico de barras comparando grupo Control (barras negras) vs Treatment (barras rayadas grises) en Time 1 y Time 3. Eje Y: "Log Right-Left Alpha Power in μV/Hz" (-0.25 a 0.2). Nota: "Higher numbers indicate left-sided activation". Muestra incremento significativo de activación izquierda en grupo Treatment en Time 3.
 
-**Gráfico izquierdo:** "Baseline EEG prefrontal α-asymmetry at Time 1 and Time 3" - Gráfico de barras comparando grupo Control (barras negras) vs Treatment (barras rayadas grises) en Time 1 y Time 3. Eje Y: "Log Right-Left Alpha Power in μV/Hz" (-0.25 a 0.2). Nota: "Higher numbers indicate left-sided activation". Muestra incremento significativo de activación izquierda en grupo Treatment en Time 3.
-
-**Gráfico derecho:** "Antibody rise from the 3- to 5-week to the 8- to 9-week" - Gráfico de barras comparando Control (~2.19) vs Meditation (~2.29). Eje Y: "Log Transformed Antibody Rise from 3-5 Week to 8-9 Week Post-Vaccine".
+#imagen #referencia 
+![img-m04-davidson-anticuerpos](recursos/imagenes/img-m04-davidson-anticuerpos.png) Gráfico del estudio Davidson et al. (2003): "Antibody rise from the 3- to 5-week to the 8- to 9-week" - Gráfico de barras comparando Control (~2.19) vs Meditation (~2.29). Eje Y: "Log Transformed Antibody Rise from 3-5 Week to 8-9 Week Post-Vaccine".
 
 #explicacion
 Richard Davidson y colaboradores (2003) estudiaron la actividad cerebral de 25 sujetos experimentales normales (empleados de una empresa de biotecnología) que fueron sometidos a un programa de MBSR (Mindfulness Based Stress Reduction) durante un periodo de 8 semanas. El programa, llevado a cabo por el propio J. Kabat-Zinn, constaba de reuniones semanales de unas 3 horas para practicar meditación, un retiro en silencio durante la sexta semana y un deber para casa que incluía prácticas de meditación para realizar durante una hora al día, 6 días a la semana. El EEG de los sujetos fue registrado en tres ocasiones; antes de las 8 semanas de tratamiento, inmediatamente después del tratamiento y cuatro meses tras finalizar el tratamiento.
@@ -50,24 +49,14 @@ Estos resultados hay que interpretarlos a la luz de una extensa literatura que h
 
 ---
 
-#teoria
+#teoria #referencia 
 **MBSR (Reducción del Estrés Basada en Mindfulness):** Este programa, desarrollado por Jon Kabat-Zinn, ha sido ampliamente estudiado y ha demostrado reducir significativamente los niveles de estrés en individuos sanos. Un metanálisis de Khoury y su equipo que incluyó 29 estudios con 2.668 participantes, confirmó la alta eficacia del MBSR en el tratamiento del estrés.
 
-#imagen
-`[IMG: m04-05-nature-metanalisis]` Composición con dos elementos:
+#imagen #referencia 
+![img-m04-nature-cabecera](recursos/imagenes/img-m04-nature-cabecera.png) Cabecera de artículo "Nature Human Behaviour" (https://doi.org/10.1038/s41562-021-01093-w) - "A systematic review and meta-analysis of psychological interventions on wellbeing" por Joep van Agteren, Zoe Kopsaftis et al.
 
-**Izquierdo:** Cabecera de artículo "Nature Human Behaviour" (https://doi.org/10.1038/s41562-021-01093-w) - "A systematic review and meta-analysis of psychological interventions on wellbeing" por Joep van Agteren, Zoe Kopsaftis et al.
-
-**Derecho:** Gráfico "Forest plot visualizing the impact of each intervention type on overall wellbeing compared with control conditions split by population type" (Fig. 3). Muestra Hedges' G (99% CI) para diferentes intervenciones en tres poblaciones (General population, Mentally ill, Physically ill):
-- ACT interventions
-- Compassion interventions
-- CT or CBT interventions
-- Expressive writing
-- **Mindfulness interventions** (efecto notable en población general)
-- Multi-theoretical interventions
-- PPI, multi-component
-- PPI, singular
-- Reminiscence interventions
+#imagen #referencia 
+![img-m04-nature-forestplot](recursos/imagenes/img-m04-nature-forestplot.png) Gráfico "Forest plot visualizing the impact of each intervention type on overall wellbeing compared with control conditions split by population type" (Fig. 3). Muestra Hedges' G (99% CI) para diferentes intervenciones en tres poblaciones (General population, Mentally ill, Physically ill): ACT interventions, Compassion interventions, CT or CBT interventions, Expressive writing, Mindfulness interventions (efecto notable en población general), Multi-theoretical interventions, PPI multi-component, PPI singular, Reminiscence interventions.
 
 #imagen
-`[IMG: m04-05-kabat-zinn]` Fotografía de Jon Kabat-Zinn, creador del programa MBSR.
+![img-m04-kabat-zinn](recursos/imagenes/img-m04-kabat-zinn.jpg) Fotografía de Jon Kabat-Zinn, creador del programa MBSR.

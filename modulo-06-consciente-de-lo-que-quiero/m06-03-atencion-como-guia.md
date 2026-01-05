@@ -9,7 +9,10 @@ tags: [atencion, distraccion, tecnologia, dopamina, multitarea, atencion-sosteni
 # La atención como guía que debe mantener la consciencia en todo momento presente en el momento
 
 #imagen
-`[IMG: m06-03-atencion-modelo]` A la izquierda, fragmento del modelo mostrando el área de "Atención" en el centro con icono de cabeza y flechas circulares, sobre fondo azul degradado con elementos difuminados (Propósito, Objetivos, Intención). A la derecha, señal de advertencia amarilla con texto "ATENCIÓN" y signo de exclamación.
+![img-m06-modelo-atencion-fragmento](recursos/imagenes/img-m06-modelo-atencion-fragmento.png) Fragmento del modelo mostrando el área central de "Atención" con icono de cabeza y flechas circulares, destacando la importancia de la atención consciente.
+
+#imagen
+![img-m06-senal-atencion](recursos/imagenes/img-m06-senal-atencion.png) Señal de advertencia "ATENCIÓN" con signo de exclamación, simbolizando la alerta necesaria para mantener la consciencia presente.
 
 #teoria
 - El diseño actual de la tecnología busca captar y mantener nuestra atención a toda costa, incluso si esto significa explotar nuestras debilidades y fomentar la distracción. Las redes sociales y las aplicaciones están diseñadas para ofrecer recompensas frecuentes, incitarnos a la multitarea, personalizar el contenido para mantenernos enganchados. Explotan el sistema de recompensas del cerebro (dopamina) para mantenernos enganchados a sus plataformas.
@@ -28,7 +31,7 @@ El Mito de la Multitarea: El autor argumenta que la idea de que podemos realizar
 ---
 
 #imagen
-`[IMG: m06-03-ciclo-atencion]` A la izquierda, fragmento del modelo con área de Atención. A la derecha, diagrama circular con los 4 componentes de la atención: "ATENCIÓN SOSTENIDA" (arriba, verde - "Concentración en el objeto"), "ALERTA" (derecha, rojo - "Mente se distrae" → "Darse cuenta de la mente distraída"), "CONTROL EJECUTIVO" (abajo, amarillo - "Soltar el objeto de la distracción"), "ORIENTACIÓN" (izquierda, azul - "Volver al objeto de la atención"). Flechas conectan los componentes en ciclo.
+![img-m06-ciclo-atencion](recursos/imagenes/img-m06-ciclo-atencion.png) Diagrama circular con los 4 componentes de la atención: "Concentración en el objeto" (arriba), "Mente se distrae" → "Darse cuenta de la mente distraída" (derecha), "Soltar el objeto de la distracción" (abajo), "Volver al objeto de la atención" (izquierda). Flechas conectan los componentes en ciclo.
 
 #teoria
 - ATENCIÓN SOSTENIDA
@@ -39,4 +42,4 @@ El Mito de la Multitarea: El autor argumenta que la idea de que podemos realizar
 ---
 
 #imagen
-`[IMG: m06-03-atencion-centrada-abierta]` A la izquierda, fragmento del modelo con área de Atención. A la derecha, ilustración comparativa: un láser verde representando "1. La atención centrada" apuntando a un punto con texto "PRESENTE Filmoterapia", y un foco amarillo representando "2. La atención abierta" iluminando un área amplia con texto "PRESENTE Filmoterapia".
+![img-m06-atencion-centrada-abierta](recursos/imagenes/img-m06-atencion-centrada-abierta.png) Ilustración comparativa: un láser representando "1. La atención centrada" apuntando a un punto con texto "PRESENTE", y un foco representando "2. La atención abierta" iluminando un área amplia.

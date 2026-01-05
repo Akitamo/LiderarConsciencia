@@ -15,7 +15,7 @@ tags: [emociones, aprendizaje, dopamina, memoria, neurociencia, hipocampo]
 - Mecanismo evolutivo
 
 #imagen
-`[IMG: m01-04-cabeza-emociones]` Ilustración de una silueta de cabeza humana de perfil con cuatro emoticonos en su interior representando diferentes emociones: alegría (amarillo sonriente), felicidad (amarillo riendo), tristeza (azul con lágrima), enfado (naranja con ceño fruncido). Representa cómo las emociones habitan en nuestra mente e influyen en el procesamiento de la información.
+![img-m01-cabeza-emociones](recursos/imagenes/img-m01-cabeza-emociones.png) Ilustración de una silueta de cabeza humana de perfil con tres emoticonos en su interior representando diferentes emociones: alegría (amarillo sonriente), tristeza (azul), enfado (naranja). Representa cómo las emociones habitan en nuestra mente e influyen en el procesamiento de la información.
 
 #explicacion
 Las emociones juegan un papel crucial en la forma en que recordamos y aprendemos de nuestras experiencias.
@@ -32,7 +32,7 @@ Conjuntos neuronales más fuertes: La liberación de dopamina y la mayor activid
 En resumen, las emociones actúan como un "turbo" para el aprendizaje, amplificando la señal neuronal y fortaleciendo las conexiones sinápticas. Este mecanismo evolutivo asegura que los eventos importantes para la supervivencia, que suelen tener una carga emocional, se graben con mayor fuerza en la memoria, aumentando las posibilidades de recordarlos en el futuro y actuar en consecuencia.
 
 #video
-`[VID: m01-04-ratatouille-anton-ego]` Escena de la película Ratatouille (Pixar) donde el crítico gastronómico Anton Ego prueba el plato de ratatouille. Al probarlo, es transportado instantáneamente a un recuerdo vívido de su infancia, cuando su madre le preparaba ese mismo plato. Ilustra perfectamente cómo un estímulo sensorial (el sabor) cargado de emoción puede activar todo un conjunto de recuerdos asociados, demostrando el poder de las emociones en la consolidación y evocación de la memoria.
+![vid-m01-ratatouille-memoria](recursos/videos/vid-m01-ratatouille-memoria.mp4)Escena de la película Ratatouille (Pixar) donde el crítico gastronómico Anton Ego prueba el plato de ratatouille. Al probarlo, es transportado instantáneamente a un recuerdo vívido de su infancia, cuando su madre le preparaba ese mismo plato. Ilustra perfectamente cómo un estímulo sensorial (el sabor) cargado de emoción puede activar todo un conjunto de recuerdos asociados, demostrando el poder de las emociones en la consolidación y evocación de la memoria.
 
 #explicacion
 Cómo las emociones fortalecen el aprendizaje

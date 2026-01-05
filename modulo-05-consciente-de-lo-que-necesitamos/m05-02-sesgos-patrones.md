@@ -24,7 +24,7 @@ tags: [sesgos, automatismos, reactividad, amigdala, patrones-mentales, autoindag
 **Sesgo de Anclaje:** Es la tendencia a depender demasiado de la primera información que recibimos sobre alguien, lo que afecta nuestras decisiones y juicios futuros. La información inicial actúa como un "ancla" que condiciona las interpretaciones futuras.
 
 #imagen
-`[IMG: m05-02-medico-tatuado]` Fotografía comparativa de dos hombres: a la izquierda, un médico con bata blanca, estetoscopio y corbata roja, aspecto profesional y sonriente; a la derecha, un hombre joven con camiseta negra sin mangas mostrando múltiples tatuajes en los brazos. Ilustra cómo los sesgos nos llevan a juzgar a las personas por su apariencia.
+![img-m05-medico-tatuado](recursos/imagenes/img-m05-medico-tatuado.png) Fotografía comparativa de dos hombres: a la izquierda, un médico con bata blanca, estetoscopio y corbata roja, aspecto profesional y sonriente; a la derecha, un hombre joven con camiseta negra sin mangas mostrando múltiples tatuajes en los brazos. Ilustra cómo los sesgos nos llevan a juzgar a las personas por su apariencia.
 
 #explicacion
 ¿Qué Son los Sesgos Cognitivos y los Patrones Mentales?
@@ -64,7 +64,7 @@ Conclusión: Desarrollar consciencia plena y practicar mindfulness permite a los
 **Limitación de las Intenciones y Capacidad de Acción Consciente:** Cuando los patrones activan una reactividad emocional y física, nuestra capacidad de actuar de manera intencional y consciente se ve reducida. En lugar de responder desde la claridad y la apertura, estos patrones nos llevan a actuar desde un lugar de defensa o de imposición, lo que puede limitar la efectividad de nuestras acciones.
 
 #imagen
-`[IMG: m05-02-mente-encadenada]` Ilustración de una silueta humana de perfil en tonos oscuros. Dentro de la cabeza se ve un cerebro con una nota adhesiva amarilla, y una cadena que conecta el cerebro con algo fuera del encuadre, simbolizando cómo los patrones mentales nos mantienen atados a reacciones automáticas.
+![img-m05-mente-encadenada](recursos/imagenes/img-m05-mente-encadenada.png) Ilustración de una silueta humana de perfil en tonos oscuros. Dentro de la cabeza se ve un cerebro con una nota adhesiva amarilla, y una cadena que conecta el cerebro con algo fuera del encuadre, simbolizando cómo los patrones mentales nos mantienen atados a reacciones automáticas.
 
 #explicacion
 Ejemplos detallados:
@@ -100,7 +100,7 @@ Estas cuatro preguntas, junto con el análisis de las emociones y los hechos, no
 Al utilizar estas preguntas, podemos comprender mejor el trasfondo de nuestras opiniones y participar en conversaciones con mayor conciencia, humildad y apertura.
 
 #imagen
-`[IMG: m05-02-microscopio-analisis]` Fotografía de un microscopio científico negro y plateado con varias muestras circulares de colores (azules, verdes, amarillos) dispuestas alrededor, sobre fondo azul claro. Representa el análisis profundo y la observación detallada de nuestros propios pensamientos.
+![img-m05-microscopio-analisis](recursos/imagenes/img-m05-microscopio-analisis.png) Fotografía de un microscopio científico negro y plateado con varias muestras circulares de colores (azules, verdes, amarillos) dispuestas alrededor, sobre fondo azul claro. Representa el análisis profundo y la observación detallada de nuestros propios pensamientos.
 
 #explicacion
 Detalle de las cuatro preguntas:

@@ -17,7 +17,7 @@ tags: [corteza-cerebral, ganglios-basales, corteza-prefrontal, decision, neuroci
   - Control inhibitorio
 
 #imagen
-`[IMG: m01-05-mapa-cerebro-funciones]` Diagrama anatómico del cerebro humano en vista lateral con las diferentes áreas funcionales etiquetadas y coloreadas: Sinergias motoras suplementarias, Motora voluntaria (azul claro), Somatosensitiva (rosa), Habilidades manuales, Lenguaje (múltiples áreas), Elaboración del pensamiento, Giro de los ojos, Sens. II Audición (violeta), Patrones de la memoria, Visión bilateral (amarillo), Visión contralateral. Muestra cómo diferentes regiones del cerebro se especializan en distintas funciones cognitivas y sensoriales.
+![img-m01-mapa-cerebro-funciones](recursos/imagenes/img-m01-mapa-cerebro-funciones.png) Diagrama anatómico del cerebro humano en vista lateral con las diferentes áreas funcionales etiquetadas y coloreadas: Sinergias motoras suplementarias, Motora voluntaria, Somatosensitiva, Habilidades manuales, Lenguaje, Elaboración del pensamiento, Giro de los ojos, Audición, Patrones de la memoria, Visión bilateral, Visión contralateral.
 
 #explicacion
 Integración en la Corteza Cerebral: La corteza cerebral es la región donde se integran diferentes tipos de información sensorial y cognitiva. En ella se combinan datos provenientes de los sentidos, la memoria y las emociones, permitiendo al cerebro construir una representación coherente del entorno. Esta integración facilita que el cerebro no solo perciba, sino que interprete el contexto, identificando patrones y asociando nueva información con experiencias previas.
@@ -28,4 +28,7 @@ Regulación emocional: También regula las respuestas emocionales, modulando la 
 Control inhibitorio: Ejerce un control inhibitorio sobre los impulsos y las respuestas automáticas, permitiendo la planificación y la toma de decisiones deliberadas.
 
 #video
-`[VID: m01-05-integracion-informacion]` Vídeo documental (aparece logo de La 2 de TVE) mostrando una escena urbana/industrial con una persona en movimiento. Ilustra el procesamiento e integración de información que realiza el cerebro constantemente mientras navegamos por el entorno, tomando decisiones automáticas y conscientes de forma simultánea.
+![vid-m01-captura-balon](recursos/videos/vid-m01-Captura-balon.mp4) Vídeo documental (aparece logo de La 2 de TVE) mostrando una escena urbana/industrial con una persona en movimiento. Ilustra el procesamiento e integración de información que realiza el cerebro constantemente mientras navegamos por el entorno, tomando decisiones automáticas y conscientes de forma simultánea.
+
+#video 
+![vid-m01-robot-fails](recursos/videos/vid-m01-robot-fails.mp4)Vídeo de fallos a la hora de construir robots intentando reproducir comportamiento humano para demostrar la complejidad de lo que hace el cerebro de forma cotidiana en nuestras vidas
