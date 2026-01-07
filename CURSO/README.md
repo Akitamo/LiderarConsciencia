@@ -40,15 +40,15 @@ LiderarConsciencia/
 
 ## Módulos del curso
 
-| # | Módulo | Pregunta guía |
-|---|--------|---------------|
-| 1 | Consciente de lo que soy | ¿Qué soy? |
-| 2 | Consciente de cómo estoy | ¿Cómo estoy? |
-| 3 | Consciente de lo que pienso-siento | ¿Qué pienso-siento? |
-| 4 | Consciente de lo que necesito | ¿Qué necesito? |
-| 5 | Consciente de lo que necesitamos | ¿Qué necesitamos? |
-| 6 | Consciente de lo que quiero | ¿Qué quiero? |
-| 7 | Consciente de lo que está bien | ¿Qué está bien? |
+| # | Módulo | Pregunta guía | Tema central |
+|---|--------|---------------|---------------|
+| 1 | Consciente de lo que soy | ¿Qué soy? | Neurociencia, automatismos, atención |
+| 2 | Consciente de cómo estoy | ¿Cómo estoy? | Interocepción, señales corporales |
+| 3 | Consciente de lo que pienso-siento | ¿Qué pienso-siento? | Conexión emoción-pensamiento |
+| 4 | Consciente de lo que necesito | ¿Qué necesito? | Estrés, resiliencia, autocuidado |
+| 5 | Consciente de lo que necesitamos | ¿Qué necesitamos? | Relaciones, compasión, comunicación |
+| 6 | Consciente de lo que quiero | ¿Qué quiero? | Propósito, decisiones, atención sostenida |
+| 7 | Consciente de lo que está bien | ¿Qué está bien? | Ética, coherencia, liderazgo servicial |
 
 Ver [Índice General](00-indice-general-curso.md) para detalle completo.
 
