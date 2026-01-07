@@ -8,6 +8,7 @@ tags: [mindfulness, interocepcion, conciencia-corporal, regulacion-emocional, an
 
 # Mindfulness e Interocepción
 
+## El cuerpo como anclaje de la atención
 
 #teoria
 En el mindfulness y en muchas tradiciones meditativas, **el cuerpo es el anclaje de la atención por antonomasia,** ya que nos permite relacionarnos de una forma diferente con nuestra experiencia. El cuerpo siempre está en el presente, por lo que poner la atención en él inhibe el vagabundeo mental, las rumiaciones. La forma más sencilla de poner la atención en el presente cuando nuestra mente está errante es llevar la atención al cuerpo. Por eso, todas las prácticas del mindfulness tienen como anclaje la atención en el cuerpo de una forma u otra: la respiración (una actividad del cuerpo), body scan, atención a los movimientos corporales.
@@ -25,6 +26,8 @@ En el mindfulness y en muchas tradiciones meditativas, **el cuerpo es el anclaje
 ![img-m02-triangulo-sensaciones](recursos/imagenes/img-m02-triangulo-sensaciones.png) Diagrama del triángulo de la atención con los tres vértices: "Pensamientos" (arriba, gris), "Emociones" (derecha, gris) y "SENSACIONES" (izquierda, destacado en azul). En el interior, tres círculos superpuestos: el círculo verde (Sensaciones) resaltado en primer plano, los otros dos grises. Representa el foco del mindfulness en las sensaciones corporales.
 
 ---
+
+## Beneficios de una interocepción mejorada
 
 #teoria
 **Beneficios de una Interocepción Mejorada**
@@ -46,6 +49,8 @@ En el mindfulness y en muchas tradiciones meditativas, **el cuerpo es el anclaje
 ![img-m02-triangulo-beneficios](recursos/imagenes/img-m02-triangulo-beneficios.png) Diagrama del triángulo de la atención mostrando los tres componentes (Pensamientos, Sensaciones, Emociones) con sus círculos superpuestos. Ilustra cómo la mejora de la interocepción beneficia la integración de estos tres elementos.
 
 ---
+
+## Evidencia científica: mindfulness y cambios cerebrales
 
 #teoria #referencia 
 **IMPACTO MINDFULNESS EN INTEROCEPCION**

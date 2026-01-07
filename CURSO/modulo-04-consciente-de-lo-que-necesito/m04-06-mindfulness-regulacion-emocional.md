@@ -8,9 +8,9 @@ tags: [mindfulness, regulacion-emocional, neurociencia, amigdala, corteza-prefro
 
 # Mindfulness y regulación emocional
 
-#teoria
-## Efectos del Mindfulness en la Regulación Emocional: Resumen de Hallazgos de la Investigación
+## ¿Cómo afecta el mindfulness a nuestras emociones?
 
+#teoria
 La investigación sobre mindfulness y su relación con las emociones y la regulación emocional es un área ampliamente estudiada en la literatura. **Se reconoce que el mindfulness tiene un gran impacto en la conciencia y el etiquetado de las emociones, la experiencia de las emociones y el nivel de emociones positivas y negativas que se experimentan.** Varias conceptualizaciones de mindfulness incluyen procesos relacionados específicamente con la regulación emocional.
 
 **El mindfulness se ha estudiado como una diferencia individual que ocurre naturalmente (es decir, mindfulness de rasgo o disposicional), que se refiere a la tendencia de un individuo a observar y aceptar las experiencias del momento presente en la vida diaria.**
@@ -34,16 +34,9 @@ Aquí hay algunos efectos y estudios clave del mindfulness en la regulación emo
 
 ---
 
-#teoria #referencia 
-**W.L. Heppner et al.**
-
-Research on other behavioral outcomes (e.g., eating) also demonstrates burgeoning evidence that mindfulness aids in the self-regulation of behaviors through its effects on emotion regulation. For example, mindfulness-based treatment programs have been applied to food cravings and eating disorders with some positive results (see Kristeller, Baer, & Quillian-Wolever, 2006, for a review) and aspects of trait mindfulness (Nonjudging and Acting with Awareness) have been linked to fewer eating disorder symptoms (Adams et al., 2012).
-
----
+## Las bases cerebrales de la regulación emocional
 
 #teoria
-## Áreas del cerebro afectadas por el mindfulness en el procesamiento de las emociones
-
 Las investigaciones sugieren que el mindfulness afecta las redes neurobiológicas implicadas en la emoción, incluyendo **la red afectiva central ventral, la red de procesamiento de emociones dorsal y las regiones de la corteza prefrontal (PFC) implicadas en la regulación de las emociones**.
 
 A continuación se describen con más detalle las áreas específicas del cerebro afectadas:
@@ -77,3 +70,12 @@ A continuación se describen con más detalle las áreas específicas del cerebr
 - **Cambios estructurales:** Algunos estudios sugieren que **el mindfulness a largo plazo puede conducir a cambios estructurales en el cerebro**, incluyendo un **aumento de la densidad de la materia gris en el hipocampo y la corteza prefrontal, y una disminución del volumen de la amígdala.**
 
 En resumen, la investigación sobre los efectos del mindfulness en el cerebro sugiere que esta práctica puede modular la actividad en varias regiones cerebrales clave implicadas en el procesamiento y la regulación de las emociones. Estos cambios pueden contribuir a los beneficios del mindfulness para la salud mental y el bienestar.
+
+---
+
+## Implicaciones para la conducta y el bienestar
+
+#teoria #referencia 
+**W.L. Heppner et al.**
+
+Research on other behavioral outcomes (e.g., eating) also demonstrates burgeoning evidence that mindfulness aids in the self-regulation of behaviors through its effects on emotion regulation. For example, mindfulness-based treatment programs have been applied to food cravings and eating disorders with some positive results (see Kristeller, Baer, & Quillian-Wolever, 2006, for a review) and aspects of trait mindfulness (Nonjudging and Acting with Awareness) have been linked to fewer eating disorder symptoms (Adams et al., 2012).

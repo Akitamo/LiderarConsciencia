@@ -8,6 +8,8 @@ tags: [sesgos, heuristicas, efecto-halo, efecto-marco, priming, sistema1, kahnem
 
 # El Sistema Automático: Sesgos y Heurísticas
 
+## El efecto halo
+
 #ejercicio
 CANDIDATO ALAN:
 
@@ -36,6 +38,10 @@ Experimento psicólogo John Bargh (Universidad de Nueva York)- Efecto Florida…
 
 Otro experimento en que a un grupo de estudiantes se les pidió construir frases que tuvieran que ver con ganar dinero, o simplemente se les mostraba al alcance de su vista algún objeto relacionado con el dinero (un monopoly o un cuadro de un banco…), se demostraba que estas personas, por ejemplo, luego dedicaban menos tiempo a ayudar a una persona que fingía estar desorientada y que buscaba ayuda…o cuando fingieron tirar pro descuido lápices en el suelo, recogieron menos lápices..es decir, se inducía de forma inconsciente un comportamiento más egoista…
 
+---
+
+## El efecto marco
+
 #ejercicio
 Opción 1:
 
@@ -55,6 +61,10 @@ Probabilidad de supervivencia de cirugía es de 90%
 Opción 2:
 La mortalidad de la cirugía es de un 10%
 
+---
+
+## Relevancia en la economía del comportamiento
+
 #teoria
 **Reflejado en el principal ámbito de decisión humana**
 
@@ -62,6 +72,10 @@ Premios Nobel de Economía
 
 #imagen
 ![img-m01-premios-nobel](recursos/imagenes/img-m01-premios-nobel.png)Collage con tres Premios Nobel de Economía que han trabajado sobre sesgos cognitivos y economía del comportamiento: Daniel Kahneman (2002) con su libro "Pensar rápido, Pensar despacio", Robert J. Shiller (2013) con su libro "Exuberancia Irracional", Richard H. Thaler (2017) con su libro "Misbehaving". Cada economista aparece con su foto y la portada de su libro más conocido.
+
+---
+
+## Características del sistema automático
 
 #teoria
 **Características del Sistema Automático de Procesamiento**

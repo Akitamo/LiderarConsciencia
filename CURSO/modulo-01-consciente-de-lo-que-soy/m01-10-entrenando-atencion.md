@@ -8,6 +8,8 @@ tags: [mindfulness, atencion, entrenamiento, malinowski, neurociencia, meditacio
 
 # Entrenando la Atención a través del Mindfulness
 
+## El círculo de la atención
+
 #imagen
 ![img-m01-cerebro-corriendo](recursos/imagenes/img-m01-cerebro-corriendo.png) Ilustración de un cerebro antropomorfizado corriendo en una cinta de correr sobre fondo azul. Representa el concepto de entrenamiento mental a través del mindfulness, como si la atención fuera un músculo que se ejercita.
 
@@ -24,6 +26,10 @@ El proceso de meditación mindfulness sigue un ciclo continuo:
 #imagen
 ![img-m01-etapas-atencion](recursos/imagenes/img-m01-etapas-atencion.png) Diagrama circular con 5 etapas del ciclo de atención en meditación, representado con círculos de colores conectados por flechas: Concentración en el objeto (naranja) → Mente se distrae (amarillo) → Darse cuenta de la mente distraída (verde oscuro) → Soltar el objeto de la distracción (verde claro) → Volver al objeto de la atención (azul) → y vuelta al inicio.
 
+---
+
+## Redes cerebrales implicadas
+
 #imagen #referencia
 ![img-m01-atencion-malinowski](recursos/imagenes/img-m01-atencion-malinowski.png) Diagrama científico de Malinowski (2013) mostrando el proceso de meditación y las redes cerebrales implicadas. Panel A: Círculo concéntrico del proceso meditativo (Alerting, Sustaining, focus on object, Default Mode/Distraction/mind wanders, Salience/Monitoring/recognize wandering, Executive/Disengaging/letting go, Orienting/Shifting/return to object). Panel B: Redes cerebrales correspondientes (Alerting, Default Mode, Salience, Executive, Orienting) con ilustraciones de cerebros mostrando las áreas activadas. Referencia: Malinowski, Peter. (2013). Neural mechanisms of attentional control in mindfulness meditation. Frontiers in Neuroscience. 7. 8. 10.3389/fnins.2013.00008.
 
@@ -35,6 +41,10 @@ Attention switching: the ability to disengage from a distracting object without 
 - La habilidad para redirigir la atención (redirect) al objeto seleccionado de forma ágil
 
 Selective Attention or Cognitive inhibition: ability to inhibit secondary elaborative processing of thoughts, feelings and sensations. The self-regulation of attention also fosters nonelaborative awareness of thoughts, feelings, and sensations as they arise. Rather than getting caught up in ruminative, elaborative thought streams about one's experience and its origins, implications, and associations, mindfulness involves a direct experience of events in the mind and body (Teasdale, Segal, Williams, & Mark, 1995).
+
+---
+
+## Efectos del mindfulness en las habilidades atencionales
 
 #teoria
 **Efectos del mindfulness en las habilidades atencionales**
@@ -80,6 +90,10 @@ Control Ejecutivo: El mindfulness tiene efectos positivos en el control de confl
 3. Conclusión
 En general, el mindfulness ofrece beneficios prometedores en ciertos componentes de la atención, en particular en el control de conflictos y, en menor medida, en la alerta fásica. Sin embargo, los efectos en la orientación y la alerta tónica requieren más estudios.
 
+---
+
+## El triángulo de la atención
+
 #teoria
 **El TRIÁNGULO DE LA ATENCIÓN**
 
@@ -88,10 +102,15 @@ Los tres vértices del triángulo representan los tres canales principales de la
 - **Sensaciones** (vértice inferior izquierdo)
 - **Emociones** (vértice inferior derecho)
 
-**Los afluentes de la consciencia**
-
 #imagen
 ![img-m01-triangulo-atencion](recursos/imagenes/img-m01-triangulo-atencion.png) Diagrama del Triángulo de la Atención con tres vértices etiquetados: Pensamientos (arriba), Sensaciones (abajo izquierda), Emociones (abajo derecha). En el interior del triángulo hay tres círculos de colores (azul, verde, rojo) que representan las tres fuentes de experiencia consciente y su interrelación.
+
+---
+
+## Los afluentes de la consciencia
+
+#teoria
+**Los afluentes de la consciencia**
 
 #imagen
 ![img-m01-afluentes-consciencia](recursos/imagenes/img-m01-afluentes-consciencia.png) Metáfora visual de los afluentes de la consciencia: imagen de varios grifos vertiendo agua a través de un embudo hacia un cerebro hecho de agua/cristal. Representa cómo diferentes canales de información (sensaciones, pensamientos, emociones) fluyen y convergen en la consciencia.

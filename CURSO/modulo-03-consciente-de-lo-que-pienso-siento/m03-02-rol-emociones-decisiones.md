@@ -8,6 +8,7 @@ tags: [emociones, neurociencia, supervivencia, toma-de-decisiones, homeostasis, 
 
 # El rol de las emociones en las decisiones
 
+## Las emociones como sistema de guía
 
 #teoria
 El rol fundamental de las emociones
@@ -19,6 +20,10 @@ El rol fundamental de las emociones es servir como un sistema de guía interno q
 - **Facilitación de la Toma de Decisiones:** Las emociones influyen directamente en el proceso de toma de decisiones, muchas veces guiando nuestras elecciones de manera más rápida que el pensamiento racional. Investigaciones de Antonio Damasio y otros neurocientíficos han demostrado que las emociones son cruciales para tomar decisiones efectivas, ya que una persona sin acceso a sus emociones (debido a daños cerebrales) puede quedar atrapada en una indecisión crónica.
 - **Promoción de la Conexión Social:** Las emociones también tienen una función social, ya que expresarlas permite comunicarnos y empatizar con otros. Esto refuerza los vínculos sociales y facilita la cooperación, la empatía y la cohesión en grupos humanos, aspectos esenciales para nuestra supervivencia como especie.
 - **Mantenimiento de la Homeostasis y Bienestar:** A nivel biológico, las emociones ayudan a mantener el equilibrio interno del organismo (homeostasis), ya que están vinculadas a la regulación de sistemas fisiológicos como la frecuencia cardíaca, la respiración y la liberación de hormonas. Las emociones, así, impulsan conductas que nos ayudan a mantenernos en equilibrio y a responder adecuadamente a las demandas internas y externas.
+
+---
+
+## El Marcador Somático: decidir sin emoción
 
 #explicacion #referencia 
 El experimento de Antonio Damasio sobre decisiones sin emoción, conocido como el "Experimento del Marcador Somático", demuestra cómo las emociones son esenciales en la toma de decisiones efectivas. Este estudio surgió de sus observaciones clínicas de pacientes con daño en la corteza prefrontal ventromedial, una región del cerebro clave para integrar emociones en el proceso de decisión. Aunque estos pacientes podían razonar lógicamente, tenían dificultades significativas para tomar decisiones en la vida cotidiana.

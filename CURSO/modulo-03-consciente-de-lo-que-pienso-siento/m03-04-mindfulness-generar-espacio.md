@@ -8,6 +8,8 @@ tags: [mindfulness, mente-automatica, autorregulacion, corteza-prefrontal, siste
 
 # Mindfulness para generar espacio
 
+## Los mecanismos del mindfulness frente a la mente automática
+
 #teoria
 El mindfulness contrarresta esta tendencia al modo automático al promover un estado de observación consciente, donde la persona puede detenerse, darse cuenta de lo que surge y elegir cómo responder.
 
@@ -25,6 +27,10 @@ La mente automática suele establecer una cadena reactiva entre pensamientos, em
 
 #imagen
 ![img-m03-cita-victor-frankl](recursos/imagenes/img-m03-cita-victor-frankl.png) Diagrama con dos círculos naranjas etiquetados "Stimulus" y "Response" conectados por dos barras verticales negras que representan el espacio entre ellos. Debajo, la cita de Victor Frankl: "Between stimulus and response there is a space. In that space is our power to choose our response."
+
+---
+
+## Del automatismo a la elección consciente
 
 #explicacion
 El mindfulness contrarresta esta tendencia al modo automático al promover un estado de observación consciente, donde la persona puede detenerse, darse cuenta de lo que surge y elegir cómo responder.

@@ -8,6 +8,8 @@ tags: [emociones, pensamiento, neurociencia, afecto, cognicion, amigdala, insula
 
 # La inseparabilidad de la emoción y el pensamiento
 
+## Emoción y pensamiento: una unidad funcional
+
 #imagen
 ![img-m03-otros-dos-afluentes-atencion](recursos/imagenes/img-m03-otros-dos-afluentes-atencion.png) Imagen que muestra de forma destacada los dos circulos de la atención que hacen referencia a pensamiento y emoción después de haber analizado en el módulo anterior el círculo referido a las sensaciones
 
@@ -24,6 +26,10 @@ La neurociencia moderna ha demostrado que la emoción y el pensamiento, lejos de
 
 #imagen
 ![img-m03-diagrama-emocion-pensamiento-accion](recursos/imagenes/img-m03-diagrama-emocion-pensamiento-accion.png) Diagrama conceptual mostrando tres elementos interconectados con flechas bidireccionales: un corazón con la etiqueta "EMOCIÓN", un cerebro con la etiqueta "PENSAMIENTO", y una espiral con la etiqueta "ACCIÓN". Estilo de dibujo a mano en trazos negros.
+
+---
+
+## La revolución en la ciencia de las emociones
 
 #teoria
 La transformación de la concepción tradicional de la emoción en la ciencia

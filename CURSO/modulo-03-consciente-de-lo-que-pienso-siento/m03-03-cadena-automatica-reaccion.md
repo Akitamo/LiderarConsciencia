@@ -8,6 +8,8 @@ tags: [emociones, interocepcion, afecto-base, valencia, activacion, atencion, am
 
 # La cadena automática de la reacción
 
+## Del cuerpo a la acción: la cadena de la reacción
+
 #teoria
 La conexión entre cuerpo y emociones con nuestras decisiones y acciones
 
@@ -89,6 +91,9 @@ La activación mide la energía o urgencia de la experiencia. Puede ser alta, co
 
 La combinación de valencia y activación guía tus acciones. Una experiencia negativa y de alta activación puede llevar a evitar la situación o buscar calma. Si decides no ir al evento porque la ansiedad es intensa (alta activación y valencia negativa), has actuado para evitar el malestar. Alternativamente, puedes preparar estrategias para calmarte y enfrentarlo, equilibrando la respuesta. Este impulso es como un "sistema de navegación emocional" que te guía hacia acciones que te acercan al bienestar o te alejan del malestar.
 
+---
+
+## Emoción y atención: el filtro de la relevancia
 
 #teoria
 La Interconexión entre Emoción y Atención
@@ -114,6 +119,10 @@ Por otro lado, las emociones positivas, como la alegría, la curiosidad y el ent
 #video
  ![vid-m03-mago](recursos/videos/vid-m03-mago.mp4)Fotograma de vídeo mostrando dos hombres caminando por una calle urbana, uno con camisa blanca y otro con chaleco oscuro y pañuelo verde, aparentemente en conversación. Contexto relacionado con la interconexión entre emoción y atención.
 
+---
+
+## La mente automática: hábitos y patrones de reacción
+
 #teoria
 La cadena de hábitos y patrones automáticos
 
@@ -128,6 +137,10 @@ Con cada repetición, los patrones automáticos se consolidan y se fortalecen, f
 
 #imagen
 ![img-m03-ciclo-patrones-conducta](recursos/imagenes/img-m03-ciclo-patrones-conducta.png) Diagrama de ciclo con cuatro elementos conectados por flechas en forma circular: "Marcos de referencia personales" → "Como veo la realidad" → "Como reacciono a los hechos" → "Modelos y patrones de conducta" → (vuelve al inicio). Flechas en colores naranja y azul sobre fondo blanco.
+
+---
+
+## Cómo las emociones influyen en nuestras decisiones
 
 #teoria
 Cómo las Emociones Influyen en Nuestras Decisiones
@@ -171,6 +184,10 @@ Ejemplos:
 4. La influencia de la emoción en la intuición:
    - Agentes de bolsa exitosos reconocen la importancia de la emoción en la toma de decisiones intuitivas. Su experiencia previa se traduce en "instintos viscerales" que les permiten tomar decisiones rápidas y efectivas.
 
+---
+
+## Cómo los pensamientos moldean las emociones
+
 #teoria
 La Influencia de los Pensamientos en las Emociones
 
@@ -206,5 +223,3 @@ Situación: Una persona debe liderar una reunión importante y siente un intenso
 - Flexibilidad Cognitiva y Espacio entre Emoción y Acción: En lugar de reaccionar impulsivamente (cancelar o postergar la reunión), la persona se da un momento para observar y cuestionar el pensamiento inicial, considerándolo desde otra perspectiva.
 - Reinterpretación de la Ansiedad: Al analizar la situación, la persona reinterpreta la ansiedad como una señal de que le importa hacer un buen trabajo. Este cambio de enfoque transforma la emoción en una motivación positiva.
 - Resultado: La persona se siente más tranquila y enfocada, lista para llevar adelante la reunión con confianza en lugar de paralizarse por la ansiedad.
-
-

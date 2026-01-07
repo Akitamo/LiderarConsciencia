@@ -8,6 +8,8 @@ tags: [emociones, aprendizaje, dopamina, memoria, neurociencia, hipocampo]
 
 # Jerarquía de las Emociones en el Aprendizaje
 
+## Las emociones como marcadores de importancia
+
 #teoria
 - Las emociones juegan un papel crucial en la forma en que recordamos y aprendemos de nuestras experiencias.
 - Cuando vivimos algo emocionalmente intenso –ya sea positivo o negativo–, el cerebro "marca" ese evento como importante.
@@ -31,8 +33,16 @@ El hipocampo y las emociones: El hipocampo, una estructura cerebral fundamental 
 Conjuntos neuronales más fuertes: La liberación de dopamina y la mayor actividad del hipocampo en situaciones emocionales fortalecen las conexiones sinápticas entre las neuronas que forman los conjuntos neuronales. Esto hace que los conjuntos neuronales asociados a las emociones sean más robustos y se activen con mayor facilidad en el futuro, lo que explica por qué los recuerdos emocionales son más vívidos y duraderos.
 En resumen, las emociones actúan como un "turbo" para el aprendizaje, amplificando la señal neuronal y fortaleciendo las conexiones sinápticas. Este mecanismo evolutivo asegura que los eventos importantes para la supervivencia, que suelen tener una carga emocional, se graben con mayor fuerza en la memoria, aumentando las posibilidades de recordarlos en el futuro y actuar en consecuencia.
 
+---
+
+## El poder emocional de los recuerdos
+
 #video
 ![vid-m01-ratatouille-memoria](recursos/videos/vid-m01-ratatouille-memoria.mp4)Escena de la película Ratatouille (Pixar) donde el crítico gastronómico Anton Ego prueba el plato de ratatouille. Al probarlo, es transportado instantáneamente a un recuerdo vívido de su infancia, cuando su madre le preparaba ese mismo plato. Ilustra perfectamente cómo un estímulo sensorial (el sabor) cargado de emoción puede activar todo un conjunto de recuerdos asociados, demostrando el poder de las emociones en la consolidación y evocación de la memoria.
+
+---
+
+## Cómo las emociones fortalecen el aprendizaje
 
 #explicacion
 Cómo las emociones fortalecen el aprendizaje

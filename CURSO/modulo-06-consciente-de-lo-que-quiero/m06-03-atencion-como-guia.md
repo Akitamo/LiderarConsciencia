@@ -8,6 +8,8 @@ tags: [atencion, distraccion, tecnologia, dopamina, multitarea, atencion-sosteni
 
 # La atención como guía que debe mantener la consciencia en todo momento presente en el momento
 
+## La crisis de atención en la era digital
+
 #imagen #modelo 
 ![img-m06-modelo-atencion-fragmento](recursos/imagenes/img-m06-modelo-atencion-fragmento.png) Fragmento del modelo mostrando el área central de "Atención" con icono de cabeza y flechas circulares, destacando la importancia de la atención consciente.
 
@@ -31,6 +33,8 @@ El Mito de la Multitarea: El autor argumenta que la idea de que podemos realizar
 
 ---
 
+## Componentes y modos de la atención
+
 #imagen
 ![img-m06-ciclo-atencion](recursos/imagenes/img-m06-ciclo-atencion.png) Diagrama circular con los 4 componentes de la atención: "Concentración en el objeto" (arriba), "Mente se distrae" → "Darse cuenta de la mente distraída" (derecha), "Soltar el objeto de la distracción" (abajo), "Volver al objeto de la atención" (izquierda). Flechas conectan los componentes en ciclo.
 
@@ -39,8 +43,6 @@ El Mito de la Multitarea: El autor argumenta que la idea de que podemos realizar
 - ORIENTACIÓN
 - ALERTA
 - CONTROL EJECUTIVO
-
----
 
 #imagen
 ![img-m06-atencion-centrada-abierta](recursos/imagenes/img-m06-atencion-centrada-abierta.png) Ilustración comparativa: un láser representando "1. La atención centrada" apuntando a un punto con texto "PRESENTE", y un foco representando "2. La atención abierta" iluminando un área amplia.

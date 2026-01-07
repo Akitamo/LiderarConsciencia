@@ -8,6 +8,8 @@ tags: [estres, burnout, salud, liderazgo, organizacion, alimentacion, autocuidad
 
 # Efectos negativos del estrés y burnout
 
+## El panorama actual: estrés y salud mental en datos
+
 #imagen #referencia 
 ![img-m04-gallup-portada](recursos/imagenes/img-m04-gallup-portada.png) Portada del informe Gallup "State of the Global Workplace" - The Voice of the World's Employees.
 
@@ -28,6 +30,8 @@ tags: [estres, burnout, salud, liderazgo, organizacion, alimentacion, autocuidad
 
 ---
 
+## Consecuencias físicas, psicológicas y ocupacionales del burnout
+
 #teoria
 **Consecuencias físicas, psicológicas y ocupacionales del burnout**
 
@@ -43,6 +47,8 @@ tags: [estres, burnout, salud, liderazgo, organizacion, alimentacion, autocuidad
 ![img-m04-plos-one-burnout](recursos/imagenes/img-m04-plos-one-burnout.png) Artículo científico PLOS ONE: "Physical, psychological and occupational consequences of job burnout: A systematic review of prospective studies" (Salvagioni et al., 2017). DOI: https://doi.org/10.1371/journal.pone.0185781
 
 ---
+
+## Efectos en la alimentación y el autocuidado
 
 #teoria
 **Efectos del estrés en la alimentación:**
@@ -65,6 +71,8 @@ tags: [estres, burnout, salud, liderazgo, organizacion, alimentacion, autocuidad
 ![img-m04-noticia-estres-cancer](recursos/imagenes/img-m04-noticia-estres-cancer.png) Noticia 20minutos SALUD: "La falta de sueño y el estrés aumentan el riesgo de sufrir cáncer de colon, según nuevos estudios científicos" (Jorge García, 16.10.2024). Dos estudios han relacionado el estrés crónico y la falta de sueño con el cáncer de colon, a través de cambios en la diversidad del microbioma intestinal.
 
 ---
+
+## Impacto en el liderazgo y la organización
 
 #teoria
 **Impacto en la Gestión Directiva:**

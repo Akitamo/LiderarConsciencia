@@ -8,6 +8,8 @@ tags: [memoria, automatismos, hipocampo, prediccion, neurociencia, cerebro]
 
 # La Memoria: Aprendiendo a Predecir
 
+## El modelo mental basado en la experiencia
+
 #teoria
 - El modelo mental del cerebro se basa en la experiencia pasada, almacenada como **recuerdos**. Al enfrentarnos a una nueva situación, el cerebro **busca en la memoria**
 - El hipocampo no solo consolida los recuerdos, sino que también los **"etiqueta"** con información espacial y temporal.
@@ -15,6 +17,10 @@ tags: [memoria, automatismos, hipocampo, prediccion, neurociencia, cerebro]
 
 #imagen
 ![img-m01-cerebro-pelicula-recuerdos](recursos/imagenes/img-m01-cerebro-pelicula-recuerdos.jpeg) Ilustración de un cerebro humano con cinta de película cinematográfica atravesándolo, simbolizando el almacenamiento de recuerdos como "fotogramas" de experiencias. Las neuronas se muestran conectándose en la base del cerebro.
+
+---
+
+## La memoria como sistema predictivo
 
 #explicacion
 El modelo mental del cerebro se basa en la experiencia pasada, almacenada como recuerdos. Al enfrentarnos a una nueva situación, el cerebro busca en la memoria experiencias similares y utiliza la información almacenada en ellas para predecir lo que sucederá a continuación
@@ -33,12 +39,20 @@ La completación tiene un papel fundamental en el "teatro del mundo":
 Memoria: Permite evocar recuerdos completos a partir de un fragmento de información.
 Percepción: Facilita la identificación de objetos y patrones a partir de información sensorial incompleta.
 Automatismos: Permite ejecutar secuencias complejas de acciones a partir de un estímulo inicial simple.
+
+---
+
+## Los automatismos en acción
+
 #imagen #ejercicio 
 ![img-m01-conduciendo-con-tension](recursos/imagenes/img-m01-conduciendo-con-tension.png)Fotografía de hombre conduciendo al inicio del aprendizaje de conducir con mucha tensión por requerir el máximo de atención esa fase de aprendizaje
 
 #imagen #ejercicio 
 ![img-m01-conduccion-automatica](recursos/imagenes/img-m01-conduccion-automatica.png) Fotografía de un hombre conduciendo un coche mientras habla por teléfono. Ilustra el concepto de automatismos: conducir es una actividad que se automatiza con la práctica, permitiendo realizar otras tareas simultáneamente.
 
+---
+
+## Ejercicio: rompiendo patrones mentales
 
 #imagen #ejercicio 
 ![img-m01-acertijo-cerillas-1-pregunta](recursos/imagenes/img-m01-acertijo-cerillas-1-pregunta.png) Acertijo con cerillas sobre fondo negro mostrando la ecuación "II + II = IX" (en números romanos con cerillas). Ejercicio de pensamiento lateral donde hay que mover una cerilla para corregir la ecuación.
@@ -51,7 +65,6 @@ Automatismos: Permite ejecutar secuencias complejas de acciones a partir de un e
 
 #imagen #ejercicio 
 ![img-m01-acertijo-cerillas-2-solucion](recursos/imagenes/img-m01-acertijo-cerillas-2-solucion.png) Solución al segundo acertijo de cerillas: "II = X - VIII" (2 = 10 - 8 en números romanos). Se ha movido una cerilla del XII para formar VIII.
-
 
 #imagen #ejercicio 
 ![img-m01-acertijo-cerillas-3-pregunta](recursos/imagenes/img-m01-acertijo-cerillas-3-pregunta.png) Tercer acertijo con cerillas sobre fondo negro mostrando la ecuación "VI = VI + VI" (en números romanos con cerillas). Ejercicio donde hay que mover una cerilla para corregir la ecuación.

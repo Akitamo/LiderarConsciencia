@@ -8,6 +8,8 @@ tags: [contexto, atencion, liderazgo-adaptativo, monitorizacion-abierta, atencio
 
 # Consciencia sobre el contexto y su naturaleza cambiante y las reacciones automáticas generadas
 
+## Atención hacia fuera y hacia dentro
+
 #imagen #modelo 
 ![img-m06-contexto-modelo](recursos/imagenes/img-m06-contexto-modelo.png) Fragmento del modelo mostrando el área central con "Contexto" destacado en círculo morado, con icono de cabeza y flechas circulares en el centro.
 

@@ -8,6 +8,8 @@ tags: [neurociencia, sentidos, percepcion]
 
 # Los Sentidos: Ajustando la Realidad
 
+## Los sentidos como puente con el mundo exterior
+
 #teoria
 • Los sentidos proporcionan datos directos del entorno y son la entrada principal de información externa al cerebro.
 • Los sentidos no buscan una representación completa del mundo
@@ -15,6 +17,10 @@ tags: [neurociencia, sentidos, percepcion]
 
 #imagen
 ![img-m01-cerebro-sentidos](recursos/imagenes/img-m01-cerebro-sentidos.png) Diagrama de cerebro en el centro rodeado por iconos de los 5 sentidos en círculos: mano (tacto), ojo (vista), oreja (oído), nariz (olfato), boca (gusto)
+
+---
+
+## La percepción como construcción interna
 
 #explicacion
 Los sentidos actúan como puentes entre el "teatro mental" del cerebro y el mundo exterior. Su función principal no se limita a la mera recepción de información sensorial, sino que se centra en la **medición del contraste**, es decir, los cambios en la información que proviene del entorno. Esta información sobre el contraste es la que el cerebro utiliza para actualizar y refinar constantemente su modelo interno, asegurando que se mantenga fiel a la realidad cambiante.
@@ -28,6 +34,10 @@ Algunos ejemplos de cómo el cerebro construye la realidad a partir de la inform
 El punto ciego de la retina: El cerebro "rellena" la información que falta en el punto ciego, creando la ilusión de una imagen visual continua.
 La percepción del color: El cerebro ajusta la percepción del color de los objetos en función de la iluminación ambiental, lo que permite percibir los colores de forma relativamente constante a pesar de las variaciones en la luz.
 Las alucinaciones: En algunos casos, como en la esquizofrenia, el cerebro puede generar percepciones sensoriales (visuales, auditivas, etc.) en ausencia de estímulos externos, lo que demuestra que la percepción es, en última instancia, una construcción cerebral.
+
+---
+
+## Ejemplos de construcción perceptiva
 
 #ejercicio #Gif
  ![Gif-m01-ver-con-cerebro](recursos/imagenes/Gif-m01-%20ver-con-cerebro.gif)Video demostrativo sobre la percepción sensorial y cómo el cerebro construye la realidad

@@ -8,7 +8,7 @@ tags: [autoestima, autoestima-contingente, autocompasion, mindfulness, bienestar
 
 # Autoestima y autocompasión
 
-## Importancia de la estabilidad de la autoestima
+## Autoestima y liderazgo: el riesgo de la contingencia
 
 #teoria #referencia 
 Consecuencias negativas de la autoestima alta
@@ -31,7 +31,7 @@ Importancia de la estabilidad de la autoestima
 
 ---
 
-## Incorporando la autocompasión para un yo y una autoestima más sana
+## La autocompasión como estabilizador interno
 
 #teoria
 La autocompasión, un concepto central en la psicología del bienestar, se presenta como una forma de relacionarse consigo mismo con amabilidad y comprensión, especialmente en momentos de dificultad. En lugar de autocriticarse o ignorar el dolor, la autocompasión implica reconocer el propio sufrimiento con una actitud de aceptación y cuidado.Se basa en tres componentes fundamentales:

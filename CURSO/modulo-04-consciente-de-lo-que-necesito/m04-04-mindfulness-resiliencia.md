@@ -8,6 +8,8 @@ tags: [mindfulness, resiliencia, regulacion-emocional, liderazgo, estres, reacci
 
 # Mindfulness para el Desarrollo de la resiliencia
 
+## Del estrés a la resiliencia
+
 #teoria
 **Del estrés a la resiliencia: convertir la presión en fortaleza**
 
@@ -22,6 +24,8 @@ La capacidad de un líder para adaptarse y aprender de situaciones estresantes d
 
 ---
 
+## El modelo de regulación emocional de Gross
+
 #imagen
 ![img-m04-gross-modelo-lineal](recursos/imagenes/img-m04-gross-modelo-lineal.png) Modelo lineal "Process Model of Emotion Regulation Proposed by Gross (1998a)": Situation Selection → Situation Modification → Attentional Deployment → Cognitive Change → Response Modulation. Con fases: Situation → Attention → Appraisal → Response. División entre "Antecedent-focused" y "Response-focused".
 
@@ -30,13 +34,13 @@ La capacidad de un líder para adaptarse y aprender de situaciones estresantes d
 
 ---
 
+## Mindfulness: el espacio entre estímulo y respuesta
+
 #teoria
 **Con entrenamiento Mindfulness vs Sin entrenamiento Mindfulness**
 
 #imagen
 ![img-m04-comparativa-mindfulness](recursos/imagenes/img-m04-comparativa-mindfulness.jpg) Diagrama comparativo de línea temporal mostrando diferencias entre "Con entrenamiento Mindfulness" y "Sin entrenamiento Mindfulness" en las fases de "Darse Cuenta" y "Gestionar respuesta".
-
----
 
 #teoria
 **Capacidad de convertir la compulsión en decisión**
@@ -57,6 +61,7 @@ La capacidad de un líder para adaptarse y aprender de situaciones estresantes d
 
 #imagen
 ![img-m04-regulacion-grifo](recursos/imagenes/img-m04-regulacion-grifo.jpg) REGULACIÓN: Grifo/llave de agua de latón antiguo representando espacios estímulo-respuesta, evaluación de inputs emocionales y sensoriales, guiado por lo que la situación reclama, Objetivo > Self, flexibilidad.
+
 #imagen 
 ![img-m04-reaccion-regulacion](recursos/imagenes/img-m04-reaccion-regulacion.png) imagen que integra las imagenes de la reacción vs regulación para mostrar cómo el mindfulness permite generar espacio para hacer ese proceso
 
@@ -69,8 +74,7 @@ La capacidad de un líder para adaptarse y aprender de situaciones estresantes d
 
 ---
 
+## La regulación emocional en acción
+
 #video
  ![vid-m04-Puyol-autocontrol](recursos/videos/vid-m04-Puyol-autocontrol.mp4)Fotograma de retransmisión de partido de fútbol (GOLTV LIVE, BAR-MLL 2-0, 26:38). Escena de conflicto/tensión entre jugadores del FC Barcelona (equipación azulgrana) y otro equipo (equipación blanca), con árbitro de amarillo interviniendo. Muestra la capacidad del jugador del Barcelona Puyol para mantener el dominio frente a una agresión de un jugador
-
----
-

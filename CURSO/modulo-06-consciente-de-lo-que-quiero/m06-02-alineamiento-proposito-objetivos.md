@@ -8,6 +8,8 @@ tags: [proposito, objetivos, intencion, alineamiento, coherencia, motivacion, re
 
 # Importancia de alinear el propósito personal con los objetivos profesionales y con la intención de cada acción y decisión
 
+## Por qué alinear propósito, objetivos e intención
+
 #imagen #modelo 
 ![img-m06-modelo-alineamiento](recursos/imagenes/img-m06-modelo-alineamiento.png) Diagrama del modelo mostrando el óvalo con niveles "Conductual", "Profesional" y "Personal", con la línea temporal Propósito→Objetivos→Intención.
 
@@ -40,6 +42,8 @@ Mejora en la Toma de Decisiones: Esta alineación reduce el "ruido" o la variabi
 Bienestar y Sostenibilidad Personal: Alinear el propósito y los objetivos permite a los líderes evitar el agotamiento que surge al actuar en direcciones que no resuenan con su identidad o principios. Gloria Mark en Attention Span señala cómo la atención y la concentración se desgastan cuando no se tienen claros los "porqués" y los "para qués", pues el trabajo se vuelve meramente reactivo y agotador en vez de significativo y energizante.
 
 ---
+
+## Los sesgos como obstáculos para decisiones alineadas
 
 #imagen
 ![img-m06-cuidado-escalon](recursos/imagenes/img-m06-cuidado-escalon.png) Señal de advertencia "Cuidado con el escalón" con figura tropezando, representando los sesgos cognitivos como obstáculos en la toma de decisiones.

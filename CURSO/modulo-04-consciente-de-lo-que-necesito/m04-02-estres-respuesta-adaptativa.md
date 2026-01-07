@@ -8,6 +8,8 @@ tags: [estres, lucha-huida, eustres, distres, adaptacion, supervivencia]
 
 # El estrés como respuesta adaptativa
 
+## ¿Qué es el estrés?
+
 #teoria
 "El estrés es una respuesta natural y automática del cuerpo y la mente ante demandas o amenazas percibidas como desafiantes o peligrosas."
 
@@ -21,12 +23,14 @@ El estrés es una **reacción adaptativa** que prepara al cuerpo para enfrentar 
 #imagen
 ![img-m04-ejecutivo-estres](recursos/imagenes/img-m04-ejecutivo-estres.png) Escena de oficina con ejecutivos en ambiente tenso/estresante.
 
+---
+
+## Eustrés y distrés: dos caras del estrés
+
 #explicacion
 El eustrés, también conocido como estrés positivo, es un tipo de estrés que nos motiva, nos energiza y nos ayuda a crecer. Se asocia con retos y experiencias que percibimos como positivas y emocionantes, aunque también pueden activar la respuesta de estrés del organismo.
 
 El distrés, o estrés negativo, es el tipo de estrés que puede ser perjudicial para nuestra salud física y mental. Surge cuando percibimos las demandas como amenazas o cargas que superan nuestra capacidad de afrontamiento.
-
----
 
 #teoria
 **El estrés es subjetivo y depende de la percepción**
@@ -45,6 +49,8 @@ El estrés no es solo una respuesta a factores externos, sino una experiencia al
 
 ---
 
+## La respuesta de lucha o huida
+
 #teoria
 **La respuesta de "Lucha o Huida": Un Mecanismo de Supervivencia**
 
@@ -62,6 +68,8 @@ La respuesta de "lucha o huida", también conocida como respuesta de estrés, es
 
 ---
 
+## El ciclo del estrés: de la adaptación al agotamiento
+
 #teoria
 **La importancia de la gestión de la respuesta a los inputs estresores**
 
@@ -70,8 +78,6 @@ La respuesta de "lucha o huida", también conocida como respuesta de estrés, es
 
 #imagen
 ![img-m04-estres-humano-acumulativo](recursos/imagenes/img-m04-estres-humano-acumulativo.png) Gráfico de "Heart rate (beats per minute)" vs "Time (in minutes)" mostrando múltiples picos de estrés que no retornan al nivel normal. Incluye fotografías de situaciones estresantes cotidianas: ejecutivo enfadado, niño llorando, hombre preocupado en escaleras, manos con dinero escaso, persona corriendo tarde, persona agotada.
-
----
 
 #teoria
 **Respuesta Adaptativa vs Respuesta no adaptativa**
@@ -89,6 +95,8 @@ La respuesta de "lucha o huida", también conocida como respuesta de estrés, es
 ![img-m04-cronica-agobio](recursos/imagenes/img-m04-cronica-agobio.jpeg) Persona con manos en la cabeza en gesto de agobio - ejemplo de respuesta crónica al estrés.
 
 ---
+
+## El síndrome de adaptación general
 
 #teoria
 **La importancia de la gestión de la respuesta a los inputs estresores**

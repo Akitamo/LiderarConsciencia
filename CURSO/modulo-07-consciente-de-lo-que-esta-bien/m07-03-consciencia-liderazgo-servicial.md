@@ -8,6 +8,8 @@ tags: [consciencia, liderazgo-servicial, mindfulness, autenticidad, compasion, e
 
 # La Relación entre la Consciencia de Uno Mismo y el Liderazgo ético
 
+## Consciencia y servicio: el fundamento
+
 #teoria
 **La consciencia de uno mismo como base del liderazgo servicial:** El liderazgo servicial se distingue por su enfoque en los demás, donde el líder prioriza las necesidades y el crecimiento de sus seguidores. Para construir relaciones sólidas y de confianza con cada seguidor, el líder necesita una profunda comprensión de sí mismo y de su motivación para servir. Este enfoque en el "ser" del líder, antes del "hacer", es fundamental en el desarrollo del liderazgo servicial.
 
@@ -23,6 +25,10 @@ tags: [consciencia, liderazgo-servicial, mindfulness, autenticidad, compasion, e
 
 #imagen
 ![img-m07-mente-superheroe](recursos/imagenes/img-m07-mente-superheroe.png) Ilustración conceptual sobre fondo azul mostrando la silueta de una cabeza humana de perfil. En el interior, una figura pequeña con capa de superhéroe corre sobre engranajes, simbolizando el poder interior y la activación mental.
+
+---
+
+## Profundización: el camino hacia el liderazgo servicial
 
 #explicacion
 La consciencia de uno mismo es un prerrequisito esencial para un liderazgo efectivo, especialmente en el contexto del liderazgo servicial.

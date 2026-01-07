@@ -8,7 +8,7 @@ tags: [liderazgo-compasivo, compasion, empatia, rasmus-hougaard, potential-proje
 
 # El liderazgo compasivo
 
-## El liderazgo compasivo, un camino hacia un mundo laboral más humano
+## Las bases del liderazgo compasivo
 
 #teoria
 El liderazgo compasivo es la capacidad de hacer cosas difíciles de una manera humana, combinando la sabiduría de saber qué hacer con la compasión de cuidar a las personas impactadas por las decisiones y acciones. Este enfoque se basa en la comprensión de que los líderes tienen una gran responsabilidad hacia sus colaboradores y que el éxito a largo plazo depende de crear un entorno laboral donde las personas se sientan valoradas, respetadas y seguras.Las Bases del Liderazgo Compasivo:
@@ -42,7 +42,7 @@ Es importante destacar que la compasión no se trata de complacer a los demás o
 
 ---
 
-## Modelos de compasión sabia
+## La matriz de la compasión sabia
 
 #teoria
 **The Wise Compassion Leadership Matrix**
@@ -91,7 +91,7 @@ When we master the four elements of the Wise Compassion Flywheel, we also enable
 
 ---
 
-## Beneficios del liderazgo compasivo para líderes y equipos
+## Evidencia del impacto en líderes y equipos
 
 #teoria
 **Beneficios para los líderes:**

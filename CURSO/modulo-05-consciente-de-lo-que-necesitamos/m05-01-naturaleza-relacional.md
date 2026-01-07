@@ -8,6 +8,8 @@ tags: [relaciones, liderazgo, neurociencia, neuronas-espejo, empatia, conexion, 
 
 # La naturaleza relacional del liderazgo
 
+## Las bases neurocientíficas de la conexión social
+
 #cita
 "Las relaciones interpersonales son el tejido esencial del liderazgo humano, y la consciencia es el hilo que las mantiene fuertes y flexibles" ("Compassionate Leadership" Rasmus Hougaard)
 
@@ -16,10 +18,6 @@ Este módulo profundizará en la importancia de RECONOCER Y RESPONDER a las nece
 
 #imagen
 ![img-m05-conexion-cabezas](recursos/imagenes/img-m05-conexion-cabezas.png) Ilustración de dos cabezas de perfil enfrentadas sobre fondo morado. De sus cabezas abiertas emergen rayos amarillos que se conectan en el centro. Pequeñas figuras humanas interactúan sobre las cabezas. Ambas figuras tienen un corazón visible en el pecho.
-
----
-
-## Somos seres sociales por naturaleza y con una necesidad innata de conexión y pertenencia
 
 #teoria
 **La Sociabilidad como Estrategia de Supervivencia:** La sociabilidad humana no es solo una característica moderna, sino una estrategia de supervivencia que se remonta a los primeros primates. La evolución ha favorecido el desarrollo de habilidades sociales como la empatía, la cooperación y el cuidado, porque estas aumentan las posibilidades de supervivencia y reproducción en entornos grupales. En los grupos de primates, la capacidad para establecer alianzas y colaborar ha sido esencial para enfrentar amenazas, cazar, recolectar alimentos y criar a las crías. La selección natural ha favorecido a aquellos individuos que desarrollaban comportamientos prosociales, ya que vivir en comunidad aumentaba sus probabilidades de sobrevivir y protegerse.Este impulso evolutivo se reflejó en el desarrollo de estructuras cerebrales como la corteza prefrontal y la amígdala, que están asociadas con la regulación de emociones, la empatía y el reconocimiento de las intenciones de otros.
@@ -33,7 +31,7 @@ Este módulo profundizará en la importancia de RECONOCER Y RESPONDER a las nece
 
 ---
 
-## Relación Yo-tú vs Yo-Ello
+## Relación Yo-Tú vs Yo-Ello
 
 #teoria
 La manera en que percibimos y nos relacionamos con los demás influye profundamente en la calidad de nuestras conexiones.

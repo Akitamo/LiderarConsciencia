@@ -8,20 +8,27 @@ tags: [atencion, consciencia, abajo-arriba, arriba-abajo, corteza-prefrontal, go
 
 # La Atención: Puerta de Entrada a la Consciencia
 
+## Sistema de abajo-arriba: atención automática
+
 #teoria
 **Sistema de Abajo-Arriba:**
 - Este sistema es rápido, automático y está diseñado para captar estímulos externos inmediatos que podrían ser significativos.
 - Este tipo de atención es espontánea y, por lo general, opera en un modo de "piloto automático".
 - PRIVILEGIADO POR LA ORIENTACIÓN A LA SUPERVIVENCIA
 
-**Sistema de Arriba-Abajo:**
-- Es más lento, deliberado y controlado por la corteza prefrontal, permitiéndonos dirigir intencionalmente nuestra atención hacia lo que decidimos priorizar.
-- Este sistema requiere esfuerzo consciente y es crucial para mantener el foco en tareas complejas, planificación y regulación de emociones
-
 #imagen
 ![img-m01-atencion-estimulo](recursos/imagenes/img-m01-atencion-estimulo.png)Imagen de un muñeco cabezón (bobblehead) de un piloto o policía con gorra azul, representando metafóricamente el modo "piloto automático" del sistema de atención de abajo-arriba.
 #imagen
 ![img-m01-diagrama-stimulus-drive](recursos/imagenes/img-m01-diagrama-stimulus-driven.png)  Diagrama con silueta de persona y ondas concéntricas entrando hacia ella, etiquetado "Stimulus Driven Attention". Representa la atención capturada por estímulos externos (sistema abajo-arriba).
+
+---
+
+## Sistema de arriba-abajo: atención dirigida
+
+#teoria
+**Sistema de Arriba-Abajo:**
+- Es más lento, deliberado y controlado por la corteza prefrontal, permitiéndonos dirigir intencionalmente nuestra atención hacia lo que decidimos priorizar.
+- Este sistema requiere esfuerzo consciente y es crucial para mantener el foco en tareas complejas, planificación y regulación de emociones
 
 #imagen
 ![img-m01-atencion-dirigida](recursos/imagenes/img-m01-atencion-dirigida.png)Fotografía de un director de orquesta visto desde atrás, dirigiendo a una orquesta sinfónica completa. Representa el sistema de atención de arriba-abajo: la capacidad de dirigir intencionalmente la atención, como un director que coordina y focaliza los diferentes elementos de la orquesta.
@@ -43,6 +50,9 @@ Sistema de Arriba-Abajo:
 En contraste, el sistema de arriba-abajo es más lento, deliberado y controlado por la corteza prefrontal, permitiéndonos dirigir intencionalmente nuestra atención hacia lo que decidimos priorizar. Este sistema requiere esfuerzo consciente y es crucial para mantener el foco en tareas complejas, planificación y regulación de emociones. Por ejemplo, cuando decidimos concentrarnos en una lectura profunda o evitar responder impulsivamente a una situación emocional, estamos empleando el sistema de arriba-abajo para ejercer control sobre los impulsos automáticos generados por el sistema de abajo-arriba.
 
 ---
+
+## SODA: Si Observas Desactivas el Automatismo
+
 #teoria
 **EL MODO EN QUE DESPLEGAMOS NUESTRA ATENCIÓN DETERMINA LO QUE VEMOS**
 #imagen
@@ -54,6 +64,10 @@ En contraste, el sistema de arriba-abajo es más lento, deliberado y controlado 
 #cita 
 "La capacidad de centrar deliberadamente la atención errante una y otra vez constituye el fundamente del discernimiento, el carácter y la voluntad. Una estructura educativa que se dedicara a adiestrar esta facultad sería la educación por antonomasia"
 *Williams James, "The Principles of Psychology"*
+
+---
+
+## La atención como recurso limitado y entrenable
 
 #teoria
 **La atención es un recurso cognitivo limitado**

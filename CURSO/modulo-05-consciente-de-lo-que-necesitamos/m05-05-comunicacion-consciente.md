@@ -8,7 +8,7 @@ tags: [comunicacion, escucha-activa, escucha-profunda, zona-verde, mindfulness, 
 
 # Comunicación consciente
 
-## La comunicación consciente
+## Fundamentos de la comunicación consciente
 
 #teoria
 La comunicación consciente es la habilidad de expresar y recibir información de manera presente, respetuosa y empática, poniendo atención tanto al mensaje verbal como a las emociones y necesidades subyacentes.
@@ -28,7 +28,7 @@ La comunicación consciente implica **estar plenamente presente** durante la int
 
 ---
 
-## Modelo de escucha profunda
+## El modelo de escucha profunda
 
 #teoria
 Este modelo no se limita a escuchar información, sino que busca comprender el flujo completo de la comunicación, tanto verbal como no verbal. Se basa en la premisa de que todos poseemos una capacidad innata para la escucha profunda y que podemos cultivarla a través de la práctica y la conciencia.
@@ -55,7 +55,7 @@ Conexión Compasiva: No se trata de intentar solucionar los problemas del otro, 
 
 ---
 
-## Comunicación de zona verde
+## El semáforo de la comunicación
 
 #teoria
 La Comunicación de Zona Verde, es un enfoque de comunicación consciente desarrollado por la autora y maestra budista Susan Gillis Chapman. Este método busca integrar los principios de la atención plena en nuestras interacciones diarias con los demás, transformando las conversaciones cotidianas en una práctica de conciencia.

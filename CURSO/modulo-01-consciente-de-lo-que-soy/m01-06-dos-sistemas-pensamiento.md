@@ -8,6 +8,8 @@ tags: [kahneman, sistema1, sistema2, pensamiento, sesgos, neurociencia]
 
 # Dos Sistemas de Pensamiento
 
+## Sistema 1 y Sistema 2: introducción
+
 #teoria
 Existen dos modos de pensamiento:
 
@@ -24,6 +26,10 @@ Pordemos estar ciegos para lo evidente y, además, ciegos para nuestra ceguera"
 #imagen
 ![img-m01-cerebros-corriendo](recursos/imagenes/img-m01-cerebros-corriendo.png) Ilustración humorística de dos cerebros antropomorfizados corriendo. El cerebro etiquetado como "System 1" va adelantado y corre rápidamente, mientras el cerebro "System 2" va detrás, más lento. Representa metafóricamente cómo el pensamiento automático (Sistema 1) suele llegar antes que el pensamiento deliberativo (Sistema 2).
 
+---
+
+## Características y funcionamiento de los sistemas
+
 #explicacion
 Los Sistemas de Pensamiento 1 y 2: Una Mirada Profunda
 Los sistemas de pensamiento 1 y 2, como se describen en las fuentes, representan dos modos distintos de procesamiento mental que influyen en nuestros juicios y decisiones. El Sistema 1, también conocido como pensamiento rápido, es intuitivo, automático y emocional. Opera rápidamente y sin esfuerzo, basándose en impresiones, asociaciones y respuestas preestablecidas para navegar por el mundo. Este sistema es eficiente para manejar tareas rutinarias y responder a situaciones familiares, pero es propenso a sesgos y errores, especialmente en situaciones complejas o novedosas.
@@ -33,6 +39,10 @@ Conducir un coche por una carretera vacía es una tarea principalmente del Siste
 Resolver una multiplicación compleja como 17 x 24 requiere la intervención del Sistema 2. Necesitamos concentrarnos, aplicar reglas matemáticas y realizar un esfuerzo mental deliberado para llegar a la solución.
 La Interacción entre los Sistemas:
 Ambos sistemas interactúan constantemente. El Sistema 1 ofrece sugerencias, impresiones e intuiciones al Sistema 2, que puede aceptarlas, modificarlas o rechazarlas. Idealmente, el Sistema 2 actúa como un "controlador" del Sistema 1, supervisando sus sugerencias y corrigiendo sus errores. Sin embargo, el Sistema 2 es "perezoso" y tiende a conservar energía, por lo que a menudo acepta las sugerencias del Sistema 1 sin un análisis exhaustivo. Esto puede llevar a decisiones precipitadas e irracionales.
+
+---
+
+## Comparativa entre sistemas
 
 #imagen
 ![img-m01-tabla-comparativa-sistemas](recursos/imagenes/img-m01-tabla-comparativa-sistemas.png) Tabla comparativa entre Sistema 1 y Sistema 2 con las siguientes características: Velocidad, Esfuerzo, Base, Control, Precisión, Eficiencia.
@@ -53,6 +63,10 @@ Sustitución: Cuando se enfrenta a preguntas difíciles, el Sistema 1 puede sust
 Control de impulsos: El Sistema 2 es el responsable de controlar los impulsos del Sistema 1, como evitar decir algo inapropiado en un momento de ira. Sin embargo, cuando el Sistema 2 está ocupado o cansado, el Sistema 1 tiene más influencia sobre nuestro comportamiento.
 Implicaciones en la Toma de Decisiones:
 La interacción entre ambos sistemas es crucial en la toma de decisiones. El Sistema 1 proporciona una primera respuesta rápida, mientras que el Sistema 2 tiene la capacidad de analizar, cuestionar y modificar esta respuesta para llegar a una decisión más informada. Sin embargo, la "pereza" del Sistema 2 puede llevar a que se acepten las sugerencias del Sistema 1 sin un análisis adecuado, resultando en decisiones sesgadas e irracionales.
+
+---
+
+## Ejercicios: el sistema automático en acción
 
 #imagen #ejercicio 
 ![img-m01-ejercicio-derecha-izquierda](recursos/imagenes/img-m01-ejercicio-derecha-izquierda.png) Ejercicio tipo Stroop con las palabras "IZQUIERDA", "izquierda", "Derecha", "DERECHA", "derecha" dispuestas en diferentes posiciones y con diferentes formatos (mayúsculas/minúsculas). El ejercicio demuestra la interferencia cognitiva entre el Sistema 1 (leer automáticamente) y el Sistema 2 (identificar la posición).

@@ -8,6 +8,8 @@ tags: [sensaciones, atencion, triangulo-atencion, sentidos, interocepcion, propi
 
 # Sensaciones: Más allá de los cinco sentidos
 
+## El triángulo de la atención: las sensaciones
+
 #teoria
 SENSACIONES
 
@@ -15,6 +17,8 @@ SENSACIONES
 ![img-m02-triangulo-atencion](recursos/imagenes/img-m02-triangulo-atencion.png) Diagrama del triángulo de la atención con tres vértices etiquetados: "Pensamientos" (vértice superior), "Emociones" (vértice inferior derecho) y "SENSACIONES" (vértice inferior izquierdo, destacado en azul). En el interior del triángulo hay tres círculos superpuestos: uno verde (asociado a Sensaciones, resaltado), y dos grises (asociados a Pensamientos y Emociones). El círculo verde indica el foco temático del módulo.
 
 ---
+
+## Los tres sistemas perceptivos
 
 #teoria
 ¿Cuántos sentidos tenemos?
@@ -44,6 +48,10 @@ Se refiere a la capacidad de percibir la posición y el movimiento del cuerpo en
 - La propiocepción nos permite saber dónde están nuestras extremidades sin tener que mirarlas, coordinar nuestros movimientos y mantener el equilibrio.
 - Los receptores sensoriales de la propiocepción se encuentran en la piel, los músculos, los huesos y las articulaciones, informando al cerebro sobre la postura corporal.
 
+---
+
+## Los sentidos como base de la cognición y la consciencia
+
 #explicacion
 Los cinco sentidos tradicionales, también conocidos como exterocepción, son: la vista, el oído, el olfato, el gusto y el tacto. Estos sentidos nos permiten percibir el mundo exterior y juegan un papel fundamental en nuestra experiencia de la realidad.
 
@@ -58,8 +66,6 @@ El gusto: El gusto nos permite percibir los sabores. La lengua contiene miles de
 El tacto: El tacto nos permite percibir la presión, la temperatura y el dolor. Los receptores sensoriales del tacto se encuentran en la piel y envían señales al cerebro a través de los nervios.
 
 Es importante recordar que estos cinco sentidos no funcionan de forma aislada, sino que se complementan y se influyen mutuamente para crear una experiencia sensorial completa.
-
----
 
 #teoria
 Los sentidos permiten la representación en la mente del mundo interno y externo

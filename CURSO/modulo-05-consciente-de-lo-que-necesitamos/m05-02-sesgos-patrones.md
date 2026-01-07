@@ -8,9 +8,7 @@ tags: [sesgos, automatismos, reactividad, amigdala, patrones-mentales, autoindag
 
 # Sesgos y patrones automáticos
 
-## Comprendiendo bien las intenciones y automatismos del YO
-
-### Impacto de los Sesgos
+## Los filtros que distorsionan nuestra percepción
 
 #teoria
 **Sesgo de Confirmación**: Es la tendencia a buscar, interpretar y recordar información que confirma nuestras creencias previas. Este sesgo nos lleva a interpretar las acciones de los demás de una manera que refuerza lo que ya creemos de ellos.
@@ -50,7 +48,7 @@ Conclusión: Desarrollar consciencia plena y practicar mindfulness permite a los
 
 ---
 
-### Patrones Generan Reacciones Automáticas
+## Cuando los patrones toman el control
 
 #teoria
 **Activación de la Reactividad Emocional:** Cuando nos enfrentamos a una situación o persona que activa un patrón preexistente, nuestro cerebro puede generar una respuesta emocional automática. Este proceso sucede en la amígdala, una parte del cerebro encargada de la respuesta emocional rápida, especialmente en contextos que percibimos como negativos o amenazantes.La reactividad emocional suele estar ligada a experiencias pasadas.
@@ -79,8 +77,7 @@ Ejemplos detallados:
 
 ---
 
-### Las cuatro preguntas para comprender el trasfondo de nuestras opiniones
-
+## Cuatro preguntas para recuperar la consciencia
 
 #teoria
 Las cuatro preguntas que ayudan a comprender el trasfondo de nuestras opiniones:

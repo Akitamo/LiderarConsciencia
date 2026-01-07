@@ -8,6 +8,8 @@ tags: [mindfulness, kabat-zinn, MBSR, MBCT, meditacion, atencion-plena, tercera-
 
 # Descubriendo el Mindfulness
 
+## ¿Qué es el mindfulness? Definiciones
+
 #imagen
 ![img-m01-cerebro-saltando-comba](recursos/imagenes/img-m01-cerebro-saltando-comba.png) Ilustración de un cerebro antropomorfizado con cinta deportiva en la frente, brazos y piernas, saltando a la comba sobre fondo amarillo. Representa el concepto de entrenamiento mental que es el mindfulness.
 
@@ -26,6 +28,11 @@ tags: [mindfulness, kabat-zinn, MBSR, MBCT, meditacion, atencion-plena, tercera-
 
 #imagen
 ![img-m01-definicion-mindulness](recursos/imagenes/img-m01-definicion-mindulness.png)`[IMG: m01-10-diagrama-mindfulness]` Diagrama conceptual de mindfulness con un cerebro en el centro rodeado de elementos: Thoughts, Feelings, Bodily Sensations, Awareness, Acceptance, Surrounding Environment, Present Moment. Visualiza los componentes de la atención plena.
+
+---
+
+## Lo que NO es el mindfulness
+
 #teoria
 **ALGUNAS CONFUSIONES**
 
@@ -59,6 +66,10 @@ Para clarificar el concepto, es útil comprender algunas ideas erróneas comunes
 - No es una autoconciencia enjuiciadora: Practicar mindfulness no significa analizar o criticar constantemente nuestros pensamientos o emociones. Es una experiencia sin juicio, no verbal y no conceptual.
 - No es una práctica egoísta: Al contrario, el mindfulness permite comprender mejor nuestras propias acciones y aumenta la empatía hacia los demás. Muchas personas desarrollan, naturalmente, un compromiso social más profundo a medida que practican mindfulness.
 
+---
+
+## Componentes esenciales de la atención plena
+
 #teoria #referencia
 Las definiciones de mindfulness siempre deben incluir los siguientes aspectos (García Campayo y Demarzo, 2015, pp. 18-20):
 - Evitar automatismo (mind wandering)
@@ -76,6 +87,10 @@ Las definiciones de mindfulness siempre deben incluir los siguientes aspectos (G
 2. En el presente: uno puede estar atento en el pasado echandolo de menos (fenomeno que ocurre en la depresion), o centrado en el futuro, temiendo algo que va a ocurrir (lo que sucede en la ansiedad). En el mindfulness, el sujeto esta centrado exclusivamente en el fenomeno presente.
 3. Intencional: entrar en estado de mindfulness constituye un ejercicio de la voluntad, es intencional, al menos al principio de la practica. Con el tiempo, el proceso se vuelve natural y se puede estar en ese estado la mayor parte del tiempo.
 4. Con aceptacion: uno no juzga, critica o esta a disgusto con la experiencia presente, sino que la acepta de una forma radical. Aqui, aceptacion es diferente de resignacion o pasividad, el sentido es de apertura y curiosidad no critica ante cada experiencia. Cualquier elemento de no aceptacion que exista en la experiencia, hara perder el estado de mindfulness. Esta es la forma mas sutil de no estar en mindfulness.
+
+---
+
+## Raíces budistas y evolución occidental
 
 #teoria #referencia 
 RECONOCIMIENTO DE LAS RAICES BUDISTAS pero evolucionando hacia una forma "occidental" o "moderna" (Sharf, 1995; 2015):
@@ -100,6 +115,10 @@ El budismo llega a Occidente a través de diferentes vías, siendo una de las m�
 - Integrarse en la sociedad: a diferencia del budismo tradicional que requería la renuncia a la vida mundana, el budismo moderno no exige este tipo de renunciación, facilitando su integración en la sociedad occidental.
 
 El budismo moderno surge en parte como una crítica al budismo tradicional, similar a la crítica del protestantismo al catolicismo. Se buscaba adaptar el budismo Theravada a un estilo de vida secular, sin la necesidad de ser un monje.
+
+---
+
+## Jon Kabat-Zinn y el programa MBSR
 
 #teoria
 **Aparición psicoterapias de tercera generación**
@@ -139,6 +158,10 @@ Las terapias conductuales de tercera generación representan una evolución de l
 - Énfasis en la aceptación y la atención plena: En lugar de intentar cambiar directamente los pensamientos y emociones negativos, estas terapias se centran en aceptarlos sin juzgarlos y cultivar la atención plena al momento presente.
 - Flexibilidad psicológica: El objetivo principal es aumentar la flexibilidad psicológica, es decir, la capacidad de aceptar las experiencias internas, conectar con el presente y actuar en función de los valores personales, incluso en presencia de malestar.
 
+---
+
+## Mindfulness en el mainstream
+
 #imagen
 ![img-m01-portadas-revistas.](recursos/imagenes/img-m01-portadas-revistas.png) Collage de portadas de revistas mainstream sobre mindfulness: TIME Magazine "The Mindful Revolution" (mujer meditando), TIME Magazine "The Science of Meditation", National Geographic "What's in your mind". Evidencia de la incorporación del mindfulness al mainstream mediático.
 
@@ -159,6 +182,10 @@ Mindfulness-based therapies are recommended by the National Institute for Health
 NICE also recommends that employers make mindfulness available to all employees, to support mental wellbeing at work.
 #imagen 
 ![img-m01-logo-nhs](recursos/imagenes/img-m01-logo-nhs.png) logo del NHS británico
+
+---
+
+## Beneficios del mindfulness
 
 #teoria
 **Beneficios del Mindfulness**
@@ -187,6 +214,10 @@ NICE also recommends that employers make mindfulness available to all employees,
 
 #imagen #referencia 
 ![img-m01-cortical-thickness-mindfulness](recursos/imagenes/img-m01-cortical-thickness-mindfulness.png) imagen del estudio que muestra un incremento del cortical thickness en meditadores vs no meditadores
+
+---
+
+## Reflexión crítica: más allá del McMindfulness
 
 #reflexion #referencia 
 "Más allá del McMindfulness" de Ron Purser y David Loy (2013)

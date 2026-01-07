@@ -8,6 +8,8 @@ tags: [neurociencia, cerebro, evolucion, supervivencia]
 
 # El Cerebro: Una máquina creada desde y para la supervivencia
 
+## El cerebro como máquina de supervivencia
+
 #teoria
 **El cerebro se ha desarrollado evolutivamente para ayudarnos a sobrevivir.**
 • Cada estructura y función cerebral contribuye a anticipar y adaptarse a los cambios.
@@ -38,6 +40,11 @@ Sistema de Supervivencia Eficiente: A lo largo de millones de años, el cerebro 
 
 #ejercicio #Gif 
 ![Gif-m01-cerebro-huida](recursos/imagenes/Gif-m01-cerebro-huida.gif)Ejercicio dinámica mostrar qué cerebro es el que ha evolucionado con la necesidad de supervivencia (dinamización de las imagenes anteriores)
+
+---
+
+## El modelo predictivo del mundo
+
 #teoria
 El cerebro crearía un "modelo del mundo" para anticipar eventos futuros.
 
@@ -65,6 +72,11 @@ La memoria permite guardar experiencias y aprendizajes pasados que facilitan la 
 5. Un Teatro de Ideas y Percepciones
 Rafael Yuste se refiere al cerebro como un "teatro del mundo" en el que actuamos dentro de una representación creada internamente. Esta metáfora ilustra que, aunque el cerebro utiliza los sentidos para ajustar su modelo de realidad, la "realidad" que experimentamos es una construcción interna. Esto es clave para entender por qué a veces nuestra percepción puede fallar o ser selectiva: nuestro cerebro prioriza aquello que resulta relevante para nuestra supervivencia o experiencia previa.
 
+---
+
+## La evolución humana reflejada en la estructura cerebral
+
+#explicacion
 La Evolución Humana Reflejado en la Estructura del Cerebro
 La estructura del cerebro humano revela una fascinante historia de la evolución de nuestra especie. Principalmente, el tamaño y complejidad de la corteza cerebral, la capa externa del cerebro, es un testimonio de nuestra avanzada capacidad cognitiva.
 

@@ -8,6 +8,8 @@ tags: [interocepcion, neurociencia, damasio, tallon-baudry, homeostasis, cannon,
 
 # La Interocepción: Un cambio de paradigma
 
+## Del dualismo cartesiano a la integración cuerpo-mente
+
 #imagen
 ![img-m02-dualidad-cartesiana](recursos/imagenes/img-m02-dualidad-cartesiana.png) Ilustración artística estilo grabado/vintage mostrando un corazón anatómico y un cerebro conectados por rayos eléctricos azules, representando la tensión entre cuerpo y mente en la visión dualista. Tonos sepia y azul sobre fondo beige.
 
@@ -48,6 +50,8 @@ La teoría del marco subjetivo neuronal y el cambio de paradigma hacia la intero
 
 ---
 
+## Pioneros de la revolución interoceptiva
+
 #teoria
 Esta revolución se ha nutrido del trabajo de numerosos investigadores y de la acumulación de evidencias científicas que demuestran la importancia de las señales del cuerpo en la percepción, las emociones, la cognición y la identidad.
 
@@ -85,6 +89,8 @@ Dentro de este marco, el corazón juega un papel fundamental. La respuesta neuro
 
 ---
 
+## Experimentos: la interacción cuerpo-mente
+
 #teoria
 Experimentos e Investigaciones que Demuestran la Interacción Cuerpo-Mente.
 
@@ -115,11 +121,13 @@ En resumen, la postura corporal no solo influye en nuestra salud física, sino q
 
 ---
 
-#teoria
-**Influencia de la Respiración en la Cognición**
+## La respiración y la cognición
 
 #imagen
 ![img-m02-respiracion-silueta](recursos/imagenes/img-m02-respiracion-silueta.png) Ilustración minimalista de una silueta de cabeza humana de perfil en tonos azul claro/gris suave. Líneas onduladas representan el flujo de la respiración conectando con el área cerebral. Estilo limpio y sereno.
+
+#teoria
+**Influencia de la Respiración en la Cognición**
 
 **Influencia en la Memoria:**
 
@@ -138,6 +146,8 @@ En resumen, la postura corporal no solo influye en nuestra salud física, sino q
 - **Alegría:** Respiración rápida, con pausas entre respiraciones.
 
 ---
+
+## El corazón y la experiencia humana
 
 #teoria
 **La Influencia del Corazón en la Experiencia Humana: Más Allá del Bombeo Sanguíneo**
@@ -178,6 +188,8 @@ El Corazón y la Toma de Decisiones:
 Las personas con mayor conciencia interoceptiva, es decir, con mayor capacidad de percibir las señales internas de su cuerpo, tienden a tomar decisiones más acertadas, ya que son más sensibles a las señales corporales que indican riesgo o beneficio. Al sintonizar con el corazón y sus señales, podemos acceder a una sabiduría intuitiva que nos guía hacia elecciones más saludables y alineadas con nuestras necesidades.
 
 ---
+
+## Reflexión: el cuerpo como sede de la emoción
 
 #cita
 "Para mí es imposible pensar qué tipo de emoción de miedo quedaría si no estuvieran presentes la sensación de latidos acelerados o de respiración entrecortada, ni la sensación de labios temblorosos o de piernas debilitadas, ni de carne de gallina o de retortijones de tripas. ¿Puede alguien imaginarse el estado de ira sin sentir que el pecho estalla, la cara se ruboriza, los orificios nasales se dilatan, los dientes se aprietan, sin notar el impulso hacia la acción vigorosa? ¿Puede sentirse rabia en cambio con los músculos relajados, la respiración calmada y una cara plácida?"

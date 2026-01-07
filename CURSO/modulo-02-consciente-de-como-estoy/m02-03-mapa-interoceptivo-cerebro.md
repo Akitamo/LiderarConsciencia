@@ -8,22 +8,30 @@ tags: [interocepcion, cerebro, insula, corteza-somatosensorial, talamo, nervio-v
 
 # El mapa interoceptivo en el cerebro
 
+## Las vías de comunicación cuerpo-cerebro
+
 #imagen #referencia 
 ![img-m02-referencia-articulo](recursos/imagenes/img-m02-referencia-articulo.png) Recuadro con referencia bibliográfica: "The Emerging Science of Interoception: Sensing, Integrating, Interpreting, and Regulating Signals within the Self" - January 2021, Trends in Neurosciences 44(1):3-16, DOI:10.1016/j.tins.2020.10.007, License: CC BY 4.0
 
-#imagen
-![img-m02-cerebro-insula](recursos/imagenes/img-m02-cerebro-insula.png) Ilustración anatómica del cerebro humano en vista lateral, con dos áreas señaladas: la "Corteza somatosensorial" (parte superior, sombreada en gris oscuro) y la "Ínsula" (parte inferior central, sombreada en gris). Dibujo en estilo científico con líneas limpias.
-
 #teoria
 El cerebro integra la información proveniente de los diferentes órganos internos a través de una red neuronal distribuida. Las señales interoceptivas son transmitidas al cerebro a través de vías nerviosas, como el nervio vago, y la médula espinal. El tálamo recibe estas señales y las distribuye a las áreas corticales, donde son procesadas e integradas con otra información sensorial, emocional y cognitiva.
-
-**La corteza insular** proporciona un contexto emocional para una experiencia sensorial determinada. Su posición estratégica le permite combinar información sobre el estado del cuerpo y ponerla a disposición de los procesos cognitivos y emocionales superiores.
 
 #explicacion
 La Integración de la Información Interoceptiva en el Cerebro
 
 El cerebro integra la información proveniente de los diferentes órganos internos a través de una red neuronal distribuida. Las señales interoceptivas, que son las señales que provienen del interior del cuerpo, son transmitidas al cerebro a través de vías nerviosas, como el nervio vago y la médula espinal. El tálamo, que actúa como un centro de relevo sensorial, recibe estas señales y las distribuye a las áreas corticales, donde son procesadas e integradas con otra información sensorial, emocional y cognitiva.
 
+---
+
+## La ínsula: centro de integración interoceptiva
+
+#imagen
+![img-m02-cerebro-insula](recursos/imagenes/img-m02-cerebro-insula.png) Ilustración anatómica del cerebro humano en vista lateral, con dos áreas señaladas: la "Corteza somatosensorial" (parte superior, sombreada en gris oscuro) y la "Ínsula" (parte inferior central, sombreada en gris). Dibujo en estilo científico con líneas limpias.
+
+#teoria
+**La corteza insular** proporciona un contexto emocional para una experiencia sensorial determinada. Su posición estratégica le permite combinar información sobre el estado del cuerpo y ponerla a disposición de los procesos cognitivos y emocionales superiores.
+
+#explicacion
 La Ínsula: Un Centro de Integración Interoceptiva:
 La ínsula, situada en la profundidad del cerebro, juega un papel crucial en la interocepción. Según los investigadores Antonio Damasio y Bud Craig, la ínsula es la piedra angular de la conciencia. Esto se debe a su capacidad para integrar información visceral, emocional y del entorno, creando lo que se conoce como el "momento emocional global".
 

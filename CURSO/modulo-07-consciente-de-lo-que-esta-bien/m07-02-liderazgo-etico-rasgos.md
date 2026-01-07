@@ -8,6 +8,8 @@ tags: [liderazgo-etico, paradigma, valores, virtud, prudencia, integridad, trans
 
 # El liderazgo ético: fundamentos y rasgos
 
+## Un nuevo paradigma de liderazgo
+
 #teoria
 - Necesidad de un **nuevo paradigma de liderazgo**, centrado en la ética, la humanidad y el bienestar integral de las personas.
 - Este **liderazgo ético** se basa en valores como la transparencia, la ejemplaridad, la justicia, la compasión y el servicio a los demás.
@@ -21,6 +23,8 @@ tags: [liderazgo-etico, paradigma, valores, virtud, prudencia, integridad, trans
 
 ---
 
+## De la ética a la virtud
+
 #teoria
 **La Armonía Entre Ética y Estética en el Liderazgo**
 
@@ -32,6 +36,8 @@ tags: [liderazgo-etico, paradigma, valores, virtud, prudencia, integridad, trans
 ![img-m07-muerte-socrates](recursos/imagenes/img-m07-muerte-socrates.png) Reproducción del cuadro "La muerte de Sócrates" de Jacques-Louis David. Escena clásica mostrando a Sócrates en el centro, semidesnudo con túnica blanca, brazo alzado señalando hacia arriba mientras con la otra mano alcanza la copa de cicuta. Rodeado de discípulos afligidos.
 
 ---
+
+## Los ocho rasgos del líder ético
 
 #teoria
 **8 rasgos del líder ético**
