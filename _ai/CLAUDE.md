@@ -10,6 +10,8 @@
 - workflows/: wf-proceso.md (wf-crear-nuevo-modulo.md)
 - hooks/: nombre-hook.js (save-session.js)
 - agents/: agent-nombre.md (agent-revisor-contenido.md)
+- examples/: tipo-modelo.md (prompt-modelo.md, skill-modelo.md)
+- plantillas/: NOMBRE.md (SOLICITUD.md)
 
 # Frontmatter
 ```yaml

@@ -1,6 +1,6 @@
 ---
 id: arquitectura-sistema
-version: 1.0
+version: 1.1
 status: accepted
 created: 2026-01-07
 updated: 2026-01-08
@@ -17,9 +17,17 @@ Este documento describe la función de cada archivo del sistema, su alcance y la
 
 ```
                     ┌─────────────────────┐
-                    │  .claude/CLAUDE.md │  ← Capa 1: Siempre cargado
+                    │  .claude/CLAUDE.md  │  ← Capa 1: Siempre cargado
                     │   (Visión global)   │
                     └──────────┬──────────┘
+                               │
+              ┌────────────────┼────────────────┐
+              │                │                │
+              ▼                │                ▼
+     ┌────────────────┐        │       ┌──────────────────┐
+     │.claude/commands│        │       │   ARQUITECTURA   │
+     │ (invocables)   │        │       │                  │
+     └────────────────┘        │       └──────────────────┘
                                │
                                │ referencia a
                                ▼
@@ -37,7 +45,9 @@ Este documento describe la función de cada archivo del sistema, su alcance y la
    │ prompts │ ──────▶   │  ai/    │           │ sessions  │
    │ skills  │  valida   │ curso/  │           │           │
    │workflows│ ◀──────   │marketing│           │           │
-   └─────────┘           └─────────┘           └───────────┘
+   │examples │           └─────────┘           └───────────┘
+   │plantilla│
+   └─────────┘
 ```
 
 ---
@@ -80,6 +90,30 @@ CLAUDE.md
 
 ---
 
+### `.claude/commands/*.md`
+
+| Aspecto | Descripción |
+|---------|-------------|
+| **Función** | Comandos invocables por el usuario con `/nombre` |
+| **Alcance** | Interfaz de usuario para activar skills y workflows |
+| **Se carga** | Cuando el usuario invoca el comando |
+
+**Comandos disponibles**:
+- `/revisar-modulo` → Revisión pedagógica de un módulo
+- `/crear-prompt` → Crear nuevo prompt siguiendo estructura
+- `/prime-curso` → Cargar contexto completo del curso
+
+**Relaciones**:
+```
+.claude/commands/
+    │
+    ├──▶ Invoca: _ai/skills/ y _ai/workflows/
+    ├──▶ Usa ejemplos de: _ai/examples/
+    └──◀ Documentado en: ARQUITECTURA.md
+```
+
+---
+
 ## 2. CAPA DE ÁREA
 
 ### `_ai/README.md`
@@ -95,13 +129,14 @@ CLAUDE.md
 - Estructura de subcarpetas
 - Catálogo de elementos (prompts, skills, workflows, hooks, agents)
 - Diferencia entre tipos de elementos
-- Referencias a plantillas
+- Referencias a ejemplos modelo y plantillas
 
 **Relaciones**:
 ```
 _ai/README.md
     │
     ├──▶ Define estructura para: prompts/, skills/, workflows/, hooks/, agents/
+    ├──▶ Define recursos de apoyo: examples/, plantillas/
     ├──▶ Referencia flujo desde: _wip/
     └──▶ Referenciado por: CLAUDE.md
 ```
@@ -286,6 +321,52 @@ workflows/*.md
 
 ---
 
+### `_ai/examples/*.md`
+
+| Aspecto | Descripción |
+|---------|-------------|
+| **Función** | Ejemplos modelo de elementos bien estructurados |
+| **Alcance** | Referencia para crear nuevos elementos con calidad consistente |
+| **Se carga** | Al crear nuevos prompts, skills, workflows o contenido |
+
+**Ejemplos disponibles**:
+- `prompt-modelo.md` → Estructura ideal de un prompt
+- `skill-modelo.md` → Estructura ideal de un skill
+- `workflow-modelo.md` → Estructura ideal de un workflow
+- `seccion-curso-modelo.md` → Sección de curso bien estructurada
+
+**Relaciones**:
+```
+_ai/examples/
+    │
+    ├──◀ Referenciado por: .claude/commands/ (como patrón a seguir)
+    ├──◀ Usado en: creación de nuevos elementos
+    └──▶ Sigue estructura de: _ai/CLAUDE.md
+```
+
+---
+
+### `_ai/plantillas/*.md`
+
+| Aspecto | Descripción |
+|---------|-------------|
+| **Función** | Plantillas para solicitar trabajo a Claude Code |
+| **Alcance** | Estructurar peticiones de contenido o elementos IA |
+| **Se carga** | Al iniciar una solicitud estructurada |
+
+**Plantillas disponibles**:
+- `SOLICITUD.md` → Template para pedir nuevo contenido/funcionalidad
+
+**Relaciones**:
+```
+_ai/plantillas/
+    │
+    ├──▶ Input para: skills y workflows
+    └──◀ Inspirado en: INITIAL.md de frameworks PRP (Context Engineering)
+```
+
+---
+
 ## 4. CAPA DE SOPORTE
 
 ### `_ai/hooks/*.js`
@@ -306,14 +387,15 @@ workflows/*.md
 
 ---
 
-### `_templates/*.md`
+### `_templates/*.md` (Obsidian Templater)
 
 | Aspecto | Descripción |
 |---------|-------------|
-| **Función** | Plantillas para crear contenido del curso |
-| **Alcance** | Punto de partida para nuevos elementos del curso |
+| **Función** | Plantillas de Obsidian Templater para generar contenido |
+| **Alcance** | Uso EXCLUSIVO dentro de Obsidian |
+| **Nota** | NO usar desde Claude Code. Para plantillas IA ver `_ai/plantillas/` |
 
-**Plantillas disponibles**:
+**Plantillas disponibles** (solo Obsidian):
 - `Generar Indice Curso.md` → genera índices del curso
 - `Generar Indice Modulo.md` → genera índices de módulo
 - `Nueva Seccion.md` → genera secciones del curso
@@ -371,13 +453,16 @@ Usuario hace petición
 | Archivo | Responsabilidad única |
 |---------|----------------------|
 | `CLAUDE.md` | Orientar a Claude sobre el proyecto |
+| `.claude/commands/` | Interfaz de usuario para invocar capacidades |
 | `_ai/README.md` | Explicar qué hay validado y cómo usarlo |
+| `_ai/examples/` | Ejemplos modelo para garantizar calidad |
+| `_ai/plantillas/` | Estructurar solicitudes a Claude Code |
 | `_wip/README.md` | Gestionar el flujo de trabajo en progreso |
 | `_history/README.md` | Preservar memoria del proyecto |
 | `prompts/*.md` | Una instrucción = una tarea |
 | `skills/*.md` | Un dominio = múltiples capacidades |
 | `workflows/*.md` | Un proceso = pasos verificables |
-| `_templates/*.md` | Consistencia al crear elementos del curso |
+| `_templates/*.md` | Plantillas Obsidian (NO para Claude Code) |
 
 ---
 
@@ -386,13 +471,17 @@ Usuario hace petición
 | Archivo | Tipo | Función |
 |---------|------|---------|
 | `.claude/CLAUDE.md` | Instrucciones | Visión global del proyecto |
+| `.claude/commands/*.md` | Comandos | Interfaz invocable por usuario |
 | `ARQUITECTURA.md` | Documentación | Relaciones entre ficheros y flujos |
 | `_ai/README.md` | README | Guía de infraestructura IA (catálogos incluidos) |
 | `_ai/CLAUDE.md` | Instrucciones | Convenciones para desarrollar elementos IA |
+| `_ai/examples/*.md` | Ejemplos | Modelos de referencia para crear elementos |
+| `_ai/plantillas/*.md` | Plantillas | Templates para solicitudes a Claude Code |
 | `CURSO/README.md` | README | Contexto del curso (filosofía, tono) |
 | `CURSO/CLAUDE.md` | Instrucciones | Convenciones para modificar contenido |
 | `_wip/README.md` | README | Guía de work in progress |
 | `_history/README.md` | README | Sistema de registro |
+| `_templates/*.md` | Obsidian | Plantillas Templater (NO para Claude Code) |
 | `_TAREAS.md` | Backlog | Tareas del proyecto |
 
 ---

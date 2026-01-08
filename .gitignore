@@ -27,3 +27,12 @@ __pycache__/
 # IDE
 .vscode/
 .idea/
+
+
+
+
+# Ignore Smart Environment folder
+.smart-env
+
+# Investigación externa (repos descargados, análisis extensos)
+_wip/ai/investigacion/

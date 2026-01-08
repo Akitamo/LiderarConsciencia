@@ -16,7 +16,9 @@ _ai/
 ├── skills/      # Capacidades de dominio (qué sabe hacer el sistema)
 ├── workflows/   # Procedimientos paso a paso
 ├── hooks/       # Scripts de automatización
-└── agents/      # Definiciones de agentes (futuro)
+├── agents/      # Definiciones de agentes (futuro)
+├── examples/    # Ejemplos modelo para garantizar calidad
+└── plantillas/  # Templates para solicitudes a Claude Code
 ```
 
 ## Instrucciones de desarrollo
@@ -75,6 +77,29 @@ Scripts que se ejecutan automáticamente en respuesta a eventos de Claude Code.
 ### Agents
 
 **Estado**: Por desarrollar. Carpeta preparada para futuras implementaciones.
+
+### Examples
+
+Ejemplos modelo que sirven como "ancla de calidad" al crear nuevos elementos.
+
+| Ejemplo | Descripción |
+|---------|-------------|
+| `prompt-modelo.md` | Estructura ideal de un prompt |
+| `skill-modelo.md` | Estructura ideal de un skill |
+| `workflow-modelo.md` | Estructura ideal de un workflow |
+| `seccion-curso-modelo.md` | Sección de curso bien estructurada |
+
+**Uso**: Al crear un nuevo elemento, leer primero el ejemplo correspondiente y seguir la misma estructura.
+
+### Plantillas
+
+Templates para estructurar solicitudes a Claude Code (inspirado en INITIAL.md de Context Engineering).
+
+| Plantilla | Descripción |
+|-----------|-------------|
+| `SOLICITUD.md` | Template para pedir nuevo contenido o funcionalidad |
+
+**Nota**: NO confundir con `_templates/` que es exclusivo de Obsidian Templater.
 
 ---
 

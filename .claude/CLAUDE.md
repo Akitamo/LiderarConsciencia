@@ -9,10 +9,11 @@ Programa educativo (7 módulos) + infraestructura agentes IA
 # Estructura (dónde está cada cosa)
 - CURSO/: contenido del curso (7 módulos)
 - Marketing/: material comercial
-- _ai/: elementos IA validados (prompts, skills, workflows, hooks)
+- _ai/: elementos IA validados (prompts, skills, workflows, hooks, examples, plantillas)
 - _wip/: borradores en desarrollo
 - _history/: sesiones
-- _templates/: plantillas para crear elementos
+- _templates/: plantillas Obsidian Templater (NO para Claude Code)
+- .claude/commands/: comandos invocables (/prime-curso, /revisar-modulo, /crear-prompt)
 - _TAREAS.md: backlog del proyecto
 
 # Contexto por dominio (para qué sirve cada cosa)
