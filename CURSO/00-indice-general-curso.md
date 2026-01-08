@@ -17,7 +17,7 @@ tags: [indice, estructura, pedagogia, narrativa]
 
 ## Visión General
 
-Este programa formativo guía al participante en un viaje de autoconocimiento y desarrollo de habilidades de liderazgo consciente, partiendo desde las bases neurobiológicas del funcionamiento humano hasta la integración de un modelo ético y práctico de liderazgo. La progresión sigue una lógica de círculos concéntricos: del yo interior hacia la relación con otros, y de ahí hacia la acción con propósito.
+Ver [README.md](README.md) para filosofía y tono del curso.
 
 | Módulo | Pregunta            | Movimiento                                             |
 | ------ | ------------------- | ------------------------------------------------------ |

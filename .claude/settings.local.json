@@ -1,9 +1,37 @@
 {
+  "permissions": {
+    "allow": [
+      "Bash",
+      "Edit",
+      "Write",
+      "Read",
+      "WebFetch(domain:*)",
+      "mcp__*",
+      "WebFetch(domain:github.com)",
+      "WebSearch",
+      "WebFetch(domain:danielmiessler.com)",
+      "WebFetch(domain:www.anthropic.com)"
+    ]
+  },
+  "enableAllProjectMcpServers": true,
   "enabledMcpjsonServers": [
     "postgresql",
     "playwright",
     "context7",
     "memory"
   ],
-  "enableAllProjectMcpServers": true
+  "hooks": {
+    "SessionEnd": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "node _ai/hooks/save-session.js",
+            "timeout": 180,
+            "statusMessage": "Guardando resumen de sesión..."
+          }
+        ]
+      }
+    ]
+  }
 }

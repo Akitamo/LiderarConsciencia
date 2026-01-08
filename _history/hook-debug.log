@@ -1,0 +1,52 @@
+[2026-01-07T19:42:21.633Z] === Inicio hook save-session ===
+[2026-01-07T19:42:21.638Z] Leyendo datos de stdin...
+[2026-01-07T19:42:21.642Z] Datos recibidos: session_id=776461ab-42c1-4249-a27d-a35c2b9a0754, reason=prompt_input_exit
+[2026-01-07T19:42:21.642Z] Leyendo transcripción desde: C:\Users\aluni\.claude\projects\C--dev-projects-LiderarConsciencia\776461ab-42c1-4249-a27d-a35c2b9a0754.jsonl
+[2026-01-07T19:42:21.689Z] Mensajes encontrados: 703
+[2026-01-07T19:42:21.691Z] Llamando a Claude API...
+[2026-01-07T19:42:30.524Z] Resumen generado correctamente
+[2026-01-07T19:42:30.526Z] Resumen guardado en: C:\dev\projects\LiderarConsciencia\_history\sessions\2026-01-07-204230-eliminar-clave-api-expuesta-20.md
+[2026-01-07T19:42:30.527Z] === Fin hook save-session (OK) ===
+[2026-01-08T06:08:27.119Z] === Inicio hook save-session (v2 - jerárquico) ===
+[2026-01-08T06:08:27.123Z] Leyendo datos de stdin...
+[2026-01-08T06:08:27.127Z] Datos recibidos: session_id=088f034d-6b85-4358-84ad-e0191eb9a548, reason=prompt_input_exit
+[2026-01-08T06:08:27.127Z] Leyendo transcripción desde: C:\Users\aluni\.claude\projects\C--dev-projects-LiderarConsciencia\088f034d-6b85-4358-84ad-e0191eb9a548.jsonl
+[2026-01-08T06:08:27.130Z] Mensajes encontrados: 12
+[2026-01-08T06:08:27.130Z] Total caracteres en sesión: 6404
+[2026-01-08T06:08:27.130Z] Sesión corta - usando estrategia de pasada única con Sonnet
+[2026-01-08T06:08:27.462Z] ERROR: API error: 404 - {"type":"error","error":{"type":"not_found_error","message":"model: claude-3-5-sonnet-20241022"},"request_id":"req_011CWuQpTqrsoQTdPR4pv5w8"}
+[2026-01-08T06:08:27.462Z] === Fin hook save-session (ERROR) ===
+[2026-01-08T06:11:04.874Z] === Inicio hook save-session (v2 - jerárquico) ===
+[2026-01-08T06:11:04.877Z] Leyendo datos de stdin...
+[2026-01-08T06:11:04.880Z] Datos recibidos: session_id=e24f91a3-142e-4398-90fb-58623d7af940, reason=prompt_input_exit
+[2026-01-08T06:11:04.880Z] Leyendo transcripción desde: C:\Users\aluni\.claude\projects\C--dev-projects-LiderarConsciencia\e24f91a3-142e-4398-90fb-58623d7af940.jsonl
+[2026-01-08T06:11:04.881Z] Mensajes encontrados: 8
+[2026-01-08T06:11:04.882Z] Total caracteres en sesión: 2814
+[2026-01-08T06:11:04.882Z] Sesión corta - usando estrategia de pasada única con Sonnet
+[2026-01-08T06:11:14.471Z] Resumen final generado correctamente
+[2026-01-08T06:11:14.473Z] Resumen guardado en: C:\dev\projects\LiderarConsciencia\_history\sessions\2026-01-08-071114-correccion-hook-de-resumen.md
+[2026-01-08T06:11:14.473Z] === Fin hook save-session (OK) ===
+[2026-01-08T08:07:46.853Z] === Inicio hook save-session (v2 - jerárquico) ===
+[2026-01-08T08:07:46.858Z] Leyendo datos de stdin...
+[2026-01-08T08:07:46.861Z] Datos recibidos: session_id=02f505d2-3eb6-44d7-8d84-9529c9aff9e1, reason=prompt_input_exit
+[2026-01-08T08:07:46.861Z] Leyendo transcripción desde: C:\Users\aluni\.claude\projects\C--dev-projects-LiderarConsciencia\02f505d2-3eb6-44d7-8d84-9529c9aff9e1.jsonl
+[2026-01-08T08:07:46.885Z] Mensajes encontrados: 101
+[2026-01-08T08:07:46.886Z] Total caracteres en sesión: 65844
+[2026-01-08T08:07:46.886Z] Sesión larga - usando estrategia jerárquica (Haiku + Sonnet)
+[2026-01-08T08:07:46.887Z] Sesión dividida en 13 chunks
+[2026-01-08T08:07:46.887Z] Generando mini-resúmenes con Haiku...
+[2026-01-08T08:07:46.888Z] Procesando chunk 1/13 (9353 chars)...
+[2026-01-08T08:07:52.455Z] Procesando chunk 2/13 (9540 chars)...
+[2026-01-08T08:07:57.797Z] Procesando chunk 3/13 (12521 chars)...
+[2026-01-08T08:08:03.243Z] Procesando chunk 4/13 (8002 chars)...
+[2026-01-08T08:08:13.755Z] Procesando chunk 5/13 (7758 chars)...
+[2026-01-08T08:10:56.403Z] === Inicio hook save-session (v2 - jerárquico) ===
+[2026-01-08T08:10:56.406Z] Leyendo datos de stdin...
+[2026-01-08T08:10:56.409Z] Datos recibidos: session_id=01617a10-11f9-4317-b9da-a3277dbf0fa5, reason=prompt_input_exit
+[2026-01-08T08:10:56.409Z] Leyendo transcripción desde: C:\Users\aluni\.claude\projects\C--dev-projects-LiderarConsciencia\01617a10-11f9-4317-b9da-a3277dbf0fa5.jsonl
+[2026-01-08T08:10:56.410Z] Mensajes encontrados: 11
+[2026-01-08T08:10:56.411Z] Total caracteres en sesión: 2264
+[2026-01-08T08:10:56.411Z] Sesión corta - usando estrategia de pasada única con Sonnet
+[2026-01-08T08:11:05.290Z] Resumen final generado correctamente
+[2026-01-08T08:11:05.291Z] Resumen guardado en: C:\dev\projects\LiderarConsciencia\_history\sessions\2026-01-08-091105-debugging-hook-resumen-de-sesion.md
+[2026-01-08T08:11:05.292Z] === Fin hook save-session (OK) ===
