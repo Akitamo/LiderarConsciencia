@@ -1,12 +1,13 @@
 # _history/ - Registro del Proyecto
 
-Memoria persistente del proyecto: resúmenes automáticos de sesiones de trabajo.
+Memoria persistente del proyecto: sesiones de trabajo y decisiones.
 
-## Estructura actual
+## Estructura
 
 ```
 _history/
-└── sessions/      # Resúmenes automáticos de sesiones
+├── sessions/      # Resúmenes automáticos de sesiones
+└── decisions/     # Decisiones del proyecto (diarias + ADRs)
 ```
 
 ---
@@ -60,9 +61,41 @@ Usar búsqueda de Obsidian o grep:
 
 ---
 
-## Futuro: decisions/
+## decisions/ - Decisiones del Proyecto
 
-Cuando se necesite documentar decisiones arquitectónicas importantes (ADRs), se creará la carpeta `decisions/`. Por ahora no existe.
+Registro de decisiones: tanto diarias (rápidas) como arquitectónicas (ADRs).
+
+### Formato de nombrado
+
+- **Decisiones diarias**: `YYYY-MM-DD.md` (un fichero por día)
+- **ADRs existentes**: `YYYY-MM-DD-nombre-decision.md`
+
+### Cómo registrar
+
+Usar el comando `/decision`:
+```
+/decision Descripción de la decisión tomada
+```
+
+El comando:
+1. Crea el fichero del día si no existe
+2. Revisa decisiones previas del día por si modifica/complementa alguna
+3. Añade la decisión con timestamp
+
+### Estructura de fichero diario
+
+```markdown
+---
+date: YYYY-MM-DD
+tags: [decisions]
+---
+
+# Decisiones del YYYY-MM-DD
+
+### [HH:MM] Título
+
+Descripción de la decisión
+```
 
 ---
 

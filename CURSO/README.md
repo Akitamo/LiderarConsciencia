@@ -16,3 +16,7 @@ Viaje de autoconocimiento y desarrollo de liderazgo consciente, desde las bases 
 ## Estructura
 
 Ver [Índice General](00-indice-general-curso.md) para módulos, submódulos y funciones pedagógicas.
+
+## Instrucciones de modificación
+
+Ver [CLAUDE.md](CLAUDE.md) para reglas de estilo, nomenclatura y formato.

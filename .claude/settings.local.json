@@ -1,16 +1,15 @@
 {
   "permissions": {
     "allow": [
-      "Bash",
-      "Edit",
-      "Write",
       "Read",
+      "Bash",
+      "Edit(/_wip/**)",
+      "Write(/_wip/**)",
+      "Write(/_history/**)",
       "WebFetch(domain:*)",
       "mcp__*",
-      "WebFetch(domain:github.com)",
       "WebSearch",
-      "WebFetch(domain:danielmiessler.com)",
-      "WebFetch(domain:www.anthropic.com)"
+      "WebFetch(domain:github.com)"
     ]
   },
   "enableAllProjectMcpServers": true,

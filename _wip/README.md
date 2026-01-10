@@ -13,32 +13,12 @@ _wip/
 
 ## Flujo de trabajo
 
-**Solo ai/** tiene flujo de promoción:
-```
-_wip/ai/ (borrador) → _wip/ai/ (pruebas) → _ai/ (validado)
-```
+**ai/**: Ver `_ai/CLAUDE.md` para convenciones de nombrado, frontmatter y flujo de promoción `_wip/ai/` → `_ai/`
 
 **curso/ y marketing/** son espacios de ideas e investigación:
+- Nombrado: `YYYY-MM-DD-tema.md`
 - El conocimiento se referencia desde otros ficheros, no se "promueve"
 - Las ideas pueden evolucionar a tareas en `_TAREAS.md`
-
-## Convenciones de nombrado
-
-| Carpeta | Patrón | Ejemplo |
-|---------|--------|---------|
-| ai/ | Mismo que _ai/ | `reestructurar-modulo.md` |
-| curso/ | `YYYY-MM-DD-tema.md` | `2026-01-07-modulo8-metaconsciencia.md` |
-| marketing/ | `YYYY-MM-DD-tema.md` | `2026-01-07-campana-lanzamiento.md` |
-
-## Frontmatter mínimo
-
-```yaml
----
-status: draft | testing | validated
-created: YYYY-MM-DD
-tags: [tipo, area]
----
-```
 
 ---
 

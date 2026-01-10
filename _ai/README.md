@@ -17,8 +17,7 @@ _ai/
 ├── workflows/   # Procedimientos paso a paso
 ├── hooks/       # Scripts de automatización
 ├── agents/      # Definiciones de agentes (futuro)
-├── examples/    # Ejemplos modelo para garantizar calidad
-└── plantillas/  # Templates para solicitudes a Claude Code
+└── examples/    # Ejemplos modelo para garantizar calidad
 ```
 
 ## Instrucciones de desarrollo
@@ -28,6 +27,8 @@ Ver [CLAUDE.md](CLAUDE.md) para convenciones de nombrado, frontmatter y flujo de
 ---
 
 ## Catálogo de elementos
+
+<!-- MANTENIMIENTO: Actualizar estas tablas al añadir/eliminar elementos -->
 
 ### Prompts
 
@@ -39,7 +40,8 @@ Instrucciones atómicas: **una tarea = un prompt**.
 | `Prompts-ppt-a-obsidian/Prompt reestructuracion pedagogica modulo.md` | Reestructurar ficheros de un módulo |
 | `Prompts-ppt-a-obsidian/Prompt asociar imagen placeholder.md` | Asociar imágenes a contenido del curso |
 | `Prompts-ppt-a-obsidian/Prompts extracción PPTs.md` | Extraer contenido de presentaciones PowerPoint |
-| `Diseño y estilo visual/Prompt-diseño-infografía.md` | Diseño de infografías |
+| `Diseño y estilo visual/PROMPT ESTÁNDAR - INFOGRAFÍAS LIDERAR CON CONSCIENCIA.md` | Diseño de infografías |
+| `Diseño y estilo visual/PROMPT ESTÁNDAR - FOLLETO LIDERAR CON CONSCIENCIA.md` | Diseño de folletos |
 
 **Nombrado recomendado**: `verbo-objeto.md` (ej: `analizar-seccion.md`)
 
@@ -90,16 +92,6 @@ Ejemplos modelo que sirven como "ancla de calidad" al crear nuevos elementos.
 | `seccion-curso-modelo.md` | Sección de curso bien estructurada |
 
 **Uso**: Al crear un nuevo elemento, leer primero el ejemplo correspondiente y seguir la misma estructura.
-
-### Plantillas
-
-Templates para estructurar solicitudes a Claude Code (inspirado en INITIAL.md de Context Engineering).
-
-| Plantilla | Descripción |
-|-----------|-------------|
-| `SOLICITUD.md` | Template para pedir nuevo contenido o funcionalidad |
-
-**Nota**: NO confundir con `_templates/` que es exclusivo de Obsidian Templater.
 
 ---
 
