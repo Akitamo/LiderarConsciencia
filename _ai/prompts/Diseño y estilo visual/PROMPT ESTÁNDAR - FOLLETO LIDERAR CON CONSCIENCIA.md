@@ -18,19 +18,22 @@ Genera una infografía en formato vertical (A4 o similar) para un folleto/dossie
 - Espacio en blanco: Mínimo 40%
 - Densidad informativa: Media. Permite más desarrollo que una slide, pero sin saturar.
 
-[PALETA DE COLOR]
-- Principal: Azul petróleo oscuro (#1A535C)
-- Secundario: Arena cálido (#F4E9CD)
-- Acento: Terracota suave (#E07A5F) — uso puntual para destacados
-- Texto principal: Gris pizarra (#2D3436)
-- Texto secundario: Gris medio (#636E72)
-- Fondo: Crema claro (#FAF8F5) o blanco roto
+[PALETA DE COLOR Y ESTILO VISUAL]
+Consultar el manual de identidad visual para valores exactos:
+- Referencia: Marketing/Identidad visual/brand-guidelines.md
+
+Categorías del manual a aplicar:
+- Sección 2: Paleta de colores (principal índigo, acento coral, neutros cálidos)
+- Sección 3: Tipografía (Outfit/Montserrat)
+- Sección 11: Prompt de referencia rápida (bloque compacto para IAs)
+
+Ratio de color: 70% neutros, 25% índigo, 5% coral
 
 [TIPOGRAFÍA]
-- Titulares: Sans-serif geométrica (Avenir, Montserrat), peso semibold
-- Subtítulos: Misma familia, peso medium
-- Cuerpo: Sans-serif neutral (Helvetica Neue, Inter), peso regular
-- Citas o destacados: Misma familia, peso light italic
+Consultar Marketing/Identidad visual/brand-guidelines.md, Sección 3.
+- Familia principal: Outfit (web) / Montserrat (documentos)
+- Escala y pesos: según tabla del manual (H1-H4, Body, Small)
+- Citas o destacados: Peso light italic
 - Bloques de texto: máximo 3-4 líneas cada uno
 
 [ESTRUCTURA VERTICAL - 5 ZONAS]
@@ -62,7 +65,8 @@ Genera una infografía en formato vertical (A4 o similar) para un folleto/dossie
    - Elemento de cierre (línea, logo o claim)
 
 [ESTILO GRÁFICO]
-- Iconos: Lineales, trazo uniforme (1.5-2px), monocromáticos en azul petróleo
+- Iconos: Lineales, trazo uniforme (1.5-2px), monocromáticos en índigo (Primary)
+  - Ver Sección 6 del manual para iconografía de módulos
 - Ilustraciones: Flat design conceptual, formas geométricas suaves y abstractas
 - Diagramas: Flujos verticales o circulares, conectores finos
 - Separadores: Líneas finas horizontales o formas geométricas sutiles

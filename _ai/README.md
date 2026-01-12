@@ -17,7 +17,8 @@ _ai/
 ├── workflows/   # Procedimientos paso a paso
 ├── hooks/       # Scripts de automatización
 ├── agents/      # Definiciones de agentes (futuro)
-└── examples/    # Ejemplos modelo para garantizar calidad
+├── examples/    # Ejemplos modelo para garantizar calidad
+└── guides/      # Metodologías y buenas prácticas (conocimiento, no ejecutable)
 ```
 
 ## Instrucciones de desarrollo
@@ -93,6 +94,28 @@ Ejemplos modelo que sirven como "ancla de calidad" al crear nuevos elementos.
 
 **Uso**: Al crear un nuevo elemento, leer primero el ejemplo correspondiente y seguir la misma estructura.
 
+### Guides
+
+Metodologías, buenas prácticas y referencias de expertos. **Conocimiento metodológico**, no elementos ejecutables.
+
+| Guía | Fuente | Tema principal |
+|------|--------|----------------|
+| `guides/flujo-trabajo-boris-cherny.md` | Boris Cherny (creador Claude Code) | Paralelización, plan mode, memoria |
+
+**Ver**: [guides/README.md](guides/README.md) para más detalle.
+
+### Commands
+
+Comandos invocables con `/comando`. **Ubicación**: `.claude/commands/` (fuera de `_ai/`, se documentan aquí por ser elementos IA invocables).
+
+| Comando | Descripción |
+|---------|-------------|
+| `/inicio` | Briefing de sesión: última sesión, decisiones recientes, tareas, estado git |
+| `/decision` | Registrar una decisión en `_history/decisions/` |
+| `/revisar-modulo` | Revisión pedagógica de un módulo del curso |
+| `/crear-prompt` | Crear un nuevo prompt siguiendo el modelo |
+| `/prime-curso` | Cargar contexto del curso para trabajar con él |
+
 ---
 
 ## Diferencia entre elementos
@@ -102,6 +125,8 @@ Ejemplos modelo que sirven como "ancla de calidad" al crear nuevos elementos.
 | **Prompt** | CÓMO pedir algo | Atómico | "Revisa esta sección..." |
 | **Skill** | QUÉ sé hacer | Amplio (dominio) | "Sé revisar contenido pedagógico" |
 | **Workflow** | PASOS para completar | Secuencia | "1. Leer → 2. Analizar → 3. Proponer" |
+| **Guide** | Conocimiento metodológico | Referencia | "Flujo de trabajo de Boris Cherny" |
+| **Command** | ACCIÓN invocable | Tarea completa | "/inicio para briefing de sesión" |
 
-Un Skill puede referenciar múltiples Prompts y Workflows.
+Un Skill puede referenciar múltiples Prompts y Workflows. Las Guides son conocimiento de apoyo (no ejecutables). Los Commands son acciones directas invocables por el usuario.
 

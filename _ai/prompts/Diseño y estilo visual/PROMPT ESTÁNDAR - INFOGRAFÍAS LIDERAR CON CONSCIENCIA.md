@@ -17,16 +17,21 @@ Genera una infografía en formato horizontal (16:9) para una diapositiva de Powe
 - Espacio en blanco: Mínimo 35-40%
 - Densidad informativa: Media-baja. Priorizar claridad sobre cantidad.
 
-[PALETA DE COLOR]
-- Principal: Azul petróleo oscuro (#1A535C)
-- Secundario: Arena cálido (#F4E9CD)
-- Acento: Terracota suave (#E07A5F) — uso muy puntual
-- Texto principal: Gris pizarra (#2D3436)
-- Fondo: Crema claro (#FAF8F5) o blanco roto
+[PALETA DE COLOR Y ESTILO VISUAL]
+Consultar el manual de identidad visual para valores exactos:
+- Referencia: Marketing/Identidad visual/brand-guidelines.md
+
+Categorías del manual a aplicar:
+- Sección 2: Paleta de colores (principal índigo, acento coral, neutros cálidos)
+- Sección 3: Tipografía (Outfit/Montserrat)
+- Sección 11: Prompt de referencia rápida (bloque compacto para IAs)
+
+Ratio de color: 70% neutros, 25% índigo, 5% coral
 
 [TIPOGRAFÍA]
-- Titulares: Sans-serif geométrica (Avenir, Montserrat), peso semibold o medium
-- Cuerpo: Sans-serif neutral (Helvetica Neue, Inter), peso light o regular
+Consultar Marketing/Identidad visual/brand-guidelines.md, Sección 3.
+- Familia principal: Outfit (web) / Montserrat (documentos)
+- Escala y pesos: según tabla del manual (H1-H4, Body, Small)
 - Jerarquía clara: título > subtítulos > cuerpo
 - Bloques de texto: máximo 2-3 líneas cada uno
 
@@ -36,7 +41,8 @@ Genera una infografía en formato horizontal (16:9) para una diapositiva de Powe
 - Pie opcional: Línea de progresión del curso (7 puntos) o nombre del curso
 
 [ESTILO GRÁFICO]
-- Iconos: Lineales, trazo uniforme (1.5-2px), monocromáticos en azul petróleo
+- Iconos: Lineales, trazo uniforme (1.5-2px), monocromáticos en índigo (Primary)
+  - Ver Sección 6 del manual para iconografía de módulos
 - Ilustraciones: Flat design conceptual, formas geométricas suaves, abstractas
 - Diagramas: Simples, conectores sutiles, sin exceso de flechas
 - Formas: Rectángulos con esquinas redondeadas, círculos, líneas finas como separadores

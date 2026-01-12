@@ -48,7 +48,8 @@ Este repositorio contiene también la infraestructura de agentes IA:
 | **Curso** | Contenido pedagógico (7 módulos) | `CURSO/README.md` |
 | **IA** | Automatización y agentes | `_ai/README.md` |
 | **Marketing** | Comercialización del curso | `Marketing/README.md` |
-| **Desarrollo** | Borradores en progreso | `_wip/README.md` |
+| **WIP** | Borradores en progreso | `_wip/README.md` |
+| **Desarrollo** | Proyectos técnicos (vibecoding) | `_dev/README.md` |
 | **Historial** | Sesiones y decisiones | `_history/README.md` |
 
 ## Documentación técnica

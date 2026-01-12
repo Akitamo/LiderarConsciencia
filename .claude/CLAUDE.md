@@ -12,6 +12,7 @@ Programa educativo (7 módulos) + infraestructura agentes IA
 - Marketing/: material comercial
 - _ai/: elementos IA validados (prompts, skills, workflows, hooks, examples)
 - _wip/: borradores en desarrollo
+- _dev/: proyectos de desarrollo técnico (vibecoding)
 - _history/: sesiones y decisiones
 - _templates/: plantillas Obsidian Templater (NO para Claude Code)
 - .claude/commands/: comandos invocables
@@ -27,5 +28,7 @@ Convención: README.md=contexto y catálogos, CLAUDE.md=instrucciones, ARQUITECT
 - _ai/README.md: qué es la infraestructura IA y catálogo de elementos
 - _ai/CLAUDE.md: instrucciones para desarrollar prompts, hooks, skills
 - _wip/README.md: espacio de borradores y flujo de promoción
+- _dev/README.md: catálogo de proyectos de desarrollo
+- _dev/CLAUDE.md: instrucciones y criterios para proyectos vibecoding
 - _history/README.md: sesiones y decisiones del proyecto
 - Marketing/README.md: material comercial (sin CLAUDE.md propio)
