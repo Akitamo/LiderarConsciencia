@@ -19,7 +19,11 @@ Desarrollar un **prompt de producción** que pueda transformar los 40-50 módulo
 
 ✅ **Prompt optimizado** (v9 validada - 6/6 criterios)
 
-🎯 **Próximo paso**: Validar consistencia en 2-3 módulos adicionales antes de aplicación masiva
+✅ **Consistencia validada** en 3 módulos diversos (neurociencia, mindfulness, liderazgo)
+
+✅ **Checklist de aplicación masiva** preparado
+
+🎯 **Próximo paso**: Aplicación masiva controlada en lotes de 5 módulos
 
 ---
 
@@ -39,18 +43,28 @@ Desarrollar un **prompt de producción** que pueda transformar los 40-50 módulo
 
 ### Archivos de trabajo
 
-- **`output/`**: Versiones transformadas del módulo de prueba
-  - `m03-03-cadena-automatica-reaccion-tono-LcC-v5.md` (baseline)
-  - `m03-03-cadena-automatica-reaccion-tono-LcC-v7.md` (intermedia)
-  - `m03-03-cadena-automatica-reaccion-tono-LcC-v8.md` (intermedia - protección ejemplos)
-  - `m03-03-cadena-automatica-reaccion-tono-LcC-v9.md` (actual - óptima)
-  - `VALIDACION-v8-vs-v7-vs-v5.md` (comparación exhaustiva histórica)
-  - `VALIDACION-v9-vs-v8.md` (validación v9)
-  - `VALIDACION-EXHAUSTIVA-v9-vs-v8-v7-v5.md` (comparación exhaustiva completa)
+- **`output/`**: Versiones transformadas y validaciones
+  - **Módulo m03-03 (neurociencia/emociones):**
+    - `m03-03-cadena-automatica-reaccion-tono-LcC-v5.md` (baseline)
+    - `m03-03-cadena-automatica-reaccion-tono-LcC-v7.md` (intermedia)
+    - `m03-03-cadena-automatica-reaccion-tono-LcC-v8.md` (intermedia - protección ejemplos)
+    - `m03-03-cadena-automatica-reaccion-tono-LcC-v9.md` (actual - óptima)
+  - **Módulo m01-09 (mindfulness/práctico):**
+    - `m01-09-descubriendo-mindfulness-tono-LcC-v9.md` (validación consistencia)
+  - **Módulo m05-04 (liderazgo/relacional):**
+    - `m05-04-liderazgo-compasivo-tono-LcC-v9.md` (validación consistencia)
+  - **Validaciones:**
+    - `VALIDACION-v8-vs-v7-vs-v5.md` (comparación exhaustiva histórica)
+    - `VALIDACION-v9-vs-v8.md` (validación v9)
+    - `VALIDACION-EXHAUSTIVA-v9-vs-v8-v7-v5.md` (comparación exhaustiva completa)
+    - `VALIDACION-CONSISTENCIA-v9-tres-modulos.md` (validación consistencia 3 módulos diversos)
 
-- **Módulo de prueba**: `CURSO/modulo-03-consciente-de-lo-que-pienso-siento/m03-03-cadena-automatica-reaccion.md`
-  - 226 líneas, 5 secciones, 15 ejemplos/casos
-  - Estructura representativa para validar transformaciones
+- **`CHECKLIST-APLICACION-MASIVA.md`**: Protocolo de calidad para aplicar v9 a 40-50 módulos
+
+- **Módulos originales utilizados**:
+  - `CURSO/modulo-03-consciente-de-lo-que-pienso-siento/m03-03-cadena-automatica-reaccion.md` (226 líneas, 5 secciones, 15 ejemplos/casos)
+  - `CURSO/modulo-01-que-es-liderar-con-consciencia/m01-09-descubriendo-mindfulness.md` (226 líneas, práctico/experiencial)
+  - `CURSO/modulo-05-consciente-de-que-somos-seres-en-relacion/m05-04-liderazgo-compasivo.md` (125 líneas, relacional/liderazgo)
 
 ---
 
@@ -162,9 +176,14 @@ Cada versión generada debe incluir `## Notas para revisión`:
 
 ## Próximos Pasos
 
-1. Aplicar prompt optimizado a 2-3 módulos adicionales (validación de consistencia)
-2. Crear checklist de pre-aplicación masiva
-3. Aplicación masiva controlada en lotes de 5 módulos
+1. ✅ ~~Aplicar prompt optimizado a 2-3 módulos adicionales (validación de consistencia)~~
+2. ✅ ~~Crear checklist de pre-aplicación masiva~~
+3. **Aplicación masiva controlada en lotes de 5 módulos**:
+   - Usar `CHECKLIST-APLICACION-MASIVA.md` para cada módulo
+   - Lote 1: Módulos de neurociencia/emociones (similares a m03-03)
+   - Lote 2: Módulos prácticos/mindfulness (similares a m01-09)
+   - Lote 3: Módulos relacionales/liderazgo (similares a m05-04)
+   - Validar cada lote antes de continuar con el siguiente
 
 ---
 
