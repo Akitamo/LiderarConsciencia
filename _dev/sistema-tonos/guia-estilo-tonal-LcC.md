@@ -1,6 +1,8 @@
 # Guía de Estilo Tonal
 ## Liderar con Consciencia
 
+> **Nota de uso:** Esta guía es un manual de referencia para humanos que necesitan aprender, consultar o aplicar manualmente el tono LcC. Para transformar documentos con un LLM, usa el prompt operacional `prompt-transformacion-LcC.md`.
+
 ---
 
 ## Principio rector
@@ -501,6 +503,30 @@ Cada bloque conceptual sigue una progresión de cuatro movimientos:
 
 **Test de redundancia**: Si el bloque #explicacion puede eliminarse sin perder información → reescribir. Debe aportar una capa distinta, no un resumen.
 
+**Regla crítica**: Solo transformar bloques #explicacion que existen en el original. NUNCA generar un bloque #explicacion si el original no lo tiene (violaría el principio FONDO).
+
+**Si el bloque #explicacion existe en el original:**
+
+1. **Evaluar su función actual**:
+   - ¿Resume el #teoria? → Reescribir para que integre, no resuma
+   - ¿Integra y abre? → Transformar el tono manteniendo la función
+
+2. **Al reescribir, debe cumplir**:
+   - Integración: Conecta el concepto con otros elementos o con experiencia
+   - Implicación: Señala por qué importa en la práctica (sin inventar contextos)
+   - Apertura: Invita a la observación o plantea pregunta reflexiva
+
+3. **Cambios de tono permitidos**:
+   - Segunda persona selectiva (si el original usa impersonal)
+   - Eliminar redundancia con #teoria
+   - Mejorar transiciones y fluidez narrativa
+   - Formular preguntas más incisivas
+
+**Si el original NO tiene bloque #explicacion:**
+- Documentar en "Notas para revisión": "Sección X carece de bloque #explicacion"
+- NO generar uno nuevo
+- Mantener solo el bloque #teoria transformado
+
 **Voz**: Segunda persona selectiva, más presente que en #teoria
 
 ### Bloques de práctica mindfulness
@@ -553,32 +579,6 @@ En una sección de ~500 palabras:
 - El resto: prosa expositiva limpia
 
 El objetivo no es un texto "rico en recursos" sino un texto donde cada recurso que aparece tiene una función clara y la cumple con precisión.
-
----
-
-## Checklist de revisión
-
-### Pilares del tono
-
-- [ ] ¿Las primeras frases van directo al concepto sin preámbulos?
-- [ ] ¿El tuteo aparece solo en momentos de aplicación o invitación?
-- [ ] ¿Las referencias científicas aportan valor o solo decoran?
-- [ ] ¿Se menciona "liderazgo" solo cuando añade algo no obvio?
-- [ ] ¿El texto invita a observar más que instruye qué hacer?
-- [ ] ¿El tono es de colega experto, no de profesor ni de coach?
-
-### Recursos expresivos
-
-- [ ] **Necesidad**: ¿El concepto necesita este recurso para ser claro?
-- [ ] **Precisión**: ¿El recurso ilumina exactamente lo que quiero, sin asociaciones problemáticas?
-- [ ] **Economía**: ¿El valor que aporta justifica el espacio que consume?
-- [ ] **Frecuencia**: ¿Estoy dentro del rango recomendado para este tipo de recurso?
-
-### Sintaxis
-
-- [ ] ¿Los párrafos son concisos y cada frase aporta?
-- [ ] ¿Se evitan las muletillas y preámbulos identificados?
-- [ ] ¿Hay variación rítmica (frases cortas + desarrolladas)?
 
 ---
 
@@ -663,33 +663,113 @@ El límite FONDO protege la integridad factual, no la expresividad. Las siguient
 
 **Señal de alerta**: Si una reformulación se siente "más segura" pero también "más plana", probablemente se perdió FORMA sin ganar nada en rigor FONDO.
 
+### Límite FONDO - Criterio general expandido
+
+**Principio rector**: No añadir información que requiera verificación externa.
+
+**Categorías específicas de prohibición**:
+
+1. **Datos cuantitativos específicos**
+   - ❌ Tiempos exactos: "en 250 milisegundos", "tarda 3 segundos"
+   - ❌ Porcentajes: "el 73% de los líderes", "aumenta un 40%"
+   - ❌ Cifras: "reduce en 15 puntos", "se multiplica por 3"
+
+2. **Detalles neuroanatómicos no mencionados**
+   - ❌ Regiones específicas: "corteza prefrontal dorsolateral" si el original solo dice "cerebro"
+   - ❌ Conexiones: "circuito núcleo accumbens-corteza prefrontal" sin fuente
+   - ❌ Neurotransmisores: "liberación de dopamina" si no está en el original
+
+3. **Afirmaciones factuales sobre evolución/historia**
+   - ❌ Temporalidad evolutiva: "refinado durante millones de años"
+   - ❌ Contextos históricos: "desde el Pleistoceno" sin fuente
+   - ❌ Causalidad evolutiva: "seleccionado por la evolución para"
+
+4. **Referencias bibliográficas**
+   - ❌ Autores/años: "(Craig, 2009)" si no está en el original
+   - ❌ Estudios: "investigaciones recientes demuestran" sin fuente específica
+   - ❌ Instituciones: "según la Universidad de Stanford" sin verificar
+
+**Test decisivo**: ¿Necesitarías consultar una fuente externa (Google, paper científico, base de datos) para verificar esta afirmación? → Si sí, no la añadas.
+
+**Qué SÍ está permitido (FORMA)**:
+- Términos técnicos ya establecidos en el original ("amígdala" si ya aparece)
+- Aproximaciones temporales vagas ("rápidamente", "en instantes", "antes de la consciencia")
+- Reformulaciones incisivas de conceptos descritos ("el cerebro lo determina primero y nos informa después")
+- Metáforas y analogías iluminadoras ("opera como un clima emocional")
+
 ---
 
-## Detección de ausencias: notas para revisión
+## Fidelidad al contenido original
 
-Cuando se transforma contenido, es útil documentar qué podría beneficiarse de enriquecimiento posterior —sin resolver esas ausencias inventando contenido.
+### Principio fundamental: Eliminar redundancia, preservar valor
 
-### Qué documentar
+Cuando se transforma contenido existente aplicando el tono LcC, la transformación afecta al TONO, a la FORMA, y puede optimizar contenido redundante. El criterio rector: **Si algo aporta valor único (información, perspectiva, ejemplo, aplicación) → mantener. Si repite lo ya dicho sin añadir valor → eliminar.**
 
-1. **Ausencias detectadas**: Secciones que podrían beneficiarse de contenido adicional no presente en el original
-   - Ejemplo: "La sección X carece de ejemplo vivencial"
-   - Ejemplo: "El concepto Y se menciona pero no se desarrolla"
+### Protección absoluta: Contenido pedagógicamente valioso
 
-2. **Referencias sugeridas**: Conceptos que merecerían respaldo científico pero no lo tienen en el texto fuente
-   - Ejemplo: "El concepto de interocepción podría reforzarse con referencia a estudios de Craig o Damasio"
-   - Ejemplo: "Se menciona un estudio de comercio de divisas sin fuente verificable"
+**Debe mantenerse SIEMPRE (protección absoluta)**:
+- **Todos los ejemplos** (con nombre propio o genéricos)
+- **Casos históricos y anécdotas completas**
+- **Todas las analogías y metáforas originales** (salvo si se repite la misma metáfora mecánicamente)
+- Ejercicios y prácticas
+- Referencias bibliográficas presentes
+- Listas que aporten información diferenciada
 
-3. **Desequilibrios estructurales**: Secciones más breves de lo esperado o que carecen de bloques esperados
-   - Ejemplo: "Las secciones 2 y 3 no tienen bloque #explicacion"
-   - Ejemplo: "La evidencia científica se concentra en una sola sección"
+**Razón pedagógica**: Los ejemplos y casos resuenan con diferentes perfiles de estudiantes, ofrecen múltiples perspectivas sobre el mismo concepto, y anclan emocionalmente el aprendizaje. La redundancia conceptual en ejemplos es pedagógicamente valiosa. Cada historia puede conectar con alguien diferente en el aula.
 
-### Por qué documentar en lugar de resolver
+### Eliminación permitida: Redundancia sin valor
 
-Estas notas cumplen una función específica:
-- Preservan la integridad del contenido original
-- Señalan oportunidades de mejora para revisión humana
-- Evitan la introducción de información no verificada
-- Crean un registro útil para iteraciones posteriores
+**Puede eliminarse (criterio editorial)**:
+- Resúmenes mecánicos que solo repiten conceptos ya explicados
+- Reformulaciones que dicen lo mismo con otras palabras sin aportar claridad
+- Listas enumerativas que duplican exactamente la estructura explicativa previa
+- Metáforas repetidas sin variación ni aporte
+
+**Razón**: La redundancia mecánica no refuerza el aprendizaje; genera ruido que dificulta identificar lo importante. Un bloque #explicacion que solo resume el #teoria sin integrar, implicar o abrir perspectiva no aporta valor pedagógico.
+
+**Nota crítica**: Esta distinción es fundamental. No se trata de "mantener todo" ni de "optimizar extensión", sino de **preservar lo pedagógicamente valioso (ejemplos, casos) y eliminar lo mecánicamente redundante (resúmenes sin aporte)**.
+
+### Transformar historias y casos sin eliminarlos
+
+Las historias, casos y anécdotas deben **revisarse manteniendo o potenciando su tono narrativo**:
+
+**Criterio central**: La extensión debe servir a la función narrativa, no reducirse mecánicamente.
+
+- Si una historia de 8 líneas necesita esas líneas para tener impacto emocional → mantenerlas
+- Si puede ser más incisiva en 3 líneas sin perder fuerza → condensar
+- **Pregunta guía**: ¿La narrativa ancla el concepto con impacto? (No: ¿es corta?)
+
+**Ejemplo de revisión manteniendo extensión**:
+
+Original (8 líneas):
+> "Durante la Guerra Fría, el oficial Stanislav Petrov recibió una alerta de un posible ataque nuclear de Estados Unidos. A pesar de la presión y la incertidumbre, Petrov confió en su intuición y decidió no tomar represalias, evitando una posible catástrofe. Los sensores indicaban cinco misiles entrantes. El sistema recomendaba respuesta inmediata..."
+
+Revisado (mismo impacto, tono potenciado):
+> "El oficial soviético Stanislav Petrov, durante la Guerra Fría, recibió una alerta de supuesto ataque nuclear estadounidense. Los sensores mostraban cinco misiles entrantes. El protocolo dictaba respuesta inmediata. A pesar de la presión extrema, Petrov confió en su evaluación —algo no encajaba— y decidió no ordenar represalias, evitando potencialmente una catástrofe global."
+
+### Operaciones permitidas (FORMA)
+
+1. **Mejorar redacción aplicando tono LcC**
+   - Eliminar "Imagina que..." → ir directo a la historia
+   - Eliminar preámbulos innecesarios ("Es importante señalar...")
+   - Aplicar voz experta manteniendo narratividad
+   - Potenciar tensión dramática si sirve al concepto
+
+2. **Mejorar integración narrativa**
+   - Conectar el caso más fluidamente con el concepto que ilustra
+   - Transiciones naturales: teoría → caso → implicación
+   - La historia debe sentirse parte orgánica del argumento, no un "paréntesis"
+   - Ubicar el ejemplo donde mejor potencie la comprensión
+
+### Operaciones prohibidas
+
+- ❌ Eliminar un ejemplo porque "el concepto ya es claro sin él"
+- ❌ Eliminar una analogía porque "ya hay otra metáfora"
+- ❌ Omitir casos históricos porque "alargan el texto"
+- ❌ Eliminar ejercicios o listas porque "rompen el flujo"
+- ❌ "Condensar" eliminando detalles que dan impacto narrativo
+
+**Si detectas contenido que parece redundante o mejorable**: Documentarlo en "Notas para revisión", pero NO eliminarlo.
 
 ---
 
@@ -701,4 +781,18 @@ Esta guía es un documento vivo. A medida que se desarrolle más contenido, pued
 
 ---
 
-*Versión 1.4 — Enero 2026*
+*Versión 1.6 — Enero 2026*
+
+**Cambios en v1.6**:
+- Añadida nota de uso diferenciando función de guía (para humanos) vs prompt (para LLMs)
+- Eliminadas secciones operacionales redundantes con el prompt:
+  - Checklist de revisión (movido al prompt operacional)
+  - Detección de ausencias (instrucción para LLM, no para manual de referencia)
+  - Consideraciones técnicas frontmatter (movido al prompt operacional)
+- Función definitiva: Manual de referencia conceptual para aprender y consultar el tono LcC
+
+**Cambios en v1.5**:
+- Añadido criterio general expandido para límite FONDO con categorías específicas
+- Nueva sección "Fidelidad al contenido original" con principio de no eliminación
+- Actualizada sección "Bloques #explicacion" con regla de no inventar
+- Añadidas consideraciones técnicas sobre frontmatter (campo ultima_actualizacion)

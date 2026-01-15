@@ -75,6 +75,10 @@ Tono de experto que domina la ciencia y la comparte con precisión, hablando con
 **SI el #explicacion solo resume #teoria sin añadir valor:**
 → **ELIMINAR completamente**
 → Documentar: "Sección X: Eliminado bloque #explicacion redundante (solo resumía teoría sin añadir perspectiva, ejemplos o aplicación)"
+→ **NO reemplazar con contenido nuevo** — la sección queda sin #explicacion
+
+**⚠️ REGLA CRÍTICA: Eliminación ≠ Reemplazo**
+Si se elimina un #explicacion por redundancia, **NO se crea uno nuevo** con contenido diferente. Esto violaría FONDO igual que si el original no tuviera #explicacion. La única excepción es si el #explicacion original contenía contenido único mezclado con redundancia — en ese caso, se preserva solo el contenido único (ver SALVAGUARDA más abajo).
 
 **Ejemplo de eliminación correcta:**
 ```
@@ -112,6 +116,26 @@ Tono de experto que domina la ciencia y la comparte con precisión, hablando con
 - Si existe contenido explicativo sin etiquetar y aporta valor: transformarlo
 - Si NO existe ningún contenido explicativo: documentar en "Notas para revisión"
 - NUNCA generar nuevo contenido #explicacion (violaría FONDO)
+
+**⚠️ SALVAGUARDA: Preservación de contenido único en bloques mixtos**
+
+Si un bloque #explicacion contiene:
+- Parte redundante (repite #teoria) + Parte única (nuevo autor, dato, perspectiva, ejemplo)
+
+**Acción correcta:**
+1. Identificar qué es redundante y qué es único
+2. Eliminar SOLO la parte redundante
+3. Preservar e integrar la parte única (moverla a #teoria si corresponde, o mantenerla en #explicacion transformado)
+
+**Ejemplo del problema:**
+```
+#teoria: Lista 3 pioneros: Tradiciones antiguas, Cannon, Tallon-Baudry
+#explicacion: Habla de Damasio (redundante con #teoria), Cannon (redundante), Cajal (ÚNICO - no está en #teoria)
+```
+❌ MAL: Eliminar todo el #explicacion → se pierde Cajal (contenido único)
+✅ BIEN: Eliminar repetición de Damasio/Cannon, preservar Cajal integrándolo en #teoria o manteniéndolo como contenido valioso en #explicacion transformado
+
+**Regla operativa:** Antes de eliminar un bloque #explicacion completo, verificar elemento por elemento si contiene algún autor, referencia, dato o perspectiva que NO esté en #teoria. Si existe contenido único → preservarlo.
 
 ### Transiciones
 Cada sección inicia conectando con la anterior:
@@ -273,6 +297,10 @@ Los ejemplos, casos históricos, historias y anécdotas del original **NUNCA** s
   - ❌ Ejemplo: "refinado durante millones de años" si no está en el original
 - Referencias bibliográficas (autores, años, estudios) no presentes
   - ❌ Ejemplo: añadir "(Craig, 2009)" si el original no lo menciona
+- **Absolutismos o comparaciones categóricas** no presentes en el original
+  - ❌ Ejemplo: "ningún otro sentido iguala", "es el más importante", "siempre ocurre", "nunca falla"
+  - ❌ Ejemplo: Original "olores evocan recuerdos vívidamente" → ❌ "con intensidad que ningún otro sentido iguala"
+  - ✅ Permitido: mantener absolutismos/comparaciones ya presentes en el original
 
 **SÍ permitido (FORMA - mejora transmisión sin añadir hechos)**:
 - Términos técnicos ya establecidos en el texto original
@@ -470,12 +498,6 @@ Secciones que carecen de bloques #explicacion o elementos esperados (solo si NO 
 **Formato**: "Sección X carece de [elemento]"
 **Tono**: Informativo, no crítico.
 
-### 3. Referencias sugeridas
-Conceptos que merecerían respaldo científico pero no lo tienen en el texto fuente.
-
-**Formato**: "Concepto X podría reforzarse con referencia a estudios de [autor/tema]"
-**Tono**: Sugerencia constructiva.
-
 **IMPORTANTE**: Las notas son informativas, no tareas pendientes. El usuario debe poder leer y confiar en que las decisiones editoriales fueron correctas. Si eliminaste redundancia, fue la decisión correcta —solo comunícala claramente.
 
 ---
@@ -490,5 +512,5 @@ Transforma el contenido aplicando estos principios:
 5. Inicia cada sección conectando con la anterior
 6. Distribuye cierres fuertes (2-3/módulo) y evidencia estratégicamente
 7. Genera texto limpio, denso, sin muletillas
-8. Incluye al final `## Notas para revisión` con ausencias, referencias sugeridas y desequilibrios detectados
+8. Incluye al final `## Notas para revisión` con: contenido eliminado por redundancia y ausencias estructurales detectadas
 9. Mantén la incisividad: si el contenido permite una formulación directa y contundente, úsala —"más cauto" no es mejor si el resultado es más plano

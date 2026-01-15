@@ -30,7 +30,10 @@ titulo: "Nombre de la sección"
 modulo: 1
 orden: 5
 tags: [tema1, tema2]
+ultima_actualizacion: "DD/MM/YYYY"
 ---
+
+Nota: El campo `ultima_actualizacion` debe actualizarse cada vez que se modifica el contenido del fichero.
 
 # Tags inline
 - #teoria: contenido conceptual
