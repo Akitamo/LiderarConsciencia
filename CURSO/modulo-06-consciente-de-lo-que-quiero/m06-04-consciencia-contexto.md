@@ -4,18 +4,37 @@ titulo: "Consciencia sobre el contexto y su naturaleza cambiante y las reaccione
 modulo: 6
 orden: 04
 tags: [contexto, atencion, liderazgo-adaptativo, monitorizacion-abierta, atencion-focalizada, autogestion, emociones, mindfulness]
+ultima_actualizacion: "15/01/2026"
 ---
 
 # Consciencia sobre el contexto y su naturaleza cambiante y las reacciones automáticas generadas
 
 ## Atención hacia fuera y hacia dentro
 
-#imagen #modelo 
+#imagen #modelo
 ![img-m06-contexto-modelo](recursos/imagenes/img-m06-contexto-modelo.png) Fragmento del modelo mostrando el área central con "Contexto" destacado en círculo morado, con icono de cabeza y flechas circulares en el centro.
 
 #teoria
-La combinación de la atención focalizada y la monitorización abierta en el mindfulness es una herramienta poderosa para un liderazgo adaptativo:
+La combinación de atención focalizada y monitorización abierta constituye una herramienta central para el liderazgo adaptativo:
 
-- **Atención Hacia Fuera (Adaptación al Contexto Cambiante):** La monitorización abierta permite percibir y reaccionar a eventos externos que podrían estar afectando el contexto de trabajo. La atención focalizada ayuda a observar las señales más sutiles en el entorno, mientras que la monitorización abierta permite captar cualquier indicio de cambio en el equipo o en el entorno
+**Atención hacia fuera (adaptación al contexto cambiante):** La monitorización abierta permite percibir eventos externos que afectan el contexto de trabajo. La atención focalizada capta señales sutiles del entorno; la monitorización abierta detecta indicios de cambio en el equipo o las circunstancias.
 
-- **Atención Hacia Dentro (Autogestión Emocional y Respuesta Adaptativa):** La atención focalizada y la monitorización abierta también ayudan a observar las propias reacciones internas, como sensaciones y emociones, que pueden influir en sus decisiones y comportamientos. Al monitorear continuamente su estado interno, se puede reconocer cuándo surge una respuesta emocional automática —como frustración o ansiedad— que podría afectar al juicio. Esta autoconciencia permite gestionar mejor las reacciones, evitando respuestas automáticas y poco adaptativas.
+**Atención hacia dentro (autogestión emocional):** Ambas capacidades permiten observar las propias reacciones internas —sensaciones, emociones— que influyen en decisiones y comportamientos. Al monitorizar el estado interno de forma continuada, es posible reconocer cuándo surge una respuesta emocional automática (frustración, ansiedad) que podría distorsionar el juicio. Esta autoconciencia facilita gestionar las reacciones antes de que se conviertan en respuestas poco adaptativas.
+
+---
+
+## Notas para revisión
+
+### 1. Ausencias estructurales detectadas
+- El original no incluye bloque #explicacion. Siguiendo la regla crítica v9 ("Eliminación ≠ Reemplazo"), no se ha creado uno nuevo.
+
+### 2. Conceptos preservados
+- Atención focalizada
+- Monitorización abierta
+- Liderazgo adaptativo
+- Autogestión emocional
+
+### 3. Cambios de tono aplicados
+- Eliminado "poderosa" (adjetivo genérico)
+- Condensada estructura paralela fuera/dentro
+- Convertidas las listas con guiones a formato con negrita para mejor legibilidad

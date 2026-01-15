@@ -4,6 +4,7 @@ titulo: "Comunicación consciente"
 modulo: 5
 orden: 05
 tags: [comunicacion, escucha-activa, escucha-profunda, zona-verde, mindfulness, presencia]
+ultima_actualizacion: "15/01/2026"
 ---
 
 # Comunicación consciente
@@ -11,17 +12,17 @@ tags: [comunicacion, escucha-activa, escucha-profunda, zona-verde, mindfulness, 
 ## Fundamentos de la comunicación consciente
 
 #teoria
-La comunicación consciente es la habilidad de expresar y recibir información de manera presente, respetuosa y empática, poniendo atención tanto al mensaje verbal como a las emociones y necesidades subyacentes.
+Comunicar conscientemente es expresar y recibir información desde la presencia: atención al mensaje verbal, pero también a las emociones y necesidades que lo sostienen.
 
-**Establecer la intención;** es el objetivo interno con el que abordamos una conversación. Nos ayuda a estar alineados con lo que queremos lograr y nos recuerda que nuestras palabras y actitudes deben reflejar respeto, claridad y empatía.
+**Establecer la intención** marca la dirección interna de una conversación. Ese anclaje mantiene las palabras y actitudes alineadas con lo que se busca lograr —claridad, respeto, comprensión genuina.
 
-La comunicación consciente implica **estar plenamente presente** durante la interacción, escuchando sin juzgar y expresándose de manera clara y considerada.No solo se enfoca en las palabras, sino en comprender las emociones, intenciones y necesidades que están detrás del mensaje.
+La comunicación consciente exige **presencia plena** durante la interacción: escuchar sin juzgar, expresarse con claridad y consideración. El foco no está solo en las palabras, sino en comprender las emociones, intenciones y necesidades detrás del mensaje.
 
-**Escucha Activa:** Escuchar con la intención de comprender, no de responder. Esto implica eliminar distracciones y mostrar interés genuino en lo que la otra persona está expresando.
+**Escucha activa:** Escuchar con la intención de comprender, no de responder. Esto implica eliminar distracciones y mostrar interés genuino en lo que la otra persona expresa.
 
-**Empatía**: Intentar ponerse en el lugar del otro, reconociendo sus emociones y su perspectiva con verdadera curiosidad y apertura.
+**Empatía:** Situarse en el lugar del otro, reconociendo sus emociones y perspectiva con curiosidad y apertura auténticas.
 
-**Claridad en la Expresión:** Ser claro y honesto al comunicar nuestros propios pensamientos y sentimientos, evitando ambigüedades y suposiciones.
+**Claridad en la expresión:** Comunicar pensamientos y sentimientos de forma clara y honesta, evitando ambigüedades y suposiciones.
 
 #imagen
 ![img-m05-comunicacion-consciente](recursos/imagenes/img-m05-comunicacion-consciente.png) Ilustración de dos figuras humanas estilizadas en tonos grises mirándose a través de prismáticos con lentes azules y rosas. Los brazos se cruzan en el centro, sugiriendo diferentes perspectivas en la comunicación y la importancia de ver desde el punto de vista del otro.
@@ -31,42 +32,61 @@ La comunicación consciente implica **estar plenamente presente** durante la int
 ## El modelo de escucha profunda
 
 #teoria
-Este modelo no se limita a escuchar información, sino que busca comprender el flujo completo de la comunicación, tanto verbal como no verbal. Se basa en la premisa de que todos poseemos una capacidad innata para la escucha profunda y que podemos cultivarla a través de la práctica y la conciencia.
+Este modelo va más allá de captar información: busca comprender el flujo completo de la comunicación, verbal y no verbal. Parte de una premisa: la capacidad de escucha profunda es innata y puede cultivarse mediante práctica y consciencia.
 
-El modelo de Escucha Profunda se compone de tres habilidades centrales interconectadas:
+El modelo se compone de tres habilidades centrales interconectadas:
 
-**1.Conciencia Corporal:** Se recomienda utilizar el "Centro de Escucha", un punto físico en el cuerpo (como el abdomen, el corazón o la garganta) donde podemos anclar nuestra atención y expandirla hacia el hablante.
+**1. Conciencia corporal:** Utiliza el "centro de escucha" —un punto físico en el cuerpo como abdomen, corazón o garganta— donde anclar la atención y expandirla hacia el hablante.
 
-**2.Presencia de Apoyo:** Este componente implica cultivar una actitud de presencia abierta y receptiva hacia el hablante. Se trata de crear un espacio seguro y de apoyo donde el otro se sienta escuchado y comprendido sin juicios ni interrupciones.Este componente requiere paciencia, confianza y la capacidad de tolerar la incertidumbre, permitiendo que el proceso de escucha se desarrolle de forma natural.
+**2. Presencia de apoyo:** Cultivar una actitud abierta y receptiva hacia quien habla. Crear un espacio seguro donde la otra persona se sienta escuchada y comprendida, sin juicios ni interrupciones. Requiere paciencia, confianza y tolerancia a la incertidumbre, permitiendo que el proceso de escucha se desarrolle naturalmente.
 
-**3.Conexión Compasiva:** Este componente introduce la dimensión de la compasión en la escucha. Se trata de conectar con el sufrimiento del hablante y de nosotros mismos con amabilidad y comprensión.
+**3. Conexión compasiva:** Introduce la dimensión de la compasión en la escucha. Conectar con el sufrimiento del hablante —y con el propio— desde la amabilidad y la comprensión.
 
-#imagen #referencia 
+#imagen #referencia
 ![img-m05-modelo-escucha-profunda](recursos/imagenes/img-m05-modelo-escucha-profunda.png) Diagrama de Venn con tres círculos interconectados titulado "The Deep Listening Model" (Figure 6.1). Los tres círculos representan: "Coming to EMBODIED AWARENESS", "Holding SUPPORTIVE PRESENCE", y "Generating COMPASSIONATE CONNECTION". En el centro donde se cruzan los tres: "AWARENESS CENTRED DEEP LISTENING".
 
 #explicacion
-Detalle del modelo de Escucha Profunda:
+La **conciencia corporal** transforma el cuerpo en instrumento de escucha. Prestar atención a las sensaciones físicas, la postura y la respiración ancla la presencia y la receptividad. Sin esa consciencia, los pensamientos y emociones internas capturan la atención y la conexión con el hablante se pierde.
 
-Conciencia Corporal: Este componente enfatiza la importancia de estar en sintonía con nuestro cuerpo como un instrumento de escucha. Al prestar atención a las sensaciones físicas, la postura y la respiración, podemos estar más presentes y receptivos a la comunicación del otro. Si no somos conscientes de nuestro cuerpo, podemos distraernos fácilmente con pensamientos y emociones internas, perdiendo así la conexión con el hablante.
+La **presencia de apoyo** opera desde la atención abierta: estar presente con lo que surge en el campo de escucha —comunicación verbal y no verbal— sin intentar dirigir ni controlar la conversación.
 
-Presencia de Apoyo: Se basa en la atención abierta, la capacidad de estar presentes con lo que surge en el campo de escucha, incluyendo tanto la comunicación verbal como la no verbal, sin intentar dirigir o controlar la conversación.
-
-Conexión Compasiva: No se trata de intentar solucionar los problemas del otro, sino de ofrecer una presencia empática y de apoyo que le permita explorar sus propios sentimientos y experiencias. La compasión nos ayuda a evitar el agotamiento por empatía, ya que nos permite mantener nuestra propia estabilidad emocional al mismo tiempo que conectamos con el sufrimiento del otro.
+La **conexión compasiva** no busca solucionar los problemas del otro, sino ofrecer presencia empática que permita explorar sentimientos y experiencias propias. La compasión protege del agotamiento por empatía: mantiene la estabilidad emocional propia mientras se conecta con el sufrimiento del otro.
 
 ---
 
 ## El semáforo de la comunicación
 
 #teoria
-La Comunicación de Zona Verde, es un enfoque de comunicación consciente desarrollado por la autora y maestra budista Susan Gillis Chapman. Este método busca integrar los principios de la atención plena en nuestras interacciones diarias con los demás, transformando las conversaciones cotidianas en una práctica de conciencia.
+La comunicación de zona verde es un enfoque desarrollado por la autora y maestra budista Susan Gillis Chapman. Integra los principios de atención plena en las interacciones diarias, transformando conversaciones cotidianas en práctica de consciencia.
 
-**Modelo del Semáforo:** Para comprender la dinámica de apertura y cierre en la comunicación, este enfoque utiliza un modelo de semáforo:
+El **modelo del semáforo** captura la dinámica de apertura y cierre en la comunicación:
 
-**Verde:** Representa una comunicación fluida y abierta, donde estamos presentes y conectados con nosotros mismos y con los demás. En este estado, predomina una intención de "Nosotros Juntos", permitiendo que la conversación fluya con facilidad y se aborden incluso temas difíciles con respeto y apertura.
+**Verde:** Comunicación fluida y abierta. Presencia y conexión con uno mismo y con los demás. Predomina la intención de "Nosotros juntos" —la conversación fluye con facilidad y los temas difíciles se abordan con respeto y apertura.
 
-**Amarillo:** Representa una fase de transición entre la apertura y el cierre. A menudo, este estado pasa desapercibido, pero es un punto crucial para reconocer las señales de tensión e intervenir antes de que la comunicación se bloquee.
+**Amarillo:** Fase de transición entre apertura y cierre. A menudo pasa desapercibida, pero es el punto crucial para reconocer señales de tensión e intervenir antes de que la comunicación se bloquee.
 
-**Rojo:** Indica un estado de cierre, donde la comunicación se ha detenido. En este estado, se erigen barreras entre nosotros y los demás, y la intención se centra en "Yo Primero". Es un estado inconsciente donde dejamos de escuchar con atención y podemos mostrar comportamientos defensivos o agresivos.
+**Rojo:** Estado de cierre. La comunicación se ha detenido. Se erigen barreras entre nosotros y los demás; la intención se centra en "Yo primero". Estado inconsciente donde se deja de escuchar con atención y pueden aparecer comportamientos defensivos o agresivos.
 
 #imagen
 ![img-m05-semaforo-comunicacion](recursos/imagenes/img-m05-semaforo-comunicacion.png) Ilustración de un semáforo con tres luces y sus correspondientes etiquetas a la derecha. Luz roja: "PARAR". Luz amarilla: "PENSAR". Luz verde: "ACTUAR". Representa el modelo de comunicación de zona verde de Susan Gillis Chapman.
+
+---
+
+## Notas para revision
+
+### 1. Contenido eliminado por redundancia
+- Ninguno. Todo el contenido original aportaba valor.
+
+### 2. Cambios de tono aplicados
+- **Fundamentos:** Eliminados preámbulos innecesarios. Sintaxis más directa y densa. Convertido "Escucha Activa" a "Escucha activa" (minúsculas consistentes).
+- **Modelo escucha profunda:** Simplificada la introducción. Mantenido #explicacion completo porque aporta valor único (cuerpo como instrumento, concepto de "atención abierta", prevención del agotamiento por empatía).
+- **Semáforo comunicación:** Eliminados conectores innecesarios. Estructura más directa manteniendo los tres estados del modelo.
+
+### 3. Decisiones editoriales
+- El #explicacion del modelo de escucha profunda se preserva porque cada párrafo añade profundidad no presente en #teoria: la función del cuerpo como instrumento, el concepto específico de "atención abierta", y el rol de la compasión para evitar el agotamiento por empatía.
+- Se preserva la referencia a Susan Gillis Chapman como autoría del modelo del semáforo.
+- Todas las imágenes preservadas con rutas exactas.
+
+### 4. Ausencias estructurales detectadas
+- Sección "Fundamentos" carece de bloque #explicacion (no existía en el original).
+- Sección "Semáforo" carece de bloque #explicacion (no existía en el original).

@@ -4,6 +4,7 @@ titulo: "La Atención: Puerta de Entrada a la Consciencia"
 modulo: 1
 orden: 08
 tags: [atencion, consciencia, abajo-arriba, arriba-abajo, corteza-prefrontal, goleman, william-james, posner, rothbart, SODA, entrenamiento, neurociencia]
+ultima_actualizacion: "15/01/2026"
 ---
 
 # La Atención: Puerta de Entrada a la Consciencia
@@ -11,10 +12,10 @@ tags: [atencion, consciencia, abajo-arriba, arriba-abajo, corteza-prefrontal, go
 ## Sistema de abajo-arriba: atención automática
 
 #teoria
-**Sistema de Abajo-Arriba:**
-- Este sistema es rápido, automático y está diseñado para captar estímulos externos inmediatos que podrían ser significativos.
-- Este tipo de atención es espontánea y, por lo general, opera en un modo de "piloto automático".
-- PRIVILEGIADO POR LA ORIENTACIÓN A LA SUPERVIVENCIA
+
+El sistema de abajo-arriba opera con rapidez y automatismo. Su función: captar estímulos externos que podrían ser significativos antes de que la consciencia deliberada intervenga.
+
+Esta atención es espontánea. Funciona en modo "piloto automático" —un mecanismo privilegiado por la orientación a la supervivencia. Un movimiento en la periferia visual, un sonido inesperado, un cambio súbito en el entorno: el sistema responde antes de que haya decisión consciente de atender.
 
 #imagen
 ![img-m01-atencion-estimulo](recursos/imagenes/img-m01-atencion-estimulo.png)Imagen de un muñeco cabezón (bobblehead) de un piloto o policía con gorra azul, representando metafóricamente el modo "piloto automático" del sistema de atención de abajo-arriba.
@@ -26,9 +27,10 @@ tags: [atencion, consciencia, abajo-arriba, arriba-abajo, corteza-prefrontal, go
 ## Sistema de arriba-abajo: atención dirigida
 
 #teoria
-**Sistema de Arriba-Abajo:**
-- Es más lento, deliberado y controlado por la corteza prefrontal, permitiéndonos dirigir intencionalmente nuestra atención hacia lo que decidimos priorizar.
-- Este sistema requiere esfuerzo consciente y es crucial para mantener el foco en tareas complejas, planificación y regulación de emociones
+
+El sistema de arriba-abajo contrasta radicalmente. Es más lento, deliberado, controlado por la corteza prefrontal. Permite dirigir intencionalmente la atención hacia lo que se decide priorizar.
+
+Este sistema requiere esfuerzo consciente. Es crucial para mantener el foco en tareas complejas, para la planificación, para la regulación de emociones. Cuando se elige concentrarse en una lectura profunda o evitar responder impulsivamente a una situación emocional, es el sistema de arriba-abajo ejerciendo control sobre los impulsos automáticos generados por el sistema de abajo-arriba.
 
 #imagen
 ![img-m01-atencion-dirigida](recursos/imagenes/img-m01-atencion-dirigida.png)Fotografía de un director de orquesta visto desde atrás, dirigiendo a una orquesta sinfónica completa. Representa el sistema de atención de arriba-abajo: la capacidad de dirigir intencionalmente la atención, como un director que coordina y focaliza los diferentes elementos de la orquesta.
@@ -37,31 +39,28 @@ tags: [atencion, consciencia, abajo-arriba, arriba-abajo, corteza-prefrontal, go
 ![img-m01-diagrama-goal-directed](recursos/imagenes/img-m01-diagrama-goal-directed.png) Diagrama con silueta de persona y flechas saliendo de ella hacia afuera, etiquetado "Goal Directed Attention". Representa la atención dirigida intencionalmente hacia objetivos (sistema arriba-abajo).
 
 #explicacion
-Los procesos de arriba abajo son muy poderosos a la hora de esclavizar a la información viva que accede momento a momento, ya que están respaldados por una conectividad neural muy potente (Siegel, 2007). La información del aquí y ahora (de abajo arriba) tiene, por tanto, muchas dificultades para hacer llegar a la conciencia su auténtico mensaje. La riqueza de matices presente en los niveles sensoriales iniciales se va perdiendo a medida que los procesos de arriba abajo surten su efecto y asimilan su contenido informativo a categorías previamente determinadas.
 
-Al prestar una atención especial y detallada a la información entrante, comenzamos a dificultar el funcionamiento de los procesos de arriba abajo y favorecemos la llegada de más riqueza informativa a las instancias prefrontales. El proceso de prestar una atención especial a cualquiera de las ocho corrientes informativas requiere que una parte del cortex prefrontal, concretamente la corteza prefrontal dorso-lateral (DLPFC; dorsolateral prefrontal cortex), se active al tiempo que recibe la información que está siendo privilegiada en ese momento. Una vez se ha dirigido la atención a una de las corrientes sensoriales (con la participación de la DLPFC), si implicamos a la vez nuestra capacidad de autoobservación, es decir la metacognición que nos permite hacernos conscientes de los procesos mentales que están en marcha, tendremos la oportunidad de flexibilizar la respuesta, desconectando, por decirlo así, la automaticidad que, en ausencia de esta intervención consciente, se hubiera producido.
+Los procesos de arriba-abajo ejercen un poder considerable sobre la información que accede momento a momento. Están respaldados por una conectividad neural muy potente (Siegel, 2007). La información del aquí y ahora —de abajo-arriba— tiene dificultades para hacer llegar a la consciencia su auténtico mensaje. La riqueza de matices presente en los niveles sensoriales iniciales se va perdiendo a medida que los procesos de arriba-abajo surten efecto, asimilando el contenido informativo a categorías previamente determinadas.
 
-Daniel Goleman, en su libro, resalta la importancia de la atención en los sistemas de abajo-arriba y arriba-abajo, y cómo cada uno responde de manera diferente a los estímulos, lo cual es fundamental para la autoconciencia y la autorregulación.
+Prestar atención especial y detallada a la información entrante dificulta el funcionamiento de los procesos de arriba-abajo y favorece la llegada de más riqueza informativa a las instancias prefrontales. Este proceso requiere que la corteza prefrontal dorso-lateral (DLPFC) se active mientras recibe la información privilegiada en ese momento. Una vez dirigida la atención a una de las corrientes sensoriales, si se implica simultáneamente la capacidad de autoobservación —la metacognición que permite hacerse consciente de los procesos mentales en marcha— surge la oportunidad de flexibilizar la respuesta, desconectando la automaticidad que, sin esta intervención consciente, se hubiera producido.
 
-Sistema de Abajo-Arriba:
-Este sistema es rápido, automático y está diseñado para captar estímulos externos inmediatos que podrían ser significativos. Por ejemplo, cuando vemos un objeto brillante o escuchamos un ruido fuerte, este sistema captura nuestra atención rápidamente sin que tengamos que pensarlo. Este tipo de atención es espontánea y, por lo general, opera en un modo de "piloto automático". Sin embargo, en un contexto moderno de constantes distracciones (como notificaciones en el móvil), este sistema puede ser activado con demasiada frecuencia, lo que puede fragmentar nuestra atención y dificultar el enfoque en tareas importantes.
-
-Sistema de Arriba-Abajo:
-En contraste, el sistema de arriba-abajo es más lento, deliberado y controlado por la corteza prefrontal, permitiéndonos dirigir intencionalmente nuestra atención hacia lo que decidimos priorizar. Este sistema requiere esfuerzo consciente y es crucial para mantener el foco en tareas complejas, planificación y regulación de emociones. Por ejemplo, cuando decidimos concentrarnos en una lectura profunda o evitar responder impulsivamente a una situación emocional, estamos empleando el sistema de arriba-abajo para ejercer control sobre los impulsos automáticos generados por el sistema de abajo-arriba.
+Daniel Goleman resalta la importancia de la atención en ambos sistemas y cómo cada uno responde de manera diferente a los estímulos —algo fundamental para la autoconciencia y la autorregulación. Un objeto brillante, un ruido fuerte: el sistema de abajo-arriba captura la atención instantáneamente, sin pensarlo. Sin embargo, en un contexto de constantes distracciones —notificaciones en el móvil, interrupciones continuas— este sistema puede activarse con demasiada frecuencia, fragmentando la atención y dificultando el enfoque en tareas importantes.
 
 ---
 
 ## SODA: Si Observas Desactivas el Automatismo
 
 #teoria
-**EL MODO EN QUE DESPLEGAMOS NUESTRA ATENCIÓN DETERMINA LO QUE VEMOS**
+
+El modo en que se despliega la atención determina lo que se ve.
+
 #imagen
 ![img-m01-soda-desactivar-automatismo](recursos/imagenes/img-m01-soda-desactivar-automatismo.png) "Desactivando el piloto automático: SODA ('Si Observas Desactivas el Automatismo')". Concepto clave que sintetiza cómo la observación consciente desactiva las respuestas automáticas.
 
-#cita 
+#cita
 "La atención proporciona el mecanismo «que subyace a nuestra conciencia del mundo y a la regulación voluntaria de nuestros pensamientos y sentimientos".
 *Michael Posner y Mary Rothbart (neurocientíficos cognitivos)*
-#cita 
+#cita
 "La capacidad de centrar deliberadamente la atención errante una y otra vez constituye el fundamente del discernimiento, el carácter y la voluntad. Una estructura educativa que se dedicara a adiestrar esta facultad sería la educación por antonomasia"
 *Williams James, "The Principles of Psychology"*
 
@@ -70,12 +69,33 @@ En contraste, el sistema de arriba-abajo es más lento, deliberado y controlado 
 ## La atención como recurso limitado y entrenable
 
 #teoria
-**La atención es un recurso cognitivo limitado**
 
-QUE PUEDE SER ENTRENADO Y FORTALECIDO
+La atención es un recurso cognitivo limitado que puede ser entrenado y fortalecido.
+
+Esta limitación no es un defecto del sistema. Es una característica de diseño que obliga a seleccionar. No se puede atender a todo simultáneamente —y esa restricción da valor a la elección de hacia dónde se dirige el foco.
+
+La buena noticia: como cualquier capacidad, la atención responde al entrenamiento. La práctica deliberada de dirigir y sostener la atención fortalece los circuitos neurales implicados. Lo que hoy requiere esfuerzo consciente puede convertirse, con práctica sostenida, en una capacidad más accesible.
 
 #imagen
  ![img-m01-bombillas-apagan](recursos/imagenes/img-m01-bombillas-apagan.png)Secuencia de tres bombillas representando niveles de atención: una bombilla encendida con luz cálida intensa (atención plena), una bombilla con luz media (atención parcial), y una bombilla apagada (sin atención). Metáfora visual de cómo la atención es un recurso limitado que puede "agotarse".
 
 #imagen
 ![img-m01-cerebro-pesas](recursos/imagenes/img-m01-cerebro-pesas.png) Ilustración de un cerebro antropomorfizado con brazos y piernas levantando una barra de pesas. Representa el concepto de que la atención, como un músculo, puede ser entrenada y fortalecida mediante la práctica deliberada.
+
+---
+
+## Notas para revisión
+
+### 1. Contenido eliminado por redundancia
+
+- **Sección "Sistema de arriba-abajo"**: Eliminada repetición de definiciones de ambos sistemas en el bloque #explicacion que duplicaba exactamente lo ya expuesto en los bloques #teoria de las secciones 1 y 2. El contenido único de Goleman y el contexto de distracciones modernas se mantuvo integrado.
+
+### 2. Ausencias estructurales detectadas
+
+- **Sección "SODA"**: No presenta bloque #explicacion. El contenido se limita a las citas de Posner/Rothbart y William James sin desarrollo conceptual adicional.
+- **Sección "La atención como recurso limitado"**: El original solo presentaba encabezados en mayúsculas sin desarrollo. Se transformó manteniendo la idea central pero la sección carece de #explicacion.
+
+### 3. Referencias sugeridas
+
+- El concepto de entrenabilidad de la atención podría reforzarse con referencia a estudios de neuroplasticidad o investigaciones sobre meditación y atención (Jha, Davidson, etc.).
+- La interacción entre sistemas abajo-arriba/arriba-abajo podría beneficiarse de referencia a literatura sobre atención selectiva (Posner más allá de la cita).

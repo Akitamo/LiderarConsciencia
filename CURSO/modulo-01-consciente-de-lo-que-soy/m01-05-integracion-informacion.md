@@ -4,6 +4,7 @@ titulo: "Integración de la Información"
 modulo: 1
 orden: 05
 tags: [corteza-cerebral, ganglios-basales, corteza-prefrontal, decision, neurociencia, cerebro]
+ultima_actualizacion: "15/01/2026"
 ---
 
 # Integración de la Información
@@ -26,12 +27,17 @@ tags: [corteza-cerebral, ganglios-basales, corteza-prefrontal, decision, neuroci
 ## Funciones de integración cerebral
 
 #explicacion
-Integración en la Corteza Cerebral: La corteza cerebral es la región donde se integran diferentes tipos de información sensorial y cognitiva. En ella se combinan datos provenientes de los sentidos, la memoria y las emociones, permitiendo al cerebro construir una representación coherente del entorno. Esta integración facilita que el cerebro no solo perciba, sino que interprete el contexto, identificando patrones y asociando nueva información con experiencias previas.
-El Papel de los Ganglios Basales: Los ganglios basales actúan como un filtro automático que selecciona la acción más adecuada entre las múltiples opciones que recibe de la corteza. Esta selección implica la inhibición de los comportamientos competidores, asegurando que solo se ejecute una acción a la vez. La capacidad de inhibir acciones irrelevantes o contraproducentes es crucial para la supervivencia.
-La Corteza Prefrontal y la Decisión Consciente: La corteza prefrontal es la parte del cerebro implicada en la toma de decisiones conscientes:
-Evaluación y planificación: La corteza prefrontal evalúa la información sensorial, las posibles consecuencias de las acciones y los objetivos a largo plazo.
-Regulación emocional: También regula las respuestas emocionales, modulando la actividad del sistema límbico y otras áreas corticales.
-Control inhibitorio: Ejerce un control inhibitorio sobre los impulsos y las respuestas automáticas, permitiendo la planificación y la toma de decisiones deliberadas.
+La corteza cerebral opera como la estación central de procesamiento donde confluyen datos sensoriales, memoria y emoción. No se limita a recibir información de los sentidos; la combina, la contrasta con experiencias previas y construye una representación coherente del entorno. Percibir e interpretar son procesos simultáneos —el cerebro identifica patrones y asigna significado en el mismo acto de recibir datos.
+
+Los ganglios basales funcionan como un filtro selectivo: ante múltiples opciones de acción que llegan desde la corteza, seleccionan una e inhiben las demás. Esta selección no es trivial. Sin ella, cada estímulo generaría respuestas competitivas simultáneas. La capacidad de inhibir lo irrelevante es tan crítica como la capacidad de activar lo necesario.
+
+La corteza prefrontal interviene en la toma de decisiones conscientes a través de tres funciones clave:
+
+**Evaluación y planificación**: Sopesa información sensorial, anticipa consecuencias y alinea acciones con objetivos a largo plazo.
+
+**Regulación emocional**: Modula la actividad del sistema límbico, ajustando la intensidad de las respuestas emocionales al contexto.
+
+**Control inhibitorio**: Frena impulsos y respuestas automáticas, permitiendo que la deliberación preceda a la acción.
 
 ---
 
@@ -40,5 +46,21 @@ Control inhibitorio: Ejerce un control inhibitorio sobre los impulsos y las resp
 #video
 ![vid-m01-captura-balon](recursos/videos/vid-m01-Captura-balon.mp4) Vídeo documental (aparece logo de La 2 de TVE) mostrando una escena urbana/industrial con una persona en movimiento. Ilustra el procesamiento e integración de información que realiza el cerebro constantemente mientras navegamos por el entorno, tomando decisiones automáticas y conscientes de forma simultánea.
 
-#video 
+#video
 ![vid-m01-robot-fails](recursos/videos/vid-m01-robot-fails.mp4)Vídeo de fallos a la hora de construir robots intentando reproducir comportamiento humano para demostrar la complejidad de lo que hace el cerebro de forma cotidiana en nuestras vidas
+
+---
+
+## Notas para revisión
+
+### 1. Contenido eliminado por redundancia
+- Ninguno. El contenido original era compacto y sin redundancias significativas.
+
+### 2. Ausencias estructurales detectadas
+- La sección inicial #teoria solo contiene un índice (lista de puntos), no desarrollo teórico en prosa. El desarrollo está en el bloque #explicacion.
+- La sección "La complejidad del procesamiento cerebral" contiene únicamente referencias a vídeos, sin texto teórico ni explicativo que contextualice los vídeos más allá de sus descripciones.
+
+### 3. Referencias sugeridas
+- El concepto de integración cortical podría reforzarse con referencias a estudios de binding problem (problema de la unión perceptiva).
+- La función de los ganglios basales en selección de acción podría beneficiarse de referencias a modelos computacionales de selección de acción (Mink, Redgrave).
+- Las funciones ejecutivas de la corteza prefrontal podrían respaldarse con trabajos de Joaquín Fuster o Earl Miller sobre control cognitivo.
