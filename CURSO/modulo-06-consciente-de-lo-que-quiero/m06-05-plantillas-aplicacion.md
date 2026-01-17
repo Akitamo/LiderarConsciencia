@@ -4,14 +4,14 @@ titulo: "Modelo para orientar acciones y decisiones con consciencia - Plantillas
 modulo: 6
 orden: 05
 tags: [modelo, plantilla, aplicacion, reuniones, antes, durante, despues, intencion, ejercicio]
-ultima_actualizacion: "15/01/2026"
+ultima_actualizacion: "16/01/2026"
 ---
 
 # Modelo para orientar acciones y decisiones con consciencia - Plantillas de aplicación
 
 ## Visión integrada del modelo
 
-#imagen #modelo
+#imagen
 ![img-m06-modelo-integrado](recursos/imagenes/img-m06-modelo-integrado.png) Diagrama completo del modelo sobre fondo azul: óvalo con niveles Conductual/Profesional/Personal, línea temporal Propósito→Objetivos→Intención, área central de Contexto y Atención con los 5 módulos de consciencia alrededor, indicadores de fase 01 Antes, 02 Durante, 03 Después, e iconos de Reuniones, Planning, Mails.
 
 #imagen
@@ -23,7 +23,7 @@ ultima_actualizacion: "15/01/2026"
 
 #ejercicio
 
-#imagen #modelo
+#imagen
 ![img-m06-plantilla-antes](recursos/imagenes/img-m06-plantilla-antes.png) Plantilla 01-ANTES con encabezado verde. Fotografía de reunión de trabajo con etiqueta "INTENCIÓN". Columnas: "Consciente de lo que soy", "Consciente de lo que siento", "Consciente de lo que pienso_siento", "Consciente de lo que necesito", "Consciente de lo que necesitamos".
 
 ---
@@ -32,7 +32,7 @@ ultima_actualizacion: "15/01/2026"
 
 #ejercicio
 
-#imagen #modelo
+#imagen
 ![img-m06-plantilla-durante](recursos/imagenes/img-m06-plantilla-durante.png) Plantilla 02-DURANTE con encabezado cian. Fotografía de reunión de trabajo con etiqueta "INTENCIÓN". Columnas: "Consciente de lo que soy", "Consciente de lo que siento", "Consciente de lo que pienso_siento", "Consciente de lo que necesito", "Consciente de lo que necesitamos".
 
 ---
@@ -41,14 +41,6 @@ ultima_actualizacion: "15/01/2026"
 
 #ejercicio
 
-#imagen #modelo
+#imagen
 ![img-m06-plantilla-despues](recursos/imagenes/img-m06-plantilla-despues.png) Plantilla 03-DESPUÉS con encabezado coral/rosa. Fotografía de reunión de trabajo con etiqueta "INTENCIÓN". Columnas: "Consciente de lo que soy", "Consciente de lo que siento", "Consciente de lo que pienso_siento", "Consciente de lo que necesito", "Consciente de lo que necesitamos".
 
----
-
-## Notas para revisión
-
-- **Tipo de archivo:** Plantillas de ejercicio visual
-- **Contenido teórico transformable:** Ninguno
-- **Acción realizada:** Preservación íntegra de estructura, imágenes y tags; añadido campo `ultima_actualizacion` en frontmatter
-- **Observación:** Este archivo funciona como soporte visual para las plantillas del modelo. No contiene bloques #teoria ni #explicacion que requieran aplicación del Tono LcC

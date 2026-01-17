@@ -4,14 +4,13 @@ titulo: "El liderazgo compasivo"
 modulo: 5
 orden: 04
 tags: [liderazgo-compasivo, compasion, empatia, rasmus-hougaard, potential-project, bienestar-laboral]
-ultima_actualizacion: "15/01/2026"
+ultima_actualizacion: "16/01/2026"
 ---
 
 # El liderazgo compasivo
 
 ## Las bases del liderazgo compasivo
 
-#teoria
 Liderazgo compasivo: la capacidad de hacer cosas difíciles de manera humana. Combina la sabiduría de saber qué hacer con la compasión de cuidar a las personas impactadas por las decisiones. El éxito a largo plazo depende de crear entornos donde las personas se sientan valoradas, respetadas y seguras.
 
 **Reconocer la humanidad compartida:** Todos somos seres humanos con necesidades, deseos y experiencias similares. Esta premisa permite conectar a un nivel más profundo y comprender mejor las perspectivas de los demás.
@@ -27,7 +26,6 @@ Liderazgo compasivo: la capacidad de hacer cosas difíciles de manera humana. Co
 
 ## Conectar con empatía, liderar con compasión
 
-#teoria
 La compasión no significa complacer ni dar siempre lo que se pide. Puede ser firme y directa —como cuando se aborda un comportamiento inapropiado—. La clave está en la intención: ayudar a la persona a cambiar para lograr mejores resultados para todos.
 
 **La empatía es la capacidad de sentir con otro ser.** Permite comprender y compartir las emociones de los demás. Es una cualidad humana valiosa, pero en el contexto del liderazgo puede tener desventajas.
@@ -45,18 +43,17 @@ La compasión no significa complacer ni dar siempre lo que se pide. Puede ser fi
 
 ## La matriz de la compasión sabia
 
-#teoria
 **The Wise Compassion Leadership Matrix**
 Compare this leadership style to three other common ones.
 
-#imagen #referencia
-![img-m05-matriz-compasion](recursos/imagenes/img-m05-matriz-compasion.png) Matriz 2x2 de Rasmus Hougaard (HBR). Ejes: vertical "COMPASSION-INDIFFERENCE", horizontal "IGNORANCE-WISDOM". Cuatro cuadrantes: (1) Caring avoidance - Letting empathy be a barrier to action, (2) Wise compassion - Getting tough things done in a human way, (3) Ineffective indifference - Lacking interest in and concern for others, (4) Uncaring execution - Putting results before people's well-being. Fuente: Rasmus Hougaard, HBR.
+#imagen
+![img-m05-matriz-compasion](recursos/imagenes/img-m05-matriz-compasion.png) Matriz 2x2 de Rasmus Hougaard[^1] (HBR). Ejes: vertical "COMPASSION-INDIFFERENCE", horizontal "IGNORANCE-WISDOM". Cuatro cuadrantes: (1) Caring avoidance - Letting empathy be a barrier to action, (2) Wise compassion - Getting tough things done in a human way, (3) Ineffective indifference - Lacking interest in and concern for others, (4) Uncaring execution - Putting results before people's well-being.
 
-#imagen #referencia
-![img-m05-flywheel-compasion](recursos/imagenes/img-m05-flywheel-compasion.png) Diagrama circular "The Wise Compassion Flywheel" con cuatro elementos conectados: (1) Caring presence - Be here now, (2) Caring courage - Courage over comfort, (3) Caring candour - Direct is faster, (4) Caring transparency - Clarity is kindness. Fuente: Potential Project.
+#imagen
+![img-m05-flywheel-compasion](recursos/imagenes/img-m05-flywheel-compasion.png) Diagrama circular "The Wise Compassion Flywheel"[^2] con cuatro elementos conectados: (1) Caring presence - Be here now, (2) Caring courage - Courage over comfort, (3) Caring candour - Direct is faster, (4) Caring transparency - Clarity is kindness.
 
-#explicacion
-**Caring presence: be here now**
+#### Caring presence: be here now
+
 Leadership is about connection, and there is no possibility of connection if we are not present. When we are present, we are in the moment, giving the people around us our full attention. Mindfulness is a useful way to counter this tendency, helping us become more present with what is happening right now.
 
 Three ways to practice caring presence:
@@ -64,7 +61,8 @@ Three ways to practice caring presence:
 2. Let go of expectations
 3. Use the power of the pause
 
-**Caring courage: courage over comfort**
+#### Caring courage: courage over comfort
+
 As human beings, we're hardwired to embrace certainty and safety and to avoid danger and discomfort. Overcoming our comfort-seeking orientation requires courage: the inner strength to overcome our fears or dreads about a situation so that we can take the action that is required.
 
 Three ways to practice caring courage:
@@ -72,7 +70,8 @@ Three ways to practice caring courage:
 2. Deal with things—never let them fester
 3. Trust your intuition
 
-**Caring candour: direct is faster**
+#### Caring candour: direct is faster
+
 As leaders, we need to find the middle ground between candour and care in order to create a culture that is both kind and straight-talking. Being direct and straightforward is always the fastest and most efficient way to engage in a conversation.
 
 Three ways to practice caring candour:
@@ -80,7 +79,8 @@ Three ways to practice caring candour:
 2. Avoid the popularity game
 3. Have zero tolerance for value-breakers
 
-**Caring transparency: clarity is kindness**
+#### Caring transparency: clarity is kindness
+
 Caring transparency means getting ideas and thoughts out in the open – making the invisible visible. It means being open and honest about where you stand and what awaits the organization.
 
 Three ways to practice caring transparency:
@@ -94,8 +94,7 @@ When we master the four elements of the Wise Compassion Flywheel, we also enable
 
 ## Evidencia del impacto en líderes y equipos
 
-#teoria
-**Beneficios para los líderes:**
+#### Beneficios para los líderes
 
 **Menos estrés y agotamiento:** La compasión permite afrontar situaciones difíciles con mayor ecuanimidad y resiliencia, evitando la sobrecarga emocional.
 
@@ -105,7 +104,7 @@ When we master the four elements of the Wise Compassion Flywheel, we also enable
 
 **Mayor eficacia:** Los líderes compasivos se sienten más seguros de su capacidad para liderar a otros.
 
-**Beneficios para los equipos:**
+#### Beneficios para los equipos
 
 **Mayor satisfacción laboral:** La compasión crea un ambiente de trabajo más positivo y de apoyo, donde las personas se sienten valoradas y respetadas.
 
@@ -115,9 +114,9 @@ When we master the four elements of the Wise Compassion Flywheel, we also enable
 
 **Menor agotamiento:** La compasión crea un ambiente de trabajo más saludable y equilibrado, donde las personas se sienten apoyadas y protegidas.
 
-#explicacion
-Datos de investigación:
-- Los líderes que se califican a sí mismos como altamente compasivos reportan un 66% menos de estrés y un 63% menos de agotamiento que sus contrapartes menos compasivos.
+#### Datos de investigación
+
+- Los líderes que se califican a sí mismos como altamente compasivos reportan un 66% menos de estrés y un 63% menos de agotamiento que sus contrapartes menos compasivos[^3].
 - Los líderes compasivos tienen una intención 200% menor de renunciar a su organización.
 - Los empleados que perciben a su líder como compasivo tienen un 34% más de satisfacción laboral.
 - Los empleados que experimentan un liderazgo compasivo muestran un 36% más de compromiso con la organización.
@@ -127,35 +126,7 @@ Datos de investigación:
 
 ---
 
-## Notas para revisión
+[^1]: Rasmus Hougaard. The Wise Compassion Leadership Matrix. Harvard Business Review.
+[^2]: Potential Project. The Wise Compassion Flywheel.
+[^3]: Potential Project. Investigación sobre liderazgo compasivo y bienestar organizacional.
 
-### 1. Cambios de tono aplicados
-
-**Sección "Las bases del liderazgo compasivo":**
-- Eliminado preámbulo "Este enfoque se basa en la comprensión de que los líderes tienen una gran responsabilidad hacia sus colaboradores" (redundante con el contenido que sigue)
-- Convertida apertura en definición directa: "Liderazgo compasivo: la capacidad de..."
-- Simplificada sintaxis manteniendo toda la información
-
-**Sección "Conectar con empatía, liderar con compasión":**
-- Eliminadas muletillas ("Es importante destacar que...")
-- Condensadas las cuatro distinciones empatía/compasión usando estructura paralela más incisiva
-- Mantenido todo el contenido conceptual
-
-**Sección "Evidencia del impacto":**
-- Eliminado "Esto se debe a que..." repetitivo (aparecía en cada punto)
-- Condensadas explicaciones sin perder información
-- Mantenido 100% del contenido de evidencia
-
-### 2. Contenido preservado íntegramente
-
-- **Flywheel #explicacion en inglés**: Preservado sin modificación (contenido de referencia de Potential Project)
-- **Datos porcentuales**: Todos preservados exactamente (66%, 63%, 200%, 34%, 36%, 22%, 25%, 11%)
-- **Referencias**: Rasmus Hougaard, Potential Project, HBR
-- **Imágenes**: Todas las rutas y descripciones exactas
-- **Estructura conceptual**: Matriz compasión sabia, distinción empatía/compasión, bases del liderazgo compasivo
-
-### 3. Observaciones estructurales
-
-- Las secciones 1 y 2 no tenían #explicacion en el original; no se añadió ninguno (respeto FONDO)
-- El #explicacion de la sección 3 (Flywheel) aporta valor único (contenido de referencia en inglés) y se preservó íntegramente
-- El #explicacion de la sección 4 (Evidencia) contiene datos porcentuales de investigación únicos y se preservó íntegramente

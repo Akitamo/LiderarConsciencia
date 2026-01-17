@@ -4,16 +4,14 @@ titulo: "Mindfulness para el Desarrollo de la resiliencia"
 modulo: 4
 orden: 04
 tags: [mindfulness, resiliencia, regulacion-emocional, liderazgo, estres, reaccion, regulacion]
-ultima_actualizacion: "15/01/2026"
+ultima_actualizacion: "16/01/2026"
 ---
 
 # Mindfulness para el Desarrollo de la resiliencia
 
 ## Del estrés a la resiliencia
 
-#teoria
-
-La resiliencia no elimina el estrés; transforma la relación con él. Un líder resiliente no es aquel que evita la presión, sino quien la canaliza hacia claridad y aprendizaje.
+**La resiliencia no elimina el estrés; transforma la relación con él.** Un líder resiliente no es aquel que evita la presión, sino quien la canaliza hacia claridad y aprendizaje.
 
 La percepción de control marca la diferencia. No se trata de controlar los factores externos —rara vez es posible—, sino de mantener agencia sobre las propias reacciones. Esa percepción reduce el impacto del estrés y convierte la adversidad en territorio de crecimiento.
 
@@ -27,7 +25,7 @@ Claridad mental bajo presión: los líderes resilientes no solo soportan el estr
 ## El modelo de regulación emocional de Gross
 
 #imagen
-![img-m04-gross-modelo-lineal](recursos/imagenes/img-m04-gross-modelo-lineal.png) Modelo lineal "Process Model of Emotion Regulation Proposed by Gross (1998a)": Situation Selection → Situation Modification → Attentional Deployment → Cognitive Change → Response Modulation. Con fases: Situation → Attention → Appraisal → Response. División entre "Antecedent-focused" y "Response-focused".
+![img-m04-gross-modelo-lineal](recursos/imagenes/img-m04-gross-modelo-lineal.png) Modelo lineal "Process Model of Emotion Regulation Proposed by Gross (1998a)"[^1]: Situation Selection → Situation Modification → Attentional Deployment → Cognitive Change → Response Modulation. Con fases: Situation → Attention → Appraisal → Response. División entre "Antecedent-focused" y "Response-focused".
 
 #imagen
 ![img-m04-gross-ejemplo](recursos/imagenes/img-m04-gross-ejemplo.png) Ejemplo aplicado del modelo de Gross con escenario social: Situations (Don't go to party / Go to party) → Aspects (Watch karaoke / Watch ex flirt) → Meanings (New partner is better than you / Good to see ex happy) → Emotion Response (Jealousy, Anger) → Responses (Get drunk / Response Modulation, Suppression).
@@ -36,14 +34,10 @@ Claridad mental bajo presión: los líderes resilientes no solo soportan el estr
 
 ## Mindfulness: el espacio entre estímulo y respuesta
 
-#teoria
-
-El entrenamiento en mindfulness no cambia los estímulos; cambia el espacio entre estímulo y respuesta.
+**El entrenamiento en mindfulness no cambia los estímulos; cambia el espacio entre estímulo y respuesta.**
 
 #imagen
 ![img-m04-comparativa-mindfulness](recursos/imagenes/img-m04-comparativa-mindfulness.jpg) Diagrama comparativo de línea temporal mostrando diferencias entre "Con entrenamiento Mindfulness" y "Sin entrenamiento Mindfulness" en las fases de "Darse Cuenta" y "Gestionar respuesta".
-
-#teoria
 
 La diferencia entre reacción y regulación no es cuestión de intensidad, sino de arquitectura.
 
@@ -69,7 +63,7 @@ El mindfulness entrena la capacidad de convertir la compulsión en decisión. No
 
 #cita
 "Cualquiera puede enfadarse, eso es algo muy sencillo. Pero enfadarse con la persona adecuada, en el grado exacto, en el momento oportuno. Con el propósito justo y del modo correcto, eso, ciertamente, no resulta tan sencillo."
-— **Aristóteles**, *Ética a Nicómaco*
+— **Aristóteles**, *Ética a Nicómaco*[^2]
 
 #imagen
 ![img-m04-cita-aristoteles](recursos/imagenes/img-m04-cita-aristoteles.png) Cita de Aristóteles con busto clásico en mármol/piedra.
@@ -83,33 +77,5 @@ El mindfulness entrena la capacidad de convertir la compulsión en decisión. No
 
 ---
 
-## Notas para revisión
-
-### Cambios aplicados
-
-**Sección "Del estrés a la resiliencia":**
-- Transformada estructura de viñetado a prosa fluida con tono LcC
-- Eliminados preámbulos ("La capacidad de un líder para...")
-- Aplicada voz experta directa: "La resiliencia no elimina el estrés; transforma la relación con él"
-- Mantenido contenido conceptual íntegro: percepción de control, claridad mental bajo presión, distinción adaptativo/reactivo
-- Eliminado subtítulo en negrita redundante con H2 ("Del estrés a la resiliencia: convertir la presión en fortaleza")
-
-**Sección "Mindfulness: el espacio entre estímulo y respuesta":**
-- Reorganizado flujo narrativo: concepto → imagen → tabla → desarrollo
-- Eliminado texto redundante previo a la tabla ("Con entrenamiento Mindfulness vs Sin entrenamiento Mindfulness") — la imagen ya lo comunica
-- Añadida frase de transición antes de la tabla para dar contexto
-- Transformado título "Mindfulness – Desarrollo de Nuevas Habilidades..." a formulación más incisiva integrada en el flujo
-- Preservada tabla REACCIÓN vs REGULACIÓN íntegramente
-- Preservada cita de Aristóteles íntegramente
-
-### Ausencias estructurales detectadas
-
-- **Sección "El modelo de regulación emocional de Gross"**: Solo contiene imágenes, sin texto teórico ni explicativo. Se mantiene tal cual según el original.
-- **Sección "La regulación emocional en acción"**: Solo contiene video, sin texto. Se mantiene tal cual según el original.
-- **Ninguna sección tiene bloque #explicacion** en el original. No se generaron bloques nuevos (respeto al límite FONDO).
-
-### Observaciones adicionales
-
-- El documento original es predominantemente visual (6 imágenes, 1 video) con poco texto teórico
-- La tabla REACCIÓN vs REGULACIÓN tiene una celda vacía en la última fila (columna REGULACIÓN) — se preservó tal cual del original
-- Se preservaron todas las referencias a imágenes y video con rutas exactas
+[^1]: Gross, J.J. (1998a). Process Model of Emotion Regulation.
+[^2]: Aristóteles. Ética a Nicómaco.

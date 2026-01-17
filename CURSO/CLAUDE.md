@@ -35,10 +35,37 @@ ultima_actualizacion: "DD/MM/YYYY"
 
 Nota: El campo `ultima_actualizacion` debe actualizarse cada vez que se modifica el contenido del fichero.
 
-# Tags inline
-- #teoria: contenido conceptual
-- #ejercicio: práctica guiada
-- #explicacion: desarrollo de conceptos
-- #imagen: referencia visual
-- #video: referencia a vídeo
-- #gif: animación ilustrativa
+# Sistema de marcado
+
+## Principio base
+Sin tag = contenido teórico. Solo se marcan las excepciones.
+
+## Regla de límites
+Cada tag aplica al contenido inmediatamente siguiente hasta la próxima línea en blanco.
+
+## Tags activos
+
+| Categoría | Tag | Uso |
+|-----------|-----|-----|
+| Multimedia | #imagen | Fotografías, ilustraciones, diagramas, GIFs |
+| Multimedia | #video | Vídeos |
+| Didáctico | #metafora | Analogía desarrollada que re-explica concepto mediante imagen explorable |
+| Didáctico | #ejemplo | Caso concreto desarrollado (contexto, acción, resultado) |
+| Didáctico | #practica | Actividad experiencial con instrucciones |
+| Didáctico | #pregunta | Pregunta reflexiva dirigida al lector |
+| Didáctico | #cita | Cita textual extensa con atribución |
+
+## Tags obsoletos (no usar)
+- ~~#teoria~~ → contenido sin tag es teoría por defecto
+- ~~#explicacion~~ → fusionado con contenido teórico
+- ~~#gif~~ → usar #imagen
+- ~~#ejercicio~~ → usar #practica
+
+## Referencias académicas
+
+Usar footnotes markdown [^n] para fuentes mencionadas:
+- Autor con libro/artículo
+- Estudios/experimentos con institución
+- Modelos/frameworks con nombre propio
+
+**Regla anti-invención:** Solo crear footnotes para fuentes explícitamente mencionadas en el texto original. NUNCA inventar datos bibliográficos.

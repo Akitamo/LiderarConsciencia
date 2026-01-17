@@ -4,14 +4,13 @@ titulo: "Sesgos y patrones automáticos"
 modulo: 5
 orden: 02
 tags: [sesgos, automatismos, reactividad, amigdala, patrones-mentales, autoindagacion]
-ultima_actualizacion: "15/01/2026"
+ultima_actualizacion: "16/01/2026"
 ---
 
 # Sesgos y patrones automáticos
 
 ## Los filtros que distorsionan nuestra percepción
 
-#teoria
 El cerebro procesa información a través de atajos mentales —sesgos cognitivos— que permiten decisiones rápidas pero distorsionan la realidad. Cinco sesgos operan con especial frecuencia en contextos de liderazgo:
 
 **Sesgo de confirmación**: La tendencia a buscar, interpretar y recordar información que confirma creencias previas. Este filtro lleva a interpretar las acciones de los demás de manera que refuerce lo que ya se cree de ellos.
@@ -29,16 +28,16 @@ Estos sesgos no son defectos sino mecanismos de eficiencia cognitiva. El problem
 #imagen
 ![img-m05-medico-tatuado](recursos/imagenes/img-m05-medico-tatuado.png) Fotografía comparativa de dos hombres: a la izquierda, un médico con bata blanca, estetoscopio y corbata roja, aspecto profesional y sonriente; a la derecha, un hombre joven con camiseta negra sin mangas mostrando múltiples tatuajes en los brazos. Ilustra cómo los sesgos nos llevan a juzgar a las personas por su apariencia.
 
-#explicacion
+#ejemplo
 El sesgo de confirmación opera de forma sutil pero sistemática. Un líder que cree que un miembro del equipo es "poco comprometido" tiende a interpretar cualquier error o retraso como prueba de falta de compromiso, ignorando explicaciones alternativas como carga de trabajo elevada o problemas personales. El sesgo no inventa datos; selecciona cuáles son visibles.
 
 La investigación científica ha documentado extensamente estos mecanismos:
 
-- **Sesgo de confirmación (Universidad de Stanford)**: Un experimento clásico mostró que cuando se presentan datos a personas con creencias opuestas, los participantes aceptan fácilmente la información que confirma su punto de vista y desestiman la que lo desafía.
+- **Sesgo de confirmación (Universidad de Stanford)**[^1]: Un experimento clásico mostró que cuando se presentan datos a personas con creencias opuestas, los participantes aceptan fácilmente la información que confirma su punto de vista y desestiman la que lo desafía.
 
-- **Sesgo de afinidad (Universidad de Yale)**: Los empleadores son más propensos a contratar candidatos que comparten su mismo origen o trasfondo educativo. Un estudio de la Universidad de Toronto confirmó que los gerentes evalúan más favorablemente a empleados con quienes comparten afinidad cultural o étnica.
+- **Sesgo de afinidad (Universidad de Yale)**[^2]: Los empleadores son más propensos a contratar candidatos que comparten su mismo origen o trasfondo educativo. Un estudio de la Universidad de Toronto[^3] confirmó que los gerentes evalúan más favorablemente a empleados con quienes comparten afinidad cultural o étnica.
 
-- **Efecto de halo (Universidad de Columbia)**: Los evaluadores calificaron positivamente a candidatos con aspecto "agradable" o "confiable", sin basarse en datos objetivos de competencia. El psicólogo Edward Thorndike observó este efecto en estudios militares: un oficial percibido como fuerte físicamente era también percibido como más competente y confiable en otras áreas, sin pruebas que apoyaran esa evaluación.
+- **Efecto de halo (Universidad de Columbia)**[^4]: Los evaluadores calificaron positivamente a candidatos con aspecto "agradable" o "confiable", sin basarse en datos objetivos de competencia. El psicólogo Edward Thorndike[^5] observó este efecto en estudios militares: un oficial percibido como fuerte físicamente era también percibido como más competente y confiable en otras áreas, sin pruebas que apoyaran esa evaluación.
 
 El sesgo de etiquetado se manifiesta cuando un líder etiqueta a un colaborador como "problemático" —cualquier duda o desacuerdo posterior se interpreta como actitud desafiante, no como intento de mejorar o cuestionar constructivamente. El sesgo de anclaje actúa de manera similar: un comentario negativo sobre un nuevo empleado puede condicionar la evaluación de su desempeño durante meses.
 
@@ -48,7 +47,6 @@ La práctica de mindfulness permite observar estos patrones en el momento en que
 
 ## Cuando los patrones toman el control
 
-#teoria
 Los sesgos cognitivos no operan en el vacío. Cuando una situación activa un patrón preexistente, el cerebro genera una respuesta emocional automática. Este proceso sucede en la amígdala, que dispara respuestas rápidas especialmente ante contextos percibidos como negativos o amenazantes.
 
 La secuencia sigue un patrón predecible:
@@ -66,7 +64,7 @@ La secuencia sigue un patrón predecible:
 #imagen
 ![img-m05-mente-encadenada](recursos/imagenes/img-m05-mente-encadenada.png) Ilustración de una silueta humana de perfil en tonos oscuros. Dentro de la cabeza se ve un cerebro con una nota adhesiva amarilla, y una cadena que conecta el cerebro con algo fuera del encuadre, simbolizando cómo los patrones mentales nos mantienen atados a reacciones automáticas.
 
-#explicacion
+#ejemplo
 Estos mecanismos se manifiestan en situaciones cotidianas de liderazgo:
 
 Si un líder ha tenido conflictos previos con personas de tono de voz elevado, su cerebro puede asociar ese tono a una amenaza, activando rechazo o defensividad automáticamente —aunque la persona actual no represente ningún peligro real.
@@ -84,7 +82,6 @@ El resultado: en lugar de escuchar activamente, el líder tiende a imponer su pe
 
 ## Cuatro preguntas para recuperar la consciencia
 
-#teoria
 Cuatro preguntas permiten acceder al trasfondo de las propias opiniones y juicios:
 
 **¿Cuáles son mis deseos?** Esta pregunta explora las motivaciones ocultas. Los deseos —simples o cargados de emoción— influyen en los juicios sin que haya consciencia de ello. Pueden ser un punto ciego que lleva a conversaciones improductivas.
@@ -103,7 +100,6 @@ Estas preguntas, junto con el análisis de emociones y hechos, permiten:
 #imagen
 ![img-m05-microscopio-analisis](recursos/imagenes/img-m05-microscopio-analisis.png) Fotografía de un microscopio científico negro y plateado con varias muestras circulares de colores (azules, verdes, amarillos) dispuestas alrededor, sobre fondo azul claro. Representa el análisis profundo y la observación detallada de nuestros propios pensamientos.
 
-#explicacion
 Cada pregunta abre una dimensión diferente de autoconocimiento:
 
 Preguntar por los deseos revela brechas entre lo que se piensa y la realidad. No siempre se desea lo que se cree desear. A veces el deseo oculto es proteger el ego, no resolver el problema.
@@ -118,18 +114,8 @@ Utilizar estas preguntas permite comprender el trasfondo de las opiniones y part
 
 ---
 
-## Notas para revisión
-
-### 1. Contenido eliminado por redundancia
-- Sección 1: Eliminada definición genérica inicial de "sesgos cognitivos" y "patrones mentales" (redundante con el desarrollo detallado de los 5 sesgos específicos)
-- La conclusión original sobre mindfulness se integró en el #explicacion de forma más orgánica
-
-### 2. Cambios de estructura aplicados
-- Los estudios científicos (Stanford, Yale, Toronto, Columbia, Thorndike) se preservaron íntegramente y se reorganizaron para mejor flujo narrativo
-- Los ejemplos de liderazgo para cada sesgo se integraron en #explicacion en lugar de aparecer dispersos
-- Las 4 preguntas mantienen su estructura original con desarrollo ampliado de aplicación práctica
-
-### 3. Observaciones
-- Todos los #explicacion aportan valor: contienen estudios específicos, ejemplos prácticos y perspectivas de aplicación que no están en #teoria
-- Se preservaron todas las imágenes y el video de Cavadas
-- Se añadió cierre sintético en sección final: "Lo visible se puede gestionar"
+[^1]: Universidad de Stanford. Experimento sobre sesgo de confirmación.
+[^2]: Universidad de Yale. Estudio sobre sesgo de afinidad en contratación.
+[^3]: Universidad de Toronto. Estudio sobre evaluación de empleados y afinidad cultural.
+[^4]: Universidad de Columbia. Estudio sobre efecto de halo.
+[^5]: Edward Thorndike. Estudios militares sobre efecto de halo.

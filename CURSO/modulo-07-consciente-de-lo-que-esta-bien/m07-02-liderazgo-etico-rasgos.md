@@ -4,14 +4,13 @@ titulo: "El liderazgo ético: fundamentos y rasgos"
 modulo: 7
 orden: 02
 tags: [liderazgo-etico, paradigma, valores, virtud, prudencia, integridad, transparencia, equidad]
-ultima_actualizacion: "15/01/2026"
+ultima_actualizacion: "16/01/2026"
 ---
 
 # El liderazgo ético: fundamentos y rasgos
 
 ## Un nuevo paradigma de liderazgo
 
-#teoria
 El contexto actual demanda un paradigma de liderazgo centrado en la ética, la humanidad y el bienestar integral de las personas. Este liderazgo ético se fundamenta en valores como la transparencia, la ejemplaridad, la justicia, la compasión y el servicio a los demás.
 
 Un liderazgo con esta orientación escucha las necesidades de quienes lo siguen, inspira a través del ejemplo y actúa con integridad y coherencia. No se trata de un ideal abstracto sino de una práctica concreta que se manifiesta en cada decisión y en cada interacción.
@@ -23,7 +22,6 @@ Un liderazgo con esta orientación escucha las necesidades de quienes lo siguen,
 
 ## De la ética a la virtud
 
-#teoria
 La "belleza del actuar recto" constituye un elemento esencial del liderazgo ético. Esta belleza no se reduce a la apariencia: emana de la coherencia entre el ser y el actuar. Se manifiesta en acciones concretas que buscan el bien común y se guían por principios morales sólidos. Este ideal se alcanza a través de una disciplina consciente que busca la perfección del carácter y se refleja en un actuar recto y virtuoso.
 
 La virtud, entendida como un hábito que se cultiva a través de la práctica constante, permite actuar con facilidad y naturalidad de acuerdo con el bien. No es un estado que se alcanza una vez, sino una disposición que se fortalece con cada elección coherente.
@@ -37,7 +35,6 @@ La prudencia se destaca como la virtud cardinal para el liderazgo ético. Esta v
 
 ## Los ocho rasgos del líder ético
 
-#teoria
 El liderazgo ético se articula en ocho rasgos fundamentales que, en conjunto, configuran un perfil coherente de conducta y valores.
 
 **Integridad**
@@ -67,19 +64,3 @@ Los líderes éticos reconocen su responsabilidad de contribuir positivamente a 
 #imagen
 ![img-m07-infografia-8-rasgos](recursos/imagenes/img-m07-infografia-8-rasgos.png) Infografía circular con ocho segmentos de colores (amarillo, rojo, verde, azul). Cada segmento con un icono representando los 8 rasgos del líder ético: Integridad, Equidad, Seguridad, Transparencia, Predicar con el ejemplo, Empatía-Compasión, Confiabilidad y Responsabilidad Social.
 
----
-
-## Notas para revisión
-
-### 1. Contenido eliminado por redundancia
-- Ninguno. Todo el contenido original aportaba valor y fue preservado.
-
-### 2. Ausencias estructurales detectadas
-- Ninguna de las tres secciones contiene bloque #explicacion en el original. Conforme a la regla crítica v9, no se crearon bloques #explicacion nuevos.
-
-### 3. Transformaciones aplicadas
-- Sección "Un nuevo paradigma de liderazgo": Lista numerada transformada en prosa fluida manteniendo los tres elementos (escuchar, inspirar, actuar).
-- Sección "De la ética a la virtud": Lista de viñetas transformada en tres párrafos coherentes preservando los conceptos de "belleza del actuar recto", virtud como hábito y prudencia como virtud cardinal.
-- Sección "Los ocho rasgos": Añadido párrafo introductorio; los 8 rasgos con sus descripciones preservados íntegramente.
-- Eliminados preámbulos implícitos y muletillas; aplicada voz experta directa.
-- Las 3 imágenes preservadas con rutas exactas.

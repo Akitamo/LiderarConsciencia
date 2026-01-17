@@ -4,15 +4,14 @@ titulo: "El estrés como respuesta adaptativa"
 modulo: 4
 orden: 02
 tags: [estres, lucha-huida, eustres, distres, adaptacion, supervivencia]
-ultima_actualizacion: "15/01/2026"
+ultima_actualizacion: "16/01/2026"
 ---
 
 # El estrés como respuesta adaptativa
 
 ## Qué es el estrés
 
-#teoria
-El estrés es una respuesta natural y automática del organismo ante demandas percibidas como desafiantes o amenazantes. Una reacción adaptativa que prepara al cuerpo para enfrentar situaciones de riesgo.
+**El estrés es una respuesta natural y automática del organismo ante demandas percibidas como desafiantes o amenazantes.** Una reacción adaptativa que prepara al cuerpo para enfrentar situaciones de riesgo.
 
 Originalmente, esta respuesta estaba orientada a la supervivencia en situaciones extremas: enfrentar un depredador, escapar de un peligro inminente. El cuerpo se movilizaba, actuaba, y retornaba a la calma. Hoy, los desencadenantes han cambiado. El trabajo, las relaciones, la presión social activan el mismo mecanismo diseñado para amenazas físicas reales. La maquinaria fisiológica es la misma; el contexto, radicalmente diferente.
 
@@ -26,14 +25,18 @@ Originalmente, esta respuesta estaba orientada a la supervivencia en situaciones
 
 ## Eustrés y distrés: dos caras del estrés
 
-#teoria
-No todo estrés es perjudicial. La distinción entre eustrés y distrés marca la diferencia entre una respuesta que potencia y una que deteriora.
+**No todo estrés es perjudicial.** La distinción entre eustrés y distrés marca la diferencia entre una respuesta que potencia y una que deteriora.
+
+#### Eustrés: estrés positivo
 
 El **eustrés** es estrés positivo: activa, motiva, energiza. Se asocia con retos percibidos como estimulantes. Un proyecto desafiante, una competición deportiva, una presentación importante. El organismo se moviliza, pero la experiencia se vive como oportunidad, no como amenaza.
 
+#### Distrés: estrés negativo
+
 El **distrés** es estrés negativo: desgasta, agota, paraliza. Surge cuando las demandas se perciben como cargas que superan la capacidad de respuesta. No es la situación en sí lo que determina el tipo de estrés; es la interpretación de esa situación frente a los recursos disponibles.
 
-#explicacion
+#### El papel de la percepción
+
 El estrés no es solo una respuesta a factores externos. Es una experiencia filtrada por la percepción. La interpretación de una situación precede a la sensación de estrés: si el cerebro evalúa amenaza, el cuerpo se prepara para luchar o huir, aunque la amenaza no sea física. Los recursos internos y externos actúan como amortiguadores: habilidades, apoyo social, tiempo disponible, experiencia previa. La misma situación puede generar eustrés en quien se percibe capaz, y distrés en quien se percibe desbordado.
 
 #imagen
@@ -46,7 +49,6 @@ El estrés no es solo una respuesta a factores externos. Es una experiencia filt
 
 ## La respuesta de lucha o huida
 
-#teoria
 La respuesta de lucha o huida es una reacción fisiológica automática ante una amenaza percibida. Este mecanismo ha evolucionado a lo largo de millones de años para maximizar las posibilidades de supervivencia.
 
 Cuando el cerebro percibe peligro, real o imaginario, activa el sistema nervioso simpático. Lo que sigue es una cascada de cambios fisiológicos coordinados:
@@ -67,7 +69,6 @@ El cuerpo se convierte en una máquina de acción. Rápido. Eficiente. Orientado
 
 ## El ciclo del estrés: de la adaptación al agotamiento
 
-#teoria
 La respuesta de estrés está diseñada para ser temporal. Activación, acción, resolución, recuperación. En la naturaleza, el ciclo se completa: la cebra huye del león, escapa, y minutos después pasta tranquilamente. El sistema retorna al equilibrio.
 
 El problema surge cuando el ciclo no se cierra. Los estresores psicológicos y sociales no se resuelven con huir o luchar. La amenaza percibida persiste: el proyecto sin terminar, el conflicto sin resolver, la incertidumbre sin respuesta. El cuerpo mantiene la activación sin completar el ciclo. Pico tras pico, sin retorno a la línea base.
@@ -96,7 +97,6 @@ La respuesta adaptativa y la respuesta no adaptativa ilustran esta diferencia fu
 
 ## El síndrome de adaptación general
 
-#teoria
 El síndrome de adaptación general describe las tres fases de la respuesta prolongada al estrés. Un patrón predecible que marca el camino de la movilización al colapso.
 
 **Fase 1 - Alarma:** El organismo detecta el estresor y moviliza recursos. Es la activación inicial, la respuesta de lucha o huida en acción.
@@ -112,27 +112,3 @@ La curva de estrés ilustra la relación entre activación y rendimiento. Demasi
 
 #imagen
 ![img-m04-stress-curve](recursos/imagenes/img-m04-stress-curve.png) Gráfico "STRESS CURVE" mostrando curva de campana con Performance vs Stress Level. Zonas coloreadas: verde (too little stress/underload - inactive, laid back), amarillo-naranja (optimum stress), rojo (too much stress/overload - fatigue, exhaustion, anxiety/panic/anger, breakdown, burn-out).
-
----
-
-## Notas para revisión
-
-### 1. Contenido eliminado por redundancia
-- **Sección "Qué es el estrés":** Eliminada cita literal de definición genérica ("El estrés es una respuesta natural...") por redundancia con el párrafo explicativo inmediatamente posterior. El contenido conceptual se preserva integrado en la exposición.
-- **Sección "Eustrés y distrés":** Reorganizado contenido de #explicacion original (definiciones de eustrés/distrés) integrándolo en #teoria, ya que aportaba definiciones clave. El #explicacion transformado ahora se enfoca en la interpretación y los recursos como amortiguadores (contenido único del original).
-- **Sección "Ciclo del estrés":** Eliminados subtítulos redundantes ("La importancia de la gestión de la respuesta a los inputs estresores" aparecía dos veces sin desarrollo). El contenido teórico se desarrolla directamente.
-- **Sección "Síndrome de adaptación general":** Eliminado subtítulo repetido ("La importancia de la gestión...") que no añadía contenido.
-
-### 2. Ausencias estructurales detectadas
-- **Sección "Qué es el estrés":** No tiene #explicacion (el original tampoco).
-- **Sección "La respuesta de lucha o huida":** No tiene #explicacion (el original tampoco).
-- **Sección "El ciclo del estrés":** No tiene #explicacion (el original tampoco).
-- **Sección "Síndrome de adaptación general":** No tiene #explicacion (el original tampoco).
-
-### 3. Cambios de forma aplicados
-- Transiciones añadidas entre secciones para mejorar flujo narrativo
-- Sintaxis más directa y verbos más contundentes ("activa", "desencadena", "conduce")
-- Eliminados preámbulos innecesarios
-- Preservados todos los términos técnicos: eustrés, distrés, adrenalina, noradrenalina, catecolaminas, hipotálamo
-- Preservadas las 11 imágenes con sus rutas exactas y descripciones
-- Preservada toda la información científica del original
