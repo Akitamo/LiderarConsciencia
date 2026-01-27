@@ -1,11 +1,11 @@
 <%*
 const dv = app.plugins.plugins["dataview"].api;
 
-// Consulta: carpetas de módulos
+// Consulta: ficheros de apertura de cada módulo
 const query = `
 TABLE WITHOUT ID file.path, file.folder
-FROM ""
-WHERE contains(file.name, "-00-indice")
+FROM "CURSO"
+WHERE contains(file.name, "-00-apertura")
 SORT file.folder ASC
 `;
 
@@ -22,15 +22,15 @@ if (result.successful && result.value.values.length > 0) {
         const num = match[1];
         const name = match[2]
           .replace(/-/g, ' ')
-          .replace(/^\w/, c => c.toUpperCase());
+          .replace(/\b\w/g, c => c.toUpperCase()); // Capitaliza cada palabra
         const filename = path.split('/').pop();
-        return `- [Módulo ${num}: ${name}](./${folder}/${encodeURI(filename)})`;
+        return `- [Módulo ${num}: ${name}](${folder}/${filename})`;
       }
       return null;
     })
     .filter(x => x)
     .join("\n");
-  
+
   tR += markdownList;
 } else {
   tR += "No se encontraron módulos.";
