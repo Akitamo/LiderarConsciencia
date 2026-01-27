@@ -1,0 +1,582 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Logo Corregido - 6 Anillos + Semilla Radiante | Liderar con Consciencia</title>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: 'Outfit', sans-serif;
+            background: #FDFCFB;
+            color: #1E1B2E;
+            padding: 48px;
+        }
+        
+        .header {
+            text-align: center;
+            margin-bottom: 48px;
+        }
+        
+        .header h1 {
+            font-size: 32px;
+            font-weight: 700;
+            margin-bottom: 12px;
+        }
+        
+        .header p {
+            font-size: 16px;
+            color: #524D5F;
+            max-width: 700px;
+            margin: 0 auto;
+        }
+        
+        .mapping-table {
+            max-width: 800px;
+            margin: 0 auto 48px;
+            background: white;
+            border-radius: 16px;
+            padding: 24px;
+            border: 1px solid #E8E4E0;
+        }
+        
+        .mapping-table h3 {
+            font-size: 18px;
+            margin-bottom: 16px;
+            color: #4338CA;
+        }
+        
+        .mapping-table table {
+            width: 100%;
+            border-collapse: collapse;
+            font-size: 14px;
+        }
+        
+        .mapping-table th {
+            text-align: left;
+            padding: 10px;
+            background: #F9F7F5;
+            font-weight: 600;
+        }
+        
+        .mapping-table td {
+            padding: 10px;
+            border-bottom: 1px solid #E8E4E0;
+        }
+        
+        .color-swatch {
+            display: inline-block;
+            width: 20px;
+            height: 20px;
+            border-radius: 4px;
+            vertical-align: middle;
+            margin-right: 8px;
+            border: 1px solid rgba(0,0,0,0.1);
+        }
+        
+        .grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
+            gap: 32px;
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+        
+        .card {
+            background: white;
+            border-radius: 20px;
+            padding: 32px;
+            border: 1px solid #E8E4E0;
+            text-align: center;
+        }
+        
+        .card.dark {
+            background: #1E1B2E;
+            border-color: #1E1B2E;
+        }
+        
+        .card.dark h3,
+        .card.dark p {
+            color: white;
+        }
+        
+        .card.dark .card-description {
+            color: #A5A1AC;
+        }
+        
+        .card h3 {
+            font-size: 20px;
+            font-weight: 700;
+            margin-bottom: 8px;
+        }
+        
+        .card-description {
+            font-size: 14px;
+            color: #524D5F;
+            margin-bottom: 24px;
+        }
+        
+        .logo-display {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            gap: 32px;
+            margin-bottom: 24px;
+            flex-wrap: wrap;
+        }
+        
+        .logo-item {
+            text-align: center;
+        }
+        
+        .logo-item span {
+            display: block;
+            font-size: 11px;
+            color: #8C8697;
+            margin-top: 8px;
+        }
+        
+        .card.dark .logo-item span {
+            color: #6B6779;
+        }
+        
+        .favicon-section {
+            margin-top: 64px;
+            padding-top: 48px;
+            border-top: 1px solid #E8E4E0;
+        }
+        
+        .favicon-section h2 {
+            text-align: center;
+            font-size: 24px;
+            margin-bottom: 12px;
+        }
+        
+        .favicon-section > p {
+            text-align: center;
+            color: #524D5F;
+            margin-bottom: 32px;
+        }
+        
+        .favicon-grid {
+            display: flex;
+            justify-content: center;
+            align-items: flex-end;
+            gap: 48px;
+            flex-wrap: wrap;
+        }
+        
+        .favicon-item {
+            text-align: center;
+        }
+        
+        .favicon-item span {
+            display: block;
+            font-size: 12px;
+            color: #524D5F;
+            margin-top: 12px;
+        }
+        
+        .favicon-bg {
+            background: #F9F7F5;
+            padding: 16px;
+            border-radius: 12px;
+            display: inline-block;
+        }
+        
+        .favicon-bg.dark {
+            background: #1E1B2E;
+        }
+        
+        .comparison-section {
+            margin-top: 64px;
+            padding-top: 48px;
+            border-top: 1px solid #E8E4E0;
+        }
+        
+        .comparison-section h2 {
+            text-align: center;
+            font-size: 24px;
+            margin-bottom: 32px;
+        }
+        
+        .comparison-row {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            gap: 64px;
+            flex-wrap: wrap;
+        }
+        
+        .comparison-item {
+            text-align: center;
+        }
+        
+        .comparison-item span {
+            display: block;
+            margin-top: 12px;
+            font-size: 14px;
+            color: #524D5F;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>Logo Corregido: 6 Anillos + Semilla Radiante</h1>
+        <p>Correspondencia 1:1 con los 7 módulos del modelo conceptual. La semilla representa M1, cada anillo representa M2-M7.</p>
+    </div>
+
+    <!-- Tabla de mapeo -->
+    <div class="mapping-table">
+        <h3>Mapeo Elemento Visual → Módulo</h3>
+        <table>
+            <tr>
+                <th>Elemento</th>
+                <th>Módulo</th>
+                <th>Nombre</th>
+                <th>Color</th>
+            </tr>
+            <tr>
+                <td>Semilla (centro)</td>
+                <td>M1</td>
+                <td>Consciente de lo que soy</td>
+                <td><span class="color-swatch" style="background: #E07A5F;"></span>#E07A5F (Coral)</td>
+            </tr>
+            <tr>
+                <td>Anillo 1 (interno)</td>
+                <td>M2</td>
+                <td>Consciente de cómo estoy</td>
+                <td><span class="color-swatch" style="background: #C46B78;"></span>#C46B78 (Rosa coral)</td>
+            </tr>
+            <tr>
+                <td>Anillo 2</td>
+                <td>M3</td>
+                <td>Consciente de lo que pienso-siento</td>
+                <td><span class="color-swatch" style="background: #A85D91;"></span>#A85D91 (Rosa violeta)</td>
+            </tr>
+            <tr>
+                <td>Anillo 3</td>
+                <td>M4</td>
+                <td>Consciente de lo que necesito</td>
+                <td><span class="color-swatch" style="background: #8B50AA;"></span>#8B50AA (Violeta)</td>
+            </tr>
+            <tr>
+                <td>Anillo 4</td>
+                <td>M5</td>
+                <td>Consciente de lo que necesitamos</td>
+                <td><span class="color-swatch" style="background: #6E44C0;"></span>#6E44C0 (Violeta índigo)</td>
+            </tr>
+            <tr>
+                <td>Anillo 5</td>
+                <td>M6</td>
+                <td>Consciente de lo que quiero</td>
+                <td><span class="color-swatch" style="background: #6366F1;"></span>#6366F1 (Primary Light)</td>
+            </tr>
+            <tr>
+                <td>Anillo 6 (exterior, punteado)</td>
+                <td>M7</td>
+                <td>Consciente de lo que está bien</td>
+                <td><span class="color-swatch" style="background: #4338CA;"></span>#4338CA (Índigo)</td>
+            </tr>
+        </table>
+    </div>
+
+    <div class="grid">
+        <!-- Versión Light -->
+        <div class="card">
+            <h3>Logo Light</h3>
+            <p class="card-description">Para fondos claros — 6 anillos con colores exactos del brand-guidelines</p>
+            
+            <div class="logo-display">
+                <div class="logo-item">
+                    <svg width="180" height="180" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <defs>
+                            <radialGradient id="seedLight180" cx="50%" cy="50%" r="50%">
+                                <stop offset="0%" stop-color="#F4A990"/>
+                                <stop offset="60%" stop-color="#E07A5F"/>
+                                <stop offset="100%" stop-color="#C85A42"/>
+                            </radialGradient>
+                        </defs>
+                        <!-- Anillo 6 - M7 - Exterior punteado -->
+                        <circle cx="24" cy="24" r="22" stroke="#4338CA" stroke-width="1.5" stroke-dasharray="4 2" opacity="0.5" fill="none"/>
+                        <!-- Anillo 5 - M6 -->
+                        <circle cx="24" cy="24" r="18.5" stroke="#6366F1" stroke-width="1.5" opacity="0.55" fill="none"/>
+                        <!-- Anillo 4 - M5 -->
+                        <circle cx="24" cy="24" r="15" stroke="#6E44C0" stroke-width="1.5" opacity="0.6" fill="none"/>
+                        <!-- Anillo 3 - M4 -->
+                        <circle cx="24" cy="24" r="11.5" stroke="#8B50AA" stroke-width="1.8" opacity="0.7" fill="none"/>
+                        <!-- Anillo 2 - M3 -->
+                        <circle cx="24" cy="24" r="8" stroke="#A85D91" stroke-width="2" opacity="0.8" fill="none"/>
+                        <!-- Anillo 1 - M2 -->
+                        <circle cx="24" cy="24" r="5" stroke="#C46B78" stroke-width="2.5" opacity="0.9" fill="none"/>
+                        <!-- SEMILLA M1: Con gradiente radial -->
+                        <circle cx="24" cy="24" r="3" fill="url(#seedLight180)"/>
+                        <!-- Highlight central -->
+                        <circle cx="23.5" cy="23.5" r="1.2" fill="white" opacity="0.5"/>
+                    </svg>
+                    <span>180px</span>
+                </div>
+                
+                <div class="logo-item">
+                    <svg width="80" height="80" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <defs>
+                            <radialGradient id="seedLight80" cx="50%" cy="50%" r="50%">
+                                <stop offset="0%" stop-color="#F4A990"/>
+                                <stop offset="60%" stop-color="#E07A5F"/>
+                                <stop offset="100%" stop-color="#C85A42"/>
+                            </radialGradient>
+                        </defs>
+                        <circle cx="24" cy="24" r="22" stroke="#4338CA" stroke-width="1.5" stroke-dasharray="4 2" opacity="0.5" fill="none"/>
+                        <circle cx="24" cy="24" r="18.5" stroke="#6366F1" stroke-width="1.5" opacity="0.55" fill="none"/>
+                        <circle cx="24" cy="24" r="15" stroke="#6E44C0" stroke-width="1.5" opacity="0.6" fill="none"/>
+                        <circle cx="24" cy="24" r="11.5" stroke="#8B50AA" stroke-width="1.8" opacity="0.7" fill="none"/>
+                        <circle cx="24" cy="24" r="8" stroke="#A85D91" stroke-width="2" opacity="0.8" fill="none"/>
+                        <circle cx="24" cy="24" r="5" stroke="#C46B78" stroke-width="2.5" opacity="0.9" fill="none"/>
+                        <circle cx="24" cy="24" r="3" fill="url(#seedLight80)"/>
+                        <circle cx="23.5" cy="23.5" r="1.2" fill="white" opacity="0.5"/>
+                    </svg>
+                    <span>80px</span>
+                </div>
+                
+                <div class="logo-item">
+                    <svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <defs>
+                            <radialGradient id="seedLight48" cx="50%" cy="50%" r="50%">
+                                <stop offset="0%" stop-color="#F4A990"/>
+                                <stop offset="60%" stop-color="#E07A5F"/>
+                                <stop offset="100%" stop-color="#C85A42"/>
+                            </radialGradient>
+                        </defs>
+                        <circle cx="24" cy="24" r="22" stroke="#4338CA" stroke-width="1.5" stroke-dasharray="4 2" opacity="0.5" fill="none"/>
+                        <circle cx="24" cy="24" r="18.5" stroke="#6366F1" stroke-width="1.5" opacity="0.55" fill="none"/>
+                        <circle cx="24" cy="24" r="15" stroke="#6E44C0" stroke-width="1.5" opacity="0.6" fill="none"/>
+                        <circle cx="24" cy="24" r="11.5" stroke="#8B50AA" stroke-width="1.8" opacity="0.7" fill="none"/>
+                        <circle cx="24" cy="24" r="8" stroke="#A85D91" stroke-width="2" opacity="0.8" fill="none"/>
+                        <circle cx="24" cy="24" r="5" stroke="#C46B78" stroke-width="2.5" opacity="0.9" fill="none"/>
+                        <circle cx="24" cy="24" r="3" fill="url(#seedLight48)"/>
+                        <circle cx="23.5" cy="23.5" r="1.2" fill="white" opacity="0.5"/>
+                    </svg>
+                    <span>48px</span>
+                </div>
+            </div>
+        </div>
+
+        <!-- Versión Dark -->
+        <div class="card dark">
+            <h3>Logo Dark</h3>
+            <p class="card-description">Para fondos oscuros — Anillo exterior blanco, colores más luminosos</p>
+            
+            <div class="logo-display">
+                <div class="logo-item">
+                    <svg width="180" height="180" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <defs>
+                            <radialGradient id="seedDark180" cx="50%" cy="50%" r="50%">
+                                <stop offset="0%" stop-color="#F4A990"/>
+                                <stop offset="60%" stop-color="#E07A5F"/>
+                                <stop offset="100%" stop-color="#C85A42"/>
+                            </radialGradient>
+                        </defs>
+                        <!-- Anillo 6 - M7 - Exterior punteado blanco -->
+                        <circle cx="24" cy="24" r="22" stroke="white" stroke-width="1.5" stroke-dasharray="4 2" opacity="0.35" fill="none"/>
+                        <!-- Anillo 5 - M6 -->
+                        <circle cx="24" cy="24" r="18.5" stroke="#818CF8" stroke-width="1.5" opacity="0.6" fill="none"/>
+                        <!-- Anillo 4 - M5 -->
+                        <circle cx="24" cy="24" r="15" stroke="#8B5CF6" stroke-width="1.5" opacity="0.65" fill="none"/>
+                        <!-- Anillo 3 - M4 -->
+                        <circle cx="24" cy="24" r="11.5" stroke="#A855F7" stroke-width="1.8" opacity="0.75" fill="none"/>
+                        <!-- Anillo 2 - M3 -->
+                        <circle cx="24" cy="24" r="8" stroke="#C084FC" stroke-width="2" opacity="0.85" fill="none"/>
+                        <!-- Anillo 1 - M2 -->
+                        <circle cx="24" cy="24" r="5" stroke="#E879A9" stroke-width="2.5" opacity="0.95" fill="none"/>
+                        <!-- SEMILLA M1: Con gradiente radial -->
+                        <circle cx="24" cy="24" r="3" fill="url(#seedDark180)"/>
+                        <!-- Highlight central más brillante -->
+                        <circle cx="23.5" cy="23.5" r="1.2" fill="white" opacity="0.6"/>
+                    </svg>
+                    <span>180px</span>
+                </div>
+                
+                <div class="logo-item">
+                    <svg width="80" height="80" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <defs>
+                            <radialGradient id="seedDark80" cx="50%" cy="50%" r="50%">
+                                <stop offset="0%" stop-color="#F4A990"/>
+                                <stop offset="60%" stop-color="#E07A5F"/>
+                                <stop offset="100%" stop-color="#C85A42"/>
+                            </radialGradient>
+                        </defs>
+                        <circle cx="24" cy="24" r="22" stroke="white" stroke-width="1.5" stroke-dasharray="4 2" opacity="0.35" fill="none"/>
+                        <circle cx="24" cy="24" r="18.5" stroke="#818CF8" stroke-width="1.5" opacity="0.6" fill="none"/>
+                        <circle cx="24" cy="24" r="15" stroke="#8B5CF6" stroke-width="1.5" opacity="0.65" fill="none"/>
+                        <circle cx="24" cy="24" r="11.5" stroke="#A855F7" stroke-width="1.8" opacity="0.75" fill="none"/>
+                        <circle cx="24" cy="24" r="8" stroke="#C084FC" stroke-width="2" opacity="0.85" fill="none"/>
+                        <circle cx="24" cy="24" r="5" stroke="#E879A9" stroke-width="2.5" opacity="0.95" fill="none"/>
+                        <circle cx="24" cy="24" r="3" fill="url(#seedDark80)"/>
+                        <circle cx="23.5" cy="23.5" r="1.2" fill="white" opacity="0.6"/>
+                    </svg>
+                    <span>80px</span>
+                </div>
+                
+                <div class="logo-item">
+                    <svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <defs>
+                            <radialGradient id="seedDark48" cx="50%" cy="50%" r="50%">
+                                <stop offset="0%" stop-color="#F4A990"/>
+                                <stop offset="60%" stop-color="#E07A5F"/>
+                                <stop offset="100%" stop-color="#C85A42"/>
+                            </radialGradient>
+                        </defs>
+                        <circle cx="24" cy="24" r="22" stroke="white" stroke-width="1.5" stroke-dasharray="4 2" opacity="0.35" fill="none"/>
+                        <circle cx="24" cy="24" r="18.5" stroke="#818CF8" stroke-width="1.5" opacity="0.6" fill="none"/>
+                        <circle cx="24" cy="24" r="15" stroke="#8B5CF6" stroke-width="1.5" opacity="0.65" fill="none"/>
+                        <circle cx="24" cy="24" r="11.5" stroke="#A855F7" stroke-width="1.8" opacity="0.75" fill="none"/>
+                        <circle cx="24" cy="24" r="8" stroke="#C084FC" stroke-width="2" opacity="0.85" fill="none"/>
+                        <circle cx="24" cy="24" r="5" stroke="#E879A9" stroke-width="2.5" opacity="0.95" fill="none"/>
+                        <circle cx="24" cy="24" r="3" fill="url(#seedDark48)"/>
+                        <circle cx="23.5" cy="23.5" r="1.2" fill="white" opacity="0.6"/>
+                    </svg>
+                    <span>48px</span>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Sección Favicon -->
+    <div class="favicon-section">
+        <h2>Favicon - Versión Simplificada</h2>
+        <p>3 anillos representativos (M2/M4/M7) + semilla radiante, optimizado para tamaños pequeños</p>
+        
+        <div class="favicon-grid">
+            <div class="favicon-item">
+                <div class="favicon-bg">
+                    <svg width="64" height="64" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <defs>
+                            <radialGradient id="seedFavL64" cx="50%" cy="50%" r="50%">
+                                <stop offset="0%" stop-color="#F4A990"/>
+                                <stop offset="60%" stop-color="#E07A5F"/>
+                                <stop offset="100%" stop-color="#C85A42"/>
+                            </radialGradient>
+                        </defs>
+                        <!-- Anillo exterior M7 -->
+                        <circle cx="24" cy="24" r="21" stroke="#4338CA" stroke-width="2" opacity="0.5" fill="none"/>
+                        <!-- Anillo medio M4 -->
+                        <circle cx="24" cy="24" r="13" stroke="#8B50AA" stroke-width="2.5" opacity="0.7" fill="none"/>
+                        <!-- Anillo interno M2 -->
+                        <circle cx="24" cy="24" r="6" stroke="#C46B78" stroke-width="3" opacity="0.9" fill="none"/>
+                        <!-- Semilla radiante -->
+                        <circle cx="24" cy="24" r="3.5" fill="url(#seedFavL64)"/>
+                        <circle cx="23.5" cy="23.5" r="1.4" fill="white" opacity="0.5"/>
+                    </svg>
+                </div>
+                <span>64×64 (Light)</span>
+            </div>
+            
+            <div class="favicon-item">
+                <div class="favicon-bg dark">
+                    <svg width="64" height="64" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <defs>
+                            <radialGradient id="seedFavD64" cx="50%" cy="50%" r="50%">
+                                <stop offset="0%" stop-color="#F4A990"/>
+                                <stop offset="60%" stop-color="#E07A5F"/>
+                                <stop offset="100%" stop-color="#C85A42"/>
+                            </radialGradient>
+                        </defs>
+                        <circle cx="24" cy="24" r="21" stroke="white" stroke-width="2" opacity="0.4" fill="none"/>
+                        <circle cx="24" cy="24" r="13" stroke="#A855F7" stroke-width="2.5" opacity="0.75" fill="none"/>
+                        <circle cx="24" cy="24" r="6" stroke="#E879A9" stroke-width="3" opacity="0.95" fill="none"/>
+                        <circle cx="24" cy="24" r="3.5" fill="url(#seedFavD64)"/>
+                        <circle cx="23.5" cy="23.5" r="1.4" fill="white" opacity="0.6"/>
+                    </svg>
+                </div>
+                <span>64×64 (Dark)</span>
+            </div>
+            
+            <div class="favicon-item">
+                <div class="favicon-bg">
+                    <svg width="32" height="32" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <defs>
+                            <radialGradient id="seedFavL32" cx="50%" cy="50%" r="50%">
+                                <stop offset="0%" stop-color="#F4A990"/>
+                                <stop offset="60%" stop-color="#E07A5F"/>
+                                <stop offset="100%" stop-color="#C85A42"/>
+                            </radialGradient>
+                        </defs>
+                        <circle cx="24" cy="24" r="21" stroke="#4338CA" stroke-width="2" opacity="0.5" fill="none"/>
+                        <circle cx="24" cy="24" r="13" stroke="#8B50AA" stroke-width="2.5" opacity="0.7" fill="none"/>
+                        <circle cx="24" cy="24" r="6" stroke="#C46B78" stroke-width="3" opacity="0.9" fill="none"/>
+                        <circle cx="24" cy="24" r="3.5" fill="url(#seedFavL32)"/>
+                        <circle cx="23.5" cy="23.5" r="1.4" fill="white" opacity="0.5"/>
+                    </svg>
+                </div>
+                <span>32×32</span>
+            </div>
+            
+            <div class="favicon-item">
+                <div class="favicon-bg">
+                    <svg width="16" height="16" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <defs>
+                            <radialGradient id="seedFavL16" cx="50%" cy="50%" r="50%">
+                                <stop offset="0%" stop-color="#F4A990"/>
+                                <stop offset="60%" stop-color="#E07A5F"/>
+                                <stop offset="100%" stop-color="#C85A42"/>
+                            </radialGradient>
+                        </defs>
+                        <circle cx="24" cy="24" r="21" stroke="#4338CA" stroke-width="2" opacity="0.5" fill="none"/>
+                        <circle cx="24" cy="24" r="13" stroke="#8B50AA" stroke-width="2.5" opacity="0.7" fill="none"/>
+                        <circle cx="24" cy="24" r="6" stroke="#C46B78" stroke-width="3" opacity="0.9" fill="none"/>
+                        <circle cx="24" cy="24" r="3.5" fill="url(#seedFavL16)"/>
+                        <circle cx="23.5" cy="23.5" r="1.4" fill="white" opacity="0.5"/>
+                    </svg>
+                </div>
+                <span>16×16</span>
+            </div>
+        </div>
+    </div>
+
+    <!-- Comparación con modelo -->
+    <div class="comparison-section">
+        <h2>Verificación: Logo vs Modelo Conceptual</h2>
+        
+        <div class="comparison-row">
+            <div class="comparison-item">
+                <svg width="200" height="200" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+                    <defs>
+                        <radialGradient id="seedCompare" cx="50%" cy="50%" r="50%">
+                            <stop offset="0%" stop-color="#F4A990"/>
+                            <stop offset="60%" stop-color="#E07A5F"/>
+                            <stop offset="100%" stop-color="#C85A42"/>
+                        </radialGradient>
+                    </defs>
+                    <circle cx="24" cy="24" r="22" stroke="#4338CA" stroke-width="1.5" stroke-dasharray="4 2" opacity="0.5" fill="none"/>
+                    <circle cx="24" cy="24" r="18.5" stroke="#6366F1" stroke-width="1.5" opacity="0.55" fill="none"/>
+                    <circle cx="24" cy="24" r="15" stroke="#6E44C0" stroke-width="1.5" opacity="0.6" fill="none"/>
+                    <circle cx="24" cy="24" r="11.5" stroke="#8B50AA" stroke-width="1.8" opacity="0.7" fill="none"/>
+                    <circle cx="24" cy="24" r="8" stroke="#A85D91" stroke-width="2" opacity="0.8" fill="none"/>
+                    <circle cx="24" cy="24" r="5" stroke="#C46B78" stroke-width="2.5" opacity="0.9" fill="none"/>
+                    <circle cx="24" cy="24" r="3" fill="url(#seedCompare)"/>
+                    <circle cx="23.5" cy="23.5" r="1.2" fill="white" opacity="0.5"/>
+                </svg>
+                <span>Logo Final (6 anillos + semilla)</span>
+            </div>
+            
+            <div class="comparison-item" style="font-size: 13px; text-align: left; max-width: 300px; color: #524D5F; line-height: 1.6;">
+                <strong style="color: #1E1B2E;">Correspondencia verificada:</strong><br><br>
+                ✅ M1 (Semilla coral) = Centro radiante<br>
+                ✅ M2 (#C46B78) = Anillo 1<br>
+                ✅ M3 (#A85D91) = Anillo 2<br>
+                ✅ M4 (#8B50AA) = Anillo 3<br>
+                ✅ M5 (#6E44C0) = Anillo 4<br>
+                ✅ M6 (#6366F1) = Anillo 5<br>
+                ✅ M7 (#4338CA, punteado) = Anillo 6
+            </div>
+        </div>
+    </div>
+
+</body>
+</html>

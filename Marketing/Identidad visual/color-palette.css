@@ -1,5 +1,6 @@
 /* ============================================
    LIDERAR CON CONSCIENCIA - PALETA DE COLORES
+   Versión 2.0 — Enero 2026
    ============================================ */
 
 /* ==========================================
@@ -19,6 +20,16 @@
   --color-accent-dark: #C85A42;
   --color-accent-light: #F4A990;
   --color-accent-muted: #FEF2F0;
+  
+  /* Gradiente Semilla (para referencia, usar en SVG) */
+  --seed-gradient-start: #F4A990;
+  --seed-gradient-mid: #E07A5F;
+  --seed-gradient-end: #C85A42;
+  
+  /* Colores Dark Mode (logo/decorativos) */
+  --color-dark-ring-3: #818CF8;
+  --color-dark-ring-2: #A78BFA;
+  --color-dark-ring-1: #E879A9;
 
   /* Transición coral → índigo (solo logo e iconos de módulo) */
   --color-module-1: #E07A5F;  /* M1 - Coral */

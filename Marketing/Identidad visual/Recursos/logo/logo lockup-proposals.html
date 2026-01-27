@@ -1,0 +1,454 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Propuestas Lockup | Liderar con Consciencia</title>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body {
+            font-family: 'Outfit', sans-serif;
+            background: #FDFCFB;
+            color: #1E1B2E;
+            padding: 48px;
+            line-height: 1.6;
+        }
+        .header {
+            text-align: center;
+            margin-bottom: 48px;
+            padding-bottom: 32px;
+            border-bottom: 1px solid #E8E4E0;
+        }
+        .header h1 {
+            font-size: 28px;
+            font-weight: 700;
+            margin-bottom: 8px;
+        }
+        .header p {
+            color: #524D5F;
+            font-size: 15px;
+        }
+        
+        .section {
+            margin-bottom: 64px;
+        }
+        .section h2 {
+            font-size: 20px;
+            font-weight: 700;
+            margin-bottom: 24px;
+            color: #4338CA;
+        }
+        .section-desc {
+            color: #524D5F;
+            font-size: 14px;
+            margin-bottom: 24px;
+            max-width: 600px;
+        }
+        
+        .proposals-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+            gap: 32px;
+        }
+        
+        .proposal-card {
+            background: white;
+            border: 1px solid #E8E4E0;
+            border-radius: 20px;
+            overflow: hidden;
+        }
+        .proposal-card.dark {
+            background: #1E1B2E;
+            border-color: #1E1B2E;
+        }
+        
+        .proposal-preview {
+            padding: 48px 32px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 160px;
+        }
+        .proposal-preview.dark {
+            background: #1E1B2E;
+        }
+        .proposal-preview.alt {
+            background: #F9F7F5;
+        }
+        
+        .proposal-info {
+            padding: 20px 24px;
+            border-top: 1px solid #E8E4E0;
+            background: #F9F7F5;
+        }
+        .proposal-card.dark .proposal-info {
+            background: #2D2A3E;
+            border-color: #3D3A4E;
+        }
+        .proposal-info h3 {
+            font-size: 15px;
+            font-weight: 700;
+            margin-bottom: 4px;
+        }
+        .proposal-card.dark .proposal-info h3 {
+            color: white;
+        }
+        .proposal-info p {
+            font-size: 13px;
+            color: #8C8697;
+        }
+        
+        /* Lockup styles */
+        .lockup {
+            display: flex;
+            align-items: center;
+        }
+        .lockup.vertical {
+            flex-direction: column;
+        }
+        .lockup-text {
+            display: flex;
+            flex-direction: column;
+        }
+        .lockup-text.center {
+            text-align: center;
+        }
+        .lockup-title {
+            font-weight: 700;
+            color: #1E1B2E;
+            line-height: 1.2;
+        }
+        .lockup-title.dark {
+            color: white;
+        }
+        .lockup-tagline {
+            color: #8C8697;
+            line-height: 1.4;
+        }
+        .lockup-tagline.dark {
+            color: #A5A1AC;
+        }
+        
+        /* Specs box */
+        .specs {
+            background: #EEF2FF;
+            border-radius: 12px;
+            padding: 20px 24px;
+            font-size: 13px;
+            margin-top: 16px;
+        }
+        .specs code {
+            background: white;
+            padding: 2px 6px;
+            border-radius: 4px;
+            font-size: 12px;
+        }
+        
+        .recommendation {
+            background: #D1FAE5;
+            color: #065F46;
+            padding: 16px 20px;
+            border-radius: 12px;
+            font-size: 14px;
+            margin-top: 32px;
+        }
+        .recommendation strong {
+            display: block;
+            margin-bottom: 4px;
+        }
+    </style>
+</head>
+<body>
+
+<div class="header">
+    <h1>Propuestas de Lockup — Logo + Texto</h1>
+    <p>Variantes para diferentes contextos de uso · Liderar con Consciencia</p>
+</div>
+
+<!-- PROPUESTA A: Horizontal Simple -->
+<div class="section">
+    <h2>Propuesta A — Horizontal Simple</h2>
+    <p class="section-desc">Solo logo + nombre. Ideal para headers de web, documentos y contextos donde el espacio vertical es limitado.</p>
+    
+    <div class="proposals-grid">
+        <!-- Light -->
+        <div class="proposal-card">
+            <div class="proposal-preview">
+                <div class="lockup" style="gap: 16px;">
+                    <svg width="44" height="44" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <defs>
+                            <radialGradient id="seedA1" cx="50%" cy="50%" r="50%">
+                                <stop offset="0%" stop-color="#F4A990"/>
+                                <stop offset="50%" stop-color="#E07A5F"/>
+                                <stop offset="100%" stop-color="#C85A42"/>
+                            </radialGradient>
+                        </defs>
+                        <circle cx="24" cy="24" r="22" stroke="#4338CA" stroke-width="0.8" stroke-dasharray="2.5 1.5" opacity="0.4" fill="none"/>
+                        <circle cx="24" cy="24" r="18" stroke="#6E44C0" stroke-width="1.4" opacity="0.55" fill="none"/>
+                        <circle cx="24" cy="24" r="14.5" stroke="#8B50AA" stroke-width="1.8" opacity="0.7" fill="none"/>
+                        <circle cx="24" cy="24" r="11" stroke="#C46B78" stroke-width="2.5" opacity="0.85" fill="none"/>
+                        <circle cx="24" cy="24" r="6.5" fill="url(#seedA1)"/>
+                        <circle cx="23.2" cy="23.2" r="2.8" fill="white" opacity="0.45"/>
+                    </svg>
+                    <span class="lockup-title" style="font-size: 18px;">Liderar con Consciencia</span>
+                </div>
+            </div>
+            <div class="proposal-info">
+                <h3>A1 — Light, fondo blanco</h3>
+                <p>Logo 44px · Gap 16px · Texto 18px/700</p>
+            </div>
+        </div>
+        
+        <!-- Dark -->
+        <div class="proposal-card dark">
+            <div class="proposal-preview dark">
+                <div class="lockup" style="gap: 16px;">
+                    <svg width="44" height="44" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <defs>
+                            <radialGradient id="seedA2" cx="50%" cy="50%" r="50%">
+                                <stop offset="0%" stop-color="#F4A990"/>
+                                <stop offset="50%" stop-color="#E07A5F"/>
+                                <stop offset="100%" stop-color="#C85A42"/>
+                            </radialGradient>
+                        </defs>
+                        <circle cx="24" cy="24" r="22" stroke="white" stroke-width="0.8" stroke-dasharray="2.5 1.5" opacity="0.25" fill="none"/>
+                        <circle cx="24" cy="24" r="18" stroke="#818CF8" stroke-width="1.4" opacity="0.6" fill="none"/>
+                        <circle cx="24" cy="24" r="14.5" stroke="#A78BFA" stroke-width="1.8" opacity="0.75" fill="none"/>
+                        <circle cx="24" cy="24" r="11" stroke="#E879A9" stroke-width="2.5" opacity="0.9" fill="none"/>
+                        <circle cx="24" cy="24" r="6.5" fill="url(#seedA2)"/>
+                        <circle cx="23.2" cy="23.2" r="2.8" fill="white" opacity="0.55"/>
+                    </svg>
+                    <span class="lockup-title dark" style="font-size: 18px;">Liderar con Consciencia</span>
+                </div>
+            </div>
+            <div class="proposal-info">
+                <h3>A2 — Dark, fondo oscuro</h3>
+                <p>Logo dark · Texto blanco · Mismo sizing</p>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- PROPUESTA B: Horizontal con Tagline -->
+<div class="section">
+    <h2>Propuesta B — Horizontal con Tagline</h2>
+    <p class="section-desc">Logo + nombre + tagline en dos líneas. Ideal para footers, materiales de marketing y presentaciones donde hay más espacio.</p>
+    
+    <div class="proposals-grid">
+        <!-- Light -->
+        <div class="proposal-card">
+            <div class="proposal-preview">
+                <div class="lockup" style="gap: 16px;">
+                    <svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <defs>
+                            <radialGradient id="seedB1" cx="50%" cy="50%" r="50%">
+                                <stop offset="0%" stop-color="#F4A990"/>
+                                <stop offset="50%" stop-color="#E07A5F"/>
+                                <stop offset="100%" stop-color="#C85A42"/>
+                            </radialGradient>
+                        </defs>
+                        <circle cx="24" cy="24" r="22" stroke="#4338CA" stroke-width="0.8" stroke-dasharray="2.5 1.5" opacity="0.4" fill="none"/>
+                        <circle cx="24" cy="24" r="18" stroke="#6E44C0" stroke-width="1.4" opacity="0.55" fill="none"/>
+                        <circle cx="24" cy="24" r="14.5" stroke="#8B50AA" stroke-width="1.8" opacity="0.7" fill="none"/>
+                        <circle cx="24" cy="24" r="11" stroke="#C46B78" stroke-width="2.5" opacity="0.85" fill="none"/>
+                        <circle cx="24" cy="24" r="6.5" fill="url(#seedB1)"/>
+                        <circle cx="23.2" cy="23.2" r="2.8" fill="white" opacity="0.45"/>
+                    </svg>
+                    <div class="lockup-text">
+                        <span class="lockup-title" style="font-size: 17px;">Liderar con Consciencia</span>
+                        <span class="lockup-tagline" style="font-size: 12px; margin-top: 2px;">La teoría inspira, la consciencia transforma</span>
+                    </div>
+                </div>
+            </div>
+            <div class="proposal-info">
+                <h3>B1 — Light con tagline</h3>
+                <p>Logo 48px · Título 17px/700 · Tagline 12px/400 muted</p>
+            </div>
+        </div>
+        
+        <!-- Dark -->
+        <div class="proposal-card dark">
+            <div class="proposal-preview dark">
+                <div class="lockup" style="gap: 16px;">
+                    <svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <defs>
+                            <radialGradient id="seedB2" cx="50%" cy="50%" r="50%">
+                                <stop offset="0%" stop-color="#F4A990"/>
+                                <stop offset="50%" stop-color="#E07A5F"/>
+                                <stop offset="100%" stop-color="#C85A42"/>
+                            </radialGradient>
+                        </defs>
+                        <circle cx="24" cy="24" r="22" stroke="white" stroke-width="0.8" stroke-dasharray="2.5 1.5" opacity="0.25" fill="none"/>
+                        <circle cx="24" cy="24" r="18" stroke="#818CF8" stroke-width="1.4" opacity="0.6" fill="none"/>
+                        <circle cx="24" cy="24" r="14.5" stroke="#A78BFA" stroke-width="1.8" opacity="0.75" fill="none"/>
+                        <circle cx="24" cy="24" r="11" stroke="#E879A9" stroke-width="2.5" opacity="0.9" fill="none"/>
+                        <circle cx="24" cy="24" r="6.5" fill="url(#seedB2)"/>
+                        <circle cx="23.2" cy="23.2" r="2.8" fill="white" opacity="0.55"/>
+                    </svg>
+                    <div class="lockup-text">
+                        <span class="lockup-title dark" style="font-size: 17px;">Liderar con Consciencia</span>
+                        <span class="lockup-tagline dark" style="font-size: 12px; margin-top: 2px;">La teoría inspira, la consciencia transforma</span>
+                    </div>
+                </div>
+            </div>
+            <div class="proposal-info">
+                <h3>B2 — Dark con tagline</h3>
+                <p>Colores adaptados para fondo oscuro</p>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- PROPUESTA C: Vertical / Stacked -->
+<div class="section">
+    <h2>Propuesta C — Vertical (Stacked)</h2>
+    <p class="section-desc">Logo arriba, texto debajo centrado. Ideal para portadas de documentos, slides de título, avatares de redes sociales expandidos.</p>
+    
+    <div class="proposals-grid">
+        <!-- C1: Compacto -->
+        <div class="proposal-card">
+            <div class="proposal-preview" style="padding: 56px 32px;">
+                <div class="lockup vertical" style="gap: 14px;">
+                    <svg width="56" height="56" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <defs>
+                            <radialGradient id="seedC1" cx="50%" cy="50%" r="50%">
+                                <stop offset="0%" stop-color="#F4A990"/>
+                                <stop offset="50%" stop-color="#E07A5F"/>
+                                <stop offset="100%" stop-color="#C85A42"/>
+                            </radialGradient>
+                        </defs>
+                        <circle cx="24" cy="24" r="22" stroke="#4338CA" stroke-width="0.8" stroke-dasharray="2.5 1.5" opacity="0.4" fill="none"/>
+                        <circle cx="24" cy="24" r="18" stroke="#6E44C0" stroke-width="1.4" opacity="0.55" fill="none"/>
+                        <circle cx="24" cy="24" r="14.5" stroke="#8B50AA" stroke-width="1.8" opacity="0.7" fill="none"/>
+                        <circle cx="24" cy="24" r="11" stroke="#C46B78" stroke-width="2.5" opacity="0.85" fill="none"/>
+                        <circle cx="24" cy="24" r="6.5" fill="url(#seedC1)"/>
+                        <circle cx="23.2" cy="23.2" r="2.8" fill="white" opacity="0.45"/>
+                    </svg>
+                    <span class="lockup-title" style="font-size: 16px; text-align: center;">Liderar con Consciencia</span>
+                </div>
+            </div>
+            <div class="proposal-info">
+                <h3>C1 — Vertical compacto</h3>
+                <p>Logo 56px · Gap 14px · Texto 16px/700 centrado</p>
+            </div>
+        </div>
+        
+        <!-- C2: Con tagline -->
+        <div class="proposal-card">
+            <div class="proposal-preview" style="padding: 56px 32px;">
+                <div class="lockup vertical" style="gap: 12px;">
+                    <svg width="64" height="64" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <defs>
+                            <radialGradient id="seedC2" cx="50%" cy="50%" r="50%">
+                                <stop offset="0%" stop-color="#F4A990"/>
+                                <stop offset="50%" stop-color="#E07A5F"/>
+                                <stop offset="100%" stop-color="#C85A42"/>
+                            </radialGradient>
+                        </defs>
+                        <circle cx="24" cy="24" r="22" stroke="#4338CA" stroke-width="0.8" stroke-dasharray="2.5 1.5" opacity="0.4" fill="none"/>
+                        <circle cx="24" cy="24" r="18" stroke="#6E44C0" stroke-width="1.4" opacity="0.55" fill="none"/>
+                        <circle cx="24" cy="24" r="14.5" stroke="#8B50AA" stroke-width="1.8" opacity="0.7" fill="none"/>
+                        <circle cx="24" cy="24" r="11" stroke="#C46B78" stroke-width="2.5" opacity="0.85" fill="none"/>
+                        <circle cx="24" cy="24" r="6.5" fill="url(#seedC2)"/>
+                        <circle cx="23.2" cy="23.2" r="2.8" fill="white" opacity="0.45"/>
+                    </svg>
+                    <div class="lockup-text center">
+                        <span class="lockup-title" style="font-size: 18px;">Liderar con Consciencia</span>
+                        <span class="lockup-tagline" style="font-size: 12px; margin-top: 4px;">La teoría inspira, la consciencia transforma</span>
+                    </div>
+                </div>
+            </div>
+            <div class="proposal-info">
+                <h3>C2 — Vertical con tagline</h3>
+                <p>Logo 64px · Texto centrado con tagline</p>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- PROPUESTA D: Variante Minimal -->
+<div class="section">
+    <h2>Propuesta D — Horizontal Minimal</h2>
+    <p class="section-desc">Versión más pequeña para espacios reducidos: navegación móvil, firmas de email, watermarks.</p>
+    
+    <div class="proposals-grid">
+        <div class="proposal-card">
+            <div class="proposal-preview alt">
+                <div class="lockup" style="gap: 10px;">
+                    <svg width="32" height="32" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <defs>
+                            <radialGradient id="seedD1" cx="50%" cy="50%" r="50%">
+                                <stop offset="0%" stop-color="#F4A990"/>
+                                <stop offset="50%" stop-color="#E07A5F"/>
+                                <stop offset="100%" stop-color="#C85A42"/>
+                            </radialGradient>
+                        </defs>
+                        <circle cx="24" cy="24" r="22" stroke="#4338CA" stroke-width="0.8" stroke-dasharray="2.5 1.5" opacity="0.4" fill="none"/>
+                        <circle cx="24" cy="24" r="18" stroke="#6E44C0" stroke-width="1.4" opacity="0.55" fill="none"/>
+                        <circle cx="24" cy="24" r="14.5" stroke="#8B50AA" stroke-width="1.8" opacity="0.7" fill="none"/>
+                        <circle cx="24" cy="24" r="11" stroke="#C46B78" stroke-width="2.5" opacity="0.85" fill="none"/>
+                        <circle cx="24" cy="24" r="6.5" fill="url(#seedD1)"/>
+                        <circle cx="23.2" cy="23.2" r="2.8" fill="white" opacity="0.45"/>
+                    </svg>
+                    <span class="lockup-title" style="font-size: 14px;">Liderar con Consciencia</span>
+                </div>
+            </div>
+            <div class="proposal-info">
+                <h3>D1 — Minimal</h3>
+                <p>Logo 32px · Gap 10px · Texto 14px/700</p>
+            </div>
+        </div>
+        
+        <div class="proposal-card">
+            <div class="proposal-preview alt">
+                <div class="lockup" style="gap: 8px;">
+                    <svg width="24" height="24" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <defs>
+                            <radialGradient id="seedD2" cx="50%" cy="50%" r="50%">
+                                <stop offset="0%" stop-color="#F4A990"/>
+                                <stop offset="50%" stop-color="#E07A5F"/>
+                                <stop offset="100%" stop-color="#C85A42"/>
+                            </radialGradient>
+                        </defs>
+                        <circle cx="24" cy="24" r="21" stroke="#4338CA" stroke-width="1.5" opacity="0.5" fill="none"/>
+                        <circle cx="24" cy="24" r="14" stroke="#8B50AA" stroke-width="2" opacity="0.7" fill="none"/>
+                        <circle cx="24" cy="24" r="8" stroke="#C46B78" stroke-width="3" opacity="0.9" fill="none"/>
+                        <circle cx="24" cy="24" r="4.5" fill="url(#seedD2)"/>
+                        <circle cx="23.3" cy="23.3" r="1.8" fill="white" opacity="0.5"/>
+                    </svg>
+                    <span class="lockup-title" style="font-size: 13px;">Liderar con Consciencia</span>
+                </div>
+            </div>
+            <div class="proposal-info">
+                <h3>D2 — Extra minimal (usa favicon)</h3>
+                <p>Favicon 24px · Gap 8px · Texto 13px</p>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Recomendación -->
+<div class="recommendation">
+    <strong>💡 Recomendación de uso</strong>
+    <strong style="font-weight: 400; display: inline;">A1/A2</strong> → Headers web, navegación principal<br>
+    <strong style="font-weight: 400; display: inline;">B1/B2</strong> → Footers, materiales de marketing, presentaciones<br>
+    <strong style="font-weight: 400; display: inline;">C1/C2</strong> → Portadas, slides de título, avatares expandidos<br>
+    <strong style="font-weight: 400; display: inline;">D1/D2</strong> → Móvil, firmas email, watermarks
+</div>
+
+<!-- Especificaciones -->
+<div class="specs" style="margin-top: 32px;">
+    <h4 style="color: #4338CA; margin-bottom: 12px; font-size: 14px;">Especificaciones técnicas del lockup</h4>
+    <strong>Proporciones recomendadas:</strong><br>
+    • Horizontal: Logo height = ~2.5× la altura de la línea de texto<br>
+    • Vertical: Logo width = ~60-80% del ancho del texto<br>
+    • Gap horizontal: <code>logo-size × 0.35</code><br>
+    • Gap vertical: <code>logo-size × 0.2</code><br><br>
+    <strong>Tamaños mínimos:</strong><br>
+    • Logo en lockup: 24px mínimo (usar favicon simplificado)<br>
+    • Texto: 12px mínimo para legibilidad
+</div>
+
+</body>
+</html>

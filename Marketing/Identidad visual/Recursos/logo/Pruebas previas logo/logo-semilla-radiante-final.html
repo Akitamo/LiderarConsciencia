@@ -1,0 +1,463 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Logo Semilla Radiante - Versiones Finales | Liderar con Consciencia</title>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: 'Outfit', sans-serif;
+            background: #FDFCFB;
+            color: #1E1B2E;
+            padding: 48px;
+        }
+        
+        .header {
+            text-align: center;
+            margin-bottom: 48px;
+        }
+        
+        .header h1 {
+            font-size: 32px;
+            font-weight: 700;
+            margin-bottom: 12px;
+        }
+        
+        .header p {
+            font-size: 16px;
+            color: #524D5F;
+        }
+        
+        .grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+            gap: 32px;
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+        
+        .card {
+            background: white;
+            border-radius: 20px;
+            padding: 32px;
+            border: 1px solid #E8E4E0;
+            text-align: center;
+        }
+        
+        .card.dark {
+            background: #1E1B2E;
+            border-color: #1E1B2E;
+        }
+        
+        .card.dark h3,
+        .card.dark p {
+            color: white;
+        }
+        
+        .card.dark .card-description {
+            color: #A5A1AC;
+        }
+        
+        .card h3 {
+            font-size: 20px;
+            font-weight: 700;
+            margin-bottom: 8px;
+        }
+        
+        .card-description {
+            font-size: 14px;
+            color: #524D5F;
+            margin-bottom: 24px;
+        }
+        
+        .logo-display {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            gap: 24px;
+            margin-bottom: 24px;
+            flex-wrap: wrap;
+        }
+        
+        .logo-item {
+            text-align: center;
+        }
+        
+        .logo-item span {
+            display: block;
+            font-size: 11px;
+            color: #8C8697;
+            margin-top: 8px;
+        }
+        
+        .card.dark .logo-item span {
+            color: #6B6779;
+        }
+        
+        .favicon-section {
+            margin-top: 64px;
+            padding-top: 48px;
+            border-top: 1px solid #E8E4E0;
+        }
+        
+        .favicon-section h2 {
+            text-align: center;
+            font-size: 24px;
+            margin-bottom: 32px;
+        }
+        
+        .favicon-grid {
+            display: flex;
+            justify-content: center;
+            align-items: flex-end;
+            gap: 48px;
+            flex-wrap: wrap;
+        }
+        
+        .favicon-item {
+            text-align: center;
+        }
+        
+        .favicon-item span {
+            display: block;
+            font-size: 12px;
+            color: #524D5F;
+            margin-top: 12px;
+        }
+        
+        .favicon-bg {
+            background: #F9F7F5;
+            padding: 16px;
+            border-radius: 12px;
+            display: inline-block;
+        }
+        
+        .favicon-bg.dark {
+            background: #1E1B2E;
+        }
+        
+        .sizes-row {
+            margin-top: 48px;
+        }
+        
+        .sizes-row h3 {
+            text-align: center;
+            font-size: 18px;
+            margin-bottom: 24px;
+            color: #524D5F;
+        }
+        
+        .sizes-display {
+            display: flex;
+            justify-content: center;
+            align-items: flex-end;
+            gap: 32px;
+            flex-wrap: wrap;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>Propuesta C: Semilla Radiante - Versiones Finales</h1>
+        <p>Logo Light, Logo Dark y Favicon en diferentes tamaños</p>
+    </div>
+
+    <div class="grid">
+        <!-- Versión Light -->
+        <div class="card">
+            <h3>Logo Light</h3>
+            <p class="card-description">Para fondos claros (web, documentos, presentaciones)</p>
+            
+            <div class="logo-display">
+                <div class="logo-item">
+                    <svg width="160" height="160" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <defs>
+                            <radialGradient id="seedGlowLight" cx="50%" cy="50%" r="50%">
+                                <stop offset="0%" stop-color="#F4A990"/>
+                                <stop offset="60%" stop-color="#E07A5F"/>
+                                <stop offset="100%" stop-color="#C85A42"/>
+                            </radialGradient>
+                        </defs>
+                        <!-- Círculo exterior - punteado -->
+                        <circle cx="24" cy="24" r="22" stroke="#4338CA" stroke-width="1.5" stroke-dasharray="4 2" opacity="0.4" fill="none"/>
+                        <!-- Círculo 2 -->
+                        <circle cx="24" cy="24" r="18" stroke="#6E44C0" stroke-width="1.5" opacity="0.5" fill="none"/>
+                        <!-- Círculo 3 -->
+                        <circle cx="24" cy="24" r="14" stroke="#8B50AA" stroke-width="1.5" opacity="0.6" fill="none"/>
+                        <!-- Círculo 4 -->
+                        <circle cx="24" cy="24" r="10" stroke="#A85D91" stroke-width="2" opacity="0.7" fill="none"/>
+                        <!-- Círculo 5 - interno -->
+                        <circle cx="24" cy="24" r="6" stroke="#C46B78" stroke-width="2.5" opacity="0.85" fill="none"/>
+                        <!-- SEMILLA: Con gradiente radial -->
+                        <circle cx="24" cy="24" r="4" fill="url(#seedGlowLight)"/>
+                        <!-- Highlight central -->
+                        <circle cx="23.5" cy="23.5" r="1.5" fill="white" opacity="0.5"/>
+                    </svg>
+                    <span>160px</span>
+                </div>
+                
+                <div class="logo-item">
+                    <svg width="80" height="80" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <defs>
+                            <radialGradient id="seedGlowLight2" cx="50%" cy="50%" r="50%">
+                                <stop offset="0%" stop-color="#F4A990"/>
+                                <stop offset="60%" stop-color="#E07A5F"/>
+                                <stop offset="100%" stop-color="#C85A42"/>
+                            </radialGradient>
+                        </defs>
+                        <circle cx="24" cy="24" r="22" stroke="#4338CA" stroke-width="1.5" stroke-dasharray="4 2" opacity="0.4" fill="none"/>
+                        <circle cx="24" cy="24" r="18" stroke="#6E44C0" stroke-width="1.5" opacity="0.5" fill="none"/>
+                        <circle cx="24" cy="24" r="14" stroke="#8B50AA" stroke-width="1.5" opacity="0.6" fill="none"/>
+                        <circle cx="24" cy="24" r="10" stroke="#A85D91" stroke-width="2" opacity="0.7" fill="none"/>
+                        <circle cx="24" cy="24" r="6" stroke="#C46B78" stroke-width="2.5" opacity="0.85" fill="none"/>
+                        <circle cx="24" cy="24" r="4" fill="url(#seedGlowLight2)"/>
+                        <circle cx="23.5" cy="23.5" r="1.5" fill="white" opacity="0.5"/>
+                    </svg>
+                    <span>80px</span>
+                </div>
+                
+                <div class="logo-item">
+                    <svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <defs>
+                            <radialGradient id="seedGlowLight3" cx="50%" cy="50%" r="50%">
+                                <stop offset="0%" stop-color="#F4A990"/>
+                                <stop offset="60%" stop-color="#E07A5F"/>
+                                <stop offset="100%" stop-color="#C85A42"/>
+                            </radialGradient>
+                        </defs>
+                        <circle cx="24" cy="24" r="22" stroke="#4338CA" stroke-width="1.5" stroke-dasharray="4 2" opacity="0.4" fill="none"/>
+                        <circle cx="24" cy="24" r="18" stroke="#6E44C0" stroke-width="1.5" opacity="0.5" fill="none"/>
+                        <circle cx="24" cy="24" r="14" stroke="#8B50AA" stroke-width="1.5" opacity="0.6" fill="none"/>
+                        <circle cx="24" cy="24" r="10" stroke="#A85D91" stroke-width="2" opacity="0.7" fill="none"/>
+                        <circle cx="24" cy="24" r="6" stroke="#C46B78" stroke-width="2.5" opacity="0.85" fill="none"/>
+                        <circle cx="24" cy="24" r="4" fill="url(#seedGlowLight3)"/>
+                        <circle cx="23.5" cy="23.5" r="1.5" fill="white" opacity="0.5"/>
+                    </svg>
+                    <span>48px</span>
+                </div>
+            </div>
+        </div>
+
+        <!-- Versión Dark -->
+        <div class="card dark">
+            <h3>Logo Dark</h3>
+            <p class="card-description">Para fondos oscuros (footers, headers oscuros)</p>
+            
+            <div class="logo-display">
+                <div class="logo-item">
+                    <svg width="160" height="160" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <defs>
+                            <radialGradient id="seedGlowDark" cx="50%" cy="50%" r="50%">
+                                <stop offset="0%" stop-color="#F4A990"/>
+                                <stop offset="60%" stop-color="#E07A5F"/>
+                                <stop offset="100%" stop-color="#C85A42"/>
+                            </radialGradient>
+                        </defs>
+                        <!-- Círculo exterior - punteado blanco -->
+                        <circle cx="24" cy="24" r="22" stroke="white" stroke-width="1.5" stroke-dasharray="4 2" opacity="0.3" fill="none"/>
+                        <!-- Círculo 2 -->
+                        <circle cx="24" cy="24" r="18" stroke="#9D8FD9" stroke-width="1.5" opacity="0.6" fill="none"/>
+                        <!-- Círculo 3 -->
+                        <circle cx="24" cy="24" r="14" stroke="#B07DC4" stroke-width="1.5" opacity="0.7" fill="none"/>
+                        <!-- Círculo 4 -->
+                        <circle cx="24" cy="24" r="10" stroke="#C47AAF" stroke-width="2" opacity="0.8" fill="none"/>
+                        <!-- Círculo 5 - interno -->
+                        <circle cx="24" cy="24" r="6" stroke="#D8858F" stroke-width="2.5" opacity="0.9" fill="none"/>
+                        <!-- SEMILLA: Con gradiente radial -->
+                        <circle cx="24" cy="24" r="4" fill="url(#seedGlowDark)"/>
+                        <!-- Highlight central -->
+                        <circle cx="23.5" cy="23.5" r="1.5" fill="white" opacity="0.6"/>
+                    </svg>
+                    <span>160px</span>
+                </div>
+                
+                <div class="logo-item">
+                    <svg width="80" height="80" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <defs>
+                            <radialGradient id="seedGlowDark2" cx="50%" cy="50%" r="50%">
+                                <stop offset="0%" stop-color="#F4A990"/>
+                                <stop offset="60%" stop-color="#E07A5F"/>
+                                <stop offset="100%" stop-color="#C85A42"/>
+                            </radialGradient>
+                        </defs>
+                        <circle cx="24" cy="24" r="22" stroke="white" stroke-width="1.5" stroke-dasharray="4 2" opacity="0.3" fill="none"/>
+                        <circle cx="24" cy="24" r="18" stroke="#9D8FD9" stroke-width="1.5" opacity="0.6" fill="none"/>
+                        <circle cx="24" cy="24" r="14" stroke="#B07DC4" stroke-width="1.5" opacity="0.7" fill="none"/>
+                        <circle cx="24" cy="24" r="10" stroke="#C47AAF" stroke-width="2" opacity="0.8" fill="none"/>
+                        <circle cx="24" cy="24" r="6" stroke="#D8858F" stroke-width="2.5" opacity="0.9" fill="none"/>
+                        <circle cx="24" cy="24" r="4" fill="url(#seedGlowDark2)"/>
+                        <circle cx="23.5" cy="23.5" r="1.5" fill="white" opacity="0.6"/>
+                    </svg>
+                    <span>80px</span>
+                </div>
+                
+                <div class="logo-item">
+                    <svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <defs>
+                            <radialGradient id="seedGlowDark3" cx="50%" cy="50%" r="50%">
+                                <stop offset="0%" stop-color="#F4A990"/>
+                                <stop offset="60%" stop-color="#E07A5F"/>
+                                <stop offset="100%" stop-color="#C85A42"/>
+                            </radialGradient>
+                        </defs>
+                        <circle cx="24" cy="24" r="22" stroke="white" stroke-width="1.5" stroke-dasharray="4 2" opacity="0.3" fill="none"/>
+                        <circle cx="24" cy="24" r="18" stroke="#9D8FD9" stroke-width="1.5" opacity="0.6" fill="none"/>
+                        <circle cx="24" cy="24" r="14" stroke="#B07DC4" stroke-width="1.5" opacity="0.7" fill="none"/>
+                        <circle cx="24" cy="24" r="10" stroke="#C47AAF" stroke-width="2" opacity="0.8" fill="none"/>
+                        <circle cx="24" cy="24" r="6" stroke="#D8858F" stroke-width="2.5" opacity="0.9" fill="none"/>
+                        <circle cx="24" cy="24" r="4" fill="url(#seedGlowDark3)"/>
+                        <circle cx="23.5" cy="23.5" r="1.5" fill="white" opacity="0.6"/>
+                    </svg>
+                    <span>48px</span>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Sección Favicon -->
+    <div class="favicon-section">
+        <h2>Favicon - Versión Simplificada</h2>
+        <p style="text-align: center; color: #524D5F; margin-bottom: 32px;">Optimizado para tamaños pequeños: 3 círculos + semilla radiante</p>
+        
+        <div class="favicon-grid">
+            <div class="favicon-item">
+                <div class="favicon-bg">
+                    <svg width="64" height="64" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <defs>
+                            <radialGradient id="seedFav1" cx="50%" cy="50%" r="50%">
+                                <stop offset="0%" stop-color="#F4A990"/>
+                                <stop offset="60%" stop-color="#E07A5F"/>
+                                <stop offset="100%" stop-color="#C85A42"/>
+                            </radialGradient>
+                        </defs>
+                        <!-- 3 círculos simplificados -->
+                        <circle cx="24" cy="24" r="20" stroke="#4338CA" stroke-width="2" opacity="0.5" fill="none"/>
+                        <circle cx="24" cy="24" r="13" stroke="#8B50AA" stroke-width="2.5" opacity="0.7" fill="none"/>
+                        <circle cx="24" cy="24" r="7" stroke="#C46B78" stroke-width="3" opacity="0.9" fill="none"/>
+                        <!-- Semilla radiante -->
+                        <circle cx="24" cy="24" r="4.5" fill="url(#seedFav1)"/>
+                        <circle cx="23.5" cy="23.5" r="1.8" fill="white" opacity="0.5"/>
+                    </svg>
+                </div>
+                <span>64×64 (Light)</span>
+            </div>
+            
+            <div class="favicon-item">
+                <div class="favicon-bg dark">
+                    <svg width="64" height="64" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <defs>
+                            <radialGradient id="seedFav2" cx="50%" cy="50%" r="50%">
+                                <stop offset="0%" stop-color="#F4A990"/>
+                                <stop offset="60%" stop-color="#E07A5F"/>
+                                <stop offset="100%" stop-color="#C85A42"/>
+                            </radialGradient>
+                        </defs>
+                        <circle cx="24" cy="24" r="20" stroke="white" stroke-width="2" opacity="0.4" fill="none"/>
+                        <circle cx="24" cy="24" r="13" stroke="#B07DC4" stroke-width="2.5" opacity="0.7" fill="none"/>
+                        <circle cx="24" cy="24" r="7" stroke="#D8858F" stroke-width="3" opacity="0.9" fill="none"/>
+                        <circle cx="24" cy="24" r="4.5" fill="url(#seedFav2)"/>
+                        <circle cx="23.5" cy="23.5" r="1.8" fill="white" opacity="0.6"/>
+                    </svg>
+                </div>
+                <span>64×64 (Dark)</span>
+            </div>
+            
+            <div class="favicon-item">
+                <div class="favicon-bg">
+                    <svg width="32" height="32" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <defs>
+                            <radialGradient id="seedFav3" cx="50%" cy="50%" r="50%">
+                                <stop offset="0%" stop-color="#F4A990"/>
+                                <stop offset="60%" stop-color="#E07A5F"/>
+                                <stop offset="100%" stop-color="#C85A42"/>
+                            </radialGradient>
+                        </defs>
+                        <circle cx="24" cy="24" r="20" stroke="#4338CA" stroke-width="2" opacity="0.5" fill="none"/>
+                        <circle cx="24" cy="24" r="13" stroke="#8B50AA" stroke-width="2.5" opacity="0.7" fill="none"/>
+                        <circle cx="24" cy="24" r="7" stroke="#C46B78" stroke-width="3" opacity="0.9" fill="none"/>
+                        <circle cx="24" cy="24" r="4.5" fill="url(#seedFav3)"/>
+                        <circle cx="23.5" cy="23.5" r="1.8" fill="white" opacity="0.5"/>
+                    </svg>
+                </div>
+                <span>32×32</span>
+            </div>
+            
+            <div class="favicon-item">
+                <div class="favicon-bg">
+                    <svg width="16" height="16" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <defs>
+                            <radialGradient id="seedFav4" cx="50%" cy="50%" r="50%">
+                                <stop offset="0%" stop-color="#F4A990"/>
+                                <stop offset="60%" stop-color="#E07A5F"/>
+                                <stop offset="100%" stop-color="#C85A42"/>
+                            </radialGradient>
+                        </defs>
+                        <circle cx="24" cy="24" r="20" stroke="#4338CA" stroke-width="2" opacity="0.5" fill="none"/>
+                        <circle cx="24" cy="24" r="13" stroke="#8B50AA" stroke-width="2.5" opacity="0.7" fill="none"/>
+                        <circle cx="24" cy="24" r="7" stroke="#C46B78" stroke-width="3" opacity="0.9" fill="none"/>
+                        <circle cx="24" cy="24" r="4.5" fill="url(#seedFav4)"/>
+                        <circle cx="23.5" cy="23.5" r="1.8" fill="white" opacity="0.5"/>
+                    </svg>
+                </div>
+                <span>16×16</span>
+            </div>
+        </div>
+    </div>
+
+    <!-- Comparación lado a lado -->
+    <div class="sizes-row">
+        <h3>Comparación: Logo Completo vs Favicon (misma escala)</h3>
+        <div class="sizes-display">
+            <div class="favicon-item">
+                <div class="favicon-bg">
+                    <svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <defs>
+                            <radialGradient id="seedComp1" cx="50%" cy="50%" r="50%">
+                                <stop offset="0%" stop-color="#F4A990"/>
+                                <stop offset="60%" stop-color="#E07A5F"/>
+                                <stop offset="100%" stop-color="#C85A42"/>
+                            </radialGradient>
+                        </defs>
+                        <circle cx="24" cy="24" r="22" stroke="#4338CA" stroke-width="1.5" stroke-dasharray="4 2" opacity="0.4" fill="none"/>
+                        <circle cx="24" cy="24" r="18" stroke="#6E44C0" stroke-width="1.5" opacity="0.5" fill="none"/>
+                        <circle cx="24" cy="24" r="14" stroke="#8B50AA" stroke-width="1.5" opacity="0.6" fill="none"/>
+                        <circle cx="24" cy="24" r="10" stroke="#A85D91" stroke-width="2" opacity="0.7" fill="none"/>
+                        <circle cx="24" cy="24" r="6" stroke="#C46B78" stroke-width="2.5" opacity="0.85" fill="none"/>
+                        <circle cx="24" cy="24" r="4" fill="url(#seedComp1)"/>
+                        <circle cx="23.5" cy="23.5" r="1.5" fill="white" opacity="0.5"/>
+                    </svg>
+                </div>
+                <span>Logo completo (5 círculos)</span>
+            </div>
+            
+            <div class="favicon-item">
+                <div class="favicon-bg">
+                    <svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <defs>
+                            <radialGradient id="seedComp2" cx="50%" cy="50%" r="50%">
+                                <stop offset="0%" stop-color="#F4A990"/>
+                                <stop offset="60%" stop-color="#E07A5F"/>
+                                <stop offset="100%" stop-color="#C85A42"/>
+                            </radialGradient>
+                        </defs>
+                        <circle cx="24" cy="24" r="20" stroke="#4338CA" stroke-width="2" opacity="0.5" fill="none"/>
+                        <circle cx="24" cy="24" r="13" stroke="#8B50AA" stroke-width="2.5" opacity="0.7" fill="none"/>
+                        <circle cx="24" cy="24" r="7" stroke="#C46B78" stroke-width="3" opacity="0.9" fill="none"/>
+                        <circle cx="24" cy="24" r="4.5" fill="url(#seedComp2)"/>
+                        <circle cx="23.5" cy="23.5" r="1.8" fill="white" opacity="0.5"/>
+                    </svg>
+                </div>
+                <span>Favicon (3 círculos)</span>
+            </div>
+        </div>
+    </div>
+
+</body>
+</html>

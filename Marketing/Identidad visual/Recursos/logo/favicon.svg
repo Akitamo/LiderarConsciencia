@@ -1,0 +1,20 @@
+<svg viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <radialGradient id="seedFavicon" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#F4A990"/>
+      <stop offset="50%" stop-color="#E07A5F"/>
+      <stop offset="100%" stop-color="#C85A42"/>
+    </radialGradient>
+  </defs>
+  <!-- Favicon simplificado: 3 anillos + semilla -->
+  <!-- Anillo exterior - M7 -->
+  <circle cx="24" cy="24" r="21" stroke="#4338CA" stroke-width="1.5" opacity="0.5" fill="none"/>
+  <!-- Anillo medio - M4 -->
+  <circle cx="24" cy="24" r="14" stroke="#8B50AA" stroke-width="2" opacity="0.7" fill="none"/>
+  <!-- Anillo interno - M2 -->
+  <circle cx="24" cy="24" r="8" stroke="#C46B78" stroke-width="3" opacity="0.9" fill="none"/>
+  <!-- Semilla radiante -->
+  <circle cx="24" cy="24" r="4.5" fill="url(#seedFavicon)"/>
+  <!-- Highlight -->
+  <circle cx="23.3" cy="23.3" r="1.8" fill="white" opacity="0.5"/>
+</svg>

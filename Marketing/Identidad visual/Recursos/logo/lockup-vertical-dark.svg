@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 90">
+  <defs>
+    <radialGradient id="seedRadiantDark" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#F4A990"/>
+      <stop offset="50%" stop-color="#E07A5F"/>
+      <stop offset="100%" stop-color="#C85A42"/>
+    </radialGradient>
+  </defs>
+  
+  <!-- Logo centrado - Dark -->
+  <g transform="translate(72, 0)">
+    <circle cx="28" cy="28" r="25.67" stroke="white" stroke-width="0.93" stroke-dasharray="2.92 1.75" opacity="0.25" fill="none"/>
+    <circle cx="28" cy="28" r="21" stroke="#818CF8" stroke-width="1.63" opacity="0.6" fill="none"/>
+    <circle cx="28" cy="28" r="16.92" stroke="#A78BFA" stroke-width="2.1" opacity="0.75" fill="none"/>
+    <circle cx="28" cy="28" r="12.83" stroke="#E879A9" stroke-width="2.92" opacity="0.9" fill="none"/>
+    <circle cx="28" cy="28" r="7.58" fill="url(#seedRadiantDark)"/>
+    <circle cx="27.07" cy="27.07" r="3.27" fill="white" opacity="0.55"/>
+  </g>
+  
+  <!-- Texto centrado debajo - blanco -->
+  <text x="100" y="78" font-family="Outfit, Montserrat, -apple-system, sans-serif" font-size="16" font-weight="700" fill="#FFFFFF" text-anchor="middle">Liderar con Consciencia</text>
+</svg>

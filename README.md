@@ -15,20 +15,21 @@ La formación tradicional en liderazgo enseña **qué hacer**, pero no desarroll
 | Pilar | Qué aporta |
 |-------|------------|
 | **Contexto** | Responde a la necesidad real de otro tipo de liderazgo en un momento de fatiga sistémica |
-| **Metodología** | 7 niveles de consciencia que convierten lo abstracto en un camino entrenable |
+| **Metodología** | 8 módulos (M0-M7) que convierten lo abstracto en un camino entrenable |
 | **Tecnología** | Motor IA multi-agente que garantiza rigor, escalabilidad y evolución hacia coach personalizado |
 | **Comunidad** | Red de Líderes Semilla que multiplica el impacto y crea pertenencia |
 
-### El viaje de 7 niveles
+### El viaje de 8 módulos
 
-El curso estructura la consciencia en siete dominios entrenables, de dentro hacia fuera:
+El curso estructura la consciencia en ocho módulos entrenables, de dentro hacia fuera:
 
+0. **El momento que nos convoca** → Contexto, diagnóstico y encuadre del programa
 1. **Lo que soy** → El cerebro automático y la neuroplasticidad
 2. **Cómo estoy** → El cuerpo como radar (interocepción)
 3. **Lo que pienso-siento** → El espacio entre estímulo y respuesta
 4. **Lo que necesito** → Del estrés a la regulación consciente
 5. **Lo que necesitamos** → Liderazgo compasivo y escucha profunda
-6. **Lo que quiero** → Claridad de propósito y atención sostenida
+6. **Lo que quiero** → Decisión consciente y dirección intencional
 7. **Lo que está bien** → Ética vivida y coherencia valores-acciones
 
 Para detalle completo: `Marketing/Ideas iniciales proyecto/4-Pilares-curso-liderar-con-consciencia.md`
@@ -45,7 +46,7 @@ Este repositorio contiene también la infraestructura de agentes IA:
 
 | Ámbito | Descripción | Documentación |
 |--------|-------------|---------------|
-| **Curso** | Contenido pedagógico (7 módulos) | `CURSO/README.md` |
+| **Curso** | Contenido pedagógico (8 módulos) | `CURSO/README.md` |
 | **IA** | Automatización y agentes | `_ai/README.md` |
 | **Marketing** | Comercialización del curso | `Marketing/README.md` |
 | **WIP** | Borradores en progreso | `_wip/README.md` |

@@ -9,6 +9,11 @@ desktop.ini
 # Archivos temporales
 *.tmp
 *~
+tmpclaude-*
+nul
+
+# Logs
+*.log
 
 # Exports generados (adjuntar a releases, no versionar)
 _exports/

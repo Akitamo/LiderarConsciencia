@@ -1,0 +1,443 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Logo Variante B - Exterior más fino | Liderar con Consciencia</title>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: 'Outfit', sans-serif;
+            background: #FDFCFB;
+            color: #1E1B2E;
+            padding: 48px;
+        }
+        
+        .header {
+            text-align: center;
+            margin-bottom: 48px;
+        }
+        
+        .header h1 {
+            font-size: 28px;
+            font-weight: 700;
+            margin-bottom: 12px;
+        }
+        
+        .header p {
+            font-size: 15px;
+            color: #524D5F;
+        }
+        
+        .comparison {
+            display: flex;
+            justify-content: center;
+            gap: 64px;
+            flex-wrap: wrap;
+            margin-bottom: 64px;
+        }
+        
+        .version {
+            text-align: center;
+        }
+        
+        .version h3 {
+            font-size: 16px;
+            margin-bottom: 16px;
+            color: #524D5F;
+        }
+        
+        .version span {
+            display: block;
+            font-size: 12px;
+            color: #8C8697;
+            margin-top: 12px;
+        }
+        
+        .sizes-section {
+            margin-top: 48px;
+            padding-top: 48px;
+            border-top: 1px solid #E8E4E0;
+        }
+        
+        .sizes-section h2 {
+            text-align: center;
+            font-size: 22px;
+            margin-bottom: 32px;
+        }
+        
+        .sizes-row {
+            display: flex;
+            justify-content: center;
+            align-items: flex-end;
+            gap: 40px;
+            flex-wrap: wrap;
+            margin-bottom: 48px;
+        }
+        
+        .size-item {
+            text-align: center;
+        }
+        
+        .size-item span {
+            display: block;
+            font-size: 12px;
+            color: #524D5F;
+            margin-top: 10px;
+        }
+        
+        .dark-section {
+            background: #1E1B2E;
+            padding: 48px;
+            border-radius: 20px;
+            margin-top: 32px;
+        }
+        
+        .dark-section h3 {
+            color: white;
+            text-align: center;
+            margin-bottom: 32px;
+            font-size: 18px;
+        }
+        
+        .dark-section .size-item span {
+            color: #8C8697;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>Variante B - Exterior más fino</h1>
+        <p>Comparación del grosor del anillo exterior punteado: original vs ajustado</p>
+    </div>
+
+    <div class="comparison">
+        <div class="version">
+            <h3>Anterior (stroke-width: 1.5)</h3>
+            <svg width="180" height="180" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <defs>
+                    <radialGradient id="seedOld" cx="50%" cy="50%" r="50%">
+                        <stop offset="0%" stop-color="#F4A990"/>
+                        <stop offset="50%" stop-color="#E07A5F"/>
+                        <stop offset="100%" stop-color="#C85A42"/>
+                    </radialGradient>
+                </defs>
+                <circle cx="24" cy="24" r="22" stroke="#4338CA" stroke-width="1.5" stroke-dasharray="4 2" opacity="0.45" fill="none"/>
+                <circle cx="24" cy="24" r="18" stroke="#6E44C0" stroke-width="1.4" opacity="0.55" fill="none"/>
+                <circle cx="24" cy="24" r="14.5" stroke="#8B50AA" stroke-width="1.8" opacity="0.7" fill="none"/>
+                <circle cx="24" cy="24" r="11" stroke="#C46B78" stroke-width="2.5" opacity="0.85" fill="none"/>
+                <circle cx="24" cy="24" r="6.5" fill="url(#seedOld)"/>
+                <circle cx="23.2" cy="23.2" r="2.8" fill="white" opacity="0.45"/>
+            </svg>
+            <span>stroke-width: 1.5</span>
+        </div>
+        
+        <div class="version">
+            <h3>Nuevo (stroke-width: 1)</h3>
+            <svg width="180" height="180" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <defs>
+                    <radialGradient id="seedNew" cx="50%" cy="50%" r="50%">
+                        <stop offset="0%" stop-color="#F4A990"/>
+                        <stop offset="50%" stop-color="#E07A5F"/>
+                        <stop offset="100%" stop-color="#C85A42"/>
+                    </radialGradient>
+                </defs>
+                <circle cx="24" cy="24" r="22" stroke="#4338CA" stroke-width="1" stroke-dasharray="3 2" opacity="0.4" fill="none"/>
+                <circle cx="24" cy="24" r="18" stroke="#6E44C0" stroke-width="1.4" opacity="0.55" fill="none"/>
+                <circle cx="24" cy="24" r="14.5" stroke="#8B50AA" stroke-width="1.8" opacity="0.7" fill="none"/>
+                <circle cx="24" cy="24" r="11" stroke="#C46B78" stroke-width="2.5" opacity="0.85" fill="none"/>
+                <circle cx="24" cy="24" r="6.5" fill="url(#seedNew)"/>
+                <circle cx="23.2" cy="23.2" r="2.8" fill="white" opacity="0.45"/>
+            </svg>
+            <span>stroke-width: 1, dash: 3 2</span>
+        </div>
+        
+        <div class="version">
+            <h3>Muy fino (stroke-width: 0.8)</h3>
+            <svg width="180" height="180" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <defs>
+                    <radialGradient id="seedVeryThin" cx="50%" cy="50%" r="50%">
+                        <stop offset="0%" stop-color="#F4A990"/>
+                        <stop offset="50%" stop-color="#E07A5F"/>
+                        <stop offset="100%" stop-color="#C85A42"/>
+                    </radialGradient>
+                </defs>
+                <circle cx="24" cy="24" r="22" stroke="#4338CA" stroke-width="0.8" stroke-dasharray="2.5 1.5" opacity="0.4" fill="none"/>
+                <circle cx="24" cy="24" r="18" stroke="#6E44C0" stroke-width="1.4" opacity="0.55" fill="none"/>
+                <circle cx="24" cy="24" r="14.5" stroke="#8B50AA" stroke-width="1.8" opacity="0.7" fill="none"/>
+                <circle cx="24" cy="24" r="11" stroke="#C46B78" stroke-width="2.5" opacity="0.85" fill="none"/>
+                <circle cx="24" cy="24" r="6.5" fill="url(#seedVeryThin)"/>
+                <circle cx="23.2" cy="23.2" r="2.8" fill="white" opacity="0.45"/>
+            </svg>
+            <span>stroke-width: 0.8, dash: 2.5 1.5</span>
+        </div>
+    </div>
+
+    <!-- Todos los tamaños con la versión nueva (stroke 1) -->
+    <div class="sizes-section">
+        <h2>Logo Final - Todos los tamaños (Light)</h2>
+        
+        <div class="sizes-row">
+            <div class="size-item">
+                <svg width="180" height="180" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+                    <defs>
+                        <radialGradient id="seedL180" cx="50%" cy="50%" r="50%">
+                            <stop offset="0%" stop-color="#F4A990"/>
+                            <stop offset="50%" stop-color="#E07A5F"/>
+                            <stop offset="100%" stop-color="#C85A42"/>
+                        </radialGradient>
+                    </defs>
+                    <circle cx="24" cy="24" r="22" stroke="#4338CA" stroke-width="1" stroke-dasharray="3 2" opacity="0.4" fill="none"/>
+                    <circle cx="24" cy="24" r="18" stroke="#6E44C0" stroke-width="1.4" opacity="0.55" fill="none"/>
+                    <circle cx="24" cy="24" r="14.5" stroke="#8B50AA" stroke-width="1.8" opacity="0.7" fill="none"/>
+                    <circle cx="24" cy="24" r="11" stroke="#C46B78" stroke-width="2.5" opacity="0.85" fill="none"/>
+                    <circle cx="24" cy="24" r="6.5" fill="url(#seedL180)"/>
+                    <circle cx="23.2" cy="23.2" r="2.8" fill="white" opacity="0.45"/>
+                </svg>
+                <span>180px - Hero</span>
+            </div>
+            
+            <div class="size-item">
+                <svg width="120" height="120" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+                    <defs>
+                        <radialGradient id="seedL120" cx="50%" cy="50%" r="50%">
+                            <stop offset="0%" stop-color="#F4A990"/>
+                            <stop offset="50%" stop-color="#E07A5F"/>
+                            <stop offset="100%" stop-color="#C85A42"/>
+                        </radialGradient>
+                    </defs>
+                    <circle cx="24" cy="24" r="22" stroke="#4338CA" stroke-width="1" stroke-dasharray="3 2" opacity="0.4" fill="none"/>
+                    <circle cx="24" cy="24" r="18" stroke="#6E44C0" stroke-width="1.4" opacity="0.55" fill="none"/>
+                    <circle cx="24" cy="24" r="14.5" stroke="#8B50AA" stroke-width="1.8" opacity="0.7" fill="none"/>
+                    <circle cx="24" cy="24" r="11" stroke="#C46B78" stroke-width="2.5" opacity="0.85" fill="none"/>
+                    <circle cx="24" cy="24" r="6.5" fill="url(#seedL120)"/>
+                    <circle cx="23.2" cy="23.2" r="2.8" fill="white" opacity="0.45"/>
+                </svg>
+                <span>120px</span>
+            </div>
+            
+            <div class="size-item">
+                <svg width="80" height="80" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+                    <defs>
+                        <radialGradient id="seedL80" cx="50%" cy="50%" r="50%">
+                            <stop offset="0%" stop-color="#F4A990"/>
+                            <stop offset="50%" stop-color="#E07A5F"/>
+                            <stop offset="100%" stop-color="#C85A42"/>
+                        </radialGradient>
+                    </defs>
+                    <circle cx="24" cy="24" r="22" stroke="#4338CA" stroke-width="1" stroke-dasharray="3 2" opacity="0.4" fill="none"/>
+                    <circle cx="24" cy="24" r="18" stroke="#6E44C0" stroke-width="1.4" opacity="0.55" fill="none"/>
+                    <circle cx="24" cy="24" r="14.5" stroke="#8B50AA" stroke-width="1.8" opacity="0.7" fill="none"/>
+                    <circle cx="24" cy="24" r="11" stroke="#C46B78" stroke-width="2.5" opacity="0.85" fill="none"/>
+                    <circle cx="24" cy="24" r="6.5" fill="url(#seedL80)"/>
+                    <circle cx="23.2" cy="23.2" r="2.8" fill="white" opacity="0.45"/>
+                </svg>
+                <span>80px</span>
+            </div>
+            
+            <div class="size-item">
+                <svg width="64" height="64" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+                    <defs>
+                        <radialGradient id="seedL64" cx="50%" cy="50%" r="50%">
+                            <stop offset="0%" stop-color="#F4A990"/>
+                            <stop offset="50%" stop-color="#E07A5F"/>
+                            <stop offset="100%" stop-color="#C85A42"/>
+                        </radialGradient>
+                    </defs>
+                    <circle cx="24" cy="24" r="22" stroke="#4338CA" stroke-width="1" stroke-dasharray="3 2" opacity="0.4" fill="none"/>
+                    <circle cx="24" cy="24" r="18" stroke="#6E44C0" stroke-width="1.4" opacity="0.55" fill="none"/>
+                    <circle cx="24" cy="24" r="14.5" stroke="#8B50AA" stroke-width="1.8" opacity="0.7" fill="none"/>
+                    <circle cx="24" cy="24" r="11" stroke="#C46B78" stroke-width="2.5" opacity="0.85" fill="none"/>
+                    <circle cx="24" cy="24" r="6.5" fill="url(#seedL64)"/>
+                    <circle cx="23.2" cy="23.2" r="2.8" fill="white" opacity="0.45"/>
+                </svg>
+                <span>64px</span>
+            </div>
+            
+            <div class="size-item">
+                <svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+                    <defs>
+                        <radialGradient id="seedL48" cx="50%" cy="50%" r="50%">
+                            <stop offset="0%" stop-color="#F4A990"/>
+                            <stop offset="50%" stop-color="#E07A5F"/>
+                            <stop offset="100%" stop-color="#C85A42"/>
+                        </radialGradient>
+                    </defs>
+                    <circle cx="24" cy="24" r="22" stroke="#4338CA" stroke-width="1" stroke-dasharray="3 2" opacity="0.4" fill="none"/>
+                    <circle cx="24" cy="24" r="18" stroke="#6E44C0" stroke-width="1.4" opacity="0.55" fill="none"/>
+                    <circle cx="24" cy="24" r="14.5" stroke="#8B50AA" stroke-width="1.8" opacity="0.7" fill="none"/>
+                    <circle cx="24" cy="24" r="11" stroke="#C46B78" stroke-width="2.5" opacity="0.85" fill="none"/>
+                    <circle cx="24" cy="24" r="6.5" fill="url(#seedL48)"/>
+                    <circle cx="23.2" cy="23.2" r="2.8" fill="white" opacity="0.45"/>
+                </svg>
+                <span>48px</span>
+            </div>
+            
+            <div class="size-item">
+                <svg width="32" height="32" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+                    <defs>
+                        <radialGradient id="seedL32" cx="50%" cy="50%" r="50%">
+                            <stop offset="0%" stop-color="#F4A990"/>
+                            <stop offset="50%" stop-color="#E07A5F"/>
+                            <stop offset="100%" stop-color="#C85A42"/>
+                        </radialGradient>
+                    </defs>
+                    <circle cx="24" cy="24" r="22" stroke="#4338CA" stroke-width="1" stroke-dasharray="3 2" opacity="0.4" fill="none"/>
+                    <circle cx="24" cy="24" r="18" stroke="#6E44C0" stroke-width="1.4" opacity="0.55" fill="none"/>
+                    <circle cx="24" cy="24" r="14.5" stroke="#8B50AA" stroke-width="1.8" opacity="0.7" fill="none"/>
+                    <circle cx="24" cy="24" r="11" stroke="#C46B78" stroke-width="2.5" opacity="0.85" fill="none"/>
+                    <circle cx="24" cy="24" r="6.5" fill="url(#seedL32)"/>
+                    <circle cx="23.2" cy="23.2" r="2.8" fill="white" opacity="0.45"/>
+                </svg>
+                <span>32px</span>
+            </div>
+            
+            <div class="size-item">
+                <svg width="16" height="16" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+                    <defs>
+                        <radialGradient id="seedL16" cx="50%" cy="50%" r="50%">
+                            <stop offset="0%" stop-color="#F4A990"/>
+                            <stop offset="50%" stop-color="#E07A5F"/>
+                            <stop offset="100%" stop-color="#C85A42"/>
+                        </radialGradient>
+                    </defs>
+                    <circle cx="24" cy="24" r="22" stroke="#4338CA" stroke-width="1" stroke-dasharray="3 2" opacity="0.4" fill="none"/>
+                    <circle cx="24" cy="24" r="18" stroke="#6E44C0" stroke-width="1.4" opacity="0.55" fill="none"/>
+                    <circle cx="24" cy="24" r="14.5" stroke="#8B50AA" stroke-width="1.8" opacity="0.7" fill="none"/>
+                    <circle cx="24" cy="24" r="11" stroke="#C46B78" stroke-width="2.5" opacity="0.85" fill="none"/>
+                    <circle cx="24" cy="24" r="6.5" fill="url(#seedL16)"/>
+                    <circle cx="23.2" cy="23.2" r="2.8" fill="white" opacity="0.45"/>
+                </svg>
+                <span>16px</span>
+            </div>
+        </div>
+
+        <!-- Versión Dark -->
+        <div class="dark-section">
+            <h3>Logo Final - Todos los tamaños (Dark)</h3>
+            <div class="sizes-row">
+                <div class="size-item">
+                    <svg width="180" height="180" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <defs>
+                            <radialGradient id="seedD180" cx="50%" cy="50%" r="50%">
+                                <stop offset="0%" stop-color="#F4A990"/>
+                                <stop offset="50%" stop-color="#E07A5F"/>
+                                <stop offset="100%" stop-color="#C85A42"/>
+                            </radialGradient>
+                        </defs>
+                        <circle cx="24" cy="24" r="22" stroke="white" stroke-width="1" stroke-dasharray="3 2" opacity="0.3" fill="none"/>
+                        <circle cx="24" cy="24" r="18" stroke="#818CF8" stroke-width="1.4" opacity="0.6" fill="none"/>
+                        <circle cx="24" cy="24" r="14.5" stroke="#A78BFA" stroke-width="1.8" opacity="0.75" fill="none"/>
+                        <circle cx="24" cy="24" r="11" stroke="#E879A9" stroke-width="2.5" opacity="0.9" fill="none"/>
+                        <circle cx="24" cy="24" r="6.5" fill="url(#seedD180)"/>
+                        <circle cx="23.2" cy="23.2" r="2.8" fill="white" opacity="0.55"/>
+                    </svg>
+                    <span>180px</span>
+                </div>
+                
+                <div class="size-item">
+                    <svg width="120" height="120" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <defs>
+                            <radialGradient id="seedD120" cx="50%" cy="50%" r="50%">
+                                <stop offset="0%" stop-color="#F4A990"/>
+                                <stop offset="50%" stop-color="#E07A5F"/>
+                                <stop offset="100%" stop-color="#C85A42"/>
+                            </radialGradient>
+                        </defs>
+                        <circle cx="24" cy="24" r="22" stroke="white" stroke-width="1" stroke-dasharray="3 2" opacity="0.3" fill="none"/>
+                        <circle cx="24" cy="24" r="18" stroke="#818CF8" stroke-width="1.4" opacity="0.6" fill="none"/>
+                        <circle cx="24" cy="24" r="14.5" stroke="#A78BFA" stroke-width="1.8" opacity="0.75" fill="none"/>
+                        <circle cx="24" cy="24" r="11" stroke="#E879A9" stroke-width="2.5" opacity="0.9" fill="none"/>
+                        <circle cx="24" cy="24" r="6.5" fill="url(#seedD120)"/>
+                        <circle cx="23.2" cy="23.2" r="2.8" fill="white" opacity="0.55"/>
+                    </svg>
+                    <span>120px</span>
+                </div>
+                
+                <div class="size-item">
+                    <svg width="80" height="80" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <defs>
+                            <radialGradient id="seedD80" cx="50%" cy="50%" r="50%">
+                                <stop offset="0%" stop-color="#F4A990"/>
+                                <stop offset="50%" stop-color="#E07A5F"/>
+                                <stop offset="100%" stop-color="#C85A42"/>
+                            </radialGradient>
+                        </defs>
+                        <circle cx="24" cy="24" r="22" stroke="white" stroke-width="1" stroke-dasharray="3 2" opacity="0.3" fill="none"/>
+                        <circle cx="24" cy="24" r="18" stroke="#818CF8" stroke-width="1.4" opacity="0.6" fill="none"/>
+                        <circle cx="24" cy="24" r="14.5" stroke="#A78BFA" stroke-width="1.8" opacity="0.75" fill="none"/>
+                        <circle cx="24" cy="24" r="11" stroke="#E879A9" stroke-width="2.5" opacity="0.9" fill="none"/>
+                        <circle cx="24" cy="24" r="6.5" fill="url(#seedD80)"/>
+                        <circle cx="23.2" cy="23.2" r="2.8" fill="white" opacity="0.55"/>
+                    </svg>
+                    <span>80px</span>
+                </div>
+                
+                <div class="size-item">
+                    <svg width="64" height="64" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <defs>
+                            <radialGradient id="seedD64" cx="50%" cy="50%" r="50%">
+                                <stop offset="0%" stop-color="#F4A990"/>
+                                <stop offset="50%" stop-color="#E07A5F"/>
+                                <stop offset="100%" stop-color="#C85A42"/>
+                            </radialGradient>
+                        </defs>
+                        <circle cx="24" cy="24" r="22" stroke="white" stroke-width="1" stroke-dasharray="3 2" opacity="0.3" fill="none"/>
+                        <circle cx="24" cy="24" r="18" stroke="#818CF8" stroke-width="1.4" opacity="0.6" fill="none"/>
+                        <circle cx="24" cy="24" r="14.5" stroke="#A78BFA" stroke-width="1.8" opacity="0.75" fill="none"/>
+                        <circle cx="24" cy="24" r="11" stroke="#E879A9" stroke-width="2.5" opacity="0.9" fill="none"/>
+                        <circle cx="24" cy="24" r="6.5" fill="url(#seedD64)"/>
+                        <circle cx="23.2" cy="23.2" r="2.8" fill="white" opacity="0.55"/>
+                    </svg>
+                    <span>64px</span>
+                </div>
+                
+                <div class="size-item">
+                    <svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <defs>
+                            <radialGradient id="seedD48" cx="50%" cy="50%" r="50%">
+                                <stop offset="0%" stop-color="#F4A990"/>
+                                <stop offset="50%" stop-color="#E07A5F"/>
+                                <stop offset="100%" stop-color="#C85A42"/>
+                            </radialGradient>
+                        </defs>
+                        <circle cx="24" cy="24" r="22" stroke="white" stroke-width="1" stroke-dasharray="3 2" opacity="0.3" fill="none"/>
+                        <circle cx="24" cy="24" r="18" stroke="#818CF8" stroke-width="1.4" opacity="0.6" fill="none"/>
+                        <circle cx="24" cy="24" r="14.5" stroke="#A78BFA" stroke-width="1.8" opacity="0.75" fill="none"/>
+                        <circle cx="24" cy="24" r="11" stroke="#E879A9" stroke-width="2.5" opacity="0.9" fill="none"/>
+                        <circle cx="24" cy="24" r="6.5" fill="url(#seedD48)"/>
+                        <circle cx="23.2" cy="23.2" r="2.8" fill="white" opacity="0.55"/>
+                    </svg>
+                    <span>48px</span>
+                </div>
+                
+                <div class="size-item">
+                    <svg width="32" height="32" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <defs>
+                            <radialGradient id="seedD32" cx="50%" cy="50%" r="50%">
+                                <stop offset="0%" stop-color="#F4A990"/>
+                                <stop offset="50%" stop-color="#E07A5F"/>
+                                <stop offset="100%" stop-color="#C85A42"/>
+                            </radialGradient>
+                        </defs>
+                        <circle cx="24" cy="24" r="22" stroke="white" stroke-width="1" stroke-dasharray="3 2" opacity="0.3" fill="none"/>
+                        <circle cx="24" cy="24" r="18" stroke="#818CF8" stroke-width="1.4" opacity="0.6" fill="none"/>
+                        <circle cx="24" cy="24" r="14.5" stroke="#A78BFA" stroke-width="1.8" opacity="0.75" fill="none"/>
+                        <circle cx="24" cy="24" r="11" stroke="#E879A9" stroke-width="2.5" opacity="0.9" fill="none"/>
+                        <circle cx="24" cy="24" r="6.5" fill="url(#seedD32)"/>
+                        <circle cx="23.2" cy="23.2" r="2.8" fill="white" opacity="0.55"/>
+                    </svg>
+                    <span>32px</span>
+                </div>
+            </div>
+        </div>
+    </div>
+
+</body>
+</html>

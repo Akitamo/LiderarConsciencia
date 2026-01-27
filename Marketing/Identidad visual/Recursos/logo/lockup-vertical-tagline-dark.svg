@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 110">
+  <defs>
+    <radialGradient id="seedRadiantDark" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#F4A990"/>
+      <stop offset="50%" stop-color="#E07A5F"/>
+      <stop offset="100%" stop-color="#C85A42"/>
+    </radialGradient>
+  </defs>
+  
+  <!-- Logo centrado más grande - Dark -->
+  <g transform="translate(78, 0)">
+    <circle cx="32" cy="32" r="29.33" stroke="white" stroke-width="1.07" stroke-dasharray="3.33 2" opacity="0.25" fill="none"/>
+    <circle cx="32" cy="32" r="24" stroke="#818CF8" stroke-width="1.87" opacity="0.6" fill="none"/>
+    <circle cx="32" cy="32" r="19.33" stroke="#A78BFA" stroke-width="2.4" opacity="0.75" fill="none"/>
+    <circle cx="32" cy="32" r="14.67" stroke="#E879A9" stroke-width="3.33" opacity="0.9" fill="none"/>
+    <circle cx="32" cy="32" r="8.67" fill="url(#seedRadiantDark)"/>
+    <circle cx="30.93" cy="30.93" r="3.73" fill="white" opacity="0.55"/>
+  </g>
+  
+  <!-- Texto centrado con tagline - Dark -->
+  <text x="110" y="84" font-family="Outfit, Montserrat, -apple-system, sans-serif" font-size="18" font-weight="700" fill="#FFFFFF" text-anchor="middle">Liderar con Consciencia</text>
+  <text x="110" y="102" font-family="Outfit, Montserrat, -apple-system, sans-serif" font-size="12" font-weight="400" fill="#A5A1AC" text-anchor="middle">La teoría inspira, la consciencia transforma</text>
+</svg>
