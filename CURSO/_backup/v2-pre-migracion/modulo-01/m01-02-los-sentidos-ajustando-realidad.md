@@ -16,7 +16,7 @@ Los sentidos son la entrada principal de información externa al cerebro. Pero s
 **No buscan una representación completa.** Se especializan en lo relevante para la supervivencia. El sistema visual humano está optimizado para detectar bordes —información crítica para reconocer formas y patrones. El oído es especialmente sensible al rango de frecuencias del habla humana, facilitando comunicación e interacción social. Cada sistema sensorial filtra, prioriza, descarta.
 
 #imagen
-![img-m01-cerebro-sentidos](recursos/imagenes/img-m01-cerebro-sentidos.png) Diagrama de cerebro en el centro rodeado por iconos de los 5 sentidos en círculos: mano (tacto), ojo (vista), oreja (oído), nariz (olfato), boca (gusto)
+![img-m01-cerebro-sentidos](../../../modulo-01-consciente-de-lo-que-soy/recursos/imagenes/img-m01-cerebro-sentidos.png) Diagrama de cerebro en el centro rodeado por iconos de los 5 sentidos en círculos: mano (tacto), ojo (vista), oreja (oído), nariz (olfato), boca (gusto)
 
 ---
 
@@ -45,10 +45,10 @@ En condiciones como la esquizofrenia, el cerebro genera percepciones sensoriales
 ## Ejemplos de construcción perceptiva
 
 #practica
-![Gif-m01-ver-con-cerebro](recursos/imagenes/Gif-m01-%20ver-con-cerebro.gif) Video demostrativo sobre la percepción sensorial y cómo el cerebro construye la realidad
+![Gif-m01-ver-con-cerebro](../../../modulo-01-consciente-de-lo-que-soy/recursos/imagenes/Gif-m01-%20ver-con-cerebro.gif) Video demostrativo sobre la percepción sensorial y cómo el cerebro construye la realidad
 
 #practica
-![img-m01-texto-desordenado-espanol](recursos/imagenes/img-m01-texto-desordenado-espanol.png) Texto en español con letras desordenadas sobre fondo negro: "Según un etsduio de una uivennrsdiad ignlsea no ipmotra el odren en el que las ltears etsen ersciats, la uicna csoa ipormnte es que la pmriera y la utlima ltera esten ecsritas en la psiocion cocrrtea. El rsteo peuden estar taotlmntee mal y aun prodas lerelo sin pobrleams. Etso es pquore no lemeos cada ltera en si msima, pero si la paalbra cmoo un todo. ¿No te parcee aglo icrneible?"
+![img-m01-texto-desordenado-espanol](../../../modulo-01-consciente-de-lo-que-soy/recursos/imagenes/img-m01-texto-desordenado-espanol.png) Texto en español con letras desordenadas sobre fondo negro: "Según un etsduio de una uivennrsdiad ignlsea no ipmotra el odren en el que las ltears etsen ersciats, la uicna csoa ipormnte es que la pmriera y la utlima ltera esten ecsritas en la psiocion cocrrtea. El rsteo peuden estar taotlmntee mal y aun prodas lerelo sin pobrleams. Etso es pquore no lemeos cada ltera en si msima, pero si la paalbra cmoo un todo. ¿No te parcee aglo icrneible?"
 
 #practica
-![img-m01-texto-numeros-letras](recursos/imagenes/img-m01-texto-numeros-letras.png) Texto en español con números sustituyendo letras sobre fondo negro: "C13R70 D14 D3 V3R4N0 3574B4 3N L4 PL4Y4 0853RV4ND0 4 D05 CH1C45 8R1NC4ND0 3N 14 4R3N4, 357484N 7R484J4ND0 MUCH0 C0N57RUY3ND0 UN C4571LL0 D3 4R3N4 C0N 70RR35, P454D1Z05 0CUL705 Y PU3N735..."
+![img-m01-texto-numeros-letras](../../../modulo-01-consciente-de-lo-que-soy/recursos/imagenes/img-m01-texto-numeros-letras.png) Texto en español con números sustituyendo letras sobre fondo negro: "C13R70 D14 D3 V3R4N0 3574B4 3N L4 PL4Y4 0853RV4ND0 4 D05 CH1C45 8R1NC4ND0 3N 14 4R3N4, 357484N 7R484J4ND0 MUCH0 C0N57RUY3ND0 UN C4571LL0 D3 4R3N4 C0N 70RR35, P454D1Z05 0CUL705 Y PU3N735..."

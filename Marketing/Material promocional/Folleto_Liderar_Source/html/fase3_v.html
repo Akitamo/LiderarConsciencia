@@ -1,0 +1,183 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <style>
+        @font-face { font-family: "Inter"; src: url("../fonts/Inter-Regular.woff2") format("woff2"); font-weight: 400; } 
+        @font-face { font-family: "Inter"; src: url("../fonts/Inter-Bold.woff2") format("woff2"); font-weight: 700; } 
+        @font-face { font-family: "Playfair Display"; src: url("../fonts/PlayfairDisplay-Regular.ttf") format("truetype"); font-weight: 400; } 
+        @font-face { font-family: "Playfair Display"; src: url("../fonts/PlayfairDisplay-Bold.ttf") format("truetype"); font-weight: 700; } 
+        @font-face { font-family: "Playfair Display"; src: url("../fonts/PlayfairDisplay-Italic.ttf") format("truetype"); font-style: italic; }
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body { font-family: 'Inter', sans-serif; }
+        .slide-container {
+            width: 210mm;
+            height: 297mm;
+            position: relative;
+            overflow: hidden;
+            background-color: #0D1F23;
+            color: white;
+            padding: 20mm 15mm;
+            display: flex;
+            flex-direction: column;
+        }
+
+        /* Header Section */
+        .header-section {
+            margin-bottom: 60px;
+            border-bottom: 1px solid rgba(232,149,110,0.3);
+            padding-bottom: 40px;
+        }
+        .tag {
+            color: #E8956E;
+            font-size: 12px;
+            font-weight: 600;
+            letter-spacing: 0.3em;
+            text-transform: uppercase;
+            margin-bottom: 16px;
+            display: block;
+        }
+        h2 {
+            font-family: 'Playfair Display', serif;
+            font-size: 56px;
+            line-height: 1;
+            font-weight: 700;
+            margin-bottom: 10px;
+            color: white;
+        }
+        .subtitle {
+            font-family: 'Playfair Display', serif;
+            font-size: 28px;
+            font-style: italic;
+            color: rgba(255,255,255,0.8);
+            margin-bottom: 24px;
+        }
+        .intro-desc {
+            font-size: 16px;
+            line-height: 1.6;
+            color: rgba(255,255,255,0.9);
+            max-width: 600px;
+        }
+
+        /* Modules Section */
+        .modules-container {
+            display: flex;
+            flex-direction: column;
+            gap: 50px;
+        }
+        
+        .module-item {
+            position: relative;
+            padding-left: 20px;
+            border-left: 2px solid rgba(255,255,255,0.1);
+        }
+
+        .mod-number {
+            color: #E8956E;
+            font-size: 12px;
+            font-weight: 700;
+            letter-spacing: 0.2em;
+            text-transform: uppercase;
+            margin-bottom: 10px;
+            display: block;
+        }
+
+        h3 {
+            font-family: 'Playfair Display', serif;
+            font-size: 28px;
+            margin-bottom: 5px;
+            color: white;
+        }
+
+        .mod-subtitle {
+            font-size: 16px;
+            color: rgba(255,255,255,0.7);
+            margin-bottom: 15px;
+            font-weight: 500;
+        }
+
+        .mod-question {
+            font-style: italic;
+            font-size: 15px;
+            color: rgba(255,255,255,0.9);
+            margin-bottom: 15px;
+        }
+
+        .mod-content {
+            font-size: 15px;
+            line-height: 1.6;
+            color: rgba(255,255,255,0.8);
+            margin-bottom: 20px;
+        }
+
+        .seed-connection {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            font-size: 13px;
+            border-top: 1px solid rgba(255,255,255,0.1);
+            padding-top: 15px;
+        }
+        .seed-label {
+            text-transform: uppercase;
+            letter-spacing: 0.1em;
+            color: #E8956E;
+        }
+        .seed-text {
+            font-weight: 600;
+            color: white;
+        }
+    </style>
+</head>
+<body>
+    <div class="slide-container">
+        <!-- Header -->
+        <div class="header-section">
+            <span class="tag">Fase 3 · Consciencia Dirigida</span>
+            <h2>Florecimiento</h2>
+            <div class="subtitle">Mirar al sistema</div>
+            <p class="intro-desc">
+                El líder integra todo lo aprendido para decidir con intención y actuar éticamente. 
+                No solo observa: elige hacia dónde apuntar su consciencia y actúa desde ahí.
+            </p>
+        </div>
+
+        <!-- Modules -->
+        <div class="modules-container">
+            <!-- Module 6 -->
+            <div class="module-item">
+                <span class="mod-number">Módulo 6</span>
+                <h3>Consciente de lo que quiero</h3>
+                <div class="mod-subtitle">Decisión intencional</div>
+                <div class="mod-question">"¿Cómo decido desde la consciencia y no desde el piloto automático?"</div>
+                <div class="mod-content">
+                    La decisión como momento crítico del liderazgo. El modelo ANTES-DURANTE-DESPUÉS para transitar decisiones con consciencia.
+                    <br><br>
+                    <strong>Transformación:</strong> Decido desde la consciencia, no desde la reactividad. Puedo observar mi proceso mientras decido.
+                </div>
+                <div class="seed-connection">
+                    <span class="seed-label">Líder Semilla</span>
+                    <span class="seed-text">Dirección intencional</span>
+                </div>
+            </div>
+
+            <!-- Module 7 -->
+            <div class="module-item">
+                <span class="mod-number">Módulo 7</span>
+                <h3>Consciente de lo que está bien</h3>
+                <div class="mod-subtitle">Acción ética generativa</div>
+                <div class="mod-question">"¿Cómo traduzco mi consciencia en acción ética alineada con mis valores?"</div>
+                <div class="mod-content">
+                    La atención como acto moral: ver bien para actuar bien. Liderazgo ético: virtud como hábito, prudencia como discernimiento.
+                    <br><br>
+                    <strong>Transformación:</strong> Cada pequeña acción consciente, alineada con mi propósito y mis valores, es una semilla de cambio.
+                </div>
+                <div class="seed-connection">
+                    <span class="seed-label">Líder Semilla</span>
+                    <span class="seed-text">Acción ética generativa</span>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

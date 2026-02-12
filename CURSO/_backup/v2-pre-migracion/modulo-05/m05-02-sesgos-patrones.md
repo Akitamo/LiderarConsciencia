@@ -26,7 +26,7 @@ El cerebro procesa información a través de atajos mentales —sesgos cognitivo
 Estos sesgos no son defectos sino mecanismos de eficiencia cognitiva. El problema surge cuando operan sin consciencia: no se perciben como filtros, sino como percepciones objetivas de la realidad.
 
 #imagen
-![img-m05-medico-tatuado](recursos/imagenes/img-m05-medico-tatuado.png) Fotografía comparativa de dos hombres: a la izquierda, un médico con bata blanca, estetoscopio y corbata roja, aspecto profesional y sonriente; a la derecha, un hombre joven con camiseta negra sin mangas mostrando múltiples tatuajes en los brazos. Ilustra cómo los sesgos nos llevan a juzgar a las personas por su apariencia.
+![img-m05-medico-tatuado](../../../modulo-05-consciente-de-lo-que-necesitamos/recursos/imagenes/img-m05-medico-tatuado.png) Fotografía comparativa de dos hombres: a la izquierda, un médico con bata blanca, estetoscopio y corbata roja, aspecto profesional y sonriente; a la derecha, un hombre joven con camiseta negra sin mangas mostrando múltiples tatuajes en los brazos. Ilustra cómo los sesgos nos llevan a juzgar a las personas por su apariencia.
 
 #ejemplo
 El sesgo de confirmación opera de forma sutil pero sistemática. Un líder que cree que un miembro del equipo es "poco comprometido" tiende a interpretar cualquier error o retraso como prueba de falta de compromiso, ignorando explicaciones alternativas como carga de trabajo elevada o problemas personales. El sesgo no inventa datos; selecciona cuáles son visibles.
@@ -76,7 +76,7 @@ En una reunión, un líder que experimenta impaciencia o incomodidad puede respo
 El resultado: en lugar de escuchar activamente, el líder tiende a imponer su perspectiva o desestimar ideas. No por mala intención, sino porque el patrón automático ha tomado el control antes de que la consciencia pueda intervenir.
 
 #video
-![vid-m05-Cavadas](recursos/videos/vid-m05-Cavadas.mp4)Vídeo de Pedro Cavadas. Placeholder gris con texto "VÍDEO CAVADAS" visible en la diapositiva.
+![vid-m05-Cavadas](../../../modulo-05-consciente-de-lo-que-necesitamos/recursos/videos/vid-m05-Cavadas.mp4)Vídeo de Pedro Cavadas. Placeholder gris con texto "VÍDEO CAVADAS" visible en la diapositiva.
 
 ---
 

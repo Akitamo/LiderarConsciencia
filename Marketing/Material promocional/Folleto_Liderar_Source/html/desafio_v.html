@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <style>
+        @font-face { font-family: "Inter"; src: url("../fonts/Inter-Regular.woff2") format("woff2"); font-weight: 400; } 
+        @font-face { font-family: "Inter"; src: url("../fonts/Inter-Bold.woff2") format("woff2"); font-weight: 700; } 
+        @font-face { font-family: "Playfair Display"; src: url("../fonts/PlayfairDisplay-Regular.ttf") format("truetype"); font-weight: 400; } 
+        @font-face { font-family: "Playfair Display"; src: url("../fonts/PlayfairDisplay-Bold.ttf") format("truetype"); font-weight: 700; } 
+        @font-face { font-family: "Playfair Display"; src: url("../fonts/PlayfairDisplay-Italic.ttf") format("truetype"); font-style: italic; }
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body { font-family: 'Inter', sans-serif; }
+        .slide-container {
+            width: 210mm;
+            height: 297mm;
+            position: relative;
+            overflow: hidden;
+            background-color: #1A3A40;
+            color: white;
+            display: flex;
+            flex-direction: column;
+        }
+        
+        .image-section {
+            height: 40%;
+            width: 100%;
+            position: relative;
+            overflow: hidden;
+        }
+        .image-section img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+        }
+        .overlay {
+            position: absolute;
+            bottom: 0;
+            left: 0;
+            width: 100%;
+            height: 50%;
+            background: linear-gradient(to top, #1A3A40, transparent);
+        }
+
+        .text-section {
+            height: 60%;
+            padding: 40px 60px;
+            display: flex;
+            flex-direction: column;
+        }
+
+        .tag {
+            color: #E8956E;
+            font-size: 12px;
+            font-weight: 600;
+            letter-spacing: 0.3em;
+            text-transform: uppercase;
+            margin-bottom: 20px;
+        }
+
+        h2 {
+            font-family: 'Playfair Display', serif;
+            font-size: 42px;
+            line-height: 1.1;
+            font-weight: 700;
+            margin-bottom: 40px;
+            color: white;
+        }
+
+        .forces-list {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 30px 40px;
+        }
+
+        .force-item {
+            margin-bottom: 10px;
+        }
+
+        .force-num {
+            font-family: 'Playfair Display', serif;
+            font-size: 24px;
+            color: #E8956E;
+            margin-bottom: 8px;
+            display: block;
+            border-bottom: 1px solid rgba(232,149,110,0.3);
+            padding-bottom: 5px;
+        }
+
+        .force-title {
+            font-weight: 600;
+            font-size: 16px;
+            margin-bottom: 6px;
+            display: block;
+        }
+
+        .force-desc {
+            font-size: 14px;
+            line-height: 1.5;
+            color: rgba(255,255,255,0.7);
+        }
+
+        .footer-quote {
+            margin-top: auto;
+            padding-top: 30px;
+            border-top: 1px solid rgba(255,255,255,0.1);
+            font-family: 'Playfair Display', serif;
+            font-size: 20px;
+            text-align: center;
+            color: white;
+        }
+        .highlight { color: #E8956E; font-style: italic; }
+    </style>
+</head>
+<body>
+    <div class="slide-container">
+        <div class="image-section">
+            <img src="/home/ubuntu/folleto-liderar/images/gen_4fuerzas.jpg" alt="Tormenta perfecta">
+            <div class="overlay"></div>
+        </div>
+
+        <div class="text-section">
+            <span class="tag">El Desafío</span>
+            <h2>La tormenta perfecta del liderazgo actual</h2>
+
+            <div class="forces-list">
+                <div class="force-item">
+                    <span class="force-num">01</span>
+                    <span class="force-title">Fragmentación de la atención</span>
+                    <span class="force-desc">La hiperconectividad ha roto nuestra capacidad de atención sostenida.</span>
+                </div>
+                <div class="force-item">
+                    <span class="force-num">02</span>
+                    <span class="force-title">Crisis de legitimidad</span>
+                    <span class="force-desc">Los equipos exigen autenticidad, coherencia y propósito.</span>
+                </div>
+                <div class="force-item">
+                    <span class="force-num">03</span>
+                    <span class="force-title">Irrupción de la IA</span>
+                    <span class="force-desc">Lo que queda es lo que las máquinas no pueden hacer: consciencia.</span>
+                </div>
+                <div class="force-item">
+                    <span class="force-num">04</span>
+                    <span class="force-title">Epidemia de agotamiento</span>
+                    <span class="force-desc">El burnout se ha normalizado. El esfuerzo sin sentido vacía.</span>
+                </div>
+            </div>
+
+            <div class="footer-quote">
+                Exige líderes que lideren <span class="highlight">de otra manera</span>.
+            </div>
+        </div>
+    </div>
+</body>
+</html>

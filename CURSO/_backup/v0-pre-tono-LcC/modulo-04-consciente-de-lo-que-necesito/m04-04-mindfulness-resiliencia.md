@@ -77,4 +77,4 @@ La capacidad de un líder para adaptarse y aprender de situaciones estresantes d
 ## La regulación emocional en acción
 
 #video
- ![vid-m04-Puyol-autocontrol](recursos/videos/vid-m04-Puyol-autocontrol.mp4)Fotograma de retransmisión de partido de fútbol (GOLTV LIVE, BAR-MLL 2-0, 26:38). Escena de conflicto/tensión entre jugadores del FC Barcelona (equipación azulgrana) y otro equipo (equipación blanca), con árbitro de amarillo interviniendo. Muestra la capacidad del jugador del Barcelona Puyol para mantener el dominio frente a una agresión de un jugador
+ ![vid-m04-Puyol-autocontrol](../../../modulo-04-consciente-de-lo-que-necesito/recursos/videos/vid-m04-Puyol-autocontrol.mp4)Fotograma de retransmisión de partido de fútbol (GOLTV LIVE, BAR-MLL 2-0, 26:38). Escena de conflicto/tensión entre jugadores del FC Barcelona (equipación azulgrana) y otro equipo (equipación blanca), con árbitro de amarillo interviniendo. Muestra la capacidad del jugador del Barcelona Puyol para mantener el dominio frente a una agresión de un jugador

@@ -1,0 +1,345 @@
+/* ============================================
+   LIDERAR CON CONSCIENCIA - PALETA DE COLORES
+   Versión 2.0 — Enero 2026
+   ============================================ */
+
+/* ==========================================
+   1. CSS CUSTOM PROPERTIES (Variables)
+   ========================================== */
+
+:root {
+  /* Principal - Índigo */
+  --color-primary: #4338CA;
+  --color-primary-dark: #3730A3;
+  --color-primary-light: #6366F1;
+  --color-primary-muted: #E0E7FF;
+  --color-primary-subtle: #EEF2FF;
+  
+  /* Acento - Coral/Terracota */
+  --color-accent: #E07A5F;
+  --color-accent-dark: #C85A42;
+  --color-accent-light: #F4A990;
+  --color-accent-muted: #FEF2F0;
+  
+  /* Gradiente Semilla (para referencia, usar en SVG) */
+  --seed-gradient-start: #F4A990;
+  --seed-gradient-mid: #E07A5F;
+  --seed-gradient-end: #C85A42;
+  
+  /* Colores Dark Mode (logo/decorativos) */
+  --color-dark-ring-3: #818CF8;
+  --color-dark-ring-2: #A78BFA;
+  --color-dark-ring-1: #E879A9;
+
+  /* Transición coral → índigo (solo logo e iconos de módulo) */
+  --color-module-1: #E07A5F;  /* M1 - Coral */
+  --color-module-2: #C46B78;  /* M2 - Rosa coral */
+  --color-module-3: #A85D91;  /* M3 - Rosa violeta */
+  --color-module-4: #8B50AA;  /* M4 - Violeta */
+  --color-module-5: #6E44C0;  /* M5 - Violeta índigo */
+  --color-module-6: #6366F1;  /* M6 - Primary Light */
+  --color-module-7: #4338CA;  /* M7 - Índigo */
+
+  /* Neutros cálidos */
+  --color-white: #FFFFFF;
+  --color-background: #FDFCFB;
+  --color-background-alt: #F9F7F5;
+  --color-border: #E8E4E0;
+  
+  /* Textos */
+  --color-text-primary: #1E1B2E;
+  --color-text-secondary: #524D5F;
+  --color-text-muted: #8C8697;
+  
+  /* Sombras */
+  --shadow-sm: 0 2px 8px rgba(30, 27, 46, 0.06);
+  --shadow-md: 0 4px 24px rgba(30, 27, 46, 0.08);
+  --shadow-lg: 0 8px 32px rgba(30, 27, 46, 0.12);
+  --shadow-accent: 0 4px 14px rgba(224, 122, 95, 0.4);
+  
+  /* Espaciado */
+  --space-xs: 4px;
+  --space-sm: 8px;
+  --space-md: 16px;
+  --space-lg: 24px;
+  --space-xl: 32px;
+  --space-2xl: 48px;
+  --space-3xl: 64px;
+  --space-4xl: 80px;
+  
+  /* Border Radius */
+  --radius-sm: 12px;
+  --radius-md: 14px;
+  --radius-lg: 16px;
+  --radius-xl: 20px;
+  --radius-full: 9999px;
+  
+  /* Tipografía */
+  --font-family: 'Outfit', 'Montserrat', -apple-system, BlinkMacSystemFont, sans-serif;
+  --font-size-xs: 11px;
+  --font-size-sm: 13px;
+  --font-size-base: 15px;
+  --font-size-lg: 18px;
+  --font-size-xl: 24px;
+  --font-size-2xl: 28px;
+  --font-size-3xl: 38px;
+  --font-size-4xl: 52px;
+}
+
+
+/* ==========================================
+   2. CLASES UTILITARIAS
+   ========================================== */
+
+/* Colores de fondo */
+.bg-primary { background-color: var(--color-primary); }
+.bg-primary-muted { background-color: var(--color-primary-muted); }
+.bg-primary-subtle { background-color: var(--color-primary-subtle); }
+.bg-accent { background-color: var(--color-accent); }
+.bg-accent-muted { background-color: var(--color-accent-muted); }
+.bg-white { background-color: var(--color-white); }
+.bg-background { background-color: var(--color-background); }
+.bg-background-alt { background-color: var(--color-background-alt); }
+
+/* Colores de texto */
+.text-primary { color: var(--color-primary); }
+.text-accent { color: var(--color-accent); }
+.text-dark { color: var(--color-text-primary); }
+.text-secondary { color: var(--color-text-secondary); }
+.text-muted { color: var(--color-text-muted); }
+.text-white { color: var(--color-white); }
+
+/* Bordes */
+.border-default { border: 1px solid var(--color-border); }
+.border-primary { border: 2px solid var(--color-primary); }
+.border-accent { border: 2px solid var(--color-accent); }
+
+
+/* ==========================================
+   3. JSON FORMAT (para JavaScript/React)
+   ========================================== */
+
+/*
+const colors = {
+  // Principal - Índigo
+  primary: '#4338CA',
+  primaryDark: '#3730A3',
+  primaryLight: '#6366F1',
+  primaryMuted: '#E0E7FF',
+  primarySubtle: '#EEF2FF',
+  
+  // Acento - Coral/Terracota
+  accent: '#E07A5F',
+  accentDark: '#C85A42',
+  accentLight: '#F4A990',
+  accentMuted: '#FEF2F0',
+
+  // Transición coral → índigo (solo logo e iconos de módulo)
+  module1: '#E07A5F',  // M1 - Coral
+  module2: '#C46B78',  // M2 - Rosa coral
+  module3: '#A85D91',  // M3 - Rosa violeta
+  module4: '#8B50AA',  // M4 - Violeta
+  module5: '#6E44C0',  // M5 - Violeta índigo
+  module6: '#6366F1',  // M6 - Primary Light
+  module7: '#4338CA',  // M7 - Índigo
+
+  // Neutros cálidos
+  white: '#FFFFFF',
+  background: '#FDFCFB',
+  backgroundAlt: '#F9F7F5',
+  border: '#E8E4E0',
+  
+  // Textos
+  textPrimary: '#1E1B2E',
+  textSecondary: '#524D5F',
+  textMuted: '#8C8697',
+};
+
+const shadows = {
+  sm: '0 2px 8px rgba(30, 27, 46, 0.06)',
+  md: '0 4px 24px rgba(30, 27, 46, 0.08)',
+  lg: '0 8px 32px rgba(30, 27, 46, 0.12)',
+  accent: '0 4px 14px rgba(224, 122, 95, 0.4)',
+};
+
+const spacing = {
+  xs: '4px',
+  sm: '8px',
+  md: '16px',
+  lg: '24px',
+  xl: '32px',
+  '2xl': '48px',
+  '3xl': '64px',
+  '4xl': '80px',
+};
+
+const borderRadius = {
+  sm: '12px',
+  md: '14px',
+  lg: '16px',
+  xl: '20px',
+  full: '9999px',
+};
+*/
+
+
+/* ==========================================
+   4. TAILWIND CONFIG (extend colors)
+   ========================================== */
+
+/*
+// tailwind.config.js
+module.exports = {
+  theme: {
+    extend: {
+      colors: {
+        primary: {
+          DEFAULT: '#4338CA',
+          dark: '#3730A3',
+          light: '#6366F1',
+          muted: '#E0E7FF',
+          subtle: '#EEF2FF',
+        },
+        accent: {
+          DEFAULT: '#E07A5F',
+          dark: '#C85A42',
+          light: '#F4A990',
+          muted: '#FEF2F0',
+        },
+        // Transición coral → índigo (solo logo e iconos de módulo)
+        module: {
+          1: '#E07A5F',
+          2: '#C46B78',
+          3: '#A85D91',
+          4: '#8B50AA',
+          5: '#6E44C0',
+          6: '#6366F1',
+          7: '#4338CA',
+        },
+        background: {
+          DEFAULT: '#FDFCFB',
+          alt: '#F9F7F5',
+        },
+        border: '#E8E4E0',
+        text: {
+          primary: '#1E1B2E',
+          secondary: '#524D5F',
+          muted: '#8C8697',
+        },
+      },
+      fontFamily: {
+        sans: ['Outfit', 'Montserrat', '-apple-system', 'sans-serif'],
+      },
+      boxShadow: {
+        'card': '0 4px 24px rgba(30, 27, 46, 0.08)',
+        'accent': '0 4px 14px rgba(224, 122, 95, 0.4)',
+      },
+      borderRadius: {
+        'card': '20px',
+        'button': '14px',
+      },
+    },
+  },
+};
+*/
+
+
+/* ==========================================
+   5. SCSS VARIABLES
+   ========================================== */
+
+/*
+// _variables.scss
+
+// Principal - Índigo
+$primary: #4338CA;
+$primary-dark: #3730A3;
+$primary-light: #6366F1;
+$primary-muted: #E0E7FF;
+$primary-subtle: #EEF2FF;
+
+// Acento - Coral/Terracota
+$accent: #E07A5F;
+$accent-dark: #C85A42;
+$accent-light: #F4A990;
+$accent-muted: #FEF2F0;
+
+// Transición coral → índigo (solo logo e iconos de módulo)
+$module-1: #E07A5F;  // M1 - Coral
+$module-2: #C46B78;  // M2 - Rosa coral
+$module-3: #A85D91;  // M3 - Rosa violeta
+$module-4: #8B50AA;  // M4 - Violeta
+$module-5: #6E44C0;  // M5 - Violeta índigo
+$module-6: #6366F1;  // M6 - Primary Light
+$module-7: #4338CA;  // M7 - Índigo
+
+// Neutros cálidos
+$white: #FFFFFF;
+$background: #FDFCFB;
+$background-alt: #F9F7F5;
+$border: #E8E4E0;
+
+// Textos
+$text-primary: #1E1B2E;
+$text-secondary: #524D5F;
+$text-muted: #8C8697;
+
+// Mapa de colores (para loops)
+$colors: (
+  'primary': $primary,
+  'primary-dark': $primary-dark,
+  'primary-light': $primary-light,
+  'accent': $accent,
+  'accent-dark': $accent-dark,
+);
+*/
+
+
+/* ==========================================
+   6. PARA IMPORTAR EN COOLORS.CO
+   ========================================== */
+
+/*
+Paleta principal (5 colores):
+https://coolors.co/4338ca-e07a5f-1e1b2e-fdfcfb-e8e4e0
+
+Paleta extendida Índigo:
+https://coolors.co/3730a3-4338ca-6366f1-e0e7ff-eef2ff
+
+Paleta extendida Coral:
+https://coolors.co/c85a42-e07a5f-f4a990-fef2f0
+*/
+
+
+/* ==========================================
+   7. RGB VALUES (para otras herramientas)
+   ========================================== */
+
+/*
+Primary:        rgb(67, 56, 202)
+Primary Dark:   rgb(55, 48, 163)
+Primary Light:  rgb(99, 102, 241)
+Primary Muted:  rgb(224, 231, 255)
+Primary Subtle: rgb(238, 242, 255)
+
+Accent:         rgb(224, 122, 95)
+Accent Dark:    rgb(200, 90, 66)
+Accent Light:   rgb(244, 169, 144)
+Accent Muted:   rgb(254, 242, 240)
+
+Module 1 (M1):  rgb(224, 122, 95)   - Coral
+Module 2 (M2):  rgb(196, 107, 120)  - Rosa coral
+Module 3 (M3):  rgb(168, 93, 145)   - Rosa violeta
+Module 4 (M4):  rgb(139, 80, 170)   - Violeta
+Module 5 (M5):  rgb(110, 68, 192)   - Violeta índigo
+Module 6 (M6):  rgb(99, 102, 241)   - Primary Light
+Module 7 (M7):  rgb(67, 56, 202)    - Índigo
+
+Background:     rgb(253, 252, 251)
+Background Alt: rgb(249, 247, 245)
+Border:         rgb(232, 228, 224)
+
+Text Primary:   rgb(30, 27, 46)
+Text Secondary: rgb(82, 77, 95)
+Text Muted:     rgb(140, 134, 151)
+*/

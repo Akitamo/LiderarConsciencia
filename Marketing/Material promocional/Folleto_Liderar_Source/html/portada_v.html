@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <style>
+        @font-face { font-family: "Inter"; src: url("../fonts/Inter-Regular.woff2") format("woff2"); font-weight: 400; } 
+        @font-face { font-family: "Inter"; src: url("../fonts/Inter-Bold.woff2") format("woff2"); font-weight: 700; } 
+        @font-face { font-family: "Playfair Display"; src: url("../fonts/PlayfairDisplay-Regular.ttf") format("truetype"); font-weight: 400; } 
+        @font-face { font-family: "Playfair Display"; src: url("../fonts/PlayfairDisplay-Bold.ttf") format("truetype"); font-weight: 700; } 
+        @font-face { font-family: "Playfair Display"; src: url("../fonts/PlayfairDisplay-Italic.ttf") format("truetype"); font-style: italic; }
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body { font-family: 'Inter', sans-serif; }
+        .slide-container {
+            width: 210mm;
+            height: 297mm;
+            position: relative;
+            overflow: hidden;
+            background-color: #0D1F23;
+            color: white;
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
+            align-items: center;
+            text-align: center;
+            padding: 20mm 15mm;
+        }
+        .bg-image {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background-image: url('../images/hero.jpg');
+            background-size: cover;
+            background-position: center;
+            z-index: 0;
+        }
+        .overlay {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: linear-gradient(to bottom, rgba(13,31,35,0.3), rgba(13,31,35,0.8));
+            z-index: 1;
+        }
+        .content-top {
+            position: relative;
+            z-index: 2;
+            width: 100%;
+        }
+        .content-bottom {
+            position: relative;
+            z-index: 2;
+            width: 100%;
+            padding-bottom: 40px;
+        }
+        
+        .logo {
+            height: 80px;
+            margin-bottom: 60px;
+            opacity: 0.9;
+        }
+        
+        .masthead {
+            font-family: 'Playfair Display', serif;
+            font-size: 24px;
+            letter-spacing: 0.2em;
+            text-transform: uppercase;
+            color: rgba(255,255,255,0.9);
+            margin-bottom: 20px;
+            border-bottom: 1px solid rgba(255,255,255,0.3);
+            padding-bottom: 20px;
+            display: inline-block;
+        }
+
+        h1 {
+            font-family: 'Playfair Display', serif;
+            font-size: 64px;
+            line-height: 1.1;
+            font-weight: 700;
+            margin-bottom: 20px;
+            text-shadow: 0 4px 20px rgba(0,0,0,0.5);
+        }
+        .highlight {
+            color: #E8956E;
+            display: block;
+            font-style: italic;
+        }
+
+        .details {
+            font-size: 14px;
+            text-transform: uppercase;
+            letter-spacing: 0.15em;
+            color: rgba(255,255,255,0.7);
+        }
+        
+        .edition-tag {
+            position: absolute;
+            top: 40px;
+            right: 40px;
+            font-size: 12px;
+            text-transform: uppercase;
+            letter-spacing: 0.1em;
+            color: rgba(255,255,255,0.5);
+            z-index: 2;
+            transform: rotate(90deg);
+            transform-origin: right top;
+        }
+    </style>
+</head>
+<body>
+    <div class="slide-container">
+        <div class="bg-image"></div>
+        <div class="overlay"></div>
+        <div class="edition-tag">Programa Formativo 2026</div>
+
+        <div class="content-top">
+            <div class="masthead">Liderar con Consciencia</div>
+        </div>
+
+        <div class="content-bottom">
+            <h1>
+                El liderazgo que este momento exige no se enseña.
+                <span class="highlight">Se entrena.</span>
+            </h1>
+            <div class="details">7 módulos · 3 fases · De lo personal a lo sistémico</div>
+        </div>
+    </div>
+</body>
+</html>

@@ -44,6 +44,8 @@ El **líder semilla** opera igual:
 
 # 2. LA PROGRESIÓN EPISTEMOLÓGICA
 
+### VER [La progresión epistemológica del programa](CURSO/La%20progresión%20epistemológica%20del%20programa.md) PARA TENER UNA VISIÓN DETALLADA DE LA PROGRESIÓN EPISTEMOLÓGICA DEL CURSO
+
 ## Las tres fases de la consciencia
 
 El programa desarrolla la capacidad de consciencia en niveles progresivos:

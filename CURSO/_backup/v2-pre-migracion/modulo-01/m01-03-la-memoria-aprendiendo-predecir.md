@@ -53,32 +53,32 @@ Puedes notarlo en tu propia experiencia: una melodía que dispara un recuerdo co
 ## Los automatismos en acción
 
 #imagen
-![img-m01-conduciendo-con-tension](recursos/imagenes/img-m01-conduciendo-con-tension.png)Fotografía de hombre conduciendo al inicio del aprendizaje de conducir con mucha tensión por requerir el máximo de atención esa fase de aprendizaje
+![img-m01-conduciendo-con-tension](../../../modulo-01-consciente-de-lo-que-soy/recursos/imagenes/img-m01-conduciendo-con-tension.png)Fotografía de hombre conduciendo al inicio del aprendizaje de conducir con mucha tensión por requerir el máximo de atención esa fase de aprendizaje
 
 #imagen
-![img-m01-conduccion-automatica](recursos/imagenes/img-m01-conduccion-automatica.png) Fotografía de un hombre conduciendo un coche mientras habla por teléfono. Ilustra el concepto de automatismos: conducir es una actividad que se automatiza con la práctica, permitiendo realizar otras tareas simultáneamente.
+![img-m01-conduccion-automatica](../../../modulo-01-consciente-de-lo-que-soy/recursos/imagenes/img-m01-conduccion-automatica.png) Fotografía de un hombre conduciendo un coche mientras habla por teléfono. Ilustra el concepto de automatismos: conducir es una actividad que se automatiza con la práctica, permitiendo realizar otras tareas simultáneamente.
 
 ---
 
 ## Ejercicio: rompiendo patrones mentales
 
 #practica 
-![img-m01-acertijo-cerillas-1-pregunta](recursos/imagenes/img-m01-acertijo-cerillas-1-pregunta.png) Acertijo con cerillas sobre fondo negro mostrando la ecuación "II + II = IX" (en números romanos con cerillas). Ejercicio de pensamiento lateral donde hay que mover una cerilla para corregir la ecuación.
+![img-m01-acertijo-cerillas-1-pregunta](../../../modulo-01-consciente-de-lo-que-soy/recursos/imagenes/img-m01-acertijo-cerillas-1-pregunta.png) Acertijo con cerillas sobre fondo negro mostrando la ecuación "II + II = IX" (en números romanos con cerillas). Ejercicio de pensamiento lateral donde hay que mover una cerilla para corregir la ecuación.
 
 #practica 
-![img-m01-acertijo-cerillas-1-solucion](recursos/imagenes/img-m01-acertijo-cerillas-1-solucion.png) Solución al primer acertijo de cerillas: "II + II = IV" (2 + 2 = 4 en números romanos). Se ha movido una cerilla de la X para formar la V.
+![img-m01-acertijo-cerillas-1-solucion](../../../modulo-01-consciente-de-lo-que-soy/recursos/imagenes/img-m01-acertijo-cerillas-1-solucion.png) Solución al primer acertijo de cerillas: "II + II = IV" (2 + 2 = 4 en números romanos). Se ha movido una cerilla de la X para formar la V.
 
 #practica 
-![img-m01-acertijo-cerillas-2-pregunta](recursos/imagenes/img-m01-acertijo-cerillas-2-pregunta.png) Segundo acertijo con cerillas sobre fondo negro mostrando la ecuación "II = X - XII" (en números romanos con cerillas). Ejercicio donde hay que mover una cerilla para corregir la ecuación.
+![img-m01-acertijo-cerillas-2-pregunta](../../../modulo-01-consciente-de-lo-que-soy/recursos/imagenes/img-m01-acertijo-cerillas-2-pregunta.png) Segundo acertijo con cerillas sobre fondo negro mostrando la ecuación "II = X - XII" (en números romanos con cerillas). Ejercicio donde hay que mover una cerilla para corregir la ecuación.
 
 #practica 
-![img-m01-acertijo-cerillas-2-solucion](recursos/imagenes/img-m01-acertijo-cerillas-2-solucion.png) Solución al segundo acertijo de cerillas: "II = X - VIII" (2 = 10 - 8 en números romanos). Se ha movido una cerilla del XII para formar VIII.
+![img-m01-acertijo-cerillas-2-solucion](../../../modulo-01-consciente-de-lo-que-soy/recursos/imagenes/img-m01-acertijo-cerillas-2-solucion.png) Solución al segundo acertijo de cerillas: "II = X - VIII" (2 = 10 - 8 en números romanos). Se ha movido una cerilla del XII para formar VIII.
 
 #practica
-![img-m01-acertijo-cerillas-3-pregunta](recursos/imagenes/img-m01-acertijo-cerillas-3-pregunta.png) Tercer acertijo con cerillas sobre fondo negro mostrando la ecuación "VI = VI + VI" (en números romanos con cerillas). Ejercicio donde hay que mover una cerilla para corregir la ecuación.
+![img-m01-acertijo-cerillas-3-pregunta](../../../modulo-01-consciente-de-lo-que-soy/recursos/imagenes/img-m01-acertijo-cerillas-3-pregunta.png) Tercer acertijo con cerillas sobre fondo negro mostrando la ecuación "VI = VI + VI" (en números romanos con cerillas). Ejercicio donde hay que mover una cerilla para corregir la ecuación.
 
 #practica 
-![gif-m01-resolucion-cerillas](recursos/imagenes/gif-m01-resolucion-cerillas.gif) Gif dinámico que muestra la resolución del ejercicio final de las cerillas para mostrar cómo el patrón inicialmente detectado impedía una resolución final obvia
+![gif-m01-resolucion-cerillas](../../../modulo-01-consciente-de-lo-que-soy/recursos/imagenes/gif-m01-resolucion-cerillas.gif) Gif dinámico que muestra la resolución del ejercicio final de las cerillas para mostrar cómo el patrón inicialmente detectado impedía una resolución final obvia
 
 ---
 

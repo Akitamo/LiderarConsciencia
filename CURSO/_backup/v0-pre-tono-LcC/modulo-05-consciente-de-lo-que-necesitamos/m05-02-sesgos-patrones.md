@@ -22,7 +22,7 @@ tags: [sesgos, automatismos, reactividad, amigdala, patrones-mentales, autoindag
 **Sesgo de Anclaje:** Es la tendencia a depender demasiado de la primera información que recibimos sobre alguien, lo que afecta nuestras decisiones y juicios futuros. La información inicial actúa como un "ancla" que condiciona las interpretaciones futuras.
 
 #imagen
-![img-m05-medico-tatuado](recursos/imagenes/img-m05-medico-tatuado.png) Fotografía comparativa de dos hombres: a la izquierda, un médico con bata blanca, estetoscopio y corbata roja, aspecto profesional y sonriente; a la derecha, un hombre joven con camiseta negra sin mangas mostrando múltiples tatuajes en los brazos. Ilustra cómo los sesgos nos llevan a juzgar a las personas por su apariencia.
+![img-m05-medico-tatuado](../../../modulo-05-consciente-de-lo-que-necesitamos/recursos/imagenes/img-m05-medico-tatuado.png) Fotografía comparativa de dos hombres: a la izquierda, un médico con bata blanca, estetoscopio y corbata roja, aspecto profesional y sonriente; a la derecha, un hombre joven con camiseta negra sin mangas mostrando múltiples tatuajes en los brazos. Ilustra cómo los sesgos nos llevan a juzgar a las personas por su apariencia.
 
 #explicacion
 ¿Qué Son los Sesgos Cognitivos y los Patrones Mentales?
@@ -73,7 +73,7 @@ Ejemplos detallados:
 - Limitación de la acción consciente: En lugar de escuchar activamente a un colaborador, un líder que reacciona automáticamente puede tender a imponer su perspectiva o desestimar las ideas del otro.
 
 #video
- ![vid-m05-Cavadas](recursos/videos/vid-m05-Cavadas.mp4)Vídeo de Pedro Cavadas. Placeholder gris con texto "VÍDEO CAVADAS" visible en la diapositiva.
+ ![vid-m05-Cavadas](../../../modulo-05-consciente-de-lo-que-necesitamos/recursos/videos/vid-m05-Cavadas.mp4)Vídeo de Pedro Cavadas. Placeholder gris con texto "VÍDEO CAVADAS" visible en la diapositiva.
 
 ---
 

@@ -64,7 +64,7 @@ La evidencia experimental confirma lo que la teoría propone: el cuerpo moldea a
 Los participantes leían viñetas de humor mientras sostenían un bolígrafo de dos maneras: con los dientes, forzando una sonrisa, o con los labios, adoptando una expresión de enfado. Resultado: quienes sonreían encontraron las viñetas más graciosas[^4]. Este experimento ilustra la **hipótesis de retroalimentación facial**: la expresión facial no solo refleja las emociones, sino que influye en la percepción y la experiencia subjetiva. El cuerpo no solo expresa; configura.
 
 #imagen
-![recursos/imagenes/img-m02-boligrafo-boca](recursos/imagenes/img-m02-boligrafo-boca.png) imagen de mujer sujetando bolígrafo en la boca
+![recursos/imagenes/img-m02-boligrafo-boca](../../../modulo-02-consciente-de-como-estoy/recursos/imagenes/img-m02-boligrafo-boca.png) imagen de mujer sujetando bolígrafo en la boca
 
 #### El Impacto de la Postura Corporal en la Memoria
 
@@ -72,7 +72,7 @@ Los participantes leían viñetas de humor mientras sostenían un bolígrafo de 
 Investigadores alemanes estudiaron la influencia de la postura corporal en la memoria[^5]. Los participantes leían palabras con el ordenador a la altura de los ojos (postura erguida) o en el suelo (postura encorvada). Quienes encorvaban la espalda recordaron menos palabras en general y retuvieron en mayor proporción las de connotación negativa. La postura corporal sesga la codificación de información hacia lo negativo.
 
 #imagen
-![img-m02-postura-corporal](recursos/imagenes/img-m02-postura-corporal.png) Fotografía de una mujer mostrada en tres posturas diferentes de perfil: completamente erguida (izquierda), ligeramente encorvada (centro) y muy encorvada hacia adelante (derecha). Fondo blanco neutro. Ilustra el impacto de la postura corporal en la cognición y el estado emocional.
+![img-m02-postura-corporal](../../../modulo-02-consciente-de-como-estoy/recursos/imagenes/img-m02-postura-corporal.png) Fotografía de una mujer mostrada en tres posturas diferentes de perfil: completamente erguida (izquierda), ligeramente encorvada (centro) y muy encorvada hacia adelante (derecha). Fondo blanco neutro. Ilustra el impacto de la postura corporal en la cognición y el estado emocional.
 
 El cuerpo actúa como una "bisagra" que permite transitar entre diferentes estados emocionales. De la misma manera que el cerebro interpreta la postura para inferir el estado emocional, un cambio deliberado de postura puede contribuir a modificar ese estado.
 
@@ -150,7 +150,7 @@ Las personas con mayor conciencia interoceptiva —mayor capacidad de percibir l
 **William James. Principios de Psicología.**[^10]
 
 #imagen
-![img-m02-william-james-libro](recursos/imagenes/img-m02-william-james-libro.png) Portada del libro "The Principles of Psychology" de William James. Fotografía en blanco y negro del autor (hombre con barba, mano en la mejilla) junto al título del libro en letras blancas. Editorial Walrus Books. Fondo oscuro.
+![img-m02-william-james-libro](../../../modulo-02-consciente-de-como-estoy/recursos/imagenes/img-m02-william-james-libro.png) Portada del libro "The Principles of Psychology" de William James. Fotografía en blanco y negro del autor (hombre con barba, mano en la mejilla) junto al título del libro en letras blancas. Editorial Walrus Books. Fondo oscuro.
 
 ---
 

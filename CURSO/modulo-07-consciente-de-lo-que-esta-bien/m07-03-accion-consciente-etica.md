@@ -46,8 +46,8 @@ Este tema presenta un modelo integrador que conecta todas las piezas. No como te
 ## El modelo integrador: una visión de conjunto
 
 El modelo tiene varios componentes que operan simultáneamente:
-![](recursos/imagenes/Modelo%20integrador.png)
 
+![](recursos/imagenes/modelo%20integral%20vfinal.png)
 ### El eje de alineamiento (de T2)
 
 ```

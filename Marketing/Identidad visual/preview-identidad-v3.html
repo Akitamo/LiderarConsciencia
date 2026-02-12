@@ -1,0 +1,279 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Liderar con Consciencia — Identidad Visual v3.0</title>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --color-primary: #2A5058;
+            --color-primary-dark: #1A3A40;
+            --color-primary-light: #487878;
+            --color-primary-muted: #E0EBEB;
+            --color-primary-subtle: #F2F7F7;
+            --color-accent: #DC8060;
+            --color-accent-dark: #B86848;
+            --color-accent-light: #F0A080;
+            --color-accent-muted: #FDF6F3;
+            --color-m1: #DC8060;
+            --color-m2: #C48870;
+            --color-m3: #A89080;
+            --color-m4: #889088;
+            --color-m5: #688888;
+            --color-m6: #487878;
+            --color-m7: #2A5058;
+            --color-white: #FFFFFF;
+            --color-background: #FDFCFB;
+            --color-background-alt: #F9F7F5;
+            --color-border: #E8E4E0;
+            --color-text-primary: #2A3A3A;
+            --color-text-secondary: #5A6A6A;
+            --color-text-muted: #8A9696;
+        }
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body { font-family: 'Outfit', sans-serif; background: var(--color-background); color: var(--color-text-primary); line-height: 1.6; }
+        
+        .header { padding: 16px 48px; background: var(--color-white); border-bottom: 1px solid var(--color-border); display: flex; justify-content: space-between; align-items: center; }
+        .logo-lockup { display: flex; align-items: center; gap: 16px; }
+        .logo-text { font-size: 18px; font-weight: 700; }
+        .nav-links { display: flex; gap: 32px; }
+        .nav-links a { font-size: 14px; font-weight: 500; color: var(--color-text-secondary); text-decoration: none; }
+        .btn-terciario { padding: 10px 20px; background: var(--color-primary); color: white; border: none; border-radius: 12px; font-family: 'Outfit', sans-serif; font-size: 14px; font-weight: 600; cursor: pointer; }
+        
+        .hero { padding: 80px 48px; text-align: center; position: relative; }
+        .hero-content { max-width: 800px; margin: 0 auto; }
+        .badge-accent { display: inline-block; padding: 6px 14px; background: var(--color-accent-muted); color: var(--color-accent-dark); border: 1px solid rgba(220, 128, 96, 0.25); border-radius: 9999px; font-size: 13px; font-weight: 600; margin-bottom: 24px; }
+        .hero h1 { font-size: 52px; font-weight: 700; line-height: 1.1; letter-spacing: -0.03em; margin-bottom: 24px; }
+        .hero h1 span { color: var(--color-accent); }
+        .hero-description { font-size: 18px; color: var(--color-text-secondary); max-width: 580px; margin: 0 auto 40px; line-height: 1.7; }
+        .buttons-group { display: flex; gap: 16px; justify-content: center; }
+        .btn-primary { padding: 16px 32px; background: var(--color-accent); color: white; border: none; border-radius: 14px; font-family: 'Outfit', sans-serif; font-size: 15px; font-weight: 600; cursor: pointer; box-shadow: 0 4px 14px rgba(220, 128, 96, 0.4); }
+        .btn-secondary { padding: 16px 32px; background: transparent; color: var(--color-text-primary); border: 2px solid var(--color-border); border-radius: 14px; font-family: 'Outfit', sans-serif; font-size: 15px; font-weight: 500; cursor: pointer; }
+        
+        .section { padding: 80px 48px; }
+        .section-alt { background: var(--color-background-alt); }
+        .section-content { max-width: 1000px; margin: 0 auto; }
+        .overline { font-size: 14px; font-weight: 600; text-transform: uppercase; letter-spacing: 0.1em; color: var(--color-accent); margin-bottom: 16px; }
+        .section h2 { font-size: 38px; font-weight: 700; line-height: 1.2; letter-spacing: -0.02em; margin-bottom: 24px; }
+        .section-description { font-size: 16px; color: var(--color-text-secondary); max-width: 600px; margin-bottom: 48px; }
+        
+        .palette-grid { display: grid; grid-template-columns: repeat(7, 1fr); gap: 16px; margin-bottom: 48px; }
+        .color-swatch { aspect-ratio: 1; border-radius: 16px; display: flex; flex-direction: column; justify-content: flex-end; padding: 12px; color: white; font-size: 11px; font-weight: 600; }
+        .color-swatch.light-text { color: var(--color-text-primary); }
+        .swatch-label { opacity: 0.9; margin-bottom: 2px; }
+        .swatch-hex { font-family: monospace; font-size: 10px; opacity: 0.8; }
+        
+        .modules-grid { display: grid; grid-template-columns: repeat(7, 1fr); gap: 16px; }
+        .module-card { background: var(--color-white); border: 1px solid var(--color-border); border-radius: 16px; padding: 20px; text-align: center; }
+        .module-icon { width: 48px; height: 48px; margin: 0 auto 12px; }
+        .module-number { font-size: 12px; font-weight: 600; color: var(--color-text-muted); margin-bottom: 4px; }
+        .module-name { font-size: 12px; font-weight: 600; color: var(--color-text-primary); line-height: 1.3; }
+        
+        .logos-grid { display: grid; grid-template-columns: repeat(4, 1fr); gap: 24px; }
+        .logo-demo { padding: 40px; border-radius: 20px; display: flex; flex-direction: column; align-items: center; gap: 16px; }
+        .logo-demo.light { background: var(--color-white); border: 1px solid var(--color-border); }
+        .logo-demo.dark { background: var(--color-text-primary); }
+        .logo-demo svg { width: 64px; height: 64px; }
+        .logo-demo-label { font-size: 12px; font-weight: 500; }
+        .logo-demo.light .logo-demo-label { color: var(--color-text-muted); }
+        .logo-demo.dark .logo-demo-label { color: rgba(255,255,255,0.6); }
+        
+        .components-row { display: flex; gap: 16px; flex-wrap: wrap; margin-bottom: 32px; }
+        .cards-grid { display: grid; grid-template-columns: repeat(4, 1fr); gap: 24px; }
+        .card { border-radius: 20px; padding: 28px; }
+        .card-default { background: var(--color-white); border: 1px solid var(--color-border); }
+        .card-elevated { background: var(--color-white); box-shadow: 0 4px 24px rgba(42, 58, 58, 0.08); }
+        .card-accent { background: var(--color-accent-muted); border: 1px solid rgba(220, 128, 96, 0.2); }
+        .card-primary { background: var(--color-primary-subtle); border: 1px solid rgba(42, 80, 88, 0.15); }
+        .card-title { font-size: 17px; font-weight: 700; margin-bottom: 8px; }
+        .card-text { font-size: 14px; color: var(--color-text-secondary); }
+        .card-label { font-size: 11px; font-weight: 600; color: var(--color-text-muted); margin-bottom: 12px; }
+        
+        .badge-primary { padding: 6px 14px; background: var(--color-primary-muted); color: var(--color-primary); border: 1px solid rgba(72, 120, 120, 0.25); border-radius: 9999px; font-size: 13px; font-weight: 600; }
+        
+        .footer { padding: 64px 48px 32px; background: var(--color-text-primary); color: white; }
+        .footer-content { max-width: 1200px; margin: 0 auto; display: grid; grid-template-columns: 2fr 1fr 1fr 1fr; gap: 48px; }
+        .footer-brand p { font-size: 14px; opacity: 0.7; margin-top: 16px; line-height: 1.6; }
+        .footer-col h4 { font-size: 12px; font-weight: 600; text-transform: uppercase; letter-spacing: 0.1em; color: var(--color-accent); margin-bottom: 16px; }
+        .footer-col a { display: block; font-size: 14px; color: rgba(255,255,255,0.7); text-decoration: none; margin-bottom: 12px; }
+        .footer-bottom { max-width: 1200px; margin: 48px auto 0; padding-top: 24px; border-top: 1px solid rgba(255,255,255,0.1); font-size: 13px; color: rgba(255,255,255,0.5); }
+        
+        .version-badge { display: inline-block; padding: 8px 16px; background: var(--color-primary); color: white; border-radius: 8px; font-size: 12px; font-weight: 600; margin-bottom: 24px; }
+    </style>
+</head>
+<body>
+    <!-- HEADER -->
+    <header class="header">
+        <div class="logo-lockup">
+            <svg viewBox="0 0 48 48" width="44" height="44" fill="none">
+                <defs><radialGradient id="seed1" cx="50%" cy="50%" r="50%"><stop offset="0%" stop-color="#F0A080"/><stop offset="50%" stop-color="#DC8060"/><stop offset="100%" stop-color="#B86848"/></radialGradient></defs>
+                <circle cx="24" cy="24" r="22" stroke="#2A5058" stroke-width="0.8" stroke-dasharray="2.5 1.5" opacity="0.4" fill="none"/>
+                <circle cx="24" cy="24" r="18" stroke="#688888" stroke-width="1.4" opacity="0.55" fill="none"/>
+                <circle cx="24" cy="24" r="14.5" stroke="#889088" stroke-width="1.8" opacity="0.7" fill="none"/>
+                <circle cx="24" cy="24" r="11" stroke="#C48870" stroke-width="2.5" opacity="0.85" fill="none"/>
+                <circle cx="24" cy="24" r="6.5" fill="url(#seed1)"/>
+                <circle cx="23.2" cy="23.2" r="2.8" fill="white" opacity="0.45"/>
+            </svg>
+            <span class="logo-text">Liderar con Consciencia</span>
+        </div>
+        <nav class="nav-links">
+            <a href="#">Programa</a>
+            <a href="#">Módulos</a>
+            <a href="#">Sobre mí</a>
+        </nav>
+        <button class="btn-terciario">Inscribirme</button>
+    </header>
+
+    <!-- HERO -->
+    <section class="hero">
+        <div class="hero-content">
+            <span class="badge-accent">Programa Premium</span>
+            <h1>Liderar con <span>Consciencia</span></h1>
+            <p class="hero-description">La teoría inspira, la consciencia transforma. Un programa de 7 módulos para desarrollar un liderazgo consciente, humano y efectivo.</p>
+            <div class="buttons-group">
+                <button class="btn-primary">Inscribirme ahora</button>
+                <button class="btn-secondary">Ver programa</button>
+            </div>
+        </div>
+    </section>
+
+    <!-- PALETA DE COLORES -->
+    <section class="section section-alt">
+        <div class="section-content">
+            <span class="overline">Identidad Visual</span>
+            <h2>Paleta de Colores</h2>
+            <p class="section-description">Propuesta E: Arcilla & Océano — Transición cálida a fría con mayor contraste y compatibilidad con estética naturalista.</p>
+            
+            <div class="palette-grid">
+                <div class="color-swatch" style="background: var(--color-m1);"><span class="swatch-label">M1 Coral Arcilla</span><span class="swatch-hex">#DC8060</span></div>
+                <div class="color-swatch" style="background: var(--color-m2);"><span class="swatch-label">M2 Arena Rosada</span><span class="swatch-hex">#C48870</span></div>
+                <div class="color-swatch" style="background: var(--color-m3);"><span class="swatch-label">M3 Duna</span><span class="swatch-hex">#A89080</span></div>
+                <div class="color-swatch" style="background: var(--color-m4);"><span class="swatch-label">M4 Niebla</span><span class="swatch-hex">#889088</span></div>
+                <div class="color-swatch" style="background: var(--color-m5);"><span class="swatch-label">M5 Marea</span><span class="swatch-hex">#688888</span></div>
+                <div class="color-swatch" style="background: var(--color-m6);"><span class="swatch-label">M6 Profundidad</span><span class="swatch-hex">#487878</span></div>
+                <div class="color-swatch" style="background: var(--color-m7);"><span class="swatch-label">M7 Océano</span><span class="swatch-hex">#2A5058</span></div>
+            </div>
+        </div>
+    </section>
+
+    <!-- MÓDULOS -->
+    <section class="section">
+        <div class="section-content">
+            <span class="overline">7 Módulos</span>
+            <h2>Iconos de Módulo</h2>
+            <p class="section-description">Cada módulo tiene su color específico de la transición coral arcilla → océano.</p>
+            
+            <div class="modules-grid">
+                <div class="module-card">
+                    <svg class="module-icon" viewBox="0 0 32 32" fill="none"><path d="M16 4C11 4 7 8 7 13c0 3 1.5 5.5 4 7v8h10v-8c2.5-1.5 4-4 4-7 0-5-4-9-9-9z" stroke="#DC8060" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/><path d="M12 15c0-2 2-4 4-4" stroke="#DC8060" stroke-width="2" stroke-linecap="round"/><path d="M11 28h10" stroke="#DC8060" stroke-width="2" stroke-linecap="round"/><circle cx="16" cy="13" r="2" fill="#DC8060" opacity="0.3"/></svg>
+                    <div class="module-number">M1</div><div class="module-name">Lo que soy</div>
+                </div>
+                <div class="module-card">
+                    <svg class="module-icon" viewBox="0 0 32 32" fill="none"><circle cx="16" cy="8" r="4" stroke="#C48870" stroke-width="2"/><path d="M8 28v-6a8 8 0 0116 0v6" stroke="#C48870" stroke-width="2" stroke-linecap="round"/><path d="M10 18h3l2-3 2 6 2-3h3" stroke="#C48870" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+                    <div class="module-number">M2</div><div class="module-name">Cómo estoy</div>
+                </div>
+                <div class="module-card">
+                    <svg class="module-icon" viewBox="0 0 32 32" fill="none"><path d="M16 28l-9-9c-2.5-2.5-2.5-6.5 0-9s6.5-2.5 9 0c2.5-2.5 6.5-2.5 9 0s2.5 6.5 0 9l-9 9z" stroke="#A89080" stroke-width="2" stroke-linejoin="round"/><circle cx="16" cy="15" r="3" stroke="#A89080" stroke-width="1.5"/><path d="M16 12v-2M16 20v2M12 15h-2M22 15h-2" stroke="#A89080" stroke-width="1.5" stroke-linecap="round"/></svg>
+                    <div class="module-number">M3</div><div class="module-name">Lo que pienso-siento</div>
+                </div>
+                <div class="module-card">
+                    <svg class="module-icon" viewBox="0 0 32 32" fill="none"><path d="M16 3L5 8v7c0 7 5 13 11 15 6-2 11-8 11-15V8L16 3z" stroke="#889088" stroke-width="2" stroke-linejoin="round"/><path d="M11 16l3 3 7-7" stroke="#889088" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/></svg>
+                    <div class="module-number">M4</div><div class="module-name">Lo que necesito</div>
+                </div>
+                <div class="module-card">
+                    <svg class="module-icon" viewBox="0 0 32 32" fill="none"><circle cx="10" cy="9" r="3.5" stroke="#688888" stroke-width="2"/><circle cx="22" cy="9" r="3.5" stroke="#688888" stroke-width="2"/><path d="M4 24v-3a6 6 0 016-6h0" stroke="#688888" stroke-width="2" stroke-linecap="round"/><path d="M28 24v-3a6 6 0 00-6-6h0" stroke="#688888" stroke-width="2" stroke-linecap="round"/><circle cx="16" cy="14" r="3.5" stroke="#688888" stroke-width="2"/><path d="M10 28v-2a6 6 0 0112 0v2" stroke="#688888" stroke-width="2" stroke-linecap="round"/></svg>
+                    <div class="module-number">M5</div><div class="module-name">Lo que necesitamos</div>
+                </div>
+                <div class="module-card">
+                    <svg class="module-icon" viewBox="0 0 32 32" fill="none"><circle cx="16" cy="16" r="12" stroke="#487878" stroke-width="2"/><polygon points="16,6 18,14 16,16 14,14" fill="#487878"/><polygon points="16,26 14,18 16,16 18,18" fill="#487878" opacity="0.4"/><circle cx="16" cy="16" r="2" fill="#487878"/><path d="M16 2v2M16 28v2M2 16h2M28 16h2" stroke="#487878" stroke-width="1.5" stroke-linecap="round"/></svg>
+                    <div class="module-number">M6</div><div class="module-name">Lo que quiero</div>
+                </div>
+                <div class="module-card">
+                    <svg class="module-icon" viewBox="0 0 32 32" fill="none"><path d="M16 4l2.5 8h8l-6.5 5 2.5 8-6.5-5-6.5 5 2.5-8-6.5-5h8L16 4z" fill="#2A5058" fill-opacity="0.2" stroke="#2A5058" stroke-width="2" stroke-linejoin="round"/><circle cx="16" cy="16" r="4" fill="#2A5058"/></svg>
+                    <div class="module-number">M7</div><div class="module-name">Lo que está bien</div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- LOGOS -->
+    <section class="section section-alt">
+        <div class="section-content">
+            <span class="overline">Marca</span>
+            <h2>Variantes del Logo</h2>
+            <p class="section-description">Logo principal, favicon y versiones para fondos claros y oscuros.</p>
+            
+            <div class="logos-grid">
+                <div class="logo-demo light">
+                    <svg viewBox="0 0 48 48" fill="none"><defs><radialGradient id="seed2" cx="50%" cy="50%" r="50%"><stop offset="0%" stop-color="#F0A080"/><stop offset="50%" stop-color="#DC8060"/><stop offset="100%" stop-color="#B86848"/></radialGradient></defs><circle cx="24" cy="24" r="22" stroke="#2A5058" stroke-width="0.8" stroke-dasharray="2.5 1.5" opacity="0.4" fill="none"/><circle cx="24" cy="24" r="18" stroke="#688888" stroke-width="1.4" opacity="0.55" fill="none"/><circle cx="24" cy="24" r="14.5" stroke="#889088" stroke-width="1.8" opacity="0.7" fill="none"/><circle cx="24" cy="24" r="11" stroke="#C48870" stroke-width="2.5" opacity="0.85" fill="none"/><circle cx="24" cy="24" r="6.5" fill="url(#seed2)"/><circle cx="23.2" cy="23.2" r="2.8" fill="white" opacity="0.45"/></svg>
+                    <span class="logo-demo-label">Logo Light</span>
+                </div>
+                <div class="logo-demo dark">
+                    <svg viewBox="0 0 48 48" fill="none"><defs><radialGradient id="seed3" cx="50%" cy="50%" r="50%"><stop offset="0%" stop-color="#F0A080"/><stop offset="50%" stop-color="#DC8060"/><stop offset="100%" stop-color="#B86848"/></radialGradient></defs><circle cx="24" cy="24" r="22" stroke="white" stroke-width="0.8" stroke-dasharray="2.5 1.5" opacity="0.25" fill="none"/><circle cx="24" cy="24" r="18" stroke="#6A9898" stroke-width="1.4" opacity="0.6" fill="none"/><circle cx="24" cy="24" r="14.5" stroke="#A8B0A8" stroke-width="1.8" opacity="0.75" fill="none"/><circle cx="24" cy="24" r="11" stroke="#E0A090" stroke-width="2.5" opacity="0.9" fill="none"/><circle cx="24" cy="24" r="6.5" fill="url(#seed3)"/><circle cx="23.2" cy="23.2" r="2.8" fill="white" opacity="0.55"/></svg>
+                    <span class="logo-demo-label">Logo Dark</span>
+                </div>
+                <div class="logo-demo light">
+                    <svg viewBox="0 0 48 48" fill="none"><defs><radialGradient id="seed4" cx="50%" cy="50%" r="50%"><stop offset="0%" stop-color="#F0A080"/><stop offset="50%" stop-color="#DC8060"/><stop offset="100%" stop-color="#B86848"/></radialGradient></defs><circle cx="24" cy="24" r="21" stroke="#2A5058" stroke-width="1.5" opacity="0.5" fill="none"/><circle cx="24" cy="24" r="14" stroke="#889088" stroke-width="2" opacity="0.7" fill="none"/><circle cx="24" cy="24" r="8" stroke="#C48870" stroke-width="3" opacity="0.9" fill="none"/><circle cx="24" cy="24" r="4.5" fill="url(#seed4)"/><circle cx="23.3" cy="23.3" r="1.8" fill="white" opacity="0.5"/></svg>
+                    <span class="logo-demo-label">Favicon</span>
+                </div>
+                <div class="logo-demo light">
+                    <svg viewBox="0 0 160 160" width="64" height="64" fill="none"><defs><radialGradient id="seed5" cx="50%" cy="50%" r="50%"><stop offset="0%" stop-color="#F0A080"/><stop offset="50%" stop-color="#DC8060"/><stop offset="100%" stop-color="#B86848"/></radialGradient></defs><circle cx="80" cy="80" r="75" fill="none" stroke="#2A5058" stroke-width="0.8" stroke-dasharray="2.5 1.5" opacity="0.25"/><circle cx="80" cy="80" r="62" fill="none" stroke="#487878" stroke-width="1" opacity="0.3"/><circle cx="80" cy="80" r="52" fill="none" stroke="#688888" stroke-width="1.2" opacity="0.4"/><circle cx="80" cy="80" r="42" fill="none" stroke="#889088" stroke-width="1.4" opacity="0.5"/><circle cx="80" cy="80" r="32" fill="none" stroke="#A89080" stroke-width="1.5" opacity="0.55"/><circle cx="80" cy="80" r="22" fill="none" stroke="#C48870" stroke-width="2" opacity="0.65"/><circle cx="80" cy="80" r="12" fill="none" stroke="#DC8060" stroke-width="2.5" opacity="0.75"/><circle cx="80" cy="80" r="6" fill="url(#seed5)"/><circle cx="78.5" cy="78.5" r="2.5" fill="white" opacity="0.45"/></svg>
+                    <span class="logo-demo-label">Círculos Decorativos (7)</span>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- COMPONENTES UI -->
+    <section class="section">
+        <div class="section-content">
+            <span class="overline">Sistema de Diseño</span>
+            <h2>Componentes UI</h2>
+            <p class="section-description">Botones, badges y cards siguiendo el diseño original con la nueva paleta.</p>
+            
+            <h3 style="font-size: 16px; color: var(--color-text-muted); margin-bottom: 16px;">Botones</h3>
+            <div class="components-row">
+                <button class="btn-primary">Primario (CTA)</button>
+                <button class="btn-secondary">Secundario (Outline)</button>
+                <button class="btn-terciario">Terciario</button>
+            </div>
+            
+            <h3 style="font-size: 16px; color: var(--color-text-muted); margin: 32px 0 16px;">Badges</h3>
+            <div class="components-row">
+                <span class="badge-primary">Badge Primary</span>
+                <span class="badge-accent">Badge Accent</span>
+            </div>
+            
+            <h3 style="font-size: 16px; color: var(--color-text-muted); margin: 32px 0 16px;">Cards</h3>
+            <div class="cards-grid">
+                <div class="card card-default"><div class="card-label">DEFAULT</div><div class="card-title">Card Default</div><div class="card-text">Con borde sutil y fondo blanco.</div></div>
+                <div class="card card-elevated"><div class="card-label">ELEVATED</div><div class="card-title">Card Elevated</div><div class="card-text">Con sombra suave para destacar.</div></div>
+                <div class="card card-accent"><div class="card-label">ACCENT</div><div class="card-title">Card Accent</div><div class="card-text">Fondo coral arcilla muted.</div></div>
+                <div class="card card-primary"><div class="card-label">PRIMARY</div><div class="card-title">Card Primary</div><div class="card-text">Fondo océano subtle.</div></div>
+            </div>
+        </div>
+    </section>
+
+    <!-- FOOTER -->
+    <footer class="footer">
+        <div class="footer-content">
+            <div class="footer-brand">
+                <svg viewBox="0 0 48 48" width="44" height="44" fill="none"><defs><radialGradient id="seed6" cx="50%" cy="50%" r="50%"><stop offset="0%" stop-color="#F0A080"/><stop offset="50%" stop-color="#DC8060"/><stop offset="100%" stop-color="#B86848"/></radialGradient></defs><circle cx="24" cy="24" r="22" stroke="white" stroke-width="0.8" stroke-dasharray="2.5 1.5" opacity="0.25" fill="none"/><circle cx="24" cy="24" r="18" stroke="#6A9898" stroke-width="1.4" opacity="0.6" fill="none"/><circle cx="24" cy="24" r="14.5" stroke="#A8B0A8" stroke-width="1.8" opacity="0.75" fill="none"/><circle cx="24" cy="24" r="11" stroke="#E0A090" stroke-width="2.5" opacity="0.9" fill="none"/><circle cx="24" cy="24" r="6.5" fill="url(#seed6)"/><circle cx="23.2" cy="23.2" r="2.8" fill="white" opacity="0.55"/></svg>
+                <p>La teoría inspira, la consciencia transforma. Un programa para desarrollar liderazgo consciente, humano y efectivo.</p>
+            </div>
+            <div class="footer-col"><h4>Programa</h4><a href="#">Módulos</a><a href="#">Metodología</a><a href="#">Testimonios</a></div>
+            <div class="footer-col"><h4>Recursos</h4><a href="#">Blog</a><a href="#">Podcast</a><a href="#">Newsletter</a></div>
+            <div class="footer-col"><h4>Contacto</h4><a href="#">Email</a><a href="#">LinkedIn</a><a href="#">Twitter</a></div>
+        </div>
+        <div class="footer-bottom">© 2026 Liderar con Consciencia. Todos los derechos reservados.</div>
+    </footer>
+
+    <!-- VERSION INFO -->
+    <div style="text-align: center; padding: 40px; background: var(--color-primary-subtle);">
+        <span class="version-badge">v3.0 — Propuesta E: Arcilla & Océano</span>
+        <h3 style="font-size: 16px; color: var(--color-primary); margin-bottom: 8px;">Identidad Visual Actualizada</h3>
+        <p style="font-size: 14px; color: var(--color-text-secondary);">Opción B: Solo cambios de color, diseño original preservado</p>
+    </div>
+</body>
+</html>

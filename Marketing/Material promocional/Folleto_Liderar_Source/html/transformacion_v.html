@@ -1,0 +1,207 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <style>
+        @font-face { font-family: "Inter"; src: url("../fonts/Inter-Regular.woff2") format("woff2"); font-weight: 400; } 
+        @font-face { font-family: "Inter"; src: url("../fonts/Inter-Bold.woff2") format("woff2"); font-weight: 700; } 
+        @font-face { font-family: "Playfair Display"; src: url("../fonts/PlayfairDisplay-Regular.ttf") format("truetype"); font-weight: 400; } 
+        @font-face { font-family: "Playfair Display"; src: url("../fonts/PlayfairDisplay-Bold.ttf") format("truetype"); font-weight: 700; } 
+        @font-face { font-family: "Playfair Display"; src: url("../fonts/PlayfairDisplay-Italic.ttf") format("truetype"); font-style: italic; }
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body { font-family: 'Inter', sans-serif; }
+        .slide-container {
+            width: 210mm;
+            height: 297mm;
+            position: relative;
+            overflow: hidden;
+            background-color: #0D1F23;
+            color: white;
+            padding: 20mm 15mm;
+            display: flex;
+            flex-direction: column;
+        }
+        
+        .header {
+            text-align: center;
+            margin-bottom: 60px;
+        }
+        .tag {
+            color: #E8956E;
+            font-size: 12px;
+            font-weight: 600;
+            letter-spacing: 0.3em;
+            text-transform: uppercase;
+            margin-bottom: 20px;
+            display: block;
+        }
+        h2 {
+            font-family: 'Playfair Display', serif;
+            font-size: 48px;
+            line-height: 1.1;
+            font-weight: 700;
+            color: white;
+        }
+
+        .comparison-container {
+            display: flex;
+            gap: 40px;
+            flex-grow: 1;
+        }
+
+        .col {
+            flex: 1;
+            display: flex;
+            flex-direction: column;
+            gap: 30px;
+        }
+
+        .col-header {
+            border-bottom: 1px solid rgba(255,255,255,0.1);
+            padding-bottom: 20px;
+            margin-bottom: 10px;
+        }
+
+        .col-title {
+            font-family: 'Playfair Display', serif;
+            font-size: 24px;
+            font-weight: 600;
+            margin-bottom: 5px;
+            display: block;
+        }
+        
+        .col-subtitle {
+            font-size: 13px;
+            text-transform: uppercase;
+            letter-spacing: 0.1em;
+            opacity: 0.6;
+        }
+
+        .left-col .col-title { color: rgba(255,255,255,0.5); }
+        .right-col .col-title { color: #E8956E; }
+
+        .item {
+            position: relative;
+            padding-left: 20px;
+        }
+        
+        .left-col .item { border-left: 2px solid rgba(255,255,255,0.1); }
+        .right-col .item { border-left: 2px solid #E8956E; }
+
+        .item-title {
+            font-weight: 600;
+            font-size: 16px;
+            margin-bottom: 5px;
+            display: block;
+        }
+        .left-col .item-title { color: rgba(255,255,255,0.7); }
+        .right-col .item-title { color: white; }
+
+        .item-desc {
+            font-size: 14px;
+            line-height: 1.5;
+            color: rgba(255,255,255,0.6);
+        }
+
+        .arrow-divider {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            width: 40px;
+        }
+        .arrow-line {
+            width: 1px;
+            height: 80%;
+            background: linear-gradient(to bottom, transparent, #E8956E, transparent);
+        }
+
+        .footer-quote {
+            margin-top: 40px;
+            text-align: center;
+            font-family: 'Playfair Display', serif;
+            font-size: 24px;
+            font-style: italic;
+            color: white;
+            padding: 30px;
+            background: rgba(255,255,255,0.03);
+        }
+    </style>
+</head>
+<body>
+    <div class="slide-container">
+        <div class="header">
+            <span class="tag">El impacto</span>
+            <h2>Una transformación real</h2>
+        </div>
+
+        <div class="comparison-container">
+            <!-- Left: Before -->
+            <div class="col left-col">
+                <div class="col-header">
+                    <span class="col-title">Líder Reactivo</span>
+                    <span class="col-subtitle">Estado actual</span>
+                </div>
+
+                <div class="item">
+                    <span class="item-title">Piloto Automático</span>
+                    <span class="item-desc">Reacciona a estímulos sin pausa ni elección. Es esclavo de sus patrones.</span>
+                </div>
+
+                <div class="item">
+                    <span class="item-title">Atención Fragmentada</span>
+                    <span class="item-desc">Multitasking constante. No está presente en ninguna parte.</span>
+                </div>
+
+                <div class="item">
+                    <span class="item-title">Desconexión</span>
+                    <span class="item-desc">No siente su cuerpo ni percibe realmente al otro. Lidera desde la cabeza.</span>
+                </div>
+
+                <div class="item">
+                    <span class="item-title">Agotamiento</span>
+                    <span class="item-desc">El esfuerzo es insostenible porque lucha contra la realidad.</span>
+                </div>
+            </div>
+
+            <!-- Divider -->
+            <div class="arrow-divider">
+                <div class="arrow-line"></div>
+            </div>
+
+            <!-- Right: After -->
+            <div class="col right-col">
+                <div class="col-header">
+                    <span class="col-title">Líder Consciente</span>
+                    <span class="col-subtitle">Estado deseado</span>
+                </div>
+
+                <div class="item">
+                    <span class="item-title">Dirección Intencional</span>
+                    <span class="item-desc">Crea espacio entre estímulo y respuesta. Elige cómo actuar.</span>
+                </div>
+
+                <div class="item">
+                    <span class="item-title">Presencia Plena</span>
+                    <span class="item-desc">Entrena su atención para estar donde decide estar. Escucha de verdad.</span>
+                </div>
+
+                <div class="item">
+                    <span class="item-title">Conexión Profunda</span>
+                    <span class="item-desc">Usa su cuerpo como radar y conecta con empatía sabia.</span>
+                </div>
+
+                <div class="item">
+                    <span class="item-title">Sostenibilidad</span>
+                    <span class="item-desc">Lidera desde un lugar de calma y claridad, regenerando su energía.</span>
+                </div>
+            </div>
+        </div>
+
+        <div class="footer-quote">
+            "No cambiamos lo que vemos.
+            <br>
+            Cambiamos la forma en que miramos."
+        </div>
+    </div>
+</body>
+</html>

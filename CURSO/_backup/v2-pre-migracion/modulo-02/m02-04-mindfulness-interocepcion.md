@@ -72,7 +72,7 @@ El impacto del mindfulness en la interocepción cuenta con respaldo neurocientí
 Se ha encontrado un incremento de la activación de la ínsula en individuos tras un curso MBSR, comparado con sujetos sin práctica de mindfulness[^1]. El mismo estudio detectó mayor activación de la corteza somatosensorial secundaria —estructura relevante para el procesamiento de eventos sensoriales exteroceptivos.
 
 #imagen
-![img-m02-corteza-meditadores](recursos/imagenes/img-m02-corteza-meditadores.png) Panel científico titulado "Cortical areas thicker in meditators" con fondo beige. Contiene: imagen de resonancia magnética de un cerebro en vista lateral con áreas coloreadas (ínsula señalada en verde/amarillo, corteza prefrontal en rojo), y debajo dos gráficos de dispersión comparando el grosor cortical de la Ínsula (izquierda) y la corteza Prefrontal (derecha) entre meditadores (puntos azules) y controles (puntos rojos) según la edad.[^2][^3]
+![img-m02-corteza-meditadores](../../../modulo-02-consciente-de-como-estoy/recursos/imagenes/img-m02-corteza-meditadores.png) Panel científico titulado "Cortical areas thicker in meditators" con fondo beige. Contiene: imagen de resonancia magnética de un cerebro en vista lateral con áreas coloreadas (ínsula señalada en verde/amarillo, corteza prefrontal en rojo), y debajo dos gráficos de dispersión comparando el grosor cortical de la Ínsula (izquierda) y la corteza Prefrontal (derecha) entre meditadores (puntos azules) y controles (puntos rojos) según la edad.[^2][^3]
 
 En otro estudio, participantes que habían completado entrenamiento mindfulness mostraron mayor activación de la ínsula derecha ante imágenes tristes[^4]. La práctica no desconecta de lo emocional; afina la capacidad de registrarlo.
 

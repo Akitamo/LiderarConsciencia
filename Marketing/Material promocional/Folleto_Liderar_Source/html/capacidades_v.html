@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <style>
+        @font-face { font-family: "Inter"; src: url("../fonts/Inter-Regular.woff2") format("woff2"); font-weight: 400; } 
+        @font-face { font-family: "Inter"; src: url("../fonts/Inter-Bold.woff2") format("woff2"); font-weight: 700; } 
+        @font-face { font-family: "Playfair Display"; src: url("../fonts/PlayfairDisplay-Regular.ttf") format("truetype"); font-weight: 400; } 
+        @font-face { font-family: "Playfair Display"; src: url("../fonts/PlayfairDisplay-Bold.ttf") format("truetype"); font-weight: 700; } 
+        @font-face { font-family: "Playfair Display"; src: url("../fonts/PlayfairDisplay-Italic.ttf") format("truetype"); font-style: italic; }
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body { font-family: 'Inter', sans-serif; }
+        .slide-container {
+            width: 210mm;
+            height: 297mm;
+            position: relative;
+            overflow: hidden;
+            background-color: #0D1F23;
+            color: white;
+            padding: 20mm 15mm;
+            display: flex;
+            flex-direction: column;
+        }
+        
+        .header {
+            margin-bottom: 60px;
+            border-bottom: 1px solid rgba(232,149,110,0.3);
+            padding-bottom: 30px;
+        }
+
+        .tag {
+            color: #E8956E;
+            font-size: 12px;
+            font-weight: 600;
+            letter-spacing: 0.3em;
+            text-transform: uppercase;
+            margin-bottom: 16px;
+            display: block;
+        }
+
+        h2 {
+            font-family: 'Playfair Display', serif;
+            font-size: 48px;
+            line-height: 1.1;
+            font-weight: 700;
+            color: white;
+        }
+
+        .list-container {
+            display: flex;
+            flex-direction: column;
+            gap: 40px;
+            padding-left: 20px;
+            border-left: 2px solid rgba(255,255,255,0.1);
+        }
+
+        .item {
+            position: relative;
+        }
+        
+        .item::before {
+            content: '';
+            position: absolute;
+            top: 10px;
+            left: -26px; /* Align with border */
+            width: 10px;
+            height: 10px;
+            background-color: #E8956E;
+            border-radius: 50%;
+        }
+
+        .item-title {
+            font-family: 'Playfair Display', serif;
+            font-size: 24px;
+            font-weight: 600;
+            color: #E8956E;
+            margin-bottom: 8px;
+            display: block;
+        }
+
+        .item-desc {
+            font-size: 16px;
+            line-height: 1.6;
+            color: rgba(255,255,255,0.8);
+            font-weight: 300;
+            max-width: 600px;
+        }
+    </style>
+</head>
+<body>
+    <div class="slide-container">
+        <div class="header">
+            <span class="tag">El perfil del líder</span>
+            <h2>Capacidades que desarrollarás</h2>
+        </div>
+
+        <div class="list-container">
+            <div class="item">
+                <span class="item-title">Humildad epistemológica</span>
+                <span class="item-desc">Sabe que su cerebro construye la realidad, no la percibe. Conoce sus límites cognitivos y lidera desde esa honestidad.</span>
+            </div>
+
+            <div class="item">
+                <span class="item-title">Arraigo corporal</span>
+                <span class="item-desc">Usa el cuerpo como fuente de información y anclaje al presente. No lidera solo desde la cabeza.</span>
+            </div>
+
+            <div class="item">
+                <span class="item-title">Espacio interior</span>
+                <span class="item-desc">Crea pausa entre estímulo y respuesta. Decide, no reacciona.</span>
+            </div>
+
+            <div class="item">
+                <span class="item-title">Compasión sabia</span>
+                <span class="item-desc">Extiende consciencia hacia el otro con sabiduría y acción, no solo empatía pasiva.</span>
+            </div>
+
+            <div class="item">
+                <span class="item-title">Dirección intencional</span>
+                <span class="item-desc">Elige hacia dónde apuntar su atención y su energía. No opera en piloto automático.</span>
+            </div>
+
+            <div class="item">
+                <span class="item-title">Acción ética</span>
+                <span class="item-desc">Traduce consciencia en decisiones alineadas con sus valores. Coherencia entre lo que dice y lo que hace.</span>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

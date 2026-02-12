@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <style>
+        @font-face { font-family: "Inter"; src: url("../fonts/Inter-Regular.woff2") format("woff2"); font-weight: 400; } 
+        @font-face { font-family: "Inter"; src: url("../fonts/Inter-Bold.woff2") format("woff2"); font-weight: 700; } 
+        @font-face { font-family: "Playfair Display"; src: url("../fonts/PlayfairDisplay-Regular.ttf") format("truetype"); font-weight: 400; } 
+        @font-face { font-family: "Playfair Display"; src: url("../fonts/PlayfairDisplay-Bold.ttf") format("truetype"); font-weight: 700; } 
+        @font-face { font-family: "Playfair Display"; src: url("../fonts/PlayfairDisplay-Italic.ttf") format("truetype"); font-style: italic; }
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body { font-family: 'Inter', sans-serif; }
+        .slide-container {
+            width: 210mm;
+            height: 297mm;
+            position: relative;
+            overflow: hidden;
+            background-color: #0D1F23;
+            color: white;
+            padding: 100px 80px;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+        }
+        
+        .tag {
+            color: #E8956E;
+            font-size: 12px;
+            font-weight: 600;
+            letter-spacing: 0.3em;
+            text-transform: uppercase;
+            margin-bottom: 60px;
+            display: block;
+            border-top: 1px solid #E8956E;
+            padding-top: 20px;
+            width: 60px;
+        }
+
+        .main-quote {
+            font-family: 'Playfair Display', serif;
+            font-size: 42px;
+            line-height: 1.3;
+            font-weight: 400;
+            margin-bottom: 80px;
+        }
+
+        .highlight {
+            color: #E8956E;
+            font-style: italic;
+        }
+
+        .secondary-text {
+            font-size: 20px;
+            line-height: 1.6;
+            color: rgba(255,255,255,0.8);
+            font-weight: 300;
+            max-width: 500px;
+            margin-left: auto; /* Align right for asymmetry */
+            border-left: 1px solid rgba(255,255,255,0.2);
+            padding-left: 40px;
+        }
+        
+        .bold-white {
+            color: white;
+            font-weight: 600;
+        }
+    </style>
+</head>
+<body>
+    <div class="slide-container">
+        <div class="tag">La Propuesta</div>
+
+        <div class="main-quote">
+            Entre lo que sabes y cómo lideras hay una distancia.
+            <br><br>
+            Se llama <span class="highlight">atención</span>.
+            <br>
+            Se llama <span class="highlight">presencia</span>.
+            <br><br>
+            Un músculo interno que, cuando se fortalece, te permite ser consciente de lo que cada momento necesita y responder desde ahí.
+        </div>
+
+        <div class="secondary-text">
+            <span class="bold-white">Liderar con Consciencia</span> es un programa formativo diseñado para desarrollar ese músculo.
+            <br><br>
+            Porque la consciencia no se enseña.
+            <br>
+            <span class="bold-white">Se entrena.</span>
+        </div>
+    </div>
+</body>
+</html>

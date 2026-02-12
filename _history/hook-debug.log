@@ -710,3 +710,270 @@
 [2026-01-27T12:12:15.550Z] Resumen final generado correctamente
 [2026-01-27T12:12:15.552Z] Resumen guardado en: C:\dev\projects\LiderarConsciencia\_history\sessions\2026-01-27-131215-migracion-de-estructura-del-curso-lidera.md
 [2026-01-27T12:12:15.552Z] === Fin hook save-session (OK) ===
+[2026-01-28T06:45:00.920Z] === Inicio hook save-session (v2 - jerárquico) ===
+[2026-01-28T06:45:00.925Z] Leyendo datos de stdin...
+[2026-01-28T06:45:00.928Z] Datos recibidos: session_id=ca1c788a-29e4-4179-85d5-ca832a0d517b, reason=other
+[2026-01-28T06:45:00.928Z] Leyendo transcripción desde: C:\Users\aluni\.claude\projects\C--dev-projects-LiderarConsciencia\ca1c788a-29e4-4179-85d5-ca832a0d517b.jsonl
+[2026-01-28T06:45:00.929Z] ERROR: Archivo de transcripción no encontrado: C:\Users\aluni\.claude\projects\C--dev-projects-LiderarConsciencia\ca1c788a-29e4-4179-85d5-ca832a0d517b.jsonl
+[2026-01-28T06:45:00.930Z] === Fin hook save-session (ERROR) ===
+[2026-01-31T09:42:14.387Z] === Inicio hook save-session (v2 - jerárquico) ===
+[2026-01-31T09:42:14.395Z] Leyendo datos de stdin...
+[2026-01-31T09:42:14.411Z] Datos recibidos: session_id=1e6e19d7-14e7-455d-b0a2-38db55578495, reason=prompt_input_exit
+[2026-01-31T09:42:14.411Z] Leyendo transcripción desde: C:\Users\aluni\.claude\projects\C--dev-projects-LiderarConsciencia\1e6e19d7-14e7-455d-b0a2-38db55578495.jsonl
+[2026-01-31T09:42:14.416Z] Mensajes encontrados: 13
+[2026-01-31T09:42:14.417Z] Total caracteres en sesión: 2580
+[2026-01-31T09:42:14.417Z] Sesión corta - usando estrategia de pasada única con Sonnet
+[2026-01-31T09:42:21.732Z] Resumen final generado correctamente
+[2026-01-31T09:42:21.738Z] Resumen guardado en: C:\dev\projects\LiderarConsciencia\_history\sessions\2026-01-31-104221-instalacion-obsidian-skills-en-claude-co.md
+[2026-01-31T09:42:21.739Z] === Fin hook save-session (OK) ===
+[2026-02-03T07:09:12.723Z] === Inicio hook save-session (v2 - jerárquico) ===
+[2026-02-03T07:09:12.728Z] Leyendo datos de stdin...
+[2026-02-03T07:09:12.733Z] Datos recibidos: session_id=7d6cf4db-b486-4fd6-9dfb-8f5f05563712, reason=other
+[2026-02-03T07:09:12.733Z] Leyendo transcripción desde: C:\Users\aluni\.claude\projects\C--dev-projects-LiderarConsciencia\7d6cf4db-b486-4fd6-9dfb-8f5f05563712.jsonl
+[2026-02-03T07:09:12.736Z] ERROR: Archivo de transcripción no encontrado: C:\Users\aluni\.claude\projects\C--dev-projects-LiderarConsciencia\7d6cf4db-b486-4fd6-9dfb-8f5f05563712.jsonl
+[2026-02-03T07:09:12.738Z] === Fin hook save-session (ERROR) ===
+[2026-02-05T16:51:10.370Z] === Inicio hook save-session (v2 - jerárquico) ===
+[2026-02-05T16:51:10.488Z] Leyendo datos de stdin...
+[2026-02-05T16:51:10.503Z] Datos recibidos: session_id=cd0b2db8-7007-46fb-9fa0-16d8ae60f264, reason=other
+[2026-02-05T16:51:10.504Z] Leyendo transcripción desde: C:\Users\aluni\.claude\projects\C--dev-projects-LiderarConsciencia\cd0b2db8-7007-46fb-9fa0-16d8ae60f264.jsonl
+[2026-02-05T16:51:10.514Z] ERROR: Archivo de transcripción no encontrado: C:\Users\aluni\.claude\projects\C--dev-projects-LiderarConsciencia\cd0b2db8-7007-46fb-9fa0-16d8ae60f264.jsonl
+[2026-02-05T16:51:10.516Z] === Fin hook save-session (ERROR) ===
+[2026-02-05T16:51:36.320Z] === Inicio hook save-session (v2 - jerárquico) ===
+[2026-02-05T16:51:36.331Z] Leyendo datos de stdin...
+[2026-02-05T16:51:36.340Z] Datos recibidos: session_id=556c8cbf-9b4e-42d9-ae9c-948098a65998, reason=other
+[2026-02-05T16:51:36.343Z] Leyendo transcripción desde: C:\Users\aluni\.claude\projects\C--dev-projects-LiderarConsciencia\556c8cbf-9b4e-42d9-ae9c-948098a65998.jsonl
+[2026-02-05T16:51:36.346Z] ERROR: Archivo de transcripción no encontrado: C:\Users\aluni\.claude\projects\C--dev-projects-LiderarConsciencia\556c8cbf-9b4e-42d9-ae9c-948098a65998.jsonl
+[2026-02-05T16:51:36.347Z] === Fin hook save-session (ERROR) ===
+[2026-02-05T17:19:43.343Z] === Inicio hook save-session (v2 - jerárquico) ===
+[2026-02-05T17:19:43.351Z] Leyendo datos de stdin...
+[2026-02-05T17:19:43.355Z] Datos recibidos: session_id=83c2919f-91d2-41ae-be4e-2f842fd8afde, reason=clear
+[2026-02-05T17:19:43.356Z] Leyendo transcripción desde: C:\Users\aluni\.claude\projects\C--dev-projects-LiderarConsciencia\83c2919f-91d2-41ae-be4e-2f842fd8afde.jsonl
+[2026-02-05T17:19:43.368Z] Mensajes encontrados: 15
+[2026-02-05T17:19:43.369Z] Total caracteres en sesión: 2844
+[2026-02-05T17:19:43.369Z] Sesión corta - usando estrategia de pasada única con Sonnet
+[2026-02-05T17:19:43.657Z] ERROR: API error: 400 - {"type":"error","error":{"type":"invalid_request_error","message":"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."},"request_id":"req_011CXqJeoy4PtKbTkpmW9kBu"}
+[2026-02-05T17:19:43.658Z] === Fin hook save-session (ERROR) ===
+[2026-02-06T05:00:34.597Z] === Inicio hook save-session (v2 - jerárquico) ===
+[2026-02-06T05:00:34.601Z] Leyendo datos de stdin...
+[2026-02-06T05:00:34.605Z] Datos recibidos: session_id=9ee31b53-f0c7-413b-b46a-f244e67f2b68, reason=other
+[2026-02-06T05:00:34.605Z] Leyendo transcripción desde: C:\Users\aluni\.claude\projects\C--dev-projects-LiderarConsciencia\9ee31b53-f0c7-413b-b46a-f244e67f2b68.jsonl
+[2026-02-06T05:00:34.607Z] ERROR: Archivo de transcripción no encontrado: C:\Users\aluni\.claude\projects\C--dev-projects-LiderarConsciencia\9ee31b53-f0c7-413b-b46a-f244e67f2b68.jsonl
+[2026-02-06T05:00:34.607Z] === Fin hook save-session (ERROR) ===
+[2026-02-06T06:13:31.664Z] === Inicio hook save-session (v2 - jerárquico) ===
+[2026-02-06T06:13:31.672Z] Leyendo datos de stdin...
+[2026-02-06T06:13:31.676Z] Datos recibidos: session_id=1ba1d07a-c80a-435e-8cf9-34fbd6e5d0d3, reason=clear
+[2026-02-06T06:13:31.676Z] Leyendo transcripción desde: C:\Users\aluni\.claude\projects\C--dev-projects-LiderarConsciencia\1ba1d07a-c80a-435e-8cf9-34fbd6e5d0d3.jsonl
+[2026-02-06T06:13:31.683Z] Mensajes encontrados: 18
+[2026-02-06T06:13:31.684Z] Error leyendo prompt: ENOENT: no such file or directory, open 'C:\dev\projects\LiderarConsciencia\_ai\prompts\session-summary.md'
+[2026-02-06T06:13:31.684Z] Total caracteres en sesión: 3527
+[2026-02-06T06:13:31.685Z] Sesión corta - usando estrategia de pasada única con Sonnet
+[2026-02-06T06:13:32.102Z] ERROR: API error: 400 - {"type":"error","error":{"type":"invalid_request_error","message":"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."},"request_id":"req_011CXrKfGCkgtnKtjZKMZrWG"}
+[2026-02-06T06:13:32.103Z] === Fin hook save-session (ERROR) ===
+[2026-02-06T08:34:44.949Z] === Inicio hook save-session (v2 - jerárquico) ===
+[2026-02-06T08:34:44.968Z] Leyendo datos de stdin...
+[2026-02-06T08:34:44.975Z] Datos recibidos: session_id=38d8db97-7a53-43a1-94b0-eee849e33b0e, reason=prompt_input_exit
+[2026-02-06T08:34:44.976Z] Leyendo transcripción desde: C:\Users\aluni\.claude\projects\C--dev-projects-LiderarConsciencia\38d8db97-7a53-43a1-94b0-eee849e33b0e.jsonl
+[2026-02-06T08:34:45.181Z] Mensajes encontrados: 90
+[2026-02-06T08:34:45.181Z] Error leyendo prompt: ENOENT: no such file or directory, open 'C:\dev\projects\LiderarConsciencia\_ai\prompts\session-summary.md'
+[2026-02-06T08:34:45.182Z] Total caracteres en sesión: 50879
+[2026-02-06T08:34:45.182Z] Sesión larga - usando estrategia jerárquica (Haiku + Sonnet)
+[2026-02-06T08:34:45.182Z] Sesión dividida en 10 chunks
+[2026-02-06T08:34:45.183Z] Generando mini-resúmenes con Haiku...
+[2026-02-06T08:34:45.183Z] Procesando chunk 1/10 (7959 chars)...
+[2026-02-06T08:34:45.611Z] Error en chunk 1: API error: 400 - {"type":"error","error":{"type":"invalid_request_error","message":"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."},"request_id":"req_011CXrWRtbefzLcQc2WANq8W"}
+[2026-02-06T08:34:45.815Z] Procesando chunk 2/10 (6330 chars)...
+[2026-02-06T08:34:45.985Z] Error en chunk 2: API error: 400 - {"type":"error","error":{"type":"invalid_request_error","message":"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."},"request_id":"req_011CXrWRvUWs5BLrz26AtNt6"}
+[2026-02-06T08:34:46.191Z] Procesando chunk 3/10 (8043 chars)...
+[2026-02-06T08:34:46.367Z] Error en chunk 3: API error: 400 - {"type":"error","error":{"type":"invalid_request_error","message":"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."},"request_id":"req_011CXrWRx7zCpnbdJdz1bXUC"}
+[2026-02-06T08:34:46.580Z] Procesando chunk 4/10 (7134 chars)...
+[2026-02-06T08:34:46.744Z] Error en chunk 4: API error: 400 - {"type":"error","error":{"type":"invalid_request_error","message":"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."},"request_id":"req_011CXrWRykhyFrhgYtW4M4tZ"}
+[2026-02-06T08:34:46.954Z] Procesando chunk 5/10 (13201 chars)...
+[2026-02-06T08:34:47.230Z] Error en chunk 5: API error: 400 - {"type":"error","error":{"type":"invalid_request_error","message":"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."},"request_id":"req_011CXrWS1RAzinCVkEJyq1f2"}
+[2026-02-06T08:34:47.439Z] Procesando chunk 6/10 (12577 chars)...
+[2026-02-06T08:34:47.620Z] Error en chunk 6: API error: 400 - {"type":"error","error":{"type":"invalid_request_error","message":"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."},"request_id":"req_011CXrWS3PyysLC5yfgQ35Rg"}
+[2026-02-06T08:34:47.824Z] Procesando chunk 7/10 (12750 chars)...
+[2026-02-06T08:34:48.000Z] Error en chunk 7: API error: 400 - {"type":"error","error":{"type":"invalid_request_error","message":"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."},"request_id":"req_011CXrWS53hhDmHMVoFxqwYb"}
+[2026-02-06T08:34:48.214Z] Procesando chunk 8/10 (13320 chars)...
+[2026-02-06T08:34:48.364Z] Error en chunk 8: API error: 400 - {"type":"error","error":{"type":"invalid_request_error","message":"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."},"request_id":"req_011CXrWS6hv75iT9Fai2quTW"}
+[2026-02-06T08:34:48.571Z] Procesando chunk 9/10 (5635 chars)...
+[2026-02-06T08:34:48.899Z] Error en chunk 9: API error: 400 - {"type":"error","error":{"type":"invalid_request_error","message":"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."},"request_id":"req_011CXrWS8MPaFkiMFxX9vmMF"}
+[2026-02-06T08:34:49.113Z] Procesando chunk 10/10 (7723 chars)...
+[2026-02-06T08:34:49.304Z] Error en chunk 10: API error: 400 - {"type":"error","error":{"type":"invalid_request_error","message":"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."},"request_id":"req_011CXrWSAZqpnoRddSCnHvs3"}
+[2026-02-06T08:34:49.517Z] Mini-resúmenes generados: 10
+[2026-02-06T08:34:49.520Z] Consolidando con Sonnet...
+[2026-02-06T08:34:49.691Z] ERROR: API error: 400 - {"type":"error","error":{"type":"invalid_request_error","message":"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."},"request_id":"req_011CXrWSCJ29v9KWTQzMowjA"}
+[2026-02-06T08:34:49.692Z] === Fin hook save-session (ERROR) ===
+[2026-02-06T10:46:22.591Z] === Inicio hook save-session (v2 - jerárquico) ===
+[2026-02-06T10:46:22.621Z] Leyendo datos de stdin...
+[2026-02-06T10:46:22.705Z] Datos recibidos: session_id=b7797278-7594-46db-8ddd-213e99494c9e, reason=clear
+[2026-02-06T10:46:22.706Z] Leyendo transcripción desde: C:\Users\aluni\.claude\projects\C--dev-projects-LiderarConsciencia\b7797278-7594-46db-8ddd-213e99494c9e.jsonl
+[2026-02-06T10:46:22.753Z] Mensajes encontrados: 19
+[2026-02-06T10:46:22.754Z] Error leyendo prompt: ENOENT: no such file or directory, open 'C:\dev\projects\LiderarConsciencia\_ai\prompts\session-summary.md'
+[2026-02-06T10:46:22.755Z] Total caracteres en sesión: 5694
+[2026-02-06T10:46:22.755Z] Sesión corta - usando estrategia de pasada única con Sonnet
+[2026-02-06T10:46:23.258Z] ERROR: API error: 400 - {"type":"error","error":{"type":"invalid_request_error","message":"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."},"request_id":"req_011CXrgU4vyjopvbhSn8shmh"}
+[2026-02-06T10:46:23.259Z] === Fin hook save-session (ERROR) ===
+[2026-02-06T13:08:16.704Z] === Inicio hook save-session (v2 - jerárquico) ===
+[2026-02-06T13:08:16.713Z] Leyendo datos de stdin...
+[2026-02-06T13:08:16.719Z] Datos recibidos: session_id=4f3033a8-e275-4d6c-a1f8-d9e463bd9c9a, reason=prompt_input_exit
+[2026-02-06T13:08:16.720Z] Leyendo transcripción desde: C:\Users\aluni\.claude\projects\C--dev-projects-LiderarConsciencia\4f3033a8-e275-4d6c-a1f8-d9e463bd9c9a.jsonl
+[2026-02-06T13:08:16.781Z] Mensajes encontrados: 124
+[2026-02-06T13:08:16.782Z] Error leyendo prompt: ENOENT: no such file or directory, open 'C:\dev\projects\LiderarConsciencia\_ai\prompts\session-summary.md'
+[2026-02-06T13:08:16.782Z] Total caracteres en sesión: 70787
+[2026-02-06T13:08:16.783Z] Sesión larga - usando estrategia jerárquica (Haiku + Sonnet)
+[2026-02-06T13:08:16.783Z] Alcanzado límite de 20 chunks
+[2026-02-06T13:08:16.784Z] Sesión dividida en 21 chunks
+[2026-02-06T13:08:16.784Z] Generando mini-resúmenes con Haiku...
+[2026-02-06T13:08:16.784Z] Procesando chunk 1/21 (24126 chars)...
+[2026-02-06T13:08:17.091Z] Error en chunk 1: API error: 400 - {"type":"error","error":{"type":"invalid_request_error","message":"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."},"request_id":"req_011CXrsHfSrPVsGqgsNvgtAx"}
+[2026-02-06T13:08:17.295Z] Procesando chunk 2/21 (24250 chars)...
+[2026-02-06T13:08:17.520Z] Error en chunk 2: API error: 400 - {"type":"error","error":{"type":"invalid_request_error","message":"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."},"request_id":"req_011CXrsHh5qDqqytngewxRbG"}
+[2026-02-06T13:08:17.725Z] Procesando chunk 3/21 (24370 chars)...
+[2026-02-06T13:08:17.888Z] Error en chunk 3: API error: 400 - {"type":"error","error":{"type":"invalid_request_error","message":"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."},"request_id":"req_011CXrsHitiqEdj49LuPujxd"}
+[2026-02-06T13:08:18.104Z] Procesando chunk 4/21 (24512 chars)...
+[2026-02-06T13:08:18.374Z] Error en chunk 4: API error: 400 - {"type":"error","error":{"type":"invalid_request_error","message":"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."},"request_id":"req_011CXrsHkXT1CiALyVnRgMdu"}
+[2026-02-06T13:08:18.586Z] Procesando chunk 5/21 (24582 chars)...
+[2026-02-06T13:08:18.776Z] Error en chunk 5: API error: 400 - {"type":"error","error":{"type":"invalid_request_error","message":"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."},"request_id":"req_011CXrsHncxHvUsy6gLD718E"}
+[2026-02-06T13:08:18.993Z] Procesando chunk 6/21 (24642 chars)...
+[2026-02-06T13:08:19.206Z] Error en chunk 6: API error: 400 - {"type":"error","error":{"type":"invalid_request_error","message":"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."},"request_id":"req_011CXrsHpKuEoQEC7kdSNN5c"}
+[2026-02-06T13:08:19.411Z] Procesando chunk 7/21 (24812 chars)...
+[2026-02-06T13:08:19.689Z] Error en chunk 7: API error: 400 - {"type":"error","error":{"type":"invalid_request_error","message":"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."},"request_id":"req_011CXrsHrAH6adrsMJ6wxrWZ"}
+[2026-02-06T13:08:19.896Z] Procesando chunk 8/21 (8159 chars)...
+[2026-02-06T13:08:20.061Z] Error en chunk 8: API error: 400 - {"type":"error","error":{"type":"invalid_request_error","message":"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."},"request_id":"req_011CXrsHtA5w9a8CD6wkbzp8"}
+[2026-02-06T13:08:20.271Z] Procesando chunk 9/21 (5197 chars)...
+[2026-02-06T13:08:20.464Z] Error en chunk 9: API error: 400 - {"type":"error","error":{"type":"invalid_request_error","message":"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."},"request_id":"req_011CXrsHuqHpFuS8SQUFJX9D"}
+[2026-02-06T13:08:20.677Z] Procesando chunk 10/21 (13389 chars)...
+[2026-02-06T13:08:20.863Z] Error en chunk 10: API error: 400 - {"type":"error","error":{"type":"invalid_request_error","message":"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."},"request_id":"req_011CXrsHwXEsAbPTKwVGWEnJ"}
+[2026-02-06T13:08:21.068Z] Procesando chunk 11/21 (12514 chars)...
+[2026-02-06T13:08:21.245Z] Error en chunk 11: API error: 400 - {"type":"error","error":{"type":"invalid_request_error","message":"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."},"request_id":"req_011CXrsHyCSibS5peBZAaEG9"}
+[2026-02-06T13:08:21.451Z] Procesando chunk 12/21 (12630 chars)...
+[2026-02-06T13:08:21.621Z] Error en chunk 12: API error: 400 - {"type":"error","error":{"type":"invalid_request_error","message":"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."},"request_id":"req_011CXrsHzpRg9FAbiH1gwd38"}
+[2026-02-06T13:08:21.823Z] Procesando chunk 13/21 (12671 chars)...
+[2026-02-08T17:08:55.522Z] === Inicio hook save-session (v2 - jerárquico) ===
+[2026-02-08T17:08:55.529Z] Leyendo datos de stdin...
+[2026-02-08T17:08:55.536Z] Datos recibidos: session_id=80eacd95-6716-48bf-8c34-ef0f98392481, reason=other
+[2026-02-08T17:08:55.537Z] Leyendo transcripción desde: C:\Users\aluni\.claude\projects\C--dev-projects-LiderarConsciencia\80eacd95-6716-48bf-8c34-ef0f98392481.jsonl
+[2026-02-08T17:08:55.539Z] ERROR: Archivo de transcripción no encontrado: C:\Users\aluni\.claude\projects\C--dev-projects-LiderarConsciencia\80eacd95-6716-48bf-8c34-ef0f98392481.jsonl
+[2026-02-08T17:08:55.539Z] === Fin hook save-session (ERROR) ===
+[2026-02-08T17:24:26.892Z] === Inicio hook save-session (v2 - jerárquico) ===
+[2026-02-08T17:24:26.896Z] Leyendo datos de stdin...
+[2026-02-08T17:24:26.901Z] Datos recibidos: session_id=3b1c4f20-45af-4049-9c44-871ed918f427, reason=clear
+[2026-02-08T17:24:26.902Z] Leyendo transcripción desde: C:\Users\aluni\.claude\projects\C--dev-projects-LiderarConsciencia\3b1c4f20-45af-4049-9c44-871ed918f427.jsonl
+[2026-02-08T17:24:26.908Z] Mensajes encontrados: 14
+[2026-02-08T17:24:26.909Z] Error leyendo prompt: ENOENT: no such file or directory, open 'C:\dev\projects\LiderarConsciencia\_ai\prompts\session-summary.md'
+[2026-02-08T17:24:26.909Z] Total caracteres en sesión: 2451
+[2026-02-08T17:24:26.910Z] Sesión corta - usando estrategia de pasada única con Sonnet
+[2026-02-08T17:24:27.223Z] ERROR: API error: 400 - {"type":"error","error":{"type":"invalid_request_error","message":"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."},"request_id":"req_011CXvzSQxJZnbs7Gu4JW1RY"}
+[2026-02-08T17:24:27.223Z] === Fin hook save-session (ERROR) ===
+[2026-02-10T15:34:02.798Z] === Inicio hook save-session (v2 - jerárquico) ===
+[2026-02-10T15:34:02.811Z] Leyendo datos de stdin...
+[2026-02-10T15:34:02.825Z] Datos recibidos: session_id=c7d9a328-ff7f-48e9-be0a-5777a2ce285f, reason=other
+[2026-02-10T15:34:02.826Z] Leyendo transcripción desde: C:\Users\aluni\.claude\projects\C--dev-projects-LiderarConsciencia\c7d9a328-ff7f-48e9-be0a-5777a2ce285f.jsonl
+[2026-02-10T15:34:02.831Z] ERROR: Archivo de transcripción no encontrado: C:\Users\aluni\.claude\projects\C--dev-projects-LiderarConsciencia\c7d9a328-ff7f-48e9-be0a-5777a2ce285f.jsonl
+[2026-02-10T15:34:02.832Z] === Fin hook save-session (ERROR) ===
+[2026-02-10T15:42:17.987Z] === Inicio hook save-session (v2 - jerárquico) ===
+[2026-02-10T15:42:17.991Z] Leyendo datos de stdin...
+[2026-02-10T15:42:18.050Z] Datos recibidos: session_id=5a205b7e-062d-4c6c-8079-a5847de29705, reason=clear
+[2026-02-10T15:42:18.051Z] Leyendo transcripción desde: C:\Users\aluni\.claude\projects\C--dev-projects-LiderarConsciencia\5a205b7e-062d-4c6c-8079-a5847de29705.jsonl
+[2026-02-10T15:42:18.056Z] Mensajes encontrados: 9
+[2026-02-10T15:42:18.056Z] Error leyendo prompt: ENOENT: no such file or directory, open 'C:\dev\projects\LiderarConsciencia\_ai\prompts\session-summary.md'
+[2026-02-10T15:42:18.057Z] Total caracteres en sesión: 1153
+[2026-02-10T15:42:18.057Z] Sesión corta - usando estrategia de pasada única con Sonnet
+[2026-02-10T15:42:18.420Z] ERROR: API error: 400 - {"type":"error","error":{"type":"invalid_request_error","message":"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."},"request_id":"req_011CXzeGX83EFnvVh4C53iMj"}
+[2026-02-10T15:42:18.421Z] === Fin hook save-session (ERROR) ===
+[2026-02-10T17:02:24.608Z] === Inicio hook save-session (v2 - jerárquico) ===
+[2026-02-10T17:02:24.625Z] Leyendo datos de stdin...
+[2026-02-10T17:02:24.733Z] Datos recibidos: session_id=aa44f6b5-f8e2-488c-bbc2-cbe39edd94f9, reason=clear
+[2026-02-10T17:02:24.734Z] Leyendo transcripción desde: C:\Users\aluni\.claude\projects\C--dev-projects-LiderarConsciencia\aa44f6b5-f8e2-488c-bbc2-cbe39edd94f9.jsonl
+[2026-02-10T17:02:24.948Z] Mensajes encontrados: 87
+[2026-02-10T17:02:24.949Z] Error leyendo prompt: ENOENT: no such file or directory, open 'C:\dev\projects\LiderarConsciencia\_ai\prompts\session-summary.md'
+[2026-02-10T17:02:24.949Z] Total caracteres en sesión: 43198
+[2026-02-10T17:02:24.949Z] Sesión larga - usando estrategia jerárquica (Haiku + Sonnet)
+[2026-02-10T17:02:24.950Z] Sesión dividida en 13 chunks
+[2026-02-10T17:02:24.951Z] Generando mini-resúmenes con Haiku...
+[2026-02-10T17:02:24.951Z] Procesando chunk 1/13 (5830 chars)...
+[2026-02-10T17:02:25.303Z] Error en chunk 1: API error: 400 - {"type":"error","error":{"type":"invalid_request_error","message":"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."},"request_id":"req_011CXzkNrr4YSEy3MkmbK14k"}
+[2026-02-10T17:02:25.505Z] Procesando chunk 2/13 (6746 chars)...
+[2026-02-10T17:02:25.733Z] Error en chunk 2: API error: 400 - {"type":"error","error":{"type":"invalid_request_error","message":"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."},"request_id":"req_011CXzkNtivDAFTBUV969d1z"}
+[2026-02-10T17:02:25.941Z] Procesando chunk 3/13 (9855 chars)...
+[2026-02-10T17:02:26.150Z] Error en chunk 3: API error: 400 - {"type":"error","error":{"type":"invalid_request_error","message":"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."},"request_id":"req_011CXzkNvVpwhnxnQzbqmxai"}
+[2026-02-10T17:02:26.358Z] Procesando chunk 4/13 (4993 chars)...
+[2026-02-10T17:02:26.534Z] Error en chunk 4: API error: 400 - {"type":"error","error":{"type":"invalid_request_error","message":"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."},"request_id":"req_011CXzkNxFVnxxah4LeUMUcr"}
+[2026-02-10T17:02:26.735Z] Procesando chunk 5/13 (8220 chars)...
+[2026-02-10T17:02:26.909Z] Error en chunk 5: API error: 400 - {"type":"error","error":{"type":"invalid_request_error","message":"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."},"request_id":"req_011CXzkNytUFGM3HNqEXCXVq"}
+[2026-02-10T17:02:27.113Z] Procesando chunk 6/13 (6101 chars)...
+[2026-02-10T17:02:27.281Z] Error en chunk 6: API error: 400 - {"type":"error","error":{"type":"invalid_request_error","message":"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."},"request_id":"req_011CXzkP1UyGS8ZDT5ASk12W"}
+[2026-02-10T17:02:27.495Z] Procesando chunk 7/13 (5481 chars)...
+[2026-02-10T17:02:27.651Z] Error en chunk 7: API error: 400 - {"type":"error","error":{"type":"invalid_request_error","message":"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."},"request_id":"req_011CXzkP37SjvYmtXDXs9i2b"}
+[2026-02-10T17:02:27.856Z] Procesando chunk 8/13 (14037 chars)...
+[2026-02-10T17:02:28.009Z] Error en chunk 8: API error: 400 - {"type":"error","error":{"type":"invalid_request_error","message":"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."},"request_id":"req_011CXzkP4fhw5UGBCtr2SsY5"}
+[2026-02-10T17:02:28.215Z] Procesando chunk 9/13 (11167 chars)...
+[2026-02-10T17:02:28.367Z] Error en chunk 9: API error: 400 - {"type":"error","error":{"type":"invalid_request_error","message":"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."},"request_id":"req_011CXzkP6CErREJVjVvz71qv"}
+[2026-02-10T17:02:28.572Z] Procesando chunk 10/13 (11304 chars)...
+[2026-02-10T17:02:28.812Z] Error en chunk 10: API error: 400 - {"type":"error","error":{"type":"invalid_request_error","message":"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."},"request_id":"req_011CXzkP7k14Sf9dkPihNw83"}
+[2026-02-10T17:02:29.027Z] Procesando chunk 11/13 (12889 chars)...
+[2026-02-10T17:02:29.207Z] Error en chunk 11: API error: 400 - {"type":"error","error":{"type":"invalid_request_error","message":"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."},"request_id":"req_011CXzkP9g6BRSuQAdCNujmQ"}
+[2026-02-10T17:02:29.415Z] Procesando chunk 12/13 (7718 chars)...
+[2026-02-10T17:02:29.567Z] Error en chunk 12: API error: 400 - {"type":"error","error":{"type":"invalid_request_error","message":"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."},"request_id":"req_011CXzkPBKZB4Uo3M8MJzmZC"}
+[2026-02-10T17:02:29.783Z] Procesando chunk 13/13 (1137 chars)...
+[2026-02-10T17:02:29.948Z] Error en chunk 13: API error: 400 - {"type":"error","error":{"type":"invalid_request_error","message":"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."},"request_id":"req_011CXzkPCu4ZMpoMtBaFYmH6"}
+[2026-02-10T17:02:30.157Z] Mini-resúmenes generados: 13
+[2026-02-10T17:02:30.157Z] Consolidando con Sonnet...
+[2026-02-10T17:02:30.365Z] ERROR: API error: 400 - {"type":"error","error":{"type":"invalid_request_error","message":"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."},"request_id":"req_011CXzkPEWJY78nRYpQwWkRJ"}
+[2026-02-10T17:02:30.365Z] === Fin hook save-session (ERROR) ===
+[2026-02-11T08:48:51.937Z] === Inicio hook save-session (v2 - jerárquico) ===
+[2026-02-11T08:48:51.942Z] Leyendo datos de stdin...
+[2026-02-11T08:48:51.945Z] Datos recibidos: session_id=671b3f52-b64f-4875-a8c4-216a7a60167d, reason=other
+[2026-02-11T08:48:51.945Z] Leyendo transcripción desde: C:\Users\aluni\.claude\projects\C--dev-projects-LiderarConsciencia\671b3f52-b64f-4875-a8c4-216a7a60167d.jsonl
+[2026-02-11T08:48:51.947Z] ERROR: Archivo de transcripción no encontrado: C:\Users\aluni\.claude\projects\C--dev-projects-LiderarConsciencia\671b3f52-b64f-4875-a8c4-216a7a60167d.jsonl
+[2026-02-11T08:48:51.948Z] === Fin hook save-session (ERROR) ===
+[2026-02-11T09:00:34.672Z] === Inicio hook save-session (v2 - jerárquico) ===
+[2026-02-11T09:00:34.676Z] Leyendo datos de stdin...
+[2026-02-11T09:00:34.682Z] Datos recibidos: session_id=279cfc8e-bdde-4078-84dc-52195d93de5b, reason=clear
+[2026-02-11T09:00:34.683Z] Leyendo transcripción desde: C:\Users\aluni\.claude\projects\C--dev-projects-LiderarConsciencia\279cfc8e-bdde-4078-84dc-52195d93de5b.jsonl
+[2026-02-11T09:00:34.695Z] Mensajes encontrados: 11
+[2026-02-11T09:00:34.696Z] Error leyendo prompt: ENOENT: no such file or directory, open 'C:\dev\projects\LiderarConsciencia\_ai\prompts\session-summary.md'
+[2026-02-11T09:00:34.697Z] Total caracteres en sesión: 1432
+[2026-02-11T09:00:34.698Z] Sesión corta - usando estrategia de pasada única con Sonnet
+[2026-02-11T09:00:35.010Z] ERROR: API error: 400 - {"type":"error","error":{"type":"invalid_request_error","message":"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."},"request_id":"req_011CY21SmhcTeHGK5YgexepY"}
+[2026-02-11T09:00:35.011Z] === Fin hook save-session (ERROR) ===
+[2026-02-11T16:56:34.523Z] === Inicio hook save-session (v2 - jerárquico) ===
+[2026-02-11T16:56:34.542Z] Leyendo datos de stdin...
+[2026-02-11T16:56:34.550Z] Datos recibidos: session_id=4c449860-1a99-4e2f-91f7-590c5287f530, reason=clear
+[2026-02-11T16:56:34.550Z] Leyendo transcripción desde: C:\Users\aluni\.claude\projects\C--dev-projects-LiderarConsciencia\4c449860-1a99-4e2f-91f7-590c5287f530.jsonl
+[2026-02-11T16:56:34.724Z] Mensajes encontrados: 70
+[2026-02-11T16:56:34.725Z] Error leyendo prompt: ENOENT: no such file or directory, open 'C:\dev\projects\LiderarConsciencia\_ai\prompts\session-summary.md'
+[2026-02-11T16:56:34.725Z] Total caracteres en sesión: 42471
+[2026-02-11T16:56:34.725Z] Sesión larga - usando estrategia jerárquica (Haiku + Sonnet)
+[2026-02-11T16:56:34.726Z] Sesión dividida en 13 chunks
+[2026-02-11T16:56:34.727Z] Generando mini-resúmenes con Haiku...
+[2026-02-11T16:56:34.728Z] Procesando chunk 1/13 (8018 chars)...
+[2026-02-11T16:56:35.104Z] Error en chunk 1: API error: 400 - {"type":"error","error":{"type":"invalid_request_error","message":"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."},"request_id":"req_011CY2dk4vsBNXFSpcGHuCuy"}
+[2026-02-11T16:56:35.305Z] Procesando chunk 2/13 (6068 chars)...
+[2026-02-11T16:56:35.464Z] Error en chunk 2: API error: 400 - {"type":"error","error":{"type":"invalid_request_error","message":"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."},"request_id":"req_011CY2dk6XMYpBnGmdRpypUi"}
+[2026-02-11T16:56:35.669Z] Procesando chunk 3/13 (6101 chars)...
+[2026-02-11T16:56:35.831Z] Error en chunk 3: API error: 400 - {"type":"error","error":{"type":"invalid_request_error","message":"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."},"request_id":"req_011CY2dk867g6W5SdVq3x1Do"}
+[2026-02-11T16:56:36.043Z] Procesando chunk 4/13 (6528 chars)...
+[2026-02-11T16:56:36.216Z] Error en chunk 4: API error: 400 - {"type":"error","error":{"type":"invalid_request_error","message":"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."},"request_id":"req_011CY2dk9grdwrqaZic3d4iu"}
+[2026-02-11T16:56:36.432Z] Procesando chunk 5/13 (5907 chars)...
+[2026-02-11T16:56:36.590Z] Error en chunk 5: API error: 400 - {"type":"error","error":{"type":"invalid_request_error","message":"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."},"request_id":"req_011CY2dkBLaXkRxVCHB6FR1q"}
+[2026-02-11T16:56:36.793Z] Procesando chunk 6/13 (7277 chars)...
+[2026-02-11T16:56:36.969Z] Error en chunk 6: API error: 400 - {"type":"error","error":{"type":"invalid_request_error","message":"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."},"request_id":"req_011CY2dkCuq7So4SAYsmQ2u3"}
+[2026-02-11T16:56:37.183Z] Procesando chunk 7/13 (17157 chars)...
+[2026-02-11T16:56:37.414Z] Error en chunk 7: API error: 400 - {"type":"error","error":{"type":"invalid_request_error","message":"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."},"request_id":"req_011CY2dkEZ3wgHZdP51ZjHBb"}
+[2026-02-11T16:56:37.630Z] Procesando chunk 8/13 (13370 chars)...
+[2026-02-11T16:56:37.798Z] Error en chunk 8: API error: 400 - {"type":"error","error":{"type":"invalid_request_error","message":"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."},"request_id":"req_011CY2dkGVtHpv3ux7k4N5uB"}
+[2026-02-11T16:56:38.002Z] Procesando chunk 9/13 (13505 chars)...
+[2026-02-11T16:56:38.170Z] Error en chunk 9: API error: 400 - {"type":"error","error":{"type":"invalid_request_error","message":"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."},"request_id":"req_011CY2dkJ5dtSCx5CV8D4pgM"}
+[2026-02-11T16:56:38.378Z] Procesando chunk 10/13 (13524 chars)...
+[2026-02-11T16:56:38.538Z] Error en chunk 10: API error: 400 - {"type":"error","error":{"type":"invalid_request_error","message":"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."},"request_id":"req_011CY2dkKfP6dDcXqfGWzxAk"}
+[2026-02-11T16:56:38.749Z] Procesando chunk 11/13 (13597 chars)...
+[2026-02-11T16:56:38.911Z] Error en chunk 11: API error: 400 - {"type":"error","error":{"type":"invalid_request_error","message":"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."},"request_id":"req_011CY2dkMFtDTaC2RF8JVL9k"}
+[2026-02-11T16:56:39.124Z] Procesando chunk 12/13 (17091 chars)...
+[2026-02-11T16:56:39.279Z] Error en chunk 12: API error: 400 - {"type":"error","error":{"type":"invalid_request_error","message":"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."},"request_id":"req_011CY2dkNrdApwY9eeFh51DY"}
+[2026-02-11T16:56:39.482Z] Procesando chunk 13/13 (5376 chars)...
+[2026-02-11T16:56:39.650Z] Error en chunk 13: API error: 400 - {"type":"error","error":{"type":"invalid_request_error","message":"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."},"request_id":"req_011CY2dkQPtputXZ7d7HxHED"}
+[2026-02-11T16:56:39.858Z] Mini-resúmenes generados: 13
+[2026-02-11T16:56:39.859Z] Consolidando con Sonnet...
+[2026-02-11T16:56:40.080Z] ERROR: API error: 400 - {"type":"error","error":{"type":"invalid_request_error","message":"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."},"request_id":"req_011CY2dkS1P6wyiZy1oQEyKM"}
+[2026-02-11T16:56:40.082Z] === Fin hook save-session (ERROR) ===

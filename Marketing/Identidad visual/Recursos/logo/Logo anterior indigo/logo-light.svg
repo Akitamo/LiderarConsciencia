@@ -1,0 +1,21 @@
+<svg viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <radialGradient id="seedRadiant" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#F4A990"/>
+      <stop offset="50%" stop-color="#E07A5F"/>
+      <stop offset="100%" stop-color="#C85A42"/>
+    </radialGradient>
+  </defs>
+  <!-- Anillo 4 - Exterior punteado muy fino - M7 -->
+  <circle cx="24" cy="24" r="22" stroke="#4338CA" stroke-width="0.8" stroke-dasharray="2.5 1.5" opacity="0.4" fill="none"/>
+  <!-- Anillo 3 - M5 -->
+  <circle cx="24" cy="24" r="18" stroke="#6E44C0" stroke-width="1.4" opacity="0.55" fill="none"/>
+  <!-- Anillo 2 - M4 -->
+  <circle cx="24" cy="24" r="14.5" stroke="#8B50AA" stroke-width="1.8" opacity="0.7" fill="none"/>
+  <!-- Anillo 1 - M2 -->
+  <circle cx="24" cy="24" r="11" stroke="#C46B78" stroke-width="2.5" opacity="0.85" fill="none"/>
+  <!-- Semilla radiante M1 -->
+  <circle cx="24" cy="24" r="6.5" fill="url(#seedRadiant)"/>
+  <!-- Highlight -->
+  <circle cx="23.2" cy="23.2" r="2.8" fill="white" opacity="0.45"/>
+</svg>

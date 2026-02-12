@@ -60,7 +60,7 @@ En el mindfulness y en muchas tradiciones meditativas, **el cuerpo es el anclaje
 - Mayor activación ínsula ante imágenes tristes (Farb et al, 2010)
 
 #imagen #referencia 
-![img-m02-corteza-meditadores](recursos/imagenes/img-m02-corteza-meditadores.png) Panel científico titulado "Cortical areas thicker in meditators" con fondo beige. Contiene: imagen de resonancia magnética de un cerebro en vista lateral con áreas coloreadas (ínsula señalada en verde/amarillo, corteza prefrontal en rojo), y debajo dos gráficos de dispersión comparando el grosor cortical de la Ínsula (izquierda) y la corteza Prefrontal (derecha) entre meditadores (puntos azules) y controles (puntos rojos) según la edad. Referencia: Lazar et al, 2007; Holzel et al, 2008.
+![img-m02-corteza-meditadores](../../../modulo-02-consciente-de-como-estoy/recursos/imagenes/img-m02-corteza-meditadores.png) Panel científico titulado "Cortical areas thicker in meditators" con fondo beige. Contiene: imagen de resonancia magnética de un cerebro en vista lateral con áreas coloreadas (ínsula señalada en verde/amarillo, corteza prefrontal en rojo), y debajo dos gráficos de dispersión comparando el grosor cortical de la Ínsula (izquierda) y la corteza Prefrontal (derecha) entre meditadores (puntos azules) y controles (puntos rojos) según la edad. Referencia: Lazar et al, 2007; Holzel et al, 2008.
 
 #referencia 
 Se ha encontrado un incremento de la activación de la ínsula en individuos tras un curso MBSR (comparado con sujetos que no habían practicado mindfulness) (Farb et al, 2007). Este estudio encontró también un incremento de la activación de la corteza somatosensorial secundaria, que es relevante para el procesamiento de sucesos sensoriales exteroceptivos.

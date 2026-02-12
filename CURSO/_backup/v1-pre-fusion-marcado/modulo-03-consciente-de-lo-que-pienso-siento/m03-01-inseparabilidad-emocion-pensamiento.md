@@ -48,7 +48,7 @@ Los cambios de paradigma abarcan múltiples dimensiones:
 - **De lo universal a lo cultural**: Las emociones tienen una base biológica compartida, pero la cultura moldea cómo se experimentan, expresan y regulan.
 
 #imagen #referencia
-![img-m03-estudio-redes-semanticas-emociones](recursos/imagenes/img-m03-estudio-redes-semanticas-emociones.png) Captura de publicación científica del Max Planck Institute of Geoanthropology titulada "The meaning of emotion: Cultural and biological evolution impact how humans feel feelings". Incluye tres gráficos de redes semánticas de emociones etiquetados como "Universal", "Austronesian" e "Indo-European", mostrando nodos de colores (azul, rojo, amarillo, verde) conectados representando diferentes emociones y sus relaciones en distintas familias lingüísticas.
+![img-m03-estudio-redes-semanticas-emociones](../../../modulo-03-consciente-de-lo-que-pienso-siento/recursos/imagenes/img-m03-estudio-redes-semanticas-emociones.png) Captura de publicación científica del Max Planck Institute of Geoanthropology titulada "The meaning of emotion: Cultural and biological evolution impact how humans feel feelings". Incluye tres gráficos de redes semánticas de emociones etiquetados como "Universal", "Austronesian" e "Indo-European", mostrando nodos de colores (azul, rojo, amarillo, verde) conectados representando diferentes emociones y sus relaciones en distintas familias lingüísticas.
 
 #explicacion
 

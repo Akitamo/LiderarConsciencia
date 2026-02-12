@@ -1,0 +1,229 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <style>
+        @font-face { font-family: "Inter"; src: url("../fonts/Inter-Regular.woff2") format("woff2"); font-weight: 400; } 
+        @font-face { font-family: "Inter"; src: url("../fonts/Inter-Bold.woff2") format("woff2"); font-weight: 700; } 
+        @font-face { font-family: "Playfair Display"; src: url("../fonts/PlayfairDisplay-Regular.ttf") format("truetype"); font-weight: 400; } 
+        @font-face { font-family: "Playfair Display"; src: url("../fonts/PlayfairDisplay-Bold.ttf") format("truetype"); font-weight: 700; } 
+        @font-face { font-family: "Playfair Display"; src: url("../fonts/PlayfairDisplay-Italic.ttf") format("truetype"); font-style: italic; }
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body { font-family: 'Inter', sans-serif; }
+        .slide-container {
+            width: 210mm;
+            height: 297mm;
+            position: relative;
+            overflow: hidden;
+            background-color: #0D1F23;
+            color: white;
+            display: flex;
+            flex-direction: column;
+        }
+        
+        /* Header Section */
+        .header {
+            padding: 60px 60px 40px;
+            position: relative;
+            border-bottom: 1px solid rgba(232,149,110,0.3);
+        }
+        .bg-header {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background-image: url('../images/fase1.jpg');
+            background-size: cover;
+            background-position: center;
+            opacity: 0.2;
+            z-index: 0;
+        }
+        .header-content {
+            position: relative;
+            z-index: 1;
+        }
+        
+        .tag {
+            color: #E8956E;
+            font-size: 12px;
+            font-weight: 600;
+            letter-spacing: 0.2em;
+            text-transform: uppercase;
+            margin-bottom: 10px;
+            display: block;
+        }
+        h2 {
+            font-family: 'Playfair Display', serif;
+            font-size: 48px;
+            line-height: 1;
+            font-weight: 700;
+            margin-bottom: 5px;
+            color: white;
+        }
+        .subtitle {
+            font-family: 'Playfair Display', serif;
+            font-size: 24px;
+            font-style: italic;
+            color: rgba(255,255,255,0.8);
+            margin-bottom: 20px;
+        }
+        .description {
+            font-size: 16px;
+            line-height: 1.5;
+            color: rgba(255,255,255,0.9);
+            max-width: 600px;
+        }
+
+        /* Modules Section */
+        .modules-container {
+            flex-grow: 1;
+            padding: 40px 60px;
+            display: flex;
+            flex-direction: column;
+            gap: 40px;
+        }
+
+        .module-item {
+            display: flex;
+            flex-direction: column;
+        }
+
+        .mod-header {
+            display: flex;
+            align-items: baseline;
+            margin-bottom: 8px;
+        }
+        .mod-num {
+            color: #E8956E;
+            font-size: 14px;
+            font-weight: 700;
+            margin-right: 15px;
+            text-transform: uppercase;
+            letter-spacing: 0.1em;
+        }
+        .mod-title {
+            font-family: 'Playfair Display', serif;
+            font-size: 22px;
+            font-weight: 600;
+            color: white;
+        }
+        
+        .mod-topic {
+            font-size: 14px;
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+            color: rgba(255,255,255,0.6);
+            margin-bottom: 12px;
+            padding-left: 85px; /* Align with title roughly */
+        }
+
+        .mod-question {
+            font-style: italic;
+            font-size: 15px;
+            color: rgba(255,255,255,0.9);
+            margin-bottom: 10px;
+            padding-left: 20px;
+            border-left: 2px solid rgba(255,255,255,0.2);
+            margin-left: 85px;
+        }
+
+        .mod-content {
+            font-size: 15px;
+            line-height: 1.5;
+            color: rgba(255,255,255,0.8);
+            margin-bottom: 15px;
+            margin-left: 85px;
+        }
+
+        .seed-box {
+            margin-left: 85px;
+            background: rgba(232,149,110,0.1);
+            padding: 10px 15px;
+            border-left: 2px solid #E8956E;
+            display: inline-block;
+        }
+        .seed-label {
+            font-size: 11px;
+            text-transform: uppercase;
+            letter-spacing: 0.1em;
+            color: #E8956E;
+            margin-right: 10px;
+        }
+        .seed-val {
+            font-size: 13px;
+            font-weight: 600;
+            color: white;
+        }
+    </style>
+</head>
+<body>
+    <div class="slide-container">
+        <div class="header">
+            <div class="bg-header"></div>
+            <div class="header-content">
+                <span class="tag">Fase 1 · Consciencia Activada</span>
+                <h2>Germinación</h2>
+                <div class="subtitle">Mirar hacia adentro</div>
+                <p class="description">
+                    El líder descubre que su principal instrumento de gestión no son sus herramientas, sino su propia consciencia. 
+                    Aprende a observar su arquitectura mental, su cuerpo y sus procesos internos.
+                </p>
+            </div>
+        </div>
+
+        <div class="modules-container">
+            <!-- Module 1 -->
+            <div class="module-item">
+                <div class="mod-header">
+                    <span class="mod-num">Módulo 01</span>
+                    <span class="mod-title">Consciente de lo que soy</span>
+                </div>
+                <div class="mod-topic">La arquitectura de la mente</div>
+                <div class="mod-question">"¿Qué tipo de sistema soy y cómo construye mi cerebro la realidad?"</div>
+                <div class="mod-content">
+                    El cerebro como máquina predictiva. Sistema 1 y Sistema 2. Los sesgos cognitivos como características de diseño.
+                </div>
+                <div class="seed-box">
+                    <span class="seed-label">Líder Semilla</span>
+                    <span class="seed-val">Humildad epistemológica</span>
+                </div>
+            </div>
+
+            <!-- Module 2 -->
+            <div class="module-item">
+                <div class="mod-header">
+                    <span class="mod-num">Módulo 02</span>
+                    <span class="mod-title">Consciente de cómo estoy</span>
+                </div>
+                <div class="mod-topic">El cuerpo como recurso</div>
+                <div class="mod-question">"¿Qué me dice mi cuerpo y cómo puedo usarlo como recurso?"</div>
+                <div class="mod-content">
+                    El cuerpo como fuente de información. Interocepción. El cuerpo 'vota' antes de que la mente decida.
+                </div>
+                <div class="seed-box">
+                    <span class="seed-label">Líder Semilla</span>
+                    <span class="seed-val">Arraigo corporal</span>
+                </div>
+            </div>
+
+            <!-- Module 3 -->
+            <div class="module-item">
+                <div class="mod-header">
+                    <span class="mod-num">Módulo 03</span>
+                    <span class="mod-title">Consciente de lo que pienso</span>
+                </div>
+                <div class="mod-topic">El espacio interior</div>
+                <div class="mod-question">"¿Cómo funcionan mis procesos internos?"</div>
+                <div class="mod-content">
+                    La cadena automática: interocepción → afecto → acción. Observar pensamientos como eventos mentales.
+                </div>
+                <div class="seed-box">
+                    <span class="seed-label">Líder Semilla</span>
+                    <span class="seed-val">Espacio interior</span>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

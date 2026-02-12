@@ -45,7 +45,7 @@ Frena impulsos y respuestas automáticas, permitiendo que la deliberación prece
 ## La complejidad del procesamiento cerebral
 
 #video
-![vid-m01-captura-balon](recursos/videos/vid-m01-Captura-balon.mp4) Vídeo documental (aparece logo de La 2 de TVE) mostrando una escena urbana/industrial con una persona en movimiento. Ilustra el procesamiento e integración de información que realiza el cerebro constantemente mientras navegamos por el entorno, tomando decisiones automáticas y conscientes de forma simultánea.
+![vid-m01-captura-balon](../../../modulo-01-consciente-de-lo-que-soy/recursos/videos/vid-m01-Captura-balon.mp4) Vídeo documental (aparece logo de La 2 de TVE) mostrando una escena urbana/industrial con una persona en movimiento. Ilustra el procesamiento e integración de información que realiza el cerebro constantemente mientras navegamos por el entorno, tomando decisiones automáticas y conscientes de forma simultánea.
 
 #video
-![vid-m01-robot-fails](recursos/videos/vid-m01-robot-fails.mp4) Vídeo de fallos a la hora de construir robots intentando reproducir comportamiento humano para demostrar la complejidad de lo que hace el cerebro de forma cotidiana en nuestras vidas
+![vid-m01-robot-fails](../../../modulo-01-consciente-de-lo-que-soy/recursos/videos/vid-m01-robot-fails.mp4) Vídeo de fallos a la hora de construir robots intentando reproducir comportamiento humano para demostrar la complejidad de lo que hace el cerebro de forma cotidiana en nuestras vidas

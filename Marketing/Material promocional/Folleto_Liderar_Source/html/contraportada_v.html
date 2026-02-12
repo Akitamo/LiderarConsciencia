@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <style>
+        @font-face { font-family: "Inter"; src: url("../fonts/Inter-Regular.woff2") format("woff2"); font-weight: 400; } 
+        @font-face { font-family: "Inter"; src: url("../fonts/Inter-Bold.woff2") format("woff2"); font-weight: 700; } 
+        @font-face { font-family: "Playfair Display"; src: url("../fonts/PlayfairDisplay-Regular.ttf") format("truetype"); font-weight: 400; } 
+        @font-face { font-family: "Playfair Display"; src: url("../fonts/PlayfairDisplay-Bold.ttf") format("truetype"); font-weight: 700; } 
+        @font-face { font-family: "Playfair Display"; src: url("../fonts/PlayfairDisplay-Italic.ttf") format("truetype"); font-style: italic; }
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body { font-family: 'Inter', sans-serif; }
+        .slide-container {
+            width: 210mm;
+            height: 297mm;
+            position: relative;
+            overflow: hidden;
+            background-color: #0D1F23;
+            color: white;
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
+            align-items: center;
+            text-align: center;
+            padding: 120px 80px;
+        }
+        
+        .main-content {
+            flex-grow: 1;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+        }
+
+        .statement {
+            font-family: 'Inter', sans-serif;
+            font-size: 14px;
+            text-transform: uppercase;
+            letter-spacing: 0.3em;
+            color: rgba(255,255,255,0.6);
+            margin-bottom: 40px;
+        }
+
+        h2 {
+            font-family: 'Playfair Display', serif;
+            font-size: 56px;
+            line-height: 1.2;
+            font-weight: 400;
+            color: white;
+        }
+
+        .highlight {
+            color: #E8956E;
+            font-style: italic;
+            display: block;
+            margin-top: 10px;
+        }
+
+        .footer {
+            width: 100%;
+            border-top: 1px solid rgba(232,149,110,0.3);
+            padding-top: 40px;
+        }
+
+        .brand {
+            font-family: 'Playfair Display', serif;
+            font-size: 24px;
+            color: white;
+            margin-bottom: 15px;
+        }
+
+        .info {
+            font-size: 14px;
+            color: rgba(255,255,255,0.7);
+            line-height: 1.8;
+            letter-spacing: 0.05em;
+        }
+
+        .contact-link {
+            color: #E8956E;
+            font-weight: 500;
+            text-decoration: none;
+            display: block;
+            margin-top: 5px;
+        }
+    </style>
+</head>
+<body>
+    <div class="slide-container">
+        <div class="main-content">
+            <div class="statement">La tormenta no va a detenerse</div>
+            <h2>
+                ¿Vas a resistirla o a
+                <span class="highlight">germinar en ella?</span>
+            </h2>
+        </div>
+
+        <div class="footer">
+            <div class="brand">Liderar con Consciencia</div>
+            <div class="info">
+                Programa formativo · Presencial e Híbrido
+                <br>
+                <span class="contact-link">liderarconconsciencia.com</span>
+                <span class="contact-link">hola@liderarconconsciencia.com</span>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

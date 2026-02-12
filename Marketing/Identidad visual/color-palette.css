@@ -1,6 +1,7 @@
 /* ============================================
    LIDERAR CON CONSCIENCIA - PALETA DE COLORES
-   Versión 2.0 — Enero 2026
+   Versión 3.0 — Propuesta E: Arcilla & Océano
+   Enero 2026
    ============================================ */
 
 /* ==========================================
@@ -8,37 +9,37 @@
    ========================================== */
 
 :root {
-  /* Principal - Índigo */
-  --color-primary: #4338CA;
-  --color-primary-dark: #3730A3;
-  --color-primary-light: #6366F1;
-  --color-primary-muted: #E0E7FF;
-  --color-primary-subtle: #EEF2FF;
+  /* Principal - Océano */
+  --color-primary: #2A5058;
+  --color-primary-dark: #1A3A40;
+  --color-primary-light: #487878;
+  --color-primary-muted: #E0EBEB;
+  --color-primary-subtle: #F2F7F7;
   
-  /* Acento - Coral/Terracota */
-  --color-accent: #E07A5F;
-  --color-accent-dark: #C85A42;
-  --color-accent-light: #F4A990;
-  --color-accent-muted: #FEF2F0;
+  /* Acento - Coral Arcilla */
+  --color-accent: #DC8060;
+  --color-accent-dark: #B86848;
+  --color-accent-light: #F0A080;
+  --color-accent-muted: #FDF6F3;
   
   /* Gradiente Semilla (para referencia, usar en SVG) */
-  --seed-gradient-start: #F4A990;
-  --seed-gradient-mid: #E07A5F;
-  --seed-gradient-end: #C85A42;
+  --seed-gradient-start: #F0A080;
+  --seed-gradient-mid: #DC8060;
+  --seed-gradient-end: #B86848;
   
   /* Colores Dark Mode (logo/decorativos) */
-  --color-dark-ring-3: #818CF8;
-  --color-dark-ring-2: #A78BFA;
-  --color-dark-ring-1: #E879A9;
+  --color-dark-ring-3: #6A9898;
+  --color-dark-ring-2: #A8B0A8;
+  --color-dark-ring-1: #E0A090;
 
-  /* Transición coral → índigo (solo logo e iconos de módulo) */
-  --color-module-1: #E07A5F;  /* M1 - Coral */
-  --color-module-2: #C46B78;  /* M2 - Rosa coral */
-  --color-module-3: #A85D91;  /* M3 - Rosa violeta */
-  --color-module-4: #8B50AA;  /* M4 - Violeta */
-  --color-module-5: #6E44C0;  /* M5 - Violeta índigo */
-  --color-module-6: #6366F1;  /* M6 - Primary Light */
-  --color-module-7: #4338CA;  /* M7 - Índigo */
+  /* Transición coral arcilla → océano (solo logo e iconos de módulo) */
+  --color-module-1: #DC8060;  /* M1 - Coral arcilla */
+  --color-module-2: #C48870;  /* M2 - Arena rosada */
+  --color-module-3: #A89080;  /* M3 - Duna */
+  --color-module-4: #889088;  /* M4 - Niebla */
+  --color-module-5: #688888;  /* M5 - Marea */
+  --color-module-6: #487878;  /* M6 - Profundidad */
+  --color-module-7: #2A5058;  /* M7 - Océano */
 
   /* Neutros cálidos */
   --color-white: #FFFFFF;
@@ -47,15 +48,15 @@
   --color-border: #E8E4E0;
   
   /* Textos */
-  --color-text-primary: #1E1B2E;
-  --color-text-secondary: #524D5F;
-  --color-text-muted: #8C8697;
+  --color-text-primary: #2A3A3A;
+  --color-text-secondary: #5A6A6A;
+  --color-text-muted: #8A9696;
   
   /* Sombras */
-  --shadow-sm: 0 2px 8px rgba(30, 27, 46, 0.06);
-  --shadow-md: 0 4px 24px rgba(30, 27, 46, 0.08);
-  --shadow-lg: 0 8px 32px rgba(30, 27, 46, 0.12);
-  --shadow-accent: 0 4px 14px rgba(224, 122, 95, 0.4);
+  --shadow-sm: 0 2px 8px rgba(42, 58, 58, 0.06);
+  --shadow-md: 0 4px 24px rgba(42, 58, 58, 0.08);
+  --shadow-lg: 0 8px 32px rgba(42, 58, 58, 0.12);
+  --shadow-accent: 0 4px 14px rgba(220, 128, 96, 0.4);
   
   /* Espaciado */
   --space-xs: 4px;
@@ -121,27 +122,27 @@
 
 /*
 const colors = {
-  // Principal - Índigo
-  primary: '#4338CA',
-  primaryDark: '#3730A3',
-  primaryLight: '#6366F1',
-  primaryMuted: '#E0E7FF',
-  primarySubtle: '#EEF2FF',
+  // Principal - Océano
+  primary: '#2A5058',
+  primaryDark: '#1A3A40',
+  primaryLight: '#487878',
+  primaryMuted: '#E0EBEB',
+  primarySubtle: '#F2F7F7',
   
-  // Acento - Coral/Terracota
-  accent: '#E07A5F',
-  accentDark: '#C85A42',
-  accentLight: '#F4A990',
-  accentMuted: '#FEF2F0',
+  // Acento - Coral Arcilla
+  accent: '#DC8060',
+  accentDark: '#B86848',
+  accentLight: '#F0A080',
+  accentMuted: '#FDF6F3',
 
-  // Transición coral → índigo (solo logo e iconos de módulo)
-  module1: '#E07A5F',  // M1 - Coral
-  module2: '#C46B78',  // M2 - Rosa coral
-  module3: '#A85D91',  // M3 - Rosa violeta
-  module4: '#8B50AA',  // M4 - Violeta
-  module5: '#6E44C0',  // M5 - Violeta índigo
-  module6: '#6366F1',  // M6 - Primary Light
-  module7: '#4338CA',  // M7 - Índigo
+  // Transición coral arcilla → océano (solo logo e iconos de módulo)
+  module1: '#DC8060',  // M1 - Coral arcilla
+  module2: '#C48870',  // M2 - Arena rosada
+  module3: '#A89080',  // M3 - Duna
+  module4: '#889088',  // M4 - Niebla
+  module5: '#688888',  // M5 - Marea
+  module6: '#487878',  // M6 - Profundidad
+  module7: '#2A5058',  // M7 - Océano
 
   // Neutros cálidos
   white: '#FFFFFF',
@@ -150,16 +151,16 @@ const colors = {
   border: '#E8E4E0',
   
   // Textos
-  textPrimary: '#1E1B2E',
-  textSecondary: '#524D5F',
-  textMuted: '#8C8697',
+  textPrimary: '#2A3A3A',
+  textSecondary: '#5A6A6A',
+  textMuted: '#8A9696',
 };
 
 const shadows = {
-  sm: '0 2px 8px rgba(30, 27, 46, 0.06)',
-  md: '0 4px 24px rgba(30, 27, 46, 0.08)',
-  lg: '0 8px 32px rgba(30, 27, 46, 0.12)',
-  accent: '0 4px 14px rgba(224, 122, 95, 0.4)',
+  sm: '0 2px 8px rgba(42, 58, 58, 0.06)',
+  md: '0 4px 24px rgba(42, 58, 58, 0.08)',
+  lg: '0 8px 32px rgba(42, 58, 58, 0.12)',
+  accent: '0 4px 14px rgba(220, 128, 96, 0.4)',
 };
 
 const spacing = {
@@ -194,27 +195,27 @@ module.exports = {
     extend: {
       colors: {
         primary: {
-          DEFAULT: '#4338CA',
-          dark: '#3730A3',
-          light: '#6366F1',
-          muted: '#E0E7FF',
-          subtle: '#EEF2FF',
+          DEFAULT: '#2A5058',
+          dark: '#1A3A40',
+          light: '#487878',
+          muted: '#E0EBEB',
+          subtle: '#F2F7F7',
         },
         accent: {
-          DEFAULT: '#E07A5F',
-          dark: '#C85A42',
-          light: '#F4A990',
-          muted: '#FEF2F0',
+          DEFAULT: '#DC8060',
+          dark: '#B86848',
+          light: '#F0A080',
+          muted: '#FDF6F3',
         },
-        // Transición coral → índigo (solo logo e iconos de módulo)
+        // Transición coral arcilla → océano (solo logo e iconos de módulo)
         module: {
-          1: '#E07A5F',
-          2: '#C46B78',
-          3: '#A85D91',
-          4: '#8B50AA',
-          5: '#6E44C0',
-          6: '#6366F1',
-          7: '#4338CA',
+          1: '#DC8060',  // Coral arcilla
+          2: '#C48870',  // Arena rosada
+          3: '#A89080',  // Duna
+          4: '#889088',  // Niebla
+          5: '#688888',  // Marea
+          6: '#487878',  // Profundidad
+          7: '#2A5058',  // Océano
         },
         background: {
           DEFAULT: '#FDFCFB',
@@ -222,17 +223,17 @@ module.exports = {
         },
         border: '#E8E4E0',
         text: {
-          primary: '#1E1B2E',
-          secondary: '#524D5F',
-          muted: '#8C8697',
+          primary: '#2A3A3A',
+          secondary: '#5A6A6A',
+          muted: '#8A9696',
         },
       },
       fontFamily: {
         sans: ['Outfit', 'Montserrat', '-apple-system', 'sans-serif'],
       },
       boxShadow: {
-        'card': '0 4px 24px rgba(30, 27, 46, 0.08)',
-        'accent': '0 4px 14px rgba(224, 122, 95, 0.4)',
+        'card': '0 4px 24px rgba(42, 58, 58, 0.08)',
+        'accent': '0 4px 14px rgba(220, 128, 96, 0.4)',
       },
       borderRadius: {
         'card': '20px',
@@ -251,27 +252,27 @@ module.exports = {
 /*
 // _variables.scss
 
-// Principal - Índigo
-$primary: #4338CA;
-$primary-dark: #3730A3;
-$primary-light: #6366F1;
-$primary-muted: #E0E7FF;
-$primary-subtle: #EEF2FF;
+// Principal - Océano
+$primary: #2A5058;
+$primary-dark: #1A3A40;
+$primary-light: #487878;
+$primary-muted: #E0EBEB;
+$primary-subtle: #F2F7F7;
 
-// Acento - Coral/Terracota
-$accent: #E07A5F;
-$accent-dark: #C85A42;
-$accent-light: #F4A990;
-$accent-muted: #FEF2F0;
+// Acento - Coral Arcilla
+$accent: #DC8060;
+$accent-dark: #B86848;
+$accent-light: #F0A080;
+$accent-muted: #FDF6F3;
 
-// Transición coral → índigo (solo logo e iconos de módulo)
-$module-1: #E07A5F;  // M1 - Coral
-$module-2: #C46B78;  // M2 - Rosa coral
-$module-3: #A85D91;  // M3 - Rosa violeta
-$module-4: #8B50AA;  // M4 - Violeta
-$module-5: #6E44C0;  // M5 - Violeta índigo
-$module-6: #6366F1;  // M6 - Primary Light
-$module-7: #4338CA;  // M7 - Índigo
+// Transición coral arcilla → océano (solo logo e iconos de módulo)
+$module-1: #DC8060;  // M1 - Coral arcilla
+$module-2: #C48870;  // M2 - Arena rosada
+$module-3: #A89080;  // M3 - Duna
+$module-4: #889088;  // M4 - Niebla
+$module-5: #688888;  // M5 - Marea
+$module-6: #487878;  // M6 - Profundidad
+$module-7: #2A5058;  // M7 - Océano
 
 // Neutros cálidos
 $white: #FFFFFF;
@@ -280,9 +281,9 @@ $background-alt: #F9F7F5;
 $border: #E8E4E0;
 
 // Textos
-$text-primary: #1E1B2E;
-$text-secondary: #524D5F;
-$text-muted: #8C8697;
+$text-primary: #2A3A3A;
+$text-secondary: #5A6A6A;
+$text-muted: #8A9696;
 
 // Mapa de colores (para loops)
 $colors: (
@@ -291,6 +292,17 @@ $colors: (
   'primary-light': $primary-light,
   'accent': $accent,
   'accent-dark': $accent-dark,
+);
+
+// Mapa de módulos (para loops)
+$modules: (
+  1: $module-1,
+  2: $module-2,
+  3: $module-3,
+  4: $module-4,
+  5: $module-5,
+  6: $module-6,
+  7: $module-7,
 );
 */
 
@@ -301,13 +313,16 @@ $colors: (
 
 /*
 Paleta principal (5 colores):
-https://coolors.co/4338ca-e07a5f-1e1b2e-fdfcfb-e8e4e0
+https://coolors.co/2a5058-dc8060-2a3a3a-fdfcfb-e8e4e0
 
-Paleta extendida Índigo:
-https://coolors.co/3730a3-4338ca-6366f1-e0e7ff-eef2ff
+Paleta extendida Océano:
+https://coolors.co/1a3a40-2a5058-487878-e0ebeb-f2f7f7
 
-Paleta extendida Coral:
-https://coolors.co/c85a42-e07a5f-f4a990-fef2f0
+Paleta extendida Coral Arcilla:
+https://coolors.co/b86848-dc8060-f0a080-fdf6f3
+
+Transición de módulos M1→M7:
+https://coolors.co/dc8060-c48870-a89080-889088-688888-487878-2a5058
 */
 
 
@@ -316,30 +331,30 @@ https://coolors.co/c85a42-e07a5f-f4a990-fef2f0
    ========================================== */
 
 /*
-Primary:        rgb(67, 56, 202)
-Primary Dark:   rgb(55, 48, 163)
-Primary Light:  rgb(99, 102, 241)
-Primary Muted:  rgb(224, 231, 255)
-Primary Subtle: rgb(238, 242, 255)
+Primary (Océano):       rgb(42, 80, 88)
+Primary Dark:           rgb(26, 58, 64)
+Primary Light:          rgb(72, 120, 120)
+Primary Muted:          rgb(224, 235, 235)
+Primary Subtle:         rgb(242, 247, 247)
 
-Accent:         rgb(224, 122, 95)
-Accent Dark:    rgb(200, 90, 66)
-Accent Light:   rgb(244, 169, 144)
-Accent Muted:   rgb(254, 242, 240)
+Accent (Coral Arcilla): rgb(220, 128, 96)
+Accent Dark:            rgb(184, 104, 72)
+Accent Light:           rgb(240, 160, 128)
+Accent Muted:           rgb(253, 246, 243)
 
-Module 1 (M1):  rgb(224, 122, 95)   - Coral
-Module 2 (M2):  rgb(196, 107, 120)  - Rosa coral
-Module 3 (M3):  rgb(168, 93, 145)   - Rosa violeta
-Module 4 (M4):  rgb(139, 80, 170)   - Violeta
-Module 5 (M5):  rgb(110, 68, 192)   - Violeta índigo
-Module 6 (M6):  rgb(99, 102, 241)   - Primary Light
-Module 7 (M7):  rgb(67, 56, 202)    - Índigo
+Module 1 (M1):          rgb(220, 128, 96)   - Coral arcilla
+Module 2 (M2):          rgb(196, 136, 112)  - Arena rosada
+Module 3 (M3):          rgb(168, 144, 128)  - Duna
+Module 4 (M4):          rgb(136, 144, 136)  - Niebla
+Module 5 (M5):          rgb(104, 136, 136)  - Marea
+Module 6 (M6):          rgb(72, 120, 120)   - Profundidad
+Module 7 (M7):          rgb(42, 80, 88)     - Océano
 
-Background:     rgb(253, 252, 251)
-Background Alt: rgb(249, 247, 245)
-Border:         rgb(232, 228, 224)
+Background:             rgb(253, 252, 251)
+Background Alt:         rgb(249, 247, 245)
+Border:                 rgb(232, 228, 224)
 
-Text Primary:   rgb(30, 27, 46)
-Text Secondary: rgb(82, 77, 95)
-Text Muted:     rgb(140, 134, 151)
+Text Primary:           rgb(42, 58, 58)
+Text Secondary:         rgb(90, 106, 106)
+Text Muted:             rgb(138, 150, 150)
 */

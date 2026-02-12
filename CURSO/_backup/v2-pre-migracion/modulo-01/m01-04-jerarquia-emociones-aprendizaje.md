@@ -16,7 +16,7 @@ Las emociones determinan qué experiencias se graban en la memoria y cuáles se 
 Este marcaje no es metafórico: las emociones desencadenan la liberación de neuromoduladores, particularmente dopamina, que actúan como señales de refuerzo. El mensaje al sistema: "esto importa, presta atención, actualiza tu modelo del mundo".
 
 #imagen
-![img-m01-cabeza-emociones](recursos/imagenes/img-m01-cabeza-emociones.png) Ilustración de una silueta de cabeza humana de perfil con tres emoticonos en su interior representando diferentes emociones: alegría (amarillo sonriente), tristeza (azul), enfado (naranja). Representa cómo las emociones habitan en nuestra mente e influyen en el procesamiento de la información.
+![img-m01-cabeza-emociones](../../../modulo-01-consciente-de-lo-que-soy/recursos/imagenes/img-m01-cabeza-emociones.png) Ilustración de una silueta de cabeza humana de perfil con tres emoticonos en su interior representando diferentes emociones: alegría (amarillo sonriente), tristeza (azul), enfado (naranja). Representa cómo las emociones habitan en nuestra mente e influyen en el procesamiento de la información.
 
 #### El efecto amplificador
 
@@ -29,7 +29,7 @@ La implicación práctica: no solo recordamos mejor lo que nos emociona; lo que 
 ## El poder emocional de los recuerdos
 
 #video
-![vid-m01-ratatouille-memoria](recursos/videos/vid-m01-ratatouille-memoria.mp4)Escena de la película Ratatouille (Pixar) donde el crítico gastronómico Anton Ego prueba el plato de ratatouille. Al probarlo, es transportado instantáneamente a un recuerdo vívido de su infancia, cuando su madre le preparaba ese mismo plato. Ilustra perfectamente cómo un estímulo sensorial (el sabor) cargado de emoción puede activar todo un conjunto de recuerdos asociados, demostrando el poder de las emociones en la consolidación y evocación de la memoria.
+![vid-m01-ratatouille-memoria](../../../modulo-01-consciente-de-lo-que-soy/recursos/videos/vid-m01-ratatouille-memoria.mp4)Escena de la película Ratatouille (Pixar) donde el crítico gastronómico Anton Ego prueba el plato de ratatouille. Al probarlo, es transportado instantáneamente a un recuerdo vívido de su infancia, cuando su madre le preparaba ese mismo plato. Ilustra perfectamente cómo un estímulo sensorial (el sabor) cargado de emoción puede activar todo un conjunto de recuerdos asociados, demostrando el poder de las emociones en la consolidación y evocación de la memoria.
 
 ---
 

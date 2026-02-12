@@ -88,19 +88,19 @@ El Sistema 1 proporciona una primera respuesta rápida; el Sistema 2 tiene la ca
 ![img-m01-ejercicio-derecha-izquierda](recursos/imagenes/img-m01-ejercicio-derecha-izquierda.png) Ejercicio tipo Stroop con las palabras "IZQUIERDA", "izquierda", "Derecha", "DERECHA", "derecha" dispuestas en diferentes posiciones y con diferentes formatos (mayúsculas/minúsculas). El ejercicio demuestra la interferencia cognitiva entre el Sistema 1 (leer automáticamente) y el Sistema 2 (identificar la posición).
 
 #practica 
-![img-m01-ejercicio-lectura-inconsciente](recursos/imagenes/img-m01-ejercicio-lectura-inconsciente.png) Experimento que muestra cómo somos capaces de leer texto que no está bien escrito pero nuestro cerebro le da sentido automáticamente.
+![img-m01-ejercicio-lectura-inconsciente](../../../modulo-01-consciente-de-lo-que-soy/recursos/imagenes/img-m01-ejercicio-lectura-inconsciente.png) Experimento que muestra cómo somos capaces de leer texto que no está bien escrito pero nuestro cerebro le da sentido automáticamente.
 
 #practica 
-![img-m01-ejercicio-you-simple](recursos/imagenes/img-m01-ejercicio-you-simple.png) Cuadrícula de 3x3 con la palabra "YOU" repetida 9 veces, pero una de ellas dice "YOO". Ejercicio de atención selectiva que demuestra cómo el Sistema 1 puede hacernos pasar por alto detalles cuando cree reconocer un patrón familiar.
+![img-m01-ejercicio-you-simple](../../../modulo-01-consciente-de-lo-que-soy/recursos/imagenes/img-m01-ejercicio-you-simple.png) Cuadrícula de 3x3 con la palabra "YOU" repetida 9 veces, pero una de ellas dice "YOO". Ejercicio de atención selectiva que demuestra cómo el Sistema 1 puede hacernos pasar por alto detalles cuando cree reconocer un patrón familiar.
 
 #practica 
-![](recursos/imagenes/img-m01-solucion-ejercicio-you-simple.png) Solución: Cuadrícula de 3x3 con la palabra "YOU" repetida 9 veces, pero una de ellas dice "YOO" (marcada con círculo rojo).
+![](../../../modulo-01-consciente-de-lo-que-soy/recursos/imagenes/img-m01-solucion-ejercicio-you-simple.png) Solución: Cuadrícula de 3x3 con la palabra "YOU" repetida 9 veces, pero una de ellas dice "YOO" (marcada con círculo rojo).
 
 #practica 
-![img-m01-ejercicio-you-completo](recursos/imagenes/img-m01-ejercicio-you-completo.png) Versión ampliada del ejercicio anterior: múltiples filas con la palabra "YOU" repetida muchas veces (aproximadamente 100+ repeticiones), con un único "YOO" escondido entre ellas. Demuestra la ceguera por inatención y cómo el Sistema 1 nos hace "ver" lo que esperamos ver en lugar de lo que realmente hay.
+![img-m01-ejercicio-you-completo](../../../modulo-01-consciente-de-lo-que-soy/recursos/imagenes/img-m01-ejercicio-you-completo.png) Versión ampliada del ejercicio anterior: múltiples filas con la palabra "YOU" repetida muchas veces (aproximadamente 100+ repeticiones), con un único "YOO" escondido entre ellas. Demuestra la ceguera por inatención y cómo el Sistema 1 nos hace "ver" lo que esperamos ver en lugar de lo que realmente hay.
 
 #practica 
-![img-m01-solucion-ejercicio-you-completo](recursos/imagenes/img-m01-solucion-ejercicio-you-completo.png) Solución: Versión ampliada del ejercicio anterior con el único "YOO" marcado con círculo rojo.
+![img-m01-solucion-ejercicio-you-completo](../../../modulo-01-consciente-de-lo-que-soy/recursos/imagenes/img-m01-solucion-ejercicio-you-completo.png) Solución: Versión ampliada del ejercicio anterior con el único "YOO" marcado con círculo rojo.
 
 ---
 

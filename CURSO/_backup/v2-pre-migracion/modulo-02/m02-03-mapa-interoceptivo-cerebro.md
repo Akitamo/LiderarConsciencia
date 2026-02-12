@@ -12,7 +12,7 @@ ultima_actualizacion: "16/01/2026"
 ## Las vías de comunicación cuerpo-cerebro
 
 #imagen
-![img-m02-referencia-articulo](recursos/imagenes/img-m02-referencia-articulo.png) Recuadro con referencia bibliográfica: "The Emerging Science of Interoception: Sensing, Integrating, Interpreting, and Regulating Signals within the Self"[^1]
+![img-m02-referencia-articulo](../../../modulo-02-consciente-de-como-estoy/recursos/imagenes/img-m02-referencia-articulo.png) Recuadro con referencia bibliográfica: "The Emerging Science of Interoception: Sensing, Integrating, Interpreting, and Regulating Signals within the Self"[^1]
 
 El cerebro integra la información de los órganos internos mediante una red neuronal distribuida. Las señales interoceptivas viajan al cerebro a través del nervio vago y la médula espinal. El tálamo las recibe y distribuye a las áreas corticales, donde se procesan e integran con información sensorial, emocional y cognitiva.
 

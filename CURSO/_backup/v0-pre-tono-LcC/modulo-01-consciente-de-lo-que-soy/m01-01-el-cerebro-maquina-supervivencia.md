@@ -16,7 +16,7 @@ tags: [neurociencia, cerebro, evolucion, supervivencia]
 • No se trata solo de percibir el presente, sino de proyectar y prepararnos para el futuro.
 
 #imagen
-![img-m01-vineta-evolucion](recursos/imagenes/img-m01-vineta-evolucion.png) Viñeta humorística de evolución mostrando reptil, mamífero, primate y humano en secuencia, todos pensando "COMER, SOBREVIVIR, REPRODUCIRSE" excepto el humano que piensa "¿...DE QUÉ IBA ESTO...?" Firmada por HARDIN
+![img-m01-vineta-evolucion](../../../modulo-01-consciente-de-lo-que-soy/recursos/imagenes/img-m01-vineta-evolucion.png) Viñeta humorística de evolución mostrando reptil, mamífero, primate y humano en secuencia, todos pensando "COMER, SOBREVIVIR, REPRODUCIRSE" excepto el humano que piensa "¿...DE QUÉ IBA ESTO...?" Firmada por HARDIN
 
 #explicacion
 El Cerebro: Una Máquina de Supervivencia
@@ -51,10 +51,10 @@ El cerebro crearía un "modelo del mundo" para anticipar eventos futuros.
 La evolución ha favorecido este sistema por su capacidad de aumentar las posibilidades de supervivencia. Las redes neuronales, la memoria, los sentidos, la corteza asociativa y las emociones trabajan en conjunto para generar este "teatro mental" que nos permite navegar por el mundo e interactuar con él.
 
 #imagen
-![img-m01-libro-rafael-yuste](recursos/imagenes/img-m01-libro-rafael-yuste.jpeg) Portada del libro "El cerebro, el teatro del mundo" de Rafael Yuste con subtítulo "Descubre cómo funciona y cómo crea nuestra realidad".
+![img-m01-libro-rafael-yuste](../../../modulo-01-consciente-de-lo-que-soy/recursos/imagenes/img-m01-libro-rafael-yuste.jpeg) Portada del libro "El cerebro, el teatro del mundo" de Rafael Yuste con subtítulo "Descubre cómo funciona y cómo crea nuestra realidad".
 
 #imagen
-![img-m01-diagrama-modelo-mundo](recursos/imagenes/img-m01-diagrama-modelo-mundo.png) Diagrama circular con cerebro en el centro rodeado de 4 elementos conectados: "Memoria y recuerdos" (arriba), "Emociones" (derecha), "Información sentidos" (abajo), "Modelo del mundo" (izquierda). Todos conectados por flechas bidireccionales hacia "Supervivencia" en el exterior
+![img-m01-diagrama-modelo-mundo](../../../modulo-01-consciente-de-lo-que-soy/recursos/imagenes/img-m01-diagrama-modelo-mundo.png) Diagrama circular con cerebro en el centro rodeado de 4 elementos conectados: "Memoria y recuerdos" (arriba), "Emociones" (derecha), "Información sentidos" (abajo), "Modelo del mundo" (izquierda). Todos conectados por flechas bidireccionales hacia "Supervivencia" en el exterior
 
 #explicacion
 1. La Máquina de Supervivencia

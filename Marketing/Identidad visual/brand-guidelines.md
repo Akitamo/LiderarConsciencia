@@ -15,16 +15,16 @@ La identidad visual representa el viaje de expansión de la consciencia desde el
 ### 1.2 Metáfora Visual Principal
 **Ondas de consciencia expandiéndose desde una semilla radiante**
 - Centro coral con gradiente = la semilla de cambio, el punto de partida interior con energía propia
-- Círculos en transición coral → índigo = los niveles de consciencia que se expanden
+- Círculos en transición coral arcilla → océano = los niveles de consciencia que se expanden
 - Grosor decreciente hacia el exterior = mayor definición en el núcleo, expansión sutil hacia fuera
 - Opacidad creciente hacia el centro = mayor claridad cuanto más profundo
 - Círculo exterior punteado = expansión continua, sin límite fijo
 
 ### 1.3 Sistema de 7 Módulos y su Representación Visual
 
-El programa tiene **7 módulos** que se representan con **7 colores** en transición coral → índigo. Este sistema de 7 colores es **permanente e inalterable** y se usa en:
+El programa tiene **7 módulos** que se representan con **7 colores** en transición coral arcilla → océano. Este sistema de 7 colores es **permanente e inalterable** y se usa en:
 
-- **Iconos de módulo**: Cada módulo tiene su color específico (M1=coral, M2=rosa coral... M7=índigo)
+- **Iconos de módulo**: Cada módulo tiene su color específico (M1=coral arcilla, M2=arena rosada... M7=océano)
 - **Círculos decorativos**: 7 anillos que representan los 7 módulos completos
 - **Cualquier elemento** que represente la progresión del curso
 
@@ -49,22 +49,22 @@ El logo usa **4 anillos** (no 7) como síntesis visual optimizada para reconocim
 
 ### 2.1 Colores Principales
 
-#### Índigo (Principal)
+#### Océano (Principal)
 | Uso | Nombre | HEX | RGB |
 |-----|--------|-----|-----|
-| Textos destacados, bordes activos | Primary | `#4338CA` | 67, 56, 202 |
-| Hover, énfasis fuerte | Primary Dark | `#3730A3` | 55, 48, 163 |
-| Iconos, elementos secundarios | Primary Light | `#6366F1` | 99, 102, 241 |
-| Fondos suaves, badges | Primary Muted | `#E0E7FF` | 224, 231, 255 |
-| Fondos muy sutiles | Primary Subtle | `#EEF2FF` | 238, 242, 255 |
+| Textos destacados, bordes activos | Primary | `#2A5058` | 42, 80, 88 |
+| Hover, énfasis fuerte | Primary Dark | `#1A3A40` | 26, 58, 64 |
+| Iconos, elementos secundarios | Primary Light | `#487878` | 72, 120, 120 |
+| Fondos suaves, badges | Primary Muted | `#E0EBEB` | 224, 235, 235 |
+| Fondos muy sutiles | Primary Subtle | `#F2F7F7` | 242, 247, 247 |
 
-#### Coral/Terracota (Acento)
+#### Coral Arcilla (Acento)
 | Uso | Nombre | HEX | RGB |
 |-----|--------|-----|-----|
-| CTAs principales, semilla | Accent | `#E07A5F` | 224, 122, 95 |
-| Hover en CTAs, gradiente semilla | Accent Dark | `#C85A42` | 200, 90, 66 |
-| Detalles decorativos, gradiente semilla | Accent Light | `#F4A990` | 244, 169, 144 |
-| Fondos de cards destacadas | Accent Muted | `#FEF2F0` | 254, 242, 240 |
+| CTAs principales, semilla | Accent | `#DC8060` | 220, 128, 96 |
+| Hover en CTAs, gradiente semilla | Accent Dark | `#B86848` | 184, 104, 72 |
+| Detalles decorativos, gradiente semilla | Accent Light | `#F0A080` | 240, 160, 128 |
+| Fondos de cards destacadas | Accent Muted | `#FDF6F3` | 253, 246, 243 |
 
 ### 2.2 Neutros Cálidos
 
@@ -79,9 +79,9 @@ El logo usa **4 anillos** (no 7) como síntesis visual optimizada para reconocim
 
 | Uso | Nombre | HEX | RGB |
 |-----|--------|-----|-----|
-| Títulos, texto principal | Text Primary | `#1E1B2E` | 30, 27, 46 |
-| Párrafos, texto secundario | Text Secondary | `#524D5F` | 82, 77, 95 |
-| Etiquetas, texto terciario | Text Muted | `#8C8697` | 140, 134, 151 |
+| Títulos, texto principal | Text Primary | `#2A3A3A` | 42, 58, 58 |
+| Párrafos, texto secundario | Text Secondary | `#5A6A6A` | 90, 106, 106 |
+| Etiquetas, texto terciario | Text Muted | `#8A9696` | 138, 150, 150 |
 
 ### 2.4 Gradiente de la Semilla
 
@@ -89,40 +89,40 @@ La semilla central del logo utiliza un gradiente radial que aporta calidez y pro
 
 ```css
 radialGradient id="seedRadiant" cx="50%" cy="50%" r="50%"
-  stop offset="0%"   → #F4A990 (Accent Light)
-  stop offset="50%"  → #E07A5F (Accent)
-  stop offset="100%" → #C85A42 (Accent Dark)
+  stop offset="0%"   → #F0A080 (Accent Light)
+  stop offset="50%"  → #DC8060 (Accent)
+  stop offset="100%" → #B86848 (Accent Dark)
 ```
 
 ### 2.5 Reglas de Uso de Color
 
 **UI General (cards, botones, textos, fondos, navegación):**
-- **Índigo**: Elementos de interfaz, navegación, fondos de contenedores de iconos (M1-M6)
-- **Coral**: CTAs principales, highlights, fondos de contenedores de iconos (M7)
-- **Ratio recomendado**: 70% neutros, 25% índigo, 5% coral
+- **Océano**: Elementos de interfaz, navegación, fondos de contenedores de iconos (M1-M6)
+- **Coral Arcilla**: CTAs principales, highlights, fondos de contenedores de iconos (M7)
+- **Ratio recomendado**: 70% neutros, 25% océano, 5% coral arcilla
 
 **Logo y elementos decorativos:**
-- Usan la transición de colores coral → índigo (ver sección 2.6)
+- Usan la transición de colores coral arcilla → océano (ver sección 2.6)
 - La semilla siempre usa el gradiente radial
 
 **Nunca:**
-- Usar coral para texto largo
-- Usar índigo sobre fondos oscuros sin ajustar opacidad
+- Usar coral arcilla para texto largo
+- Usar océano sobre fondos oscuros sin ajustar opacidad
 - Usar colores de transición (blend) en UI general
 
 ### 2.6 Colores de Transición — Sistema de 7 Módulos
 
-La paleta de transición coral → índigo representa los **7 módulos del programa** y se mantiene íntegra para iconos de módulo, círculos decorativos y cualquier elemento que represente la progresión del curso.
+La paleta de transición coral arcilla → océano representa los **7 módulos del programa** y se mantiene íntegra para iconos de módulo, círculos decorativos y cualquier elemento que represente la progresión del curso.
 
 | Módulo | Nombre | HEX | RGB |
 |--------|--------|-----|-----|
-| M1 | Coral (inicio) | `#E07A5F` | 224, 122, 95 |
-| M2 | Rosa coral | `#C46B78` | 196, 107, 120 |
-| M3 | Rosa violeta | `#A85D91` | 168, 93, 145 |
-| M4 | Violeta | `#8B50AA` | 139, 80, 170 |
-| M5 | Violeta índigo | `#6E44C0` | 110, 68, 192 |
-| M6 | Primary Light | `#6366F1` | 99, 102, 241 |
-| M7 | Índigo (fin) | `#4338CA` | 67, 56, 202 |
+| M1 | Coral arcilla (inicio) | `#DC8060` | 220, 128, 96 |
+| M2 | Arena rosada | `#C48870` | 196, 136, 112 |
+| M3 | Duna | `#A89080` | 168, 144, 128 |
+| M4 | Niebla | `#889088` | 136, 144, 136 |
+| M5 | Marea | `#688888` | 104, 136, 136 |
+| M6 | Profundidad | `#487878` | 72, 120, 120 |
+| M7 | Océano (fin) | `#2A5058` | 42, 80, 88 |
 
 **Uso según elemento:**
 
@@ -136,7 +136,7 @@ La paleta de transición coral → índigo representa los **7 módulos del progr
 **Importante**: 
 - Los 7 colores de módulo son **permanentes** y se usan siempre que se representen los módulos
 - El logo simplifica a 4 anillos por legibilidad, pero esto **no afecta** al sistema de 7 módulos
-- En UI general solo se usan índigo (#4338CA) + coral (#E07A5F), NO los colores intermedios
+- En UI general solo se usan océano (#2A5058) + coral arcilla (#DC8060), NO los colores intermedios
 
 ---
 
@@ -173,7 +173,7 @@ font-size: 14px
 font-weight: 600
 text-transform: uppercase
 letter-spacing: 0.1em
-color: Accent (#E07A5F)
+color: Accent (#DC8060)
 ```
 
 **Cita destacada**:
@@ -233,19 +233,19 @@ El logo representa **ondas de consciencia expandiéndose desde una semilla radia
 
 | Elemento | Radio | Grosor | Color | Opacidad | Estilo |
 |----------|-------|--------|-------|----------|--------|
-| Anillo 4 (exterior) | 22 | 0.8px | `#4338CA` | 0.4 | Punteado `2.5 1.5` |
-| Anillo 3 | 18 | 1.4px | `#6E44C0` | 0.55 | Sólido |
-| Anillo 2 | 14.5 | 1.8px | `#8B50AA` | 0.7 | Sólido |
-| Anillo 1 (interno) | 11 | 2.5px | `#C46B78` | 0.85 | Sólido |
+| Anillo 4 (exterior) | 22 | 0.8px | `#2A5058` | 0.4 | Punteado `2.5 1.5` |
+| Anillo 3 | 18 | 1.4px | `#688888` | 0.55 | Sólido |
+| Anillo 2 | 14.5 | 1.8px | `#889088` | 0.7 | Sólido |
+| Anillo 1 (interno) | 11 | 2.5px | `#C48870` | 0.85 | Sólido |
 | Semilla | 6.5 | — | Gradiente radial | 1.0 | Relleno |
 | Highlight | 2.8 | — | `#FFFFFF` | 0.45 | Relleno, offset -0.8,-0.8 |
 
 **Gradiente de la semilla**:
 ```svg
 <radialGradient id="seedRadiant" cx="50%" cy="50%" r="50%">
-  <stop offset="0%" stop-color="#F4A990"/>
-  <stop offset="50%" stop-color="#E07A5F"/>
-  <stop offset="100%" stop-color="#C85A42"/>
+  <stop offset="0%" stop-color="#F0A080"/>
+  <stop offset="50%" stop-color="#DC8060"/>
+  <stop offset="100%" stop-color="#B86848"/>
 </radialGradient>
 ```
 
@@ -260,15 +260,15 @@ El logo representa **ondas de consciencia expandiéndose desde una semilla radia
 <svg viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <radialGradient id="seedRadiant" cx="50%" cy="50%" r="50%">
-      <stop offset="0%" stop-color="#F4A990"/>
-      <stop offset="50%" stop-color="#E07A5F"/>
-      <stop offset="100%" stop-color="#C85A42"/>
+      <stop offset="0%" stop-color="#F0A080"/>
+      <stop offset="50%" stop-color="#DC8060"/>
+      <stop offset="100%" stop-color="#B86848"/>
     </radialGradient>
   </defs>
-  <circle cx="24" cy="24" r="22" stroke="#4338CA" stroke-width="0.8" stroke-dasharray="2.5 1.5" opacity="0.4" fill="none"/>
-  <circle cx="24" cy="24" r="18" stroke="#6E44C0" stroke-width="1.4" opacity="0.55" fill="none"/>
-  <circle cx="24" cy="24" r="14.5" stroke="#8B50AA" stroke-width="1.8" opacity="0.7" fill="none"/>
-  <circle cx="24" cy="24" r="11" stroke="#C46B78" stroke-width="2.5" opacity="0.85" fill="none"/>
+  <circle cx="24" cy="24" r="22" stroke="#2A5058" stroke-width="0.8" stroke-dasharray="2.5 1.5" opacity="0.4" fill="none"/>
+  <circle cx="24" cy="24" r="18" stroke="#688888" stroke-width="1.4" opacity="0.55" fill="none"/>
+  <circle cx="24" cy="24" r="14.5" stroke="#889088" stroke-width="1.8" opacity="0.7" fill="none"/>
+  <circle cx="24" cy="24" r="11" stroke="#C48870" stroke-width="2.5" opacity="0.85" fill="none"/>
   <circle cx="24" cy="24" r="6.5" fill="url(#seedRadiant)"/>
   <circle cx="23.2" cy="23.2" r="2.8" fill="white" opacity="0.45"/>
 </svg>
@@ -279,10 +279,10 @@ Colores más luminosos para mantener contraste:
 
 | Elemento | Color Light | Color Dark |
 |----------|-------------|------------|
-| Anillo 4 (exterior) | `#4338CA` | `#FFFFFF` opacity 0.25 |
-| Anillo 3 | `#6E44C0` | `#818CF8` |
-| Anillo 2 | `#8B50AA` | `#A78BFA` |
-| Anillo 1 | `#C46B78` | `#E879A9` |
+| Anillo 4 (exterior) | `#2A5058` | `#FFFFFF` opacity 0.25 |
+| Anillo 3 | `#688888` | `#6A9898` |
+| Anillo 2 | `#889088` | `#A8B0A8` |
+| Anillo 1 | `#C48870` | `#E0A090` |
 | Semilla | Gradiente | Mismo gradiente |
 | Highlight | opacity 0.45 | opacity 0.55 |
 
@@ -290,15 +290,15 @@ Colores más luminosos para mantener contraste:
 <svg viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <radialGradient id="seedRadiantDark" cx="50%" cy="50%" r="50%">
-      <stop offset="0%" stop-color="#F4A990"/>
-      <stop offset="50%" stop-color="#E07A5F"/>
-      <stop offset="100%" stop-color="#C85A42"/>
+      <stop offset="0%" stop-color="#F0A080"/>
+      <stop offset="50%" stop-color="#DC8060"/>
+      <stop offset="100%" stop-color="#B86848"/>
     </radialGradient>
   </defs>
   <circle cx="24" cy="24" r="22" stroke="white" stroke-width="0.8" stroke-dasharray="2.5 1.5" opacity="0.25" fill="none"/>
-  <circle cx="24" cy="24" r="18" stroke="#818CF8" stroke-width="1.4" opacity="0.6" fill="none"/>
-  <circle cx="24" cy="24" r="14.5" stroke="#A78BFA" stroke-width="1.8" opacity="0.75" fill="none"/>
-  <circle cx="24" cy="24" r="11" stroke="#E879A9" stroke-width="2.5" opacity="0.9" fill="none"/>
+  <circle cx="24" cy="24" r="18" stroke="#6A9898" stroke-width="1.4" opacity="0.6" fill="none"/>
+  <circle cx="24" cy="24" r="14.5" stroke="#A8B0A8" stroke-width="1.8" opacity="0.75" fill="none"/>
+  <circle cx="24" cy="24" r="11" stroke="#E0A090" stroke-width="2.5" opacity="0.9" fill="none"/>
   <circle cx="24" cy="24" r="6.5" fill="url(#seedRadiantDark)"/>
   <circle cx="23.2" cy="23.2" r="2.8" fill="white" opacity="0.55"/>
 </svg>
@@ -312,9 +312,9 @@ Versión simplificada optimizada para tamaños pequeños (16-32px):
 
 | Elemento | Radio | Grosor | Color | Opacidad |
 |----------|-------|--------|-------|----------|
-| Anillo exterior | 21 | 1.5px | `#4338CA` | 0.5 |
-| Anillo medio | 14 | 2px | `#8B50AA` | 0.7 |
-| Anillo interno | 8 | 3px | `#C46B78` | 0.9 |
+| Anillo exterior | 21 | 1.5px | `#2A5058` | 0.5 |
+| Anillo medio | 14 | 2px | `#889088` | 0.7 |
+| Anillo interno | 8 | 3px | `#C48870` | 0.9 |
 | Semilla | 4.5 | — | Gradiente | 1.0 |
 | Highlight | 1.8 | — | `#FFFFFF` | 0.5 |
 
@@ -328,14 +328,14 @@ Versión simplificada optimizada para tamaños pequeños (16-32px):
 <svg viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <radialGradient id="seedFavicon" cx="50%" cy="50%" r="50%">
-      <stop offset="0%" stop-color="#F4A990"/>
-      <stop offset="50%" stop-color="#E07A5F"/>
-      <stop offset="100%" stop-color="#C85A42"/>
+      <stop offset="0%" stop-color="#F0A080"/>
+      <stop offset="50%" stop-color="#DC8060"/>
+      <stop offset="100%" stop-color="#B86848"/>
     </radialGradient>
   </defs>
-  <circle cx="24" cy="24" r="21" stroke="#4338CA" stroke-width="1.5" opacity="0.5" fill="none"/>
-  <circle cx="24" cy="24" r="14" stroke="#8B50AA" stroke-width="2" opacity="0.7" fill="none"/>
-  <circle cx="24" cy="24" r="8" stroke="#C46B78" stroke-width="3" opacity="0.9" fill="none"/>
+  <circle cx="24" cy="24" r="21" stroke="#2A5058" stroke-width="1.5" opacity="0.5" fill="none"/>
+  <circle cx="24" cy="24" r="14" stroke="#889088" stroke-width="2" opacity="0.7" fill="none"/>
+  <circle cx="24" cy="24" r="8" stroke="#C48870" stroke-width="3" opacity="0.9" fill="none"/>
   <circle cx="24" cy="24" r="4.5" fill="url(#seedFavicon)"/>
   <circle cx="23.3" cy="23.3" r="1.8" fill="white" opacity="0.5"/>
 </svg>
@@ -401,19 +401,19 @@ Cada módulo tiene un icono único que representa su esencia:
 
 ### 6.2 Colores de Iconos por Módulo
 
-Cada icono usa su color específico de la transición coral → índigo. **Los 7 colores se mantienen siempre** independientemente de que el logo use solo 4 anillos.
+Cada icono usa su color específico de la transición coral arcilla → océano. **Los 7 colores se mantienen siempre** independientemente de que el logo use solo 4 anillos.
 
 | Módulo | Fase | Color del icono | HEX |
 |--------|------|-----------------|-----|
-| M1 | Fundación | Coral | `#E07A5F` |
-| M2 | Fundación | Rosa coral | `#C46B78` |
-| M3 | Fundación | Rosa violeta | `#A85D91` |
-| M4 | Aplicación | Violeta | `#8B50AA` |
-| M5 | Aplicación | Violeta índigo | `#6E44C0` |
-| M6 | Aplicación | Primary Light | `#6366F1` |
-| M7 | Trascendencia | Índigo | `#4338CA` |
+| M1 | Fundación | Coral arcilla | `#DC8060` |
+| M2 | Fundación | Arena rosada | `#C48870` |
+| M3 | Fundación | Duna | `#A89080` |
+| M4 | Aplicación | Niebla | `#889088` |
+| M5 | Aplicación | Marea | `#688888` |
+| M6 | Aplicación | Profundidad | `#487878` |
+| M7 | Trascendencia | Océano | `#2A5058` |
 
-**Estado inactivo**: Text Muted (`#8C8697`) para todos los módulos.
+**Estado inactivo**: Text Muted (`#8A9696`) para todos los módulos.
 
 > ⚠️ **Nota**: El logo usa 4 anillos (M2, M4, M5, M7) como síntesis visual, pero esto NO afecta a los iconos de módulo, que siempre usan los 7 colores completos.
 
@@ -429,8 +429,8 @@ border-radius: 14-16px
 
 **Estado activo**:
 ```
-background: Primary Muted (#E0E7FF) o Accent Muted (#FEF2F0) para M7
-border: 2px solid Primary (#4338CA) o Accent (#E07A5F) para M7
+background: Primary Muted (#E0EBEB) o Accent Muted (#FDF6F3) para M7
+border: 2px solid Primary (#2A5058) o Accent (#DC8060) para M7
 box-shadow: 0 4px 12px rgba(0,0,0,0.1)
 ```
 
@@ -443,12 +443,12 @@ box-shadow: 0 4px 12px rgba(0,0,0,0.1)
 **Primario (CTA principal)**:
 ```
 padding: 16px 32px
-background: Accent (#E07A5F)
+background: Accent (#DC8060)
 color: White
 border-radius: 14px
 font-size: 15px
 font-weight: 600
-box-shadow: 0 4px 14px rgba(224, 122, 95, 0.4)
+box-shadow: 0 4px 14px rgba(220, 128, 96, 0.4)
 hover: transform translateY(-1px)
 ```
 
@@ -464,7 +464,7 @@ border-radius: 14px
 **Terciario (texto)**:
 ```
 padding: 10px 20px
-background: Primary (#4338CA)
+background: Primary (#2A5058)
 color: White
 border-radius: 12px
 font-size: 14px
@@ -483,23 +483,23 @@ padding: 28px
 **Elevated**:
 ```
 background: White
-box-shadow: 0 4px 24px rgba(30, 27, 46, 0.08)
+box-shadow: 0 4px 24px rgba(42, 58, 58, 0.08)
 border-radius: 20px
 padding: 28px
 ```
 
 **Accent (destacada)**:
 ```
-background: Accent Muted (#FEF2F0)
-border: 1px solid rgba(224, 122, 95, 0.2)
+background: Accent Muted (#FDF6F3)
+border: 1px solid rgba(220, 128, 96, 0.2)
 border-radius: 20px
 padding: 28px
 ```
 
 **Primary (contenido módulos)**:
 ```
-background: Primary Subtle (#EEF2FF)
-border: 1px solid rgba(67, 56, 202, 0.15)
+background: Primary Subtle (#F2F7F7)
+border: 1px solid rgba(42, 80, 88, 0.15)
 border-radius: 20px
 padding: 28-40px
 ```
@@ -509,9 +509,9 @@ padding: 28-40px
 **Primary**:
 ```
 padding: 6px 14px
-background: Primary Muted (#E0E7FF)
-color: Primary (#4338CA)
-border: 1px solid rgba(99, 102, 241, 0.25)
+background: Primary Muted (#E0EBEB)
+color: Primary (#2A5058)
+border: 1px solid rgba(72, 120, 120, 0.25)
 border-radius: 9999px
 font-size: 13px
 font-weight: 600
@@ -520,9 +520,9 @@ font-weight: 600
 **Accent**:
 ```
 padding: 6px 14px
-background: Accent Muted (#FEF2F0)
-color: Accent Dark (#C85A42)
-border: 1px solid rgba(224, 122, 95, 0.25)
+background: Accent Muted (#FDF6F3)
+color: Accent Dark (#B86848)
+border: 1px solid rgba(220, 128, 96, 0.25)
 border-radius: 9999px
 ```
 
@@ -531,7 +531,7 @@ border-radius: 9999px
 ```
 Card Elevated + barra lateral izquierda:
   - width: 4px
-  - background: Accent (#E07A5F)
+  - background: Accent (#DC8060)
   - border-radius en esquinas izquierdas
   
 Texto:
@@ -558,13 +558,13 @@ A diferencia del logo (4 anillos), los círculos decorativos representan los **7
 
 | Anillo | Radio | Grosor | Color | Opacidad | Estilo |
 |--------|-------|--------|-------|----------|--------|
-| 7 (exterior) | 75 | 0.8px | `#4338CA` | 0.25 | Punteado `2.5 1.5` |
-| 6 | 62 | 1.0px | `#6366F1` | 0.3 | Sólido |
-| 5 | 52 | 1.2px | `#6E44C0` | 0.4 | Sólido |
-| 4 | 42 | 1.4px | `#8B50AA` | 0.5 | Sólido |
-| 3 | 32 | 1.5px | `#A85D91` | 0.55 | Sólido |
-| 2 | 22 | 2.0px | `#C46B78` | 0.65 | Sólido |
-| 1 (interno) | 12 | 2.5px | `#C46B78` | 0.75 | Sólido |
+| 7 (exterior) | 75 | 0.8px | `#2A5058` | 0.25 | Punteado `2.5 1.5` |
+| 6 | 62 | 1.0px | `#487878` | 0.3 | Sólido |
+| 5 | 52 | 1.2px | `#688888` | 0.4 | Sólido |
+| 4 | 42 | 1.4px | `#889088` | 0.5 | Sólido |
+| 3 | 32 | 1.5px | `#A89080` | 0.55 | Sólido |
+| 2 | 22 | 2.0px | `#C48870` | 0.65 | Sólido |
+| 1 (interno) | 12 | 2.5px | `#DC8060` | 0.75 | Sólido |
 | Semilla | 6 | — | Gradiente | 1.0 | Relleno |
 | Highlight | 2.5 | — | `#FFFFFF` | 0.45 | Relleno |
 
@@ -572,18 +572,18 @@ A diferencia del logo (4 anillos), los círculos decorativos representan los **7
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160">
   <defs>
     <radialGradient id="seedDeco" cx="50%" cy="50%" r="50%">
-      <stop offset="0%" stop-color="#F4A990"/>
-      <stop offset="50%" stop-color="#E07A5F"/>
-      <stop offset="100%" stop-color="#C85A42"/>
+      <stop offset="0%" stop-color="#F0A080"/>
+      <stop offset="50%" stop-color="#DC8060"/>
+      <stop offset="100%" stop-color="#B86848"/>
     </radialGradient>
   </defs>
-  <circle cx="80" cy="80" r="75" fill="none" stroke="#4338CA" stroke-width="0.8" stroke-dasharray="2.5 1.5" opacity="0.25"/>
-  <circle cx="80" cy="80" r="62" fill="none" stroke="#6366F1" stroke-width="1" opacity="0.3"/>
-  <circle cx="80" cy="80" r="52" fill="none" stroke="#6E44C0" stroke-width="1.2" opacity="0.4"/>
-  <circle cx="80" cy="80" r="42" fill="none" stroke="#8B50AA" stroke-width="1.4" opacity="0.5"/>
-  <circle cx="80" cy="80" r="32" fill="none" stroke="#A85D91" stroke-width="1.5" opacity="0.55"/>
-  <circle cx="80" cy="80" r="22" fill="none" stroke="#C46B78" stroke-width="2" opacity="0.65"/>
-  <circle cx="80" cy="80" r="12" fill="none" stroke="#C46B78" stroke-width="2.5" opacity="0.75"/>
+  <circle cx="80" cy="80" r="75" fill="none" stroke="#2A5058" stroke-width="0.8" stroke-dasharray="2.5 1.5" opacity="0.25"/>
+  <circle cx="80" cy="80" r="62" fill="none" stroke="#487878" stroke-width="1" opacity="0.3"/>
+  <circle cx="80" cy="80" r="52" fill="none" stroke="#688888" stroke-width="1.2" opacity="0.4"/>
+  <circle cx="80" cy="80" r="42" fill="none" stroke="#889088" stroke-width="1.4" opacity="0.5"/>
+  <circle cx="80" cy="80" r="32" fill="none" stroke="#A89080" stroke-width="1.5" opacity="0.55"/>
+  <circle cx="80" cy="80" r="22" fill="none" stroke="#C48870" stroke-width="2" opacity="0.65"/>
+  <circle cx="80" cy="80" r="12" fill="none" stroke="#DC8060" stroke-width="2.5" opacity="0.75"/>
   <circle cx="80" cy="80" r="6" fill="url(#seedDeco)"/>
   <circle cx="78.5" cy="78.5" r="2.5" fill="white" opacity="0.45"/>
 </svg>
@@ -610,7 +610,7 @@ opacity: 0.06-0.15;
 
 En fondos oscuros, usar colores luminosos:
 - Anillo exterior: `#FFFFFF` opacity 0.2
-- Anillos interiores: `#818CF8`, `#8B5CF6`, `#A78BFA`, `#C084FC`, `#E879A9`
+- Anillos interiores: `#6A9898`, `#889898`, `#A8B0A8`, `#C8B8A8`, `#E0A090`
 
 ---
 
@@ -654,7 +654,7 @@ max-width: 900-1000px centrado
 ### 9.4 Footer
 ```
 padding: 64px 48px 32px
-background: Text Primary (#1E1B2E)
+background: Text Primary (#2A3A3A)
 color: White
   - Logo lockup (variant dark) + descripción
   - Columnas de links (títulos en Accent, uppercase)
@@ -725,33 +725,34 @@ color: White
 
 ```
 IDENTIDAD VISUAL "LIDERAR CON CONSCIENCIA"
+Versión 3.0 — Propuesta E: Arcilla & Océano
 
 Concepto: Ondas de consciencia expandiéndose desde una semilla radiante interior.
 Metáfora: Círculos concéntricos con semilla coral-gradiente en centro.
 
 === SISTEMA DE 7 MÓDULOS (PERMANENTE) ===
 Los 7 colores representan los 7 módulos del programa:
-M1: #E07A5F (coral) → M2: #C46B78 → M3: #A85D91 → M4: #8B50AA → M5: #6E44C0 → M6: #6366F1 → M7: #4338CA (índigo)
+M1: #DC8060 (coral arcilla) → M2: #C48870 (arena rosada) → M3: #A89080 (duna) → M4: #889088 (niebla) → M5: #688888 (marea) → M6: #487878 (profundidad) → M7: #2A5058 (océano)
 
 USO DE LOS 7 COLORES:
 - Iconos de módulo: SIEMPRE los 7 colores (cada módulo su color)
 - Círculos decorativos: SIEMPRE 7 anillos (representan los 7 módulos)
 - Logo: usa 4 de los 7 (M2, M4, M5, M7) como síntesis visual
-- UI general: solo índigo + coral, NO intermedios
+- UI general: solo océano + coral arcilla, NO intermedios
 
 === LOGO (4 anillos, viewBox 48) ===
-- Exterior punteado: r=22, stroke 0.8px, #4338CA (M7), opacity 0.4, dash "2.5 1.5"
-- Anillo 3: r=18, stroke 1.4px, #6E44C0 (M5), opacity 0.55
-- Anillo 2: r=14.5, stroke 1.8px, #8B50AA (M4), opacity 0.7
-- Anillo 1: r=11, stroke 2.5px, #C46B78 (M2), opacity 0.85
-- Semilla: r=6.5, gradiente radial #F4A990 → #E07A5F → #C85A42
+- Exterior punteado: r=22, stroke 0.8px, #2A5058 (M7), opacity 0.4, dash "2.5 1.5"
+- Anillo 3: r=18, stroke 1.4px, #688888 (M5), opacity 0.55
+- Anillo 2: r=14.5, stroke 1.8px, #889088 (M4), opacity 0.7
+- Anillo 1: r=11, stroke 2.5px, #C48870 (M2), opacity 0.85
+- Semilla: r=6.5, gradiente radial #F0A080 → #DC8060 → #B86848
 - Highlight: r=2.8, white, opacity 0.45
 
 === COLORES UI ===
-- Principal: Índigo #4338CA (variantes: #3730A3 dark, #6366F1 light, #E0E7FF muted)
-- Acento: Coral #E07A5F (variantes: #C85A42 dark, #F4A990 light, #FEF2F0 muted)
+- Principal: Océano #2A5058 (variantes: #1A3A40 dark, #487878 light, #E0EBEB muted)
+- Acento: Coral Arcilla #DC8060 (variantes: #B86848 dark, #F0A080 light, #FDF6F3 muted)
 - Fondo: #FDFCFB (alt: #F9F7F5)
-- Texto: #1E1B2E (primario), #524D5F (secundario), #8C8697 (muted)
+- Texto: #2A3A3A (primario), #5A6A6A (secundario), #8A9696 (muted)
 - Borde: #E8E4E0
 
 === TIPOGRAFÍA ===
@@ -768,7 +769,7 @@ Base 8px. Cards: 28px padding, 20px radius. Secciones: 80px vertical.
 - Círculos decorativos difuminados en esquinas (7 anillos = 7 módulos)
 - Cards con bordes sutiles o elevación suave
 - Badges pill-shaped para etiquetas
-- CTAs en coral con sombra suave
+- CTAs en coral arcilla con sombra suave
 
 TONO: Profesional pero cálido, contemporáneo, humano, inspirador sin ser esotérico.
 ```
@@ -782,9 +783,9 @@ TONO: Profesional pero cálido, contemporáneo, humano, inspirador sin ser esot�
 - [x] logo-dark.svg — Logo variante fondos oscuros
 - [x] favicon.svg — Favicon simplificado (3 anillos)
 - [x] circulos-decorativos.svg — Elemento decorativo (7 anillos)
+- [x] iconoM1.svg a iconoM7.svg — Iconos de módulos (7 archivos)
 - [ ] Logo PNG @1x, @2x, @3x
 - [ ] Favicon ICO/PNG (16, 32, 180, 512)
-- [ ] Iconos de módulos SVG (7 archivos)
 - [ ] Lockup horizontal SVG
 - [ ] Lockup vertical SVG
 
@@ -796,5 +797,5 @@ TONO: Profesional pero cálido, contemporáneo, humano, inspirador sin ser esot�
 
 ---
 
-*Versión 2.0 — Enero 2026*
+*Versión 3.0 — Propuesta E: Arcilla & Océano — Enero 2026*
 *Liderar con Consciencia — Manual de Identidad Visual*

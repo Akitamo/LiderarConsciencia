@@ -1,0 +1,262 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Liderar con Consciencia - Modelo Integral</title>
+  <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+    
+    body {
+      font-family: 'Outfit', -apple-system, sans-serif;
+      background: linear-gradient(180deg, #FDFCFB 0%, #F9F7F5 100%);
+      min-height: 100vh;
+      padding: 40px;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+    }
+    
+    .header {
+      text-align: center;
+      margin-bottom: 32px;
+    }
+    
+    .badge {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      padding: 8px 20px;
+      background: #FEF2F0;
+      border-radius: 9999px;
+      font-size: 11px;
+      font-weight: 700;
+      color: #C85A42;
+      text-transform: uppercase;
+      letter-spacing: 0.12em;
+      margin-bottom: 16px;
+    }
+    
+    h1 {
+      font-size: 38px;
+      font-weight: 800;
+      color: #1E1B2E;
+      margin-bottom: 8px;
+      letter-spacing: -0.03em;
+    }
+    
+    h1 span { color: #E07A5F; }
+    
+    .subtitle {
+      font-size: 16px;
+      color: #524D5F;
+    }
+    
+    .main-container {
+      background: #FFFFFF;
+      border-radius: 24px;
+      padding: 48px;
+      box-shadow: 0 8px 40px rgba(30, 27, 46, 0.08);
+      border: 1px solid #E8E4E0;
+      max-width: 1200px;
+      width: 100%;
+    }
+    
+    .svg-container {
+      width: 100%;
+      max-width: 1000px;
+      margin: 0 auto;
+    }
+    
+  </style>
+</head>
+<body>
+  <!-- Header -->
+  <div class="header">
+    <div class="badge">
+      <span>🧘</span>
+      Modelo Integral
+    </div>
+    <h1>Liderar con <span>Consciencia</span></h1>
+    <p class="subtitle">Integración de consciencia, atención, propósito e intención</p>
+  </div>
+
+  <!-- Main Container -->
+  <div class="main-container">
+    <div class="svg-container">
+      <svg viewBox="0 0 1000 600" style="width: 100%; height: auto;">
+        <defs>
+          <!-- Gradientes para las capas -->
+          <linearGradient id="gradPersonal" x1="0%" y1="0%" x2="100%" y2="0%">
+            <stop offset="0%" stop-color="#1E1B2E"/>
+            <stop offset="100%" stop-color="#2D2845"/>
+          </linearGradient>
+          <linearGradient id="gradProfesional" x1="0%" y1="0%" x2="100%" y2="0%">
+            <stop offset="0%" stop-color="#4338CA"/>
+            <stop offset="100%" stop-color="#6366F1"/>
+          </linearGradient>
+          <linearGradient id="gradConductual" x1="0%" y1="0%" x2="100%" y2="0%">
+            <stop offset="0%" stop-color="#6366F1" stop-opacity="0.15"/>
+            <stop offset="100%" stop-color="#E07A5F" stop-opacity="0.08"/>
+          </linearGradient>
+          
+          <!-- Gradiente para contexto -->
+          <radialGradient id="gradContexto" cx="50%" cy="50%" r="50%">
+            <stop offset="0%" stop-color="#FFFFFF"/>
+            <stop offset="100%" stop-color="#F3EEFF"/>
+          </radialGradient>
+          
+          <!-- Glow para atención -->
+          <filter id="glowAtencion" x="-50%" y="-50%" width="200%" height="200%">
+            <feGaussianBlur stdDeviation="5" result="blur"/>
+            <feFlood flood-color="#E07A5F" flood-opacity="0.2"/>
+            <feComposite in2="blur" operator="in"/>
+            <feMerge>
+              <feMergeNode/>
+              <feMergeNode in="SourceGraphic"/>
+            </feMerge>
+          </filter>
+        </defs>
+        
+        <!-- Header movido dentro de conductual -->
+        
+        <!-- ==================== HEADER: ENTRENAMIENTO MINDFULNESS (fuera del cuadro) ==================== -->
+        <g transform="translate(580, 35)">
+          <text x="0" y="0" text-anchor="middle" font-size="13" font-weight="700" fill="#8B50AA" letter-spacing="0.12em">🧘 ENTRENAMIENTO MINDFULNESS</text>
+        </g>
+        
+        <!-- ==================== CAPAS IZQUIERDA ==================== -->
+        <!-- Personal (más oscuro, interior) -->
+        <rect x="30" y="60" width="80" height="480" rx="16" fill="url(#gradPersonal)"/>
+        <text x="70" y="230" text-anchor="middle" font-size="12" font-weight="600" fill="white" letter-spacing="0.08em" opacity="0.7" transform="rotate(-90, 70, 230)">PERSONAL</text>
+        
+        <!-- Profesional (medio) -->
+        <rect x="115" y="60" width="80" height="480" rx="16" fill="url(#gradProfesional)"/>
+        <text x="155" y="230" text-anchor="middle" font-size="12" font-weight="600" fill="white" letter-spacing="0.08em" opacity="0.7" transform="rotate(-90, 155, 230)">PROFESIONAL</text>
+        
+        <!-- Conductual (exterior, más claro) -->
+        <rect x="200" y="60" width="770" height="480" rx="16" fill="url(#gradConductual)"/>
+        <text x="235" y="230" text-anchor="middle" font-size="11" font-weight="500" fill="#4338CA" opacity="0.4" letter-spacing="0.06em" transform="rotate(-90, 235, 230)">CONDUCTUAL</text>
+        
+        <!-- Modelo temporal: Antes / Durante / Después (colores neutros) -->
+        <g transform="translate(580, 85)">
+          <rect x="-180" y="0" width="105" height="28" rx="6" fill="#F5F5F5" stroke="#9CA3AF" stroke-width="1.5"/>
+          <text x="-128" y="19" text-anchor="middle" font-size="11" font-weight="700" fill="#6B7280">01 Antes</text>
+          
+          <rect x="-53" y="0" width="105" height="28" rx="6" fill="#F5F5F5" stroke="#9CA3AF" stroke-width="1.5"/>
+          <text x="0" y="19" text-anchor="middle" font-size="11" font-weight="700" fill="#6B7280">02 Durante</text>
+          
+          <rect x="73" y="0" width="105" height="28" rx="6" fill="#F5F5F5" stroke="#9CA3AF" stroke-width="1.5"/>
+          <text x="125" y="19" text-anchor="middle" font-size="11" font-weight="700" fill="#6B7280">03 Después</text>
+        </g>
+        
+        <!-- ==================== EJE PROPÓSITO → OBJETIVOS → INTENCIÓN (destacado) ==================== -->
+        <g transform="translate(0, 450)">
+          <!-- Propósito (dentro de Personal) -->
+          <circle cx="70" cy="0" r="10" fill="#E07A5F"/>
+          <text x="70" y="28" text-anchor="middle" font-size="13" font-weight="700" fill="white">Propósito</text>
+          
+          <!-- Línea punteada hacia Objetivos -->
+          <line x1="85" y1="0" x2="140" y2="0" stroke="white" stroke-width="2.5" stroke-dasharray="5 3" opacity="0.8"/>
+          
+          <!-- Objetivos (dentro de Profesional) -->
+          <circle cx="155" cy="0" r="10" fill="white"/>
+          <text x="155" y="28" text-anchor="middle" font-size="13" font-weight="700" fill="white">Objetivos</text>
+          
+          <!-- Línea punteada hacia Intención -->
+          <line x1="170" y1="0" x2="250" y2="0" stroke="#4338CA" stroke-width="2.5" stroke-dasharray="5 3" opacity="0.6"/>
+          
+          <!-- Intención (en el borde de Conductual) -->
+          <circle cx="268" cy="0" r="10" fill="#6366F1"/>
+          <text x="268" y="28" text-anchor="middle" font-size="13" font-weight="700" fill="#4338CA">Intención</text>
+        </g>
+        
+        <!-- ==================== CONTEXTO (círculo grande) ==================== -->
+        <circle cx="580" cy="330" r="160" fill="url(#gradContexto)" stroke="#E8E4E0" stroke-width="2"/>
+        
+        <!-- ==================== ATENCIÓN (círculo central) ==================== -->
+        <circle cx="580" cy="330" r="85" fill="white" stroke="#E07A5F" stroke-width="3" filter="url(#glowAtencion)"/>
+        <text x="580" y="323" text-anchor="middle" font-size="20" font-weight="700" fill="#1E1B2E">ATENCIÓN</text>
+        <text x="580" y="347" text-anchor="middle" font-size="12" fill="#8C8697">Foco consciente</text>
+        
+        <!-- Flechas circulares alrededor de atención -->
+        <g transform="translate(580, 330)">
+          <path d="M -55 -40 A 65 65 0 0 1 40 -55" fill="none" stroke="#E07A5F" stroke-width="3" opacity="0.5"/>
+          <path d="M 55 -30 A 65 65 0 0 1 55 45" fill="none" stroke="#8B50AA" stroke-width="3" opacity="0.5"/>
+          <path d="M 45 58 A 65 65 0 0 1 -50 45" fill="none" stroke="#4338CA" stroke-width="3" opacity="0.5"/>
+          <polygon points="-55,-40 -63,-30 -48,-33" fill="#E07A5F" opacity="0.7"/>
+          <polygon points="55,45 45,50 49,38" fill="#8B50AA" opacity="0.7"/>
+          <polygon points="-50,45 -40,50 -44,38" fill="#4338CA" opacity="0.7"/>
+        </g>
+        
+        <!-- Label CONTEXTO eliminado -->
+        
+        <!-- ==================== 7 MÓDULOS DISTRIBUIDOS ==================== -->
+        
+        <!-- M7: Consciente de lo que está bien (arriba centro - destacado) -->
+        <g transform="translate(580, 175)">
+          <circle cx="0" cy="0" r="42" fill="#4338CA" opacity="0.12"/>
+          <circle cx="0" cy="0" r="34" fill="white" stroke="#4338CA" stroke-width="2.5"/>
+          <text x="0" y="-4" text-anchor="middle" font-size="15" font-weight="700" fill="#4338CA">M7</text>
+          <text x="0" y="12" text-anchor="middle" font-size="10" fill="#8C8697">está bien</text>
+        </g>
+        
+        <!-- M6: Consciente de lo que quiero (arriba izquierda) -->
+        <g transform="translate(435, 225)">
+          <circle cx="0" cy="0" r="38" fill="#6366F1" opacity="0.12"/>
+          <circle cx="0" cy="0" r="30" fill="white" stroke="#6366F1" stroke-width="2"/>
+          <text x="0" y="-3" text-anchor="middle" font-size="14" font-weight="700" fill="#6366F1">M6</text>
+          <text x="0" y="12" text-anchor="middle" font-size="9" fill="#8C8697">quiero</text>
+        </g>
+        
+        <!-- M5: Consciente de lo que necesitamos (arriba derecha) -->
+        <g transform="translate(725, 225)">
+          <circle cx="0" cy="0" r="38" fill="#6E44C0" opacity="0.12"/>
+          <circle cx="0" cy="0" r="30" fill="white" stroke="#6E44C0" stroke-width="2"/>
+          <text x="0" y="-3" text-anchor="middle" font-size="14" font-weight="700" fill="#6E44C0">M5</text>
+          <text x="0" y="12" text-anchor="middle" font-size="8" fill="#8C8697">necesitamos</text>
+        </g>
+        
+        <!-- M3: Consciente de lo que pienso-siento (izquierda centro) -->
+        <g transform="translate(400, 330)">
+          <circle cx="0" cy="0" r="38" fill="#A85D91" opacity="0.12"/>
+          <circle cx="0" cy="0" r="30" fill="white" stroke="#A85D91" stroke-width="2"/>
+          <text x="0" y="-3" text-anchor="middle" font-size="14" font-weight="700" fill="#A85D91">M3</text>
+          <text x="0" y="12" text-anchor="middle" font-size="8" fill="#8C8697">pienso-siento</text>
+        </g>
+        
+        <!-- M4: Consciente de lo que necesito (derecha centro) -->
+        <g transform="translate(760, 330)">
+          <circle cx="0" cy="0" r="38" fill="#8B50AA" opacity="0.12"/>
+          <circle cx="0" cy="0" r="30" fill="white" stroke="#8B50AA" stroke-width="2"/>
+          <text x="0" y="-3" text-anchor="middle" font-size="14" font-weight="700" fill="#8B50AA">M4</text>
+          <text x="0" y="12" text-anchor="middle" font-size="9" fill="#8C8697">necesito</text>
+        </g>
+        
+        <!-- M1: Consciente de lo que soy (abajo izquierda) -->
+        <g transform="translate(435, 435)">
+          <circle cx="0" cy="0" r="38" fill="#E07A5F" opacity="0.12"/>
+          <circle cx="0" cy="0" r="30" fill="white" stroke="#E07A5F" stroke-width="2"/>
+          <text x="0" y="-3" text-anchor="middle" font-size="14" font-weight="700" fill="#E07A5F">M1</text>
+          <text x="0" y="12" text-anchor="middle" font-size="9" fill="#8C8697">lo que soy</text>
+        </g>
+        
+        <!-- M2: Consciente de cómo estoy (abajo derecha) -->
+        <g transform="translate(725, 435)">
+          <circle cx="0" cy="0" r="38" fill="#C46B78" opacity="0.12"/>
+          <circle cx="0" cy="0" r="30" fill="white" stroke="#C46B78" stroke-width="2"/>
+          <text x="0" y="-3" text-anchor="middle" font-size="14" font-weight="700" fill="#C46B78">M2</text>
+          <text x="0" y="12" text-anchor="middle" font-size="9" fill="#8C8697">cómo estoy</text>
+        </g>
+        
+      </svg>
+    </div>
+  </div>
+
+</body>
+</html>

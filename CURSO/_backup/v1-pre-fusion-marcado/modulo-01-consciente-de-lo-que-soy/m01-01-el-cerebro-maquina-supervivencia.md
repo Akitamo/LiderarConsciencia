@@ -17,7 +17,7 @@ El cerebro se ha desarrollado evolutivamente para una función primordial: antic
 No se trata de percibir el presente tal como es. Se trata de proyectar el futuro probable y actuar en consecuencia. Lo que llamamos "percepción" es, en realidad, predicción constante.
 
 #imagen
-![img-m01-vineta-evolucion](recursos/imagenes/img-m01-vineta-evolucion.png) Viñeta humorística de evolución mostrando reptil, mamífero, primate y humano en secuencia, todos pensando "COMER, SOBREVIVIR, REPRODUCIRSE" excepto el humano que piensa "¿...DE QUÉ IBA ESTO...?" Firmada por HARDIN
+![img-m01-vineta-evolucion](../../../modulo-01-consciente-de-lo-que-soy/recursos/imagenes/img-m01-vineta-evolucion.png) Viñeta humorística de evolución mostrando reptil, mamífero, primate y humano en secuencia, todos pensando "COMER, SOBREVIVIR, REPRODUCIRSE" excepto el humano que piensa "¿...DE QUÉ IBA ESTO...?" Firmada por HARDIN
 
 #explicacion
 Este diseño no es accidental. Ha sido moldeado para responder rápidamente a las amenazas, reconocer patrones en el entorno y aprovechar oportunidades con precisión. Un sistema de supervivencia eficiente donde cada parte cumple una función crucial en la anticipación y adaptación al entorno.
@@ -47,10 +47,10 @@ El cerebro construye un "modelo del mundo" interno para anticipar eventos futuro
 Redes neuronales, memoria, sentidos, corteza asociativa, emociones —todos trabajan en conjunto para generar este "teatro mental" que permite navegar el mundo e interactuar con él. Aunque parezca que habitamos la realidad, en realidad habitamos una interpretación construida por el cerebro: una realidad virtual personalizada.
 
 #imagen
-![img-m01-libro-rafael-yuste](recursos/imagenes/img-m01-libro-rafael-yuste.jpeg) Portada del libro "El cerebro, el teatro del mundo" de Rafael Yuste con subtítulo "Descubre cómo funciona y cómo crea nuestra realidad".
+![img-m01-libro-rafael-yuste](../../../modulo-01-consciente-de-lo-que-soy/recursos/imagenes/img-m01-libro-rafael-yuste.jpeg) Portada del libro "El cerebro, el teatro del mundo" de Rafael Yuste con subtítulo "Descubre cómo funciona y cómo crea nuestra realidad".
 
 #imagen
-![img-m01-diagrama-modelo-mundo](recursos/imagenes/img-m01-diagrama-modelo-mundo.png) Diagrama circular con cerebro en el centro rodeado de 4 elementos conectados: "Memoria y recuerdos" (arriba), "Emociones" (derecha), "Información sentidos" (abajo), "Modelo del mundo" (izquierda). Todos conectados por flechas bidireccionales hacia "Supervivencia" en el exterior
+![img-m01-diagrama-modelo-mundo](../../../modulo-01-consciente-de-lo-que-soy/recursos/imagenes/img-m01-diagrama-modelo-mundo.png) Diagrama circular con cerebro en el centro rodeado de 4 elementos conectados: "Memoria y recuerdos" (arriba), "Emociones" (derecha), "Información sentidos" (abajo), "Modelo del mundo" (izquierda). Todos conectados por flechas bidireccionales hacia "Supervivencia" en el exterior
 
 #explicacion
 El modelo predictivo opera mediante comparación constante. Cada vez que percibes algo, el cerebro ya tiene una expectativa de qué esperar —y se ajusta cuando encuentra algo diferente. Los sentidos no muestran la realidad tal cual; alimentan y ajustan el modelo interno mediante retroalimentación continua.

@@ -1,0 +1,230 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <style>
+        @font-face { font-family: "Inter"; src: url("../fonts/Inter-Regular.woff2") format("woff2"); font-weight: 400; } 
+        @font-face { font-family: "Inter"; src: url("../fonts/Inter-Bold.woff2") format("woff2"); font-weight: 700; } 
+        @font-face { font-family: "Playfair Display"; src: url("../fonts/PlayfairDisplay-Regular.ttf") format("truetype"); font-weight: 400; } 
+        @font-face { font-family: "Playfair Display"; src: url("../fonts/PlayfairDisplay-Bold.ttf") format("truetype"); font-weight: 700; } 
+        @font-face { font-family: "Playfair Display"; src: url("../fonts/PlayfairDisplay-Italic.ttf") format("truetype"); font-style: italic; }
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body { font-family: 'Inter', sans-serif; }
+        .slide-container {
+            width: 210mm;
+            height: 297mm;
+            position: relative;
+            overflow: hidden;
+            background-color: #1A3A40; /* Slightly lighter teal for Phase 2 */
+            color: white;
+            padding: 20mm 15mm;
+            display: flex;
+            flex-direction: column;
+        }
+        
+        /* Header Section */
+        .header {
+            position: relative;
+            margin-bottom: 60px;
+            padding-left: 80px;
+        }
+        
+        .phase-num {
+            position: absolute;
+            top: -40px;
+            left: -20px;
+            font-family: 'Playfair Display', serif;
+            font-size: 120px;
+            font-weight: 700;
+            color: rgba(255,255,255,0.05);
+            line-height: 1;
+            z-index: 0;
+        }
+
+        .tag {
+            position: relative;
+            z-index: 1;
+            color: #E8956E;
+            font-size: 12px;
+            font-weight: 600;
+            letter-spacing: 0.3em;
+            text-transform: uppercase;
+            margin-bottom: 10px;
+            display: block;
+        }
+
+        h2 {
+            position: relative;
+            z-index: 1;
+            font-family: 'Playfair Display', serif;
+            font-size: 56px;
+            line-height: 1;
+            font-weight: 700;
+            color: white;
+            margin-bottom: 10px;
+        }
+
+        .subtitle {
+            position: relative;
+            z-index: 1;
+            font-family: 'Playfair Display', serif;
+            font-size: 24px;
+            font-style: italic;
+            color: rgba(255,255,255,0.8);
+            margin-bottom: 20px;
+        }
+
+        .phase-desc {
+            position: relative;
+            z-index: 1;
+            font-size: 16px;
+            line-height: 1.6;
+            color: rgba(255,255,255,0.9);
+            max-width: 500px;
+            border-left: 2px solid #E8956E;
+            padding-left: 20px;
+        }
+
+        /* Modules Section */
+        .modules-container {
+            flex-grow: 1;
+            display: flex;
+            flex-direction: column;
+            gap: 40px;
+        }
+
+        .module-card {
+            background: rgba(255,255,255,0.03);
+            padding: 30px;
+            border-top: 1px solid rgba(232,149,110,0.3);
+        }
+
+        .mod-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: baseline;
+            margin-bottom: 15px;
+        }
+
+        .mod-id {
+            color: #E8956E;
+            font-size: 12px;
+            font-weight: 700;
+            letter-spacing: 0.2em;
+            text-transform: uppercase;
+        }
+
+        .mod-title {
+            font-family: 'Playfair Display', serif;
+            font-size: 28px;
+            font-weight: 600;
+            color: white;
+            margin-bottom: 5px;
+        }
+
+        .mod-subtitle {
+            font-size: 14px;
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+            color: rgba(255,255,255,0.6);
+            margin-bottom: 15px;
+        }
+
+        .mod-question {
+            font-style: italic;
+            font-size: 16px;
+            color: rgba(255,255,255,0.9);
+            margin-bottom: 15px;
+        }
+
+        .mod-content {
+            font-size: 15px;
+            line-height: 1.6;
+            color: rgba(255,255,255,0.8);
+            margin-bottom: 20px;
+        }
+
+        .seed-connection {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            padding-top: 15px;
+            border-top: 1px solid rgba(255,255,255,0.1);
+        }
+
+        .seed-icon {
+            width: 8px;
+            height: 8px;
+            background-color: #E8956E;
+            border-radius: 50%;
+        }
+
+        .seed-text {
+            font-size: 13px;
+            font-weight: 600;
+            color: white;
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+        }
+        
+        .seed-label {
+            font-size: 13px;
+            color: #E8956E;
+        }
+    </style>
+</head>
+<body>
+    <div class="slide-container">
+        <!-- Header -->
+        <div class="header">
+            <div class="phase-num">02</div>
+            <span class="tag">Fase 2 · Consciencia Aplicada</span>
+            <h2>Enraizamiento</h2>
+            <div class="subtitle">Mirar al otro</div>
+            <div class="phase-desc">
+                La consciencia se extiende del individuo al sistema. El líder aprende a regularse, 
+                a leer las dinámicas relacionales y a construir conexiones desde la autenticidad.
+            </div>
+        </div>
+
+        <!-- Modules -->
+        <div class="modules-container">
+            <!-- Module 4 -->
+            <div class="module-card">
+                <div class="mod-id">Módulo 4</div>
+                <h3 class="mod-title">Consciente de lo que necesito</h3>
+                <div class="mod-subtitle">Autocuidado y sostenibilidad</div>
+                <div class="mod-question">"¿Qué necesito para sostenerme como líder sin agotarme?"</div>
+                <div class="mod-content">
+                    La respuesta de estrés y por qué se cronifica. La paradoja de la aceptación.
+                    <br>
+                    <strong>Transformación:</strong> El autocuidado no es lujo, es necesidad. Mi sostenibilidad es condición de mi liderazgo.
+                </div>
+                <div class="seed-connection">
+                    <div class="seed-icon"></div>
+                    <span class="seed-label">Líder Semilla:</span>
+                    <span class="seed-text">Sostenibilidad</span>
+                </div>
+            </div>
+
+            <!-- Module 5 -->
+            <div class="module-card">
+                <div class="mod-id">Módulo 5</div>
+                <h3 class="mod-title">Consciente de lo que necesitamos</h3>
+                <div class="mod-subtitle">Del yo al nosotros</div>
+                <div class="mod-question">"¿Cómo extiendo mi consciencia hacia los otros?"</div>
+                <div class="mod-content">
+                    Diseñados para la conexión: neuronas espejo. Yo-Tú vs. Yo-Ello. Empatía vs. compasión.
+                    <br>
+                    <strong>Transformación:</strong> Del yo al nosotros. Puedo extender mi consciencia con compasión sabia.
+                </div>
+                <div class="seed-connection">
+                    <div class="seed-icon"></div>
+                    <span class="seed-label">Líder Semilla:</span>
+                    <span class="seed-text">Conexión consciente</span>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

@@ -77,7 +77,7 @@ Las definiciones de mindfulness siempre deben incluir los siguientes aspectos (G
 - Orientado a la observación y conocimiento
 
 #imagen
-![img-m01-meditador-presente](recursos/imagenes/img-m01-meditador-presente.png) Ilustración de una persona sentada en posición de meditación con las piernas cruzadas, en tonos azules, representando la práctica formal de mindfulness focalizado en presente y no en pasado o futuro.
+![img-m01-meditador-presente](../../../modulo-01-consciente-de-lo-que-soy/recursos/imagenes/img-m01-meditador-presente.png) Ilustración de una persona sentada en posición de meditación con las piernas cruzadas, en tonos azules, representando la práctica formal de mindfulness focalizado en presente y no en pasado o futuro.
 
 #imagen 
 ![img-m01-tres-componentes-atencion](recursos/imagenes/img-m01-tres-componentes-atencion.png) imagen de los tres aspectos o componentes esenciales de la atención involucrados en el mindfulness (- Evitar automatismo (mind wandering)- Lo que estamos experimentando en cada momento- Orientado a la observación y conocimiento)
@@ -100,7 +100,7 @@ RECONOCIMIENTO DE LAS RAICES BUDISTAS pero evolucionando hacia una forma "occide
 - Se incorpora al mainstream
 
 #imagen
-![img-m01-monje-escaner](recursos/imagenes/img-m01-monje-escaner.png) Imagen de un monje budista  en posición de meditación, representando las raíces budistas del mindfulness con escaner cerebral detrás.
+![img-m01-monje-escaner](../../../modulo-01-consciente-de-lo-que-soy/recursos/imagenes/img-m01-monje-escaner.png) Imagen de un monje budista  en posición de meditación, representando las raíces budistas del mindfulness con escaner cerebral detrás.
 
 #explicacion
 El mindfulness tiene sus raíces en el término budista sati, que significa "recordar" o "tener en mente". En el contexto budista, sati se asocia con la práctica de recordar las enseñanzas de la tradición y mantener en mente los dharmas virtuosos.
@@ -128,10 +128,10 @@ El budismo moderno surge en parte como una crítica al budismo tradicional, simi
 3. Mindfulness-Based Cognitive Therapy (MBCT), (Segal y cols., 2002): disminución significativa del riesgo de recaida en la depresión (Dimidjian, 2016).
 
 #imagen
-![img-m01-logo-umas](recursos/imagenes/img-m01-logo-umass.png) Logo del Center for Mindfulness in Medicine, Health Care, and Society de la University of Massachusetts Medical School. Centro fundado por Jon Kabat-Zinn donde se desarrolló el programa MBSR.
+![img-m01-logo-umas](../../../modulo-01-consciente-de-lo-que-soy/recursos/imagenes/img-m01-logo-umass.png) Logo del Center for Mindfulness in Medicine, Health Care, and Society de la University of Massachusetts Medical School. Centro fundado por Jon Kabat-Zinn donde se desarrolló el programa MBSR.
 
 #imagen
-![mg-m01-kabatzinn.](recursos/imagenes/img-m01-kabatzinn.jpeg) Fotografía de Jon Kabat-Zinn, fundador del programa MBSR, con estetoscopio. Texto: "¿Meditar en los hospitales contra el estrés? La historia de Jon Kabat-Zinn y el MBSR".
+![mg-m01-kabatzinn.](../../../modulo-01-consciente-de-lo-que-soy/recursos/imagenes/img-m01-kabatzinn.jpeg) Fotografía de Jon Kabat-Zinn, fundador del programa MBSR, con estetoscopio. Texto: "¿Meditar en los hospitales contra el estrés? La historia de Jon Kabat-Zinn y el MBSR".
 
 #imagen
  ![img-m01-olas-psicoterapia](recursos/imagenes/img-m01-olas-psicoterapia.png)Diagrama de las tres olas de terapias conductuales: First Wave (Behavior Therapy - Behavior modifications based on conditioning), Second Wave (Cognitive Therapy & CBT - Identify & challenge dysfunctional cognitions), Third Wave (MBSR, MBCT, ACT - Metacognitive shifts, experiential change strategies).
@@ -163,25 +163,25 @@ Las terapias conductuales de tercera generación representan una evolución de l
 ## Mindfulness en el mainstream
 
 #imagen
-![img-m01-portadas-revistas.](recursos/imagenes/img-m01-portadas-revistas.png) Collage de portadas de revistas mainstream sobre mindfulness: TIME Magazine "The Mindful Revolution" (mujer meditando), TIME Magazine "The Science of Meditation", National Geographic "What's in your mind". Evidencia de la incorporación del mindfulness al mainstream mediático.
+![img-m01-portadas-revistas.](../../../modulo-01-consciente-de-lo-que-soy/recursos/imagenes/img-m01-portadas-revistas.png) Collage de portadas de revistas mainstream sobre mindfulness: TIME Magazine "The Mindful Revolution" (mujer meditando), TIME Magazine "The Science of Meditation", National Geographic "What's in your mind". Evidencia de la incorporación del mindfulness al mainstream mediático.
 
 #imagen
-![img-m01-harvard-mindfulness](recursos/imagenes/img-m01-harvard-mindfulness.png) Captura de Harvard Business Review con artículo "Mindfulness Helps You Become a Better Leader" por Bill George (October 26, 2012). Muestra la adopción del mindfulness en el mundo empresarial y del liderazgo.
+![img-m01-harvard-mindfulness](../../../modulo-01-consciente-de-lo-que-soy/recursos/imagenes/img-m01-harvard-mindfulness.png) Captura de Harvard Business Review con artículo "Mindfulness Helps You Become a Better Leader" por Bill George (October 26, 2012). Muestra la adopción del mindfulness en el mundo empresarial y del liderazgo.
 
 #imagen
-![img-m01-search-inside-yourself](recursos/imagenes/img-m01-search-inside-yourself.png)Logo del programa "Search Inside Yourself" de Google, con silueta de cabeza hecha de engranajes. Texto: "The groundbreaking course developed at Google, as featured in The New York Times".
+![img-m01-search-inside-yourself](../../../modulo-01-consciente-de-lo-que-soy/recursos/imagenes/img-m01-search-inside-yourself.png)Logo del programa "Search Inside Yourself" de Google, con silueta de cabeza hecha de engranajes. Texto: "The groundbreaking course developed at Google, as featured in The New York Times".
 
 #imagen
-![img-m01-empresas-mindfulness](recursos/imagenes/img-m01-empresas-mindfulness.png)Panel "Mindful Business Companies" mostrando logos de empresas que implementan programas de mindfulness: Google, IBM, Intel, McKinsey & Company, Apple, Goldman Sachs, GE, General Mills, CNH Industrial, Nike, Sony, Ford, IKEA, eBay, LinkedIn, UBS, SCOA.
+![img-m01-empresas-mindfulness](../../../modulo-01-consciente-de-lo-que-soy/recursos/imagenes/img-m01-empresas-mindfulness.png)Panel "Mindful Business Companies" mostrando logos de empresas que implementan programas de mindfulness: Google, IBM, Intel, McKinsey & Company, Apple, Goldman Sachs, GE, General Mills, CNH Industrial, Nike, Sony, Ford, IKEA, eBay, LinkedIn, UBS, SCOA.
 #imagen 
-![img-m01-universidades-mindfulness](recursos/imagenes/img-m01-universidades-mindfulness.png) collage de varios logos de universidades prestigiosas que han incorporado el mindfulness en sus formaciones o en sus planes de estudios
+![img-m01-universidades-mindfulness](../../../modulo-01-consciente-de-lo-que-soy/recursos/imagenes/img-m01-universidades-mindfulness.png) collage de varios logos de universidades prestigiosas que han incorporado el mindfulness en sus formaciones o en sus planes de estudios
 
 #teoria
 Mindfulness-based therapies are recommended by the National Institute for Health and Care Excellence (NICE) as a way to treat less severe depression.
 
 NICE also recommends that employers make mindfulness available to all employees, to support mental wellbeing at work.
 #imagen 
-![img-m01-logo-nhs](recursos/imagenes/img-m01-logo-nhs.png) logo del NHS británico
+![img-m01-logo-nhs](../../../modulo-01-consciente-de-lo-que-soy/recursos/imagenes/img-m01-logo-nhs.png) logo del NHS británico
 
 ---
 

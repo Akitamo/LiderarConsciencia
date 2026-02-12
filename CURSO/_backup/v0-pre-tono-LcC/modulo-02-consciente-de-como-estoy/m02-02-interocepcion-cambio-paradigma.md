@@ -97,12 +97,12 @@ Experimentos e Investigaciones que Demuestran la Interacción Cuerpo-Mente.
 **1. El Experimento del Bolígrafo en la Boca:** En este estudio del año 1988 (Strack, Martin y Stepper), los participantes debían leer viñetas de humor mientras sostenían un bolígrafo en la boca de dos maneras: con los dientes, forzando una sonrisa, o con los labios, adoptando una expresión de enfado. Los participantes que sonreían encontraron las viñetas más graciosas que aquellos que tenían una expresión de enfado. Este experimento ilustra la **hipótesis de retroalimentación facial**, que sugiere que la expresión facial no solo refleja las emociones, sino que también influye en la percepción y la experiencia subjetiva.
 
 #imagen 
-![recursos/imagenes/img-m02-boligrafo-boca](recursos/imagenes/img-m02-boligrafo-boca.png) imagen de mujer sujetando bolígrafo en la boca
+![recursos/imagenes/img-m02-boligrafo-boca](../../../modulo-02-consciente-de-como-estoy/recursos/imagenes/img-m02-boligrafo-boca.png) imagen de mujer sujetando bolígrafo en la boca
 
 **2. El Impacto de la Postura Corporal en la Memoria** (2014) Investigadores alemanes estudiaron la influencia de la postura corporal en la memoria. Los participantes leían palabras mientras se mantenían erguidos o encorvados. Aquellos que encorvaban la espalda recordaron menos palabras, especialmente las de connotación negativa. Este experimento demuestra que la postura corporal puede afectar la memoria y la percepción, lo que sugiere una conexión bidireccional entre el cuerpo y la mente.
 
 #imagen
-![img-m02-postura-corporal](recursos/imagenes/img-m02-postura-corporal.png) Fotografía de una mujer mostrada en tres posturas diferentes de perfil: completamente erguida (izquierda), ligeramente encorvada (centro) y muy encorvada hacia adelante (derecha). Fondo blanco neutro. Ilustra el impacto de la postura corporal en la cognición y el estado emocional.
+![img-m02-postura-corporal](../../../modulo-02-consciente-de-como-estoy/recursos/imagenes/img-m02-postura-corporal.png) Fotografía de una mujer mostrada en tres posturas diferentes de perfil: completamente erguida (izquierda), ligeramente encorvada (centro) y muy encorvada hacia adelante (derecha). Fondo blanco neutro. Ilustra el impacto de la postura corporal en la cognición y el estado emocional.
 
 #explicacion
 La Influencia de la Postura Corporal en la Memoria y el Procesamiento de Información Negativa
@@ -197,4 +197,4 @@ Las personas con mayor conciencia interoceptiva, es decir, con mayor capacidad d
 **William James. Principios de Psicología.**
 
 #imagen
-![img-m02-william-james-libro](recursos/imagenes/img-m02-william-james-libro.png) Portada del libro "The Principles of Psychology" de William James. Fotografía en blanco y negro del autor (hombre con barba, mano en la mejilla) junto al título del libro en letras blancas. Editorial Walrus Books. Fondo oscuro.
+![img-m02-william-james-libro](../../../modulo-02-consciente-de-como-estoy/recursos/imagenes/img-m02-william-james-libro.png) Portada del libro "The Principles of Psychology" de William James. Fotografía en blanco y negro del autor (hombre con barba, mano en la mejilla) junto al título del libro en letras blancas. Editorial Walrus Books. Fondo oscuro.

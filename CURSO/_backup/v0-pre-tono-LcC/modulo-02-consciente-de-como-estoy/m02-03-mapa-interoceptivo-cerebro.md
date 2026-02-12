@@ -11,7 +11,7 @@ tags: [interocepcion, cerebro, insula, corteza-somatosensorial, talamo, nervio-v
 ## Las vías de comunicación cuerpo-cerebro
 
 #imagen #referencia 
-![img-m02-referencia-articulo](recursos/imagenes/img-m02-referencia-articulo.png) Recuadro con referencia bibliográfica: "The Emerging Science of Interoception: Sensing, Integrating, Interpreting, and Regulating Signals within the Self" - January 2021, Trends in Neurosciences 44(1):3-16, DOI:10.1016/j.tins.2020.10.007, License: CC BY 4.0
+![img-m02-referencia-articulo](../../../modulo-02-consciente-de-como-estoy/recursos/imagenes/img-m02-referencia-articulo.png) Recuadro con referencia bibliográfica: "The Emerging Science of Interoception: Sensing, Integrating, Interpreting, and Regulating Signals within the Self" - January 2021, Trends in Neurosciences 44(1):3-16, DOI:10.1016/j.tins.2020.10.007, License: CC BY 4.0
 
 #teoria
 El cerebro integra la información proveniente de los diferentes órganos internos a través de una red neuronal distribuida. Las señales interoceptivas son transmitidas al cerebro a través de vías nerviosas, como el nervio vago, y la médula espinal. El tálamo recibe estas señales y las distribuye a las áreas corticales, donde son procesadas e integradas con otra información sensorial, emocional y cognitiva.
