@@ -76,7 +76,7 @@ Las emociones afectan el ancho del foco atencional:
 
 
 #video
- ![vid-m03-mago](recursos/videos/vid-m03-mago.mp4)Fotograma de vídeo mostrando dos hombres caminando por una calle urbana, uno con camisa blanca y otro con chaleco oscuro y pañuelo verde, aparentemente en conversación. Contexto relacionado con la interconexión entre emoción y atención.
+ ![vid-m03-mago](../../../Perfeccionamiento%20Curso/modulo-04-consciente-de-lo-que-necesito/assets/vid-m03-mago.mp4)Fotograma de vídeo mostrando dos hombres caminando por una calle urbana, uno con camisa blanca y otro con chaleco oscuro y pañuelo verde, aparentemente en conversación. Contexto relacionado con la interconexión entre emoción y atención.
 
 
 ---

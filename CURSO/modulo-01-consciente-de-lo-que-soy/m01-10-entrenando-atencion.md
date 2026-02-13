@@ -3,11 +3,25 @@ id: m01-10
 titulo: "Entrenando la Atención a través del Mindfulness"
 modulo: 1
 orden: 10
-tags: [mindfulness, atencion, entrenamiento, malinowski, neurociencia, meditacion]
+tags: [entrenamiento-mindfulness, neuroplasticidad-atencional, malinowski, practica-meditativa]
 ultima_actualizacion: "21/01/2026"
 ---
 # Tema 10: Entrenando la atencion a traves del mindfulness
 
+- [Por que este tema es necesario](#por-que-este-tema-es-necesario)
+		- [La practica que fortalece la capacidad](#la-practica-que-fortalece-la-capacidad)
+- [1. El circulo de la meditacion](#1-el-circulo-de-la-meditacion)
+- [2. Redes cerebrales implicadas](#2-redes-cerebrales-implicadas)
+- [3. El triangulo de la atencion](#3-el-triangulo-de-la-atencion)
+- [4. Los afluentes de la consciencia](#4-los-afluentes-de-la-consciencia)
+- [5. Efectos del mindfulness en las habilidades atencionales](#5-efectos-del-mindfulness-en-las-habilidades-atencionales)
+- [Integracion con M1](#integracion-con-m1)
+- [Conexion con el programa](#conexion-con-el-programa)
+- [Referencias incluidas](#referencias-incluidas)
+- [Material adicional del tema](#material-adicional-del-tema)
+	- [Infografías del tema](#infografías-del-tema)
+
+---
 ## Por que este tema es necesario
 
 #### La practica que fortalece la capacidad
@@ -22,24 +36,32 @@ Ahora el participante aprende **como practicar concretamente**: el ciclo de la m
 
 ---
 
-## El circulo de la meditacion
+## 1. El circulo de la meditacion
 
 
-#imagen
-![img-m01-cerebro-corriendo](recursos/imagenes/img-m01-cerebro-corriendo.png) Ilustración de un cerebro antropomorfizado corriendo en una cinta de correr sobre fondo azul. Representa el concepto de entrenamiento mental a través del mindfulness, como si la atención fuera un músculo que se ejercita.
+
 
 La meditación mindfulness opera mediante un ciclo que se repite continuamente:
 
 1. **Concentración en el objeto** — Foco inicial en el objeto de meditación (respiración, sensación corporal)
+
+#grafica ![graf-m01-10-atencion-sostenida](assets/graf-m01-10-atencion-sostenida.png) "Atención Sostenida": cámara enfocando objeto, requiere inhibir estímulos competidores.
+
+
 2. **Mente se distrae** — La mente divaga. Esto no es un fallo; es inevitable
-3. **Darse cuenta de la mente distraída** — Reconocer que la atención se ha desplazado
-4. **Soltar el objeto de la distracción** — Desengancharse del pensamiento que capturó la atención
-5. **Volver al objeto de la atención** — Redirigir el foco al objeto original
+
+#grafica ![graf-m01-10-vagabundeo-mental](assets/graf-m01-10-vagabundeo-mental.png) "El Vagabundeo Mental": red de nodos dispersos, activación de la Red por Defecto.
+2. **Darse cuenta de la mente distraída** — Reconocer que la atención se ha desplazado
+#grafica ![graf-m01-10-monitoreo-conflicto](assets/graf-m01-10-monitoreo-conflicto.png) "Monitoreo de Conflicto": ojo con señal de alerta, metaconsciencia detectando divagación mental.
+
+3. **Soltar el objeto de la distracción** — Desengancharse del pensamiento que capturó la atención
+
+#grafica ![graf-m01-10-cambio-atencional](assets/graf-m01-10-cambio-atencional.png) "Cambio Atencional": engranaje con flechas de desenganche y redirección.
+2. **Volver al objeto de la atención** — Redirigir el foco al objeto original
 
 Cada iteración de este ciclo fortalece la capacidad atencional. **El entrenamiento no consiste en evitar la distracción —imposible— sino en acortar el tiempo entre divagar y notarlo.**
 
-#imagen
-![img-m01-etapas-atencion](recursos/imagenes/img-m01-etapas-atencion.png) Diagrama circular con 5 etapas del ciclo de atención en meditación, representado con círculos de colores conectados por flechas: Concentración en el objeto (naranja) → Mente se distrae (amarillo) → Darse cuenta de la mente distraída (verde oscuro) → Soltar el objeto de la distracción (verde claro) → Volver al objeto de la atención (azul) → y vuelta al inicio.
+#grafica ![graf-m01-10-ciclo-meditacion](assets/graf-m01-10-ciclo-meditacion.png) Diagrama circular de 5 etapas del ciclo meditativo: Concentración en el objeto → Mente se distrae → Darse cuenta → Soltar la distracción → Volver al objeto. Repetición continua.
 
 **Por que funciona?
 
@@ -49,14 +71,18 @@ Cada iteracion de este ciclo fortalece la capacidad atencional. **El entrenamien
 - El momento de "darse cuenta" es el mas valioso: es metaconsciencia en accion
 - Volver es el ejercicio: cada vuelta fortalece el "musculo"
 
+#ppt ![ppt-m01-10-distraccion-peso](assets/ppt-m01-10-distraccion-peso.png) "La distracción no es el enemigo, es el peso que levantas": cerebro con pesas. El mito ("no puedo meditar"), la realidad (acortar el tiempo entre divagar y notarlo), la acción (metaconsciencia).
+#ppt ![ppt-m01-10-gimnasio-mente](assets/ppt-m01-10-gimnasio-mente.png) "El Gimnasio de la Mente: El Círculo de la Meditación": 4 pasos circulares con "Darse cuenta (Insight)" destacado como momento clave del entrenamiento.
+
 ---
 
-## Redes cerebrales implicadas
+## 2. Redes cerebrales implicadas
 
 Cada fase del ciclo meditativo activa redes cerebrales especificas (Malinowski, 2013):
 
-#imagen
-![img-m01-atencion-malinowski](recursos/imagenes/img-m01-atencion-malinowski.png) Diagrama científico de Malinowski (2013) mostrando el proceso de meditación y las redes cerebrales implicadas. Panel A: Círculo concéntrico del proceso meditativo (Alerting, Sustaining, focus on object, Default Mode/Distraction/mind wanders, Salience/Monitoring/recognize wandering, Executive/Disengaging/letting go, Orienting/Shifting/return to object). Panel B: Redes cerebrales correspondientes (Alerting, Default Mode, Salience, Executive, Orienting) con ilustraciones de cerebros mostrando las áreas activadas.[^1]
+#grafica ![graf-m01-10-malinowski-redes](assets/graf-m01-10-malinowski-redes.png) "Neurobiología del Ciclo: Redes Cerebrales en Acción" - diagrama de Malinowski (2013): ciclo meditativo de 5 fases conectado con las redes cerebrales implicadas (Atención Sostenida, Red por Defecto, Monitoreo de Conflicto, Atención Ejecutiva, Orientación).[^1]
+
+#ppt ![ppt-m01-10-tres-capacidades](assets/ppt-m01-10-tres-capacidades.png) "Las tres capacidades cognitivas que estamos entrenando": Atención Sostenida, Monitoreo de Conflicto y Cambio Atencional con iconos descriptivos.
 
 **Atencion sostenida
 
@@ -79,63 +105,7 @@ Capacidad de inhibir el procesamiento elaborativo secundario de pensamientos, se
 La autorregulacion atencional cultiva una **consciencia no elaborativa**: en lugar de quedar atrapado en cadenas de pensamiento rumiativo (origenes, implicaciones, asociaciones), el mindfulness implica experiencia directa de los eventos mentales y corporales.
 
 ---
-
-## Efectos del mindfulness en las habilidades atencionales
-
-
-| Componente | Evidencia |
-|------------|-----------|
-| **ALERTA** | ★★★★☆ |
-| **ATENCIÓN SOSTENIDA** | ★★★☆☆ |
-| **ORIENTACIÓN** | ★★★☆☆ |
-| **CONTROL EJECUTIVO** | ★★★★★ |
-
-#imagen
-![img-m01-estudios-atencion-mindfulness-evolucion](recursos/imagenes/img-m01-estudios-atencion-mindfulness-evolucion.png)Gráfico de dispersión mostrando el crecimiento exponencial de estudios sobre "Mindfulness Training of Attention" desde 1973 hasta 2018. Los puntos representan estudios individuales, con un aumento notable a partir de 2010. El gráfico incluye criterios de calidad metodológica: Discussion of group content, Attention to reduction of demand characteristics, Inclusion of an active control group, Randomization of participants to groups, Following of reporting guidelines (such as CONSORT).[^2]
-
-#imagen
-![img-m01-estudios-atencion-mindfulness](recursos/imagenes/img-m01-estudios-atencion-mindfulness.png)Referencias a artículos científicos clave.[^3][^4]
-
-#### Alerta
-
-Preparación mental para responder a estímulos entrantes. Se divide en dos modalidades:
-
-**Alerta fásica**: fluctuaciones momentáneas de atención en respuesta a señales. El mindfulness intensivo (retiros) mejora esta capacidad, especialmente en tareas de detección y discriminación visual.
-
-**Alerta tónica**: vigilancia o mantenimiento de un estado de atención sostenida. Estudios de retiros a largo plazo muestran mejoras en atención sostenida y reducción en divagación mental. Los estudios a corto plazo ofrecen resultados mixtos —la mejora de la vigilancia parece requerir entrenamiento prolongado.
-
-#### Orientación
-
-Dirigir la atención hacia estímulos internos o externos. Opera en dos direcciones:
-
-**De arriba hacia abajo**: atención dirigida según objetivos internos o autogenerados.
-
-**De abajo hacia arriba**: atención capturada automáticamente por estímulos externos.
-
-La investigación sobre efectos del mindfulness en orientación es limitada y los resultados inconsistentes.
-
-#### Control ejecutivo
-
-Mecanismo que resuelve conflictos entre información competidora: fortalece la respuesta a estímulos relevantes y suprime los irrelevantes.
-
-Estudios con tareas Flanker (capacidad de atención frente a distracciones) y Stroop (habilidad para ignorar información irrelevante) muestran mejoras en control de conflictos tras entrenamiento en mindfulness. Estos beneficios aparecen incluso después de entrenamientos cortos, y algunos estudios indican que pueden mantenerse hasta seis meses.
-
-#### Síntesis
-
-**El mindfulness muestra beneficios más robustos en control ejecutivo y alerta fásica.** Los efectos en orientación y alerta tónica requieren más investigación. El control de conflictos —mantener atención en lo relevante y reducir distracciones— representa el área con evidencia más sólida.
-
-
-| Componente | Evidencia |
-|------------|-----------|
-| **ALERTA** | Preparacion mental para responder a estimulos. Mejora con entrenamiento intensivo |
-| **ATENCION SOSTENIDA** | Vigilancia y mantenimiento del foco. Requiere practica prolongada |
-| **ORIENTACION** | Dirigir la atencion. Resultados inconsistentes en estudios |
-| **CONTROL EJECUTIVO** | Resolver conflictos entre informacion competidora. **Evidencia mas robusta** |
-
-
----
-
-## El triangulo de la atencion
+## 3. El triangulo de la atencion
 
 La experiencia consciente fluye por tres canales principales que interactuan constantemente:
 
@@ -147,28 +117,16 @@ Estos tres canales no operan aislados. Un pensamiento catastrofista genera tensi
 
 **Notar en que vertice se encuentra la atencion en un momento dado, y reconocer como alimenta a los otros, constituye el primer paso para intervenir conscientemente en el ciclo.**
 
-```
-        PENSAMIENTOS
-             /\
-            /  \
-           /    \
-          /      \
-         /________\
-   SENSACIONES    EMOCIONES
-```
 
-
-
-#imagen
-![img-m01-triangulo-atencion](recursos/imagenes/img-m01-triangulo-atencion.png) Diagrama del Triángulo de la Atención con tres vértices etiquetados: Pensamientos (arriba), Sensaciones (abajo izquierda), Emociones (abajo derecha). En el interior del triángulo hay tres círculos de colores (azul, verde, rojo) que representan las tres fuentes de experiencia consciente y su interrelación.
+#grafica ![graf-m01-10-triangulo-atencion-v1](assets/graf-m01-10-triangulo-atencion-v1.png) Opción 1: Triángulo de la atención con iconos: Pensamientos (narrativa, juicios), Sensaciones (cuerpo, tensión), Emociones (clima interno, afecto).
+#grafica ![graf-m01-10-triangulo-atencion-v2](assets/graf-m01-10-triangulo-atencion-v2.png) Opción 2: "El triángulo de la atención" con ojo central: Pensamientos, Sensaciones, Emociones con flechas bidireccionales mostrando su interrelación.
 
 ---
 
-## Los afluentes de la consciencia
+## 4. Los afluentes de la consciencia
 
 
-#imagen
-![img-m01-afluentes-consciencia](recursos/imagenes/img-m01-afluentes-consciencia.png) Metáfora visual de los afluentes de la consciencia: imagen de varios grifos vertiendo agua a través de un embudo hacia un cerebro hecho de agua/cristal. Representa cómo diferentes canales de información (sensaciones, pensamientos, emociones) fluyen y convergen en la consciencia.
+#grafica ![graf-m01-10-afluentes-consciencia](assets/graf-m01-10-afluentes-consciencia.png) "Los afluentes de la consciencia": 4 canales (Sensación, Observación, Conceptualización, Conocimiento no conceptual) convergiendo hacia la experiencia consciente.
 
 
 La metafora de los afluentes describe cuatro canales que alimentan el rio de la consciencia:
@@ -189,17 +147,55 @@ La mente crea conceptos y narrativas a partir de las experiencias sensoriales. E
 
 Comprension intuitiva y directa que emerge de la integracion de los otros afluentes. No depende del lenguaje. Se cultiva prestando atencion plena a la experiencia presente.
 
-#### Equilibrio entre los afluentes
+---
 
-Una práctica efectiva requiere equilibrar estos canales. La atención excesiva a la sensación puede generar inmersión sensorial que limita la claridad. La conceptualización excesiva crea juicios y narrativas que apartan del momento presente. El conocimiento no conceptual proporciona comprensión profunda y evita que la experiencia sea solo racional o superficial.
+## 5. Efectos del mindfulness en las habilidades atencionales
 
-El equilibrio no implica atención igual a cada afluente, sino flexibilidad para moverse entre ellos según lo requiera el momento. Reconocer cuál domina habitualmente —y cuál se descuida— ofrece información valiosa sobre los patrones atencionales propios.
+#ppt ![ppt-m01-10-evidencia-capacidades](assets/ppt-m01-10-evidencia-capacidades.png) "La Evidencia: ¿Qué capacidades mejoran realmente?": tabla de estrellas (Control Ejecutivo 5/5, Alerta 4/5, Atención Sostenida 3/5, Orientación 3/5) + curva de crecimiento de estudios 1973-2018.
+
+| Componente             | Evidencia |
+| ---------------------- | --------- |
+| **ALERTA**             | ★★★★☆     |
+| **ATENCIÓN SOSTENIDA** | ★★★☆☆     |
+| **ORIENTACIÓN**        | ★★★☆☆     |
+| **CONTROL EJECUTIVO**  | ★★★★★     |
+
+#imagen ![img-m01-10-estudios-atencion-evolucion](assets/img-m01-10-estudios-atencion-evolucion.png) Artículo de Prakash et al. (2020) "Mindfulness and Attention" con gráfico de dispersión mostrando el crecimiento de estudios sobre "Mindfulness Training of Attention" (1973-2018) y resumen de evidencia por componente atencional.[^2]
+
+#imagen ![img-m01-10-estudios-atencion-referencias](assets/img-m01-10-estudios-atencion-referencias.png) Referencias a artículos científicos clave: Chiesa et al. (2011) sobre habilidades cognitivas y Gallant (2016) sobre funciones ejecutivas.[^3][^4]
+
+**Alerta
+
+Preparación mental para responder a estímulos entrantes. Se divide en dos modalidades:
+
+**-Alerta fásica**: fluctuaciones momentáneas de atención en respuesta a señales. El mindfulness intensivo (retiros) mejora esta capacidad, especialmente en tareas de detección y discriminación visual.
+
+**-Alerta tónica**: vigilancia o mantenimiento de un estado de atención sostenida. Estudios de retiros a largo plazo muestran mejoras en atención sostenida y reducción en divagación mental. Los estudios a corto plazo ofrecen resultados mixtos —la mejora de la vigilancia parece requerir entrenamiento prolongado.
+
+**Orientación
+
+Dirigir la atención hacia estímulos internos o externos. Opera en dos direcciones:
+
+-**De arriba hacia abajo**: atención dirigida según objetivos internos o autogenerados.
+
+-**De abajo hacia arriba**: atención capturada automáticamente por estímulos externos.
+
+La investigación sobre efectos del mindfulness en orientación es limitada y los resultados inconsistentes.
+
+**Control ejecutivo
+
+Mecanismo que resuelve conflictos entre información competidora: fortalece la respuesta a estímulos relevantes y suprime los irrelevantes.
+
+Estudios con tareas Flanker (capacidad de atención frente a distracciones) y Stroop (habilidad para ignorar información irrelevante) muestran mejoras en control de conflictos tras entrenamiento en mindfulness. Estos beneficios aparecen incluso después de entrenamientos cortos, y algunos estudios indican que pueden mantenerse hasta seis meses.
+
+En síntesis, **el mindfulness muestra beneficios más robustos en control ejecutivo y alerta fásica.** Los efectos en orientación y alerta tónica requieren más investigación. El control de conflictos —mantener atención en lo relevante y reducir distracciones— representa el área con evidencia más sólida.
+
 
 ---
 
 ## Integracion con M1
 
-### Respuesta al problema planteado
+**Respuesta al problema planteado
 
 T1-T9 revelaron el problema:
 - El cerebro construye la realidad (T1)
@@ -221,9 +217,7 @@ T10 ofrece la practica concreta:
 
 ## Conexion con el programa
 
-### Practica transversal
-
-Cada modulo profundizara un aspecto:
+**Practica transversal: Cada modulo profundizara un aspecto:
 
 | Modulo | Practica | Foco |
 |--------|----------|------|
@@ -253,3 +247,12 @@ Cada modulo profundizara un aspecto:
 - Prakash, R.S. et al. (2020). *Mindfulness and Attention: Current State-of-Affairs and Future Considerations.* J Cogn Enhanc.
 - Chiesa, A. et al. (2011). *Does mindfulness training improve cognitive abilities?* Clinical Psychology Review.
 - Gallant, S.N. (2016). *Mindfulness meditation practice and executive functioning.* Consciousness and Cognition.
+
+
+---
+
+## Material adicional del tema #aux
+### Infografías del tema 
+
+
+#infografia ![infog-m01-10-entrena-atencion-mindfulness](assets/infog-m01-10-entrena-atencion-mindfulness.jpg) Infografía síntesis: "Entrena tu Atención con Mindfulness" - ciclo de meditación, habilidades cognitivas entrenadas y niveles de evidencia.

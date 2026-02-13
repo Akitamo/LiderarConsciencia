@@ -1,10 +1,30 @@
+---
+id: m01-11
+titulo: "Síntesis del Módulo 1"
+modulo: 1
+orden: 11
+tags: [cerebro-predictivo, percepcion-constructiva, memoria-automatismos, emociones-aprendizaje, integracion-cerebral, sistema1-sistema2, sesgos-cognitivos, atencion-consciencia, mindfulness, entrenamiento-atencional]
+ultima_actualizacion: "06/02/2026"
+---
+
 # Sintesis del Modulo 1
+
+- [Lo que hemos recorrido](#lo-que-hemos-recorrido)
+- [La transformacion de M1](#la-transformacion-de-m1)
+- [Practica: Atencion focalizada](#practica-atencion-focalizada)
+- [Preparacion para M2](#preparacion-para-m2)
+- [El triangulo de la atencion](#el-triangulo-de-la-atencion)
+- [Capacidades adquiridas en M1](#capacidades-adquiridas-en-m1)
+- [Primera caracteristica del lider semilla: Confirmada](#primera-caracteristica-del-lider-semilla-confirmada)
+- [El viaje continua](#el-viaje-continua)
+- [Material adicional del tema](#material-adicional-del-tema)
+	- [Infografías del tema](#infografías-del-tema)
+
+---
 
 ## Lo que hemos recorrido
 
 M1 "Consciente de lo que soy" ha establecido el cimiento epistemologico del programa.
-
-### Los diez temas
 
 1. **El cerebro como maquina de prediccion:** No percibes la realidad; la construyes. Tu cerebro genera predicciones y las ajusta cuando no coinciden con los datos.
 
@@ -36,7 +56,9 @@ M1 "Consciente de lo que soy" ha establecido el cimiento epistemologico del prog
 
 ## Practica: Atencion focalizada
 
-### El circulo de la meditacion
+**El circulo de la meditacion
+
+#grafica ![graf-m01-11-ciclo-practica](assets/graf-m01-11-ciclo-practica.png) "El gimnasio de la atención: El ciclo de la práctica": 4 fases (Foco → Distracción → Darse cuenta → Volver). La distracción no es un error, es la pesa que levantas.
 
 ```
 CONCENTRACION -> DISTRACCION -> DARSE CUENTA -> SOLTAR -> VOLVER
@@ -44,7 +66,7 @@ CONCENTRACION -> DISTRACCION -> DARSE CUENTA -> SOLTAR -> VOLVER
 
 Cada ciclo fortalece la capacidad. La distraccion no es el enemigo; es el peso con el que entrenas.
 
-### Recomendacion
+**Recomendacion
 
 - 10-15 minutos diarios
 - Consistencia mas importante que duracion
@@ -54,7 +76,11 @@ Cada ciclo fortalece la capacidad. La distraccion no es el enemigo; es el peso c
 
 ## Preparacion para M2
 
-### Lo que M1 ha establecido
+M1 revelo que la mente construye la realidad y opera en piloto automatico.
+
+M2 descubrira que el cuerpo es parte de ese sistema: una fuente de informacion que el lider moderno suele ignorar.
+
+**Lo que M1 ha establecido
 
 - El cerebro construye la realidad mediante prediccion
 - El Sistema 1 domina con atencion automatica
@@ -62,7 +88,7 @@ Cada ciclo fortalece la capacidad. La distraccion no es el enemigo; es el peso c
 - La atencion es la puerta de la consciencia
 - El mindfulness entrena la capacidad de observar
 
-### Lo que M2 desarrollara
+**Lo que M2 desarrollara
 
 - El cuerpo como fuente de informacion
 - Tres sistemas perceptivos: exterocepcion, propiocepcion, interocepcion
@@ -70,11 +96,6 @@ Cada ciclo fortalece la capacidad. La distraccion no es el enemigo; es el peso c
 - La insula como centro integrador
 - Body Scan como practica de consciencia corporal
 
-### La transicion
-
-M1 revelo que la mente construye la realidad y opera en piloto automatico.
-
-M2 descubrira que el cuerpo es parte de ese sistema: una fuente de informacion que el lider moderno suele ignorar.
 
 ---
 
@@ -120,6 +141,8 @@ Al completar este modulo, tienes:
 
 "No soy tan racional como creia" no es una derrota; es el punto de partida honesto para todo lo que viene.
 
+#ppt ![ppt-m01-11-humildad-epistemologica](assets/ppt-m01-11-humildad-epistemologica.png) "Tu primera fortaleza: Humildad Epistemológica" - Saber que no sabes todo es tu mayor ventaja competitiva. El viaje de la consciencia apenas comienza.
+
 ---
 
 ## El viaje continua
@@ -129,3 +152,14 @@ Has desmontado la ilusion del agente racional.
 Ahora es momento de descubrir una fuente de informacion que probablemente has ignorado durante anos: tu cuerpo.
 
 M2 te espera.
+
+
+---
+
+## Material adicional del tema #aux
+### Infografías del tema 
+
+#infografia ![infog-m01-11-claves-modulo-v1](assets/infog-m01-11-claves-modulo-v1.jpg) Opción 1: "Tu Cerebro al Descubierto: Las Claves del Módulo 1" - el problema (vives en piloto automático) y la solución (entrena a tu observador interior).
+
+#infografia ![infog-m01-11-claves-modulo-v2](assets/infog-m01-11-claves-modulo-v2.png) Opción 2: "El Cerebro en Piloto Automático: De la Reacción a la Elección" - cómo funciona tu mente + el camino a la elección consciente.
+#infografia ![infog-m01-11-claves-modulo-v3](assets/infog-m01-11-claves-modulo-v3.png) Opción 3: "Tu Cerebro: Piloto Automático vs. Observador Consciente" - Sistema 1/2, principio SODA y ciclo de meditación.

@@ -99,7 +99,7 @@ Las emociones negativas tienden a estrechar el foco de atención, concentrándol
 ![img-m03-diagrama-funcion-amigdala](recursos/imagenes/img-m03-diagrama-funcion-amigdala.png) Diagrama educativo titulado "AMYGDALA FUNCTION" mostrando el proceso de respuesta al miedo. Incluye ilustración de cerebro con tálamo visual, córtex visual y amígdala señalados, con flechas indicando el flujo de información desde un estímulo de miedo (araña) hasta la respuesta. Etiquetas: "VISUAL THALAMUS", "VISUAL CORTEX", "AMYGDALA", "FEARFUL INPUT".
 
 #video
- ![vid-m03-mago](recursos/videos/vid-m03-mago.mp4)Fotograma de vídeo mostrando dos hombres caminando por una calle urbana, uno con camisa blanca y otro con chaleco oscuro y pañuelo verde, aparentemente en conversación. Contexto relacionado con la interconexión entre emoción y atención.
+ ![vid-m03-mago](../../../../_wip/curso/Perfeccionamiento%20Curso/modulo-04-consciente-de-lo-que-necesito/assets/vid-m03-mago.mp4)Fotograma de vídeo mostrando dos hombres caminando por una calle urbana, uno con camisa blanca y otro con chaleco oscuro y pañuelo verde, aparentemente en conversación. Contexto relacionado con la interconexión entre emoción y atención.
 
 #explicacion
 

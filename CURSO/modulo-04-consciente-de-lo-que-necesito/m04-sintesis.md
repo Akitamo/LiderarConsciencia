@@ -1,3 +1,11 @@
+---
+id: m04-07
+titulo: "Síntesis del Módulo 4"
+modulo: 4
+orden: 07
+tags: [autocuidado-competencia, respuesta-estres, ciclo-interrumpido, burnout, aceptacion-vs-lucha, mbsr, pausa-3-minutos, lider-semilla]
+ultima_actualizacion: "10/02/2026"
+---
 # Sintesis del Modulo 4
 
 ## Lo que hemos recorrido
@@ -122,3 +130,5 @@ Has cerrado el arco de autoconocimiento. Ahora sabes:
 Pero el liderazgo no ocurre en solitario. El siguiente paso es extender esta consciencia hacia los demas.
 
 M5 te espera.
+
+#infografia ![infog-m04-07-autocuidado-necesidad-estrategica](assets/infog-m04-07-autocuidado-necesidad-estrategica.jpg) Síntesis del módulo: problema (costo del estrés crónico) y solución (mindfulness reconfigura cerebro), herramienta práctica "pausa de 3 minutos".

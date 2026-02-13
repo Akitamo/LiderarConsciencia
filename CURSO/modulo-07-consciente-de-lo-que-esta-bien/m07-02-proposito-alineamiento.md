@@ -4,15 +4,44 @@ titulo: "Propósito y alineamiento"
 modulo: 7
 orden: 02
 fase: TEMA
-tags: [proposito, alineamiento, intencion, objetivos, brujula]
+tags: [proposito-brujula, modelo-alineamiento, intencion-etica, estrella-polar, proposito-vs-objetivos]
 ultima_actualizacion: "27/01/2026"
 ---
 
 # Tema 2: Propósito y alineamiento
 
+- [Por que este tema es necesario](#por-que-este-tema-es-necesario)
+		- [De saber para qué a actuar en coherencia](#de-saber-para-qué-a-actuar-en-coherencia)
+- [1. Por qué necesitas una brújula](#1-por-qué-necesitas-una-brújula)
+- [2. PARTE 1: El propósito como brújula](#2-parte-1-el-propósito-como-brújula)
+	- [2.1 Propósito no es lo mismo que objetivos](#21-propósito-no-es-lo-mismo-que-objetivos)
+	- [2.2 La estrella polar, no el GPS](#22-la-estrella-polar-no-el-gps)
+	- [2.3 Propósito personal y propósito organizacional](#23-propósito-personal-y-propósito-organizacional)
+	- [2.4 El propósito como criterio de decisión](#24-el-propósito-como-criterio-de-decisión)
+	- [2.5 Propósito y sentido existencial](#25-propósito-y-sentido-existencial)
+	- [2.6 Articular el propósito](#26-articular-el-propósito)
+- [3. PARTE 2: El modelo de alineamiento](#3-parte-2-el-modelo-de-alineamiento)
+	- [3.1 De propósito a acción: el problema de la traducción](#31-de-propósito-a-acción-el-problema-de-la-traducción)
+	- [3.2 Los tres niveles](#32-los-tres-niveles)
+	- [3.3 La coherencia entre niveles](#33-la-coherencia-entre-niveles)
+	- [3.4 El modelo es recursivo, no lineal](#34-el-modelo-es-recursivo-no-lineal)
+	- [3.5 Intención ética: el nivel que M7 añade](#35-intención-ética-el-nivel-que-m7-añade)
+- [4. Integración: del propósito a la acción ética](#4-integración-del-propósito-a-la-acción-ética)
+- [5. Cuando el propósito no está claro](#5-cuando-el-propósito-no-está-claro)
+- [Conexiones](#conexiones)
+- [Dimensión experiencial #insight](#insight)
+- [Hacia el siguiente tema](#hacia-el-siguiente-tema)
+- [Referencias incluidas](#referencias-incluidas)
+- [Otras posibles referencias](#otras-posibles-referencias)
+- [Material adicional del tema #aux](#aux)
+	- [Infografías del tema](#infografías-del-tema)
+
+
+---
+
 ## Por que este tema es necesario
 
-#### El proposito como brujula y el modelo para traducirlo en accion
+#### De saber para qué a actuar en coherencia
 
 **Pregunta que responde:**
 Como me orienta el proposito cuando las decisiones son complejas — y como traduzco ese proposito en accion concreta?
@@ -21,14 +50,14 @@ Este tema proporciona lo que faltaba: una brujula para navegar la ambiguedad eti
 
 Ademas, el modelo de alineamiento (Proposito → Objetivos → Intencion) traduce esa brujula en accion concreta, conectando el "para que" profundo con el "como" aqui y ahora.
 
----
-
-## De saber para qué a actuar en coherencia
+#imagen ![img-m07-02-portada-camino-sin-reglas](assets/img-m07-02-portada-camino-sin-reglas.png) Carretera con cartel "Reglas Claras" que se pierde en niebla: "¿qué nos orienta cuando el camino no existe?"
 
 ---
 
-## Por qué necesitas una brújula
+## 1. Por qué necesitas una brújula
 
+
+#imagen ![img-m07-02-barco-niebla-brujula](assets/img-m07-02-barco-niebla-brujula.png) Barco en mar con niebla y brújula superpuesta: necesidad de orientación cuando no hay camino claro
 En T1 viste que ser ético requiere virtud (cultivar carácter) y prudencia (discernir qué es lo correcto aquí y ahora). También viste los mecanismos que te desvían sin que lo notes.
 
 Pero falta algo: **un criterio de orientación cuando todo es ambiguo**.
@@ -41,9 +70,11 @@ Y necesitas un método para traducir esa brújula en acción concreta. Ese méto
 
 ---
 
-## PARTE 1: El propósito como brújula
+## 2. PARTE 1: El propósito como brújula
 
-### Propósito no es lo mismo que objetivos
+### 2.1 Propósito no es lo mismo que objetivos
+
+#ppt ![ppt-m07-02-objetivos-vs-proposito](assets/ppt-m07-02-objetivos-vs-proposito.png) "Objetivos vs. Propósito" — ancla (para qué profundo) vs montaña con bandera (qué concreto)
 
 Esta distinción parece obvia pero se confunde constantemente.
 
@@ -59,7 +90,9 @@ El propósito es la razón por la que te levantas. Los objetivos son lo que hace
 
 **Sin propósito claro, los objetivos se convierten en fines en sí mismos.** Cumples metas pero pierdes el sentido. Logras cosas pero no sabes para qué. Y cuando los objetivos entran en conflicto — cosa que ocurre constantemente — no tienes criterio para priorizarlos.
 
-### La estrella polar, no el GPS
+### 2.2 La estrella polar, no el GPS
+
+#grafica ![graf-m07-02-estrella-polar-no-gps](assets/graf-m07-02-estrella-polar-no-gps.png) "El propósito no es un GPS; es una Estrella Polar" — GPS (instrucciones) vs Estrella Polar (dirección constante)
 
 El propósito no funciona como un GPS que te dice exactamente dónde girar. Funciona como una **estrella polar** que te orienta cuando el camino no está claro.
 
@@ -74,7 +107,9 @@ En entornos complejos — los entornos donde opera el liderazgo real — no hay 
 
 Cuando no sabes qué hacer, puedes preguntarte: "¿Qué opción me acerca más a mi propósito?" No siempre da una respuesta clara, pero siempre da una dirección.
 
-### Propósito personal y propósito organizacional
+### 2.3 Propósito personal y propósito organizacional
+
+#grafica ![graf-m07-02-tension-dos-propositos](assets/graf-m07-02-tension-dos-propositos.png) "La Tensión de los Dos Propósitos" — Venn: Propósito Personal ∩ Organizacional (alineados, tensión, irreconciliables)
 
 Como líder vives en la tensión entre dos propósitos: el tuyo y el de la organización donde operas.
 
@@ -93,7 +128,10 @@ Hay personas que sacrifican su propósito personal por la organización hasta va
 
 El líder consciente busca alineamiento genuino — y cuando no es posible, hace una elección consciente sobre dónde está su límite.
 
-### El propósito como criterio de decisión
+### 2.4 El propósito como criterio de decisión
+
+#grafica ![graf-m07-02-proposito-criterio-decision](assets/graf-m07-02-proposito-criterio-decision.png) "El Propósito como Criterio de Decisión" — balanza: Corto Plazo/Eficiencia vs Propósito (Largo Plazo/Cuidado)
+
 
 En M6 trabajaste valores en tensión. El propósito ayuda a navegar esas tensiones.
 
@@ -105,7 +143,7 @@ En M6 trabajaste valores en tensión. El propósito ayuda a navegar esas tension
 
 El propósito no siempre resuelve la tensión. Pero da un criterio desde el cual discernir. Sin ese criterio, cada decisión en tensión se vuelve arbitraria o agotadora.
 
-### Propósito y sentido existencial
+### 2.5 Propósito y sentido existencial
 
 El propósito no es solo estratégico (me ayuda a decidir). Es existencial (me da razón para seguir).
 
@@ -117,17 +155,7 @@ Los líderes con propósito claro son más resilientes bajo presión. No porque 
 
 Esto conecta con M4: el propósito es parte del autocuidado. Sin sentido, el estrés crónico se hace insoportable. Con sentido, el mismo estrés se vuelve tolerable — incluso significativo.
 
-### La firma somática del propósito
-
-El propósito no vive solo en la cabeza. Tiene presencia en el cuerpo.
-
-Cuando actúas alineado con tu propósito, hay una sensación de coherencia. Las piezas encajan. Hay una especie de solidez, de "esto es lo que debo estar haciendo". No siempre es fácil ni agradable, pero hay alineamiento.
-
-Cuando actúas desalineado — cuando persigues objetivos que no conectan con tu propósito profundo — hay otra sensación. Vacío. Algo que falta. Puedes tener éxito y sentir que no significa nada.
-
-**Pregunta para notar:** Piensa en un momento donde sentiste profundo alineamiento entre lo que hacías y tu propósito. ¿Cómo se sentía en el cuerpo? Ahora piensa en un momento de éxito que se sintió vacío. ¿Qué diferencia notas?
-
-### Articular el propósito
+### 2.6 Articular el propósito
 
 El propósito puede ser:
 
@@ -147,9 +175,13 @@ No necesitas una frase perfecta. Necesitas suficiente claridad para que te orien
 
 ---
 
-## PARTE 2: El modelo de alineamiento
+## 3. PARTE 2: El modelo de alineamiento
 
-### De propósito a acción: el problema de la traducción
+#grafica ![graf-m07-02-problema-traduccion-v1](assets/graf-m07-02-problema-traduccion-v1.png) Opción 1: "El Problema de la Traducción" — acantilados: brecha entre Propósito (abstracto) y Acción (concreta)
+
+#grafica ![graf-m07-02-problema-traduccion-v2](assets/graf-m07-02-problema-traduccion-v2.png) Opción 2: "El problema de la traducción" — puente: Propósito → Modelo de Alineamiento → Acción
+
+### 3.1 De propósito a acción: el problema de la traducción
 
 Tener propósito claro es necesario pero no suficiente.
 
@@ -157,7 +189,9 @@ El propósito es abstracto ("desarrollar personas para que alcancen su potencial
 
 El modelo de alineamiento es ese puente: una estructura de tres niveles que conecta el para qué profundo con el cómo aquí y ahora.
 
-### Los tres niveles
+### 3.2 Los tres niveles
+
+#grafica ![graf-m07-02-modelo-alineamiento-piramide](assets/graf-m07-02-modelo-alineamiento-piramide.png) "El Modelo de Alineamiento: Conectando el Ser con el Hacer" — pirámide: Propósito → Objetivos → Intención
 
 ```
 PROPÓSITO (¿Para qué?)
@@ -173,7 +207,7 @@ INTENCIÓN (¿Cómo, aquí y ahora?)
 
 **Nivel 3 — Intención:** El "cómo" en esta situación concreta. Es el puente entre propósito/objetivos y la acción inmediata. Se establece antes de cada momento importante.
 
-### Ejemplo del modelo en acción
+**Ejemplo del modelo en acción
 
 |Nivel|Ejemplo|
 |---|---|
@@ -183,9 +217,12 @@ INTENCIÓN (¿Cómo, aquí y ahora?)
 
 La intención es donde la consciencia se hace operativa. No basta con tener propósito claro y objetivos definidos; necesitas traducirlos en una intención específica para este momento.
 
+#grafica ![graf-m07-02-intencion-puente-operativo](assets/graf-m07-02-intencion-puente-operativo.png) "Zoom In: La Intención como puente operativo" — cascada: Propósito → Objetivo → Intención (ejemplo con Ana)
+
 Esto conecta directamente con M6: la intención que clarificabas en el ANTES es exactamente este tercer nivel del modelo.
 
-### La coherencia entre niveles
+### 3.3 La coherencia entre niveles
+
 
 El poder del modelo está en la coherencia entre niveles.
 
@@ -203,7 +240,9 @@ El poder del modelo está en la coherencia entre niveles.
 
 La meta-consciencia de M6 te permite detectar estos desalineamientos: "¿Mi objetivo actual conecta con mi propósito? ¿Mi intención para esta reunión sirve a mi objetivo? ¿Estoy actuando desde mi intención o me he desviado?"
 
-### El modelo es recursivo, no lineal
+### 3.4 El modelo es recursivo, no lineal
+
+#grafica ![graf-m07-02-alineamiento-recursivo](assets/graf-m07-02-alineamiento-recursivo.png) "El alineamiento es recursivo, no lineal" — ciclo: Propósito → Objetivos → Acción → retroalimentación
 
 No es que defines tu propósito una vez, derivas objetivos, estableces intenciones y ya. El modelo funciona en ambas direcciones:
 
@@ -219,11 +258,12 @@ No es que defines tu propósito una vez, derivas objetivos, estableces intencion
 
 **El alineamiento no es un estado que se alcanza. Es un proceso que se practica.**
 
-### Aplicación al ethical fading
+**Aplicación al ethical fading
 
 El modelo de alineamiento es también herramienta contra el ethical fading de T1.
 
 Cuando encuadras algo como "decisión de negocio" y la dimensión ética desaparece, el modelo te obliga a reconectarla:
+
 
 - **Propósito:** ¿Mi propósito incluye el cuidado de las personas afectadas?
 - **Objetivos:** ¿Este objetivo sirve a mi propósito o lo traiciona?
@@ -231,7 +271,10 @@ Cuando encuadras algo como "decisión de negocio" y la dimensión ética desapar
 
 Si tu propósito es genuino — si incluye algo más que tu beneficio personal — entonces el modelo hace visible la dimensión ética que el ethical fading quiere ocultar.
 
-### Intención ética: el nivel que M7 añade
+### 3.5 Intención ética: el nivel que M7 añade
+
+#grafica ![graf-m07-02-intencion-dimension-etica](assets/graf-m07-02-intencion-dimension-etica.png) "La evolución de la Intención: La dimensión ética" — triángulo: Objetivo + Actitud + Ética (¿Es correcto?)
+
 
 En M6, la intención tenía dos componentes: **qué quiero conseguir** (objetivo) y **desde dónde quiero actuar** (actitud).
 
@@ -247,7 +290,9 @@ La intención completa integra los tres. No basta con saber qué quieres y estar
 
 ---
 
-## Integración: del propósito a la acción ética
+## 4. Integración: del propósito a la acción ética
+
+#grafica ![graf-m07-02-proposito-hilo-conductor](assets/graf-m07-02-proposito-hilo-conductor.png) "El propósito como hilo conductor del sistema" — constelación: Propósito central con M1-M5 como estrellas conectadas
 
 El recorrido completo:
 
@@ -261,7 +306,7 @@ Este es el proceso que el T3 desarrollará en detalle, integrando la estructura 
 
 ---
 
-## Cuando el propósito no está claro
+## 5. Cuando el propósito no está claro
 
 ¿Y si no tienes claro tu propósito?
 
@@ -283,7 +328,9 @@ Lo que importa es que sea tuyo — no heredado sin examinar, no impuesto por exp
 
 ---
 
-## Conexion con M1
+## Conexiones 
+
+**Conexion con M1
 
 M1 mostro que adoptamos creencias sin examinarlas. Con el proposito pasa lo mismo: puedes operar con un proposito heredado que nunca cuestionaste.
 
@@ -295,9 +342,7 @@ M1 mostro que adoptamos creencias sin examinarlas. Con el proposito pasa lo mism
 
 El proposito consciente requiere la misma examinacion que M1 aplicaba a las creencias.
 
----
-
-## Conexion con M2
+**Conexion con M2
 
 M2 mostro que el cuerpo informa. El proposito tiene firma somatica: el alineamiento se siente.
 
@@ -309,9 +354,7 @@ M2 mostro que el cuerpo informa. El proposito tiene firma somatica: el alineamie
 
 El cuerpo te dice si estas alineado con tu proposito antes de que la mente lo analice.
 
----
-
-## Conexion con M3
+**Conexion con M3
 
 M3 mostro que puedes observar tus estados. Aqui: puedes observar si tus acciones conectan con tu proposito.
 
@@ -323,9 +366,7 @@ M3 mostro que puedes observar tus estados. Aqui: puedes observar si tus acciones
 
 La meta-consciencia de M3 permite ver cuando los objetivos han sustituido al proposito.
 
----
-
-## Conexion con M4
+**Conexion con M4
 
 M4 mostro que el proposito da sentido al esfuerzo. Frankl: "El que tiene un por que puede soportar casi cualquier como."
 
@@ -337,9 +378,8 @@ M4 mostro que el proposito da sentido al esfuerzo. Frankl: "El que tiene un por 
 
 El proposito es parte del autocuidado de M4: sin sentido, todo se derrumba mas rapido.
 
----
 
-## Conexion con M5
+**Conexion con M5
 
 M5 mostro que la consciencia se extiende hacia el otro. El proposito genuino incluye algo mas que tu beneficio.
 
@@ -351,9 +391,7 @@ M5 mostro que la consciencia se extiende hacia el otro. El proposito genuino inc
 
 El proposito maduro integra la extension hacia el otro de M5.
 
----
-
-## Conexion con M6
+**Conexion con M6
 
 M6 mostro la intencion como el tercer nivel del proceso. El modelo de alineamiento formaliza eso.
 
@@ -367,7 +405,7 @@ El modelo de alineamiento integra y extiende lo que M6 proponia sobre la intenci
 
 ---
 
-## Dimensión experiencial
+## Dimensión experiencial #insight
 
 - ¿Cuál es tu propósito como líder? ¿Puedes decirlo en una o dos frases?
 - ¿Tus objetivos actuales derivan de ese propósito o se han convertido en fines en sí mismos?
@@ -395,3 +433,10 @@ El Tema 3 llevará esto al terreno práctico: cómo integrar esta orientación �
 - Quinn, R.E. & Thakor, A.V. (2018). Creating a Purpose-Driven Organization. _Harvard Business Review_.
 - Scharmer, O. (2009). _Theory U: Leading from the Future as It Emerges._ Berrett-Koehler.
 - Covey, S. (1989). _The 7 Habits of Highly Effective People._ Free Press.
+
+
+---
+## Material adicional del tema #aux
+### Infografías del tema 
+
+#infografia ![infog-m07-02-proposito-brujula-accion](assets/infog-m07-02-proposito-brujula-accion.jpg) Liderazgo con Propósito: estrella polar vs GPS, tres niveles de coherencia (propósito-objetivos-intención)

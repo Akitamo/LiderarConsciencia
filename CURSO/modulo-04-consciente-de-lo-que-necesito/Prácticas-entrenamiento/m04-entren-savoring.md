@@ -1,7 +1,9 @@
 ---
-titulo: "Pausa de 3 minutos"
+id: m04-entren-02
+titulo: "Savoring"
 modulo: 4
-Tiempo: 3-min
+orden: entren-02
 tags: [práctica, modulo-4]
+ultima_actualizacion: "10/02/2026"
 ---
 

@@ -1,8 +1,11 @@
 ---
-titulo: "meditación en los pensamientos"
+id: m03-entren-01
+titulo: "Meditación en los pensamientos"
 modulo: 3
+orden: entren-01
 Tiempo: 20-min
 tags: [práctica, modulo-3]
+ultima_actualizacion: "10/02/2026"
 ---
 
 **MEDITACIÓN EN LOS PENSAMIENTOS**

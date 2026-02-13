@@ -8,6 +8,20 @@ ultima_actualizacion: "21/01/2026"
 ---
 # Tema 6: Mindfulness para generar espacio
 
+- [Por que este tema es necesario](#por-que-este-tema-es-necesario)
+	- [Entre estimulo y respuesta](#entre-estimulo-y-respuesta)
+- [1. Generar espacio de respuesta](#1-generar-espacio-de-respuesta)
+- [2. Darse cuenta de los eventos mentales](#2-darse-cuenta-de-los-eventos-mentales)
+- [3. Observar el flujo de relaciones](#3-observar-el-flujo-de-relaciones)
+- [4. El mecanismo neural](#4-el-mecanismo-neural)
+- [La practica especifica de M3](#la-practica-especifica-de-m3)
+- [Conexiones](#conexiones)
+- [Referencias incluidas](#referencias-incluidas)
+- [Material adicional del tema](#material-adicional-del-tema)
+	- [Infografías del tema](#infografías-del-tema)
+
+---
+
 ## Por que este tema es necesario
 
 #### Entre estimulo y respuesta
@@ -19,10 +33,12 @@ Este tema cierra el arco del modulo: despues de entender la cadena automatica (T
 
 **El mindfulness contrarresta la tendencia al modo automático** promoviendo un estado de observación consciente: detenerse, notar lo que surge, elegir cómo responder.
 
+
+
 ---
 
-## Generar espacio de respuesta
-
+## 1. Generar espacio de respuesta
+#grafica ![graf-m03-06-espacio-estimulo-respuesta](assets/graf-m03-06-espacio-estimulo-respuesta.png) Dos círculos (estímulo y respuesta) con espacio intermedio: modo automático (flecha directa) vs espacio de respuesta (pausa mindful).
 El mindfulness crea una pausa entre emocion/sensacion y accion. El mindfulness crea un "espacio de respuesta" entre la emoción o sensación física y la acción. Este espacio interrumpe la cadena automática. A nivel neural, el mindfulness activa la corteza prefrontal —clave para la autorregulación— y disminuye la reactividad impulsiva del sistema límbico, donde operan las respuestas automáticas. El resultado: observar la emoción o sensación sin actuar de inmediato.
 
 **A nivel neural:**
@@ -42,7 +58,7 @@ Alguien recibe una crítica en público y siente enojo. En modo automático, la 
 
 ---
 
-## Darse cuenta de los eventos mentales
+## 2. Darse cuenta de los eventos mentales
 
 La mente automática procesa pensamientos, emociones y sensaciones como un conjunto indiferenciado. Mindfulness permite observar los eventos mentales mientras emergen y reconocer si se trata de un pensamiento, una emoción o una sensación física. Esta distinción consciente permite separar y analizar cada elemento en lugar de reaccionar impulsivamente.
 
@@ -56,12 +72,12 @@ La clave es observar pensamientos, emociones y sensaciones como **eventos separa
 | "Esto es verdad" | "Esto es un pensamiento" |
 | "Estoy furioso" | "Estoy notando furia" |
 | "Tengo que responder ya" | "Estoy sintiendo urgencia" |
-
+#grafica ![graf-m03-06-fusion-vs-desfusion](assets/graf-m03-06-fusion-vs-desfusion.png) Fusión (sin mindfulness): pensamientos=verdad, vs desfusión (con mindfulness): pensamientos=eventos observables.
 La diferencia parece sutil. Es transformadora.
 
 ---
 
-## Observar el flujo de relaciones
+## 3. Observar el flujo de relaciones
 
 La mente automática establece cadenas reactivas entre pensamientos, emociones y sensaciones físicas, donde un elemento intensifica al siguiente sin intervención consciente. Mindfulness permite observar esta cadena: cómo los pensamientos activan emociones, cómo las emociones generan sensaciones físicas, cómo todo el proceso ocurre de manera automática. Al notar estas relaciones, es posible tomar distancia crítica y no identificarse con la cadena de reacciones.
 
@@ -76,31 +92,26 @@ Con practica, puedes ver como se encadenan los eventos mentales:
 
 No eres el pensamiento. No eres la emocion. Eres quien observa.
 
-
+#grafica ![graf-m03-06-ciclo-observacion-cadena](assets/graf-m03-06-ciclo-observacion-cadena.png) Ciclo pensamiento→emoción→sensación→acción con posición de observador. "No eres el pensamiento, eres quien observa."
 
 #ejemplo
 Un compañero hace una crítica y aparece un nudo en el estómago. En modo automático, surgen pensamientos de autocrítica ("No soy bueno en esto") que intensifican la ansiedad y el malestar físico. Con mindfulness, se puede observar la relación: "Siento ansiedad, que está generando pensamientos autocríticos y se refleja en mi cuerpo como un nudo en el estómago". Ver la cadena completa permite observar la experiencia sin actuar desde la reacción automática —comprendiendo que cada evento es parte de un flujo más amplio.
-
-#imagen
-![img-m03-diagrama-estimulo-respuesta](recursos/imagenes/img-m03-diagrama-estimulo-respuesta.png) Diagrama mostrando el flujo desde "Estímulo" (círculo naranja izquierda) hasta "Respuesta" (círculo naranja derecha), pasando por una zona intermedia con ondas sinusoidales en colores rojo, azul y gris que representan las etapas de Sensaciones, Percepción-Interpretación y Emociones.
-
-
-#imagen
-![img-m03-cita-victor-frankl](recursos/imagenes/img-m03-cita-victor-frankl.png) Diagrama con dos círculos naranjas etiquetados "Stimulus" y "Response" conectados por dos barras verticales negras que representan el espacio entre ellos. Debajo, la cita de Victor Frankl[^1]: "Between stimulus and response there is a space. In that space is our power to choose our response."
 
 
 
 > "Entre estimulo y respuesta hay un espacio. En ese espacio esta nuestro poder de elegir nuestra respuesta. En nuestra respuesta reside nuestro crecimiento y nuestra libertad."
 >
-> — Viktor Frankl
+> — Viktor Frankl[^1]
 
 Este espacio no es automatico. Se crea. Se entrena.
 
 ---
 
-## El mecanismo neural
+## 4. El mecanismo neural
 
 La practica fortalece las conexiones prefrontales que modulan la reactividad automatica.
+
+#grafica ![graf-m03-06-prefrontal-freno-limbico-acelerador](assets/graf-m03-06-prefrontal-freno-limbico-acelerador.png) Cerebro con corteza prefrontal (el freno) vs sistema límbico (el acelerador): mecanismo neural del espacio de respuesta.
 
 Con el tiempo:
 - El espacio se amplia
@@ -117,7 +128,7 @@ Mientras M1 uso atencion focalizada (respiracion) y M2 uso Body Scan (sensacione
 
 El objeto de atencion se expande: no solo el cuerpo, sino los eventos mentales.
 
-### Que entrena
+**Que entrena
 
 | Aspecto de la practica | Capacidad entrenada |
 |------------------------|---------------------|
@@ -130,7 +141,9 @@ El objeto de atencion se expande: no solo el cuerpo, sino los eventos mentales.
 
 ---
 
-## Conexion con M1
+## Conexiones 
+
+**Conexion con M1
 
 El mindfulness de M1 (atencion focalizada) entreno la capacidad basica de notar y volver.
 
@@ -138,17 +151,13 @@ M3 la aplica especificamente a pensamientos y emociones.
 
 Es el mismo "musculo", aplicado a objetos mas complejos.
 
----
-
-## Conexion con M2
+**Conexion con M2
 
 El cuerpo (M2) sigue siendo anclaje. Pero ahora se anade la observacion de pensamientos y emociones.
 
 El triangulo de la atencion esta completo: sensaciones, pensamientos, emociones.
 
----
-
-## Conexion con el programa
+**Conexion con el programa
 
 Este espacio es la base de todo lo que viene:
 
@@ -163,9 +172,15 @@ Este espacio es la base de todo lo que viene:
 ---
 
 ## Referencias incluidas
+[^1]: Viktor Frankl (1946). Man's Search for Meaning. Beacon Press.
 
-- Frankl, V. (1946). *Man's Search for Meaning.* Beacon Press.
 
 **Otras posibles referencias de interés:
 - Creswell, J.D. (2017). *Mindfulness interventions.* Annual Review of Psychology.
 - Tang, Y.Y. et al. (2015). *The neuroscience of mindfulness meditation.* Nature Reviews Neuroscience.
+
+---
+## Material adicional del tema #aux
+### Infografías del tema 
+
+#infografia ![infog-m03-06-espacio-libertad-mindfulness](assets/infog-m03-06-espacio-libertad-mindfulness.jpg) Infografía "El Espacio de Libertad: Mindfulness entre el Estímulo y la Respuesta".

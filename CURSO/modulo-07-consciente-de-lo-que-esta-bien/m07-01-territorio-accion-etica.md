@@ -4,11 +4,43 @@ titulo: "El territorio de la acción ética"
 modulo: 7
 orden: 01
 fase: TEMA
-tags: [etica, virtud, prudencia, puntos-ciegos, bounded-ethicality]
+tags: [virtud-habito, prudencia-phronesis, puntos-ciegos-eticos, bounded-ethicality, ethical-fading]
 ultima_actualizacion: "27/01/2026"
 ---
 
 # Tema 1: El territorio de la acción ética
+
+- [Por que este tema es necesario](#por-que-este-tema-es-necesario)
+		- [Entender la etica como virtud y los puntos ciegos que nos desvian](#entender-la-etica-como-virtud-y-los-puntos-ciegos-que-nos-desvian)
+- [1. El territorio que vamos a explorar](#1-el-territorio-que-vamos-a-explorar)
+- [2. Qué significa ser ético](#2-qué-significa-ser-ético)
+	- [2.1 Dos concepciones muy diferentes](#21-dos-concepciones-muy-diferentes)
+	- [2.2 Por qué el cumplimiento no basta](#22-por-qué-el-cumplimiento-no-basta)
+	- [2.3 La virtud como hábito](#23-la-virtud-como-hábito)
+	- [2.4 La firma somática de la virtud](#24-la-firma-somática-de-la-virtud)
+	- [2.5 La prudencia: saber qué es lo correcto aquí y ahora](#25-la-prudencia-saber-qué-es-lo-correcto-aquí-y-ahora)
+	- [2.6 El ser precede al hacer](#26-el-ser-precede-al-hacer)
+- [3. Por qué fallamos sin saberlo](#3-por-qué-fallamos-sin-saberlo)
+	- [3.1 El descubrimiento incómodo](#31-el-descubrimiento-incómodo)
+	- [3.2 Bounded ethicality: la ética tiene límites que no vemos](#32-bounded-ethicality-la-ética-tiene-límites-que-no-vemos)
+	- [3.3 Ethical fading: cuando lo ético desaparece de la vista](#33-ethical-fading-cuando-lo-ético-desaparece-de-la-vista)
+	- [3.4 Motivated blindness: no vemos lo que no nos conviene ver](#34-motivated-blindness-no-vemos-lo-que-no-nos-conviene-ver)
+	- [3.5 Slippery slope: la pendiente que no notas mientras bajas](#35-slippery-slope-la-pendiente-que-no-notas-mientras-bajas)
+	- [3.6 El cuerpo como sistema de alerta](#36-el-cuerpo-como-sistema-de-alerta)
+	- [3.7 La meta-consciencia como antídoto](#37-la-meta-consciencia-como-antídoto)
+	- [3.8 Estructuras que ayudan](#38-estructuras-que-ayudan)
+- [3. Integrando las dos partes](#3-integrando-las-dos-partes)
+- [Conexiones](#conexiones)
+- [Dimensión experiencial #insight](#insight)
+- [Hacia el siguiente tema](#hacia-el-siguiente-tema)
+- [Referencias incluidas](#referencias-incluidas)
+- [Material adicional del tema #aux](#aux)
+	- [Infografías del tema](#infografías-del-tema)
+
+
+#imagen ![img-m07-01-portada-brujula-etica](assets/img-m07-01-portada-brujula-etica.png) Brújula antigua sobre piedra oscura con niebla: portada del territorio de la acción ética
+
+---
 
 ## Por que este tema es necesario
 
@@ -21,13 +53,10 @@ Este tema establece las bases de M7: que significa ser etico (no como cumplimien
 
 Sin la primera parte, no sabes hacia donde apuntar. Sin la segunda, no ves los obstaculos que te desvian. Necesitas las dos para liderar con consciencia etica.
 
----
-
-## Lo que significa ser ético y por qué fallamos sin saberlo
 
 ---
 
-## El territorio que vamos a explorar
+## 1. El territorio que vamos a explorar
 
 Este tema tiene dos partes que se necesitan mutuamente.
 
@@ -37,11 +66,15 @@ La segunda responde a por qué fallamos: los mecanismos psicológicos que hacen 
 
 Necesitas las dos. Sin la primera, no sabes hacia dónde apuntar. Sin la segunda, no ves los obstáculos que te desvían sin que lo notes.
 
+#grafica ![graf-m07-01-paradoja-buenas-intenciones](assets/graf-m07-01-paradoja-buenas-intenciones.png) "La paradoja de las buenas intenciones" — arco: Intención Ética → Punto Ciego → Auto-Percepción distorsionada
+
 ---
 
-## PARTE 1: Qué significa ser ético
+## 2. Qué significa ser ético
 
-### Dos concepciones muy diferentes
+### 2.1 Dos concepciones muy diferentes
+
+#grafica ![graf-m07-01-cumplimiento-vs-virtud](assets/graf-m07-01-cumplimiento-vs-virtud.png) Ética como Cumplimiento (clipboard, checklist) vs Ética como Virtud (brújula dorada, discernimiento)
 
 Hay dos formas de entender la ética. La diferencia entre ellas es enorme.
 
@@ -60,7 +93,7 @@ Hay dos formas de entender la ética. La diferencia entre ellas es enorme.
 
 La ética del líder consciente no es cumplimiento. Es virtud.
 
-### Por qué el cumplimiento no basta
+### 2.2 Por qué el cumplimiento no basta
 
 El problema del cumplimiento es que siempre busca el límite. ¿Hasta dónde puedo llegar sin violar la norma? ¿Cuál es el vacío legal? ¿Qué puedo hacer que técnicamente no está prohibido?
 
@@ -70,7 +103,9 @@ Y produce algo peor: la ilusión de ser ético. "No he hecho nada ilegal" se con
 
 **El líder que solo cumple no es un líder ético. Es un líder que no ha sido pillado.**
 
-### La virtud como hábito
+### 2.3 La virtud como hábito
+
+#ppt ![ppt-m07-01-virtud-como-habito](assets/ppt-m07-01-virtud-como-habito.png) "La Virtud como Hábito" — anillos de árbol, cita Aristóteles: la virtud se forja con la práctica
 
 Aristóteles enseñó algo que sigue siendo verdad: la virtud no es una decisión puntual que tomas en momentos críticos. Es un **modo de ser cultivado** día a día.[^1]
 
@@ -89,7 +124,9 @@ Y cada vez que haces lo contrario — el pequeño atajo, la media verdad, la omi
 
 **El carácter no se construye en las grandes decisiones. Se revela en ellas.**
 
-### La firma somática de la virtud
+### 2.4 La firma somática de la virtud
+
+#ppt ![ppt-m07-01-firma-somatica-etica](assets/ppt-m07-01-firma-somatica-etica.png) "La Firma Somática: El Cuerpo Sabe" — Alineación (Eudaimonía, expansión) vs Contracción (incoherencia)
 
 El cuerpo sabe de virtud antes que la mente racionalice.
 
@@ -103,7 +140,9 @@ La eudaimonía tiene firma somática. Y su ausencia también.
 
 **Pregunta para notar:** Piensa en una decisión reciente donde actuaste en plena coherencia con tus valores. ¿Cómo se sintió en el cuerpo? Ahora piensa en una donde te desviaste aunque fuera levemente. ¿Qué diferencia notas?
 
-### La prudencia: saber qué es lo correcto aquí y ahora
+### 2.5 La prudencia: saber qué es lo correcto aquí y ahora
+
+#grafica ![graf-m07-01-prudencia-phronesis](assets/graf-m07-01-prudencia-phronesis.png) "Prudencia (Phronesis): Discernir Aquí y Ahora" — lente convergente: Reglas Generales → Prudencia → Acción Correcta
 
 Las reglas generales no resuelven situaciones concretas.
 
@@ -128,7 +167,7 @@ La prudencia no es un cálculo que se puede automatizar. Requiere:
 
 La meta-consciencia de M6 es exactamente lo que la prudencia necesita: la capacidad de observarte mientras discierres, de notar qué te está influyendo, de cuestionar si estás viendo bien.
 
-### El ser precede al hacer
+### 2.6 El ser precede al hacer
 
 Hay una implicación profunda en todo esto: no actúas éticamente porque sigues reglas; sigues las reglas buenas porque eres ético.
 
@@ -145,9 +184,9 @@ La consciencia desarrollada en M1-M6 es el fundamento del ser ético. Sin esa ba
 
 ---
 
-## PARTE 2: Por qué fallamos sin saberlo
+## 3. Por qué fallamos sin saberlo
 
-### El descubrimiento incómodo
+### 3.1 El descubrimiento incómodo
 
 Si la ética fuera solo cuestión de querer ser bueno, bastaría con buenas intenciones. Pero la investigación de las últimas décadas ha revelado algo incómodo: **personas genuinamente bien intencionadas actúan de forma no ética sin consciencia de ello**.[^2]
 
@@ -155,7 +194,9 @@ No estamos hablando de personas malas que eligen el mal. Estamos hablando de per
 
 Esto es mucho más perturbador que la maldad consciente. Y mucho más común.
 
-### Bounded ethicality: la ética tiene límites que no vemos
+### 3.2 Bounded ethicality: la ética tiene límites que no vemos
+
+#ppt ![ppt-m07-01-bounded-ethicality](assets/ppt-m07-01-bounded-ethicality.png) "El Descubrimiento Incómodo: Bounded Ethicality" — autoimagen ética vs comportamiento real
 
 Bazerman y Tenbrunsel acuñaron el término **"bounded ethicality"** (ética limitada) para describir este fenómeno:[^2]
 
@@ -171,7 +212,9 @@ El problema no es que decidamos hacer el mal. Es que **no vemos** que lo hacemos
 
 Los mismos sesgos cognitivos de M1 tienen dimensión ética. El sesgo de confirmación no solo distorsiona tu análisis — puede hacerte ignorar información éticamente relevante. El sesgo de afinidad no solo afecta a quién contratas — puede producir exclusión injusta.
 
-### Ethical fading: cuando lo ético desaparece de la vista
+### 3.3 Ethical fading: cuando lo ético desaparece de la vista
+
+#ppt ![ppt-m07-01-ethical-fading](assets/ppt-m07-01-ethical-fading.png) "Ethical Fading: El Desvanecimiento" — personas transparentes tras el rótulo "Decisión de Negocio"
 
 Uno de los mecanismos más peligrosos es el **"ethical fading"** (desvanecimiento ético): la dimensión moral de una decisión se vuelve invisible cuando la enmarcamos de otra forma.[^3]
 
@@ -190,7 +233,9 @@ Pero toda decisión que afecta a personas es una cuestión ética. El encuadre "
 
 **Pregunta incómoda:** ¿Qué decisiones recientes has tratado como "puramente técnicas" o "de negocio" cuando en realidad tenían dimensión ética que preferiste no ver?
 
-### Motivated blindness: no vemos lo que no nos conviene ver
+### 3.4 Motivated blindness: no vemos lo que no nos conviene ver
+
+#imagen ![img-m07-01-motivated-blindness](assets/img-m07-01-motivated-blindness.png) Ojo con "INTERÉS PROPIO" en pupila dorada: ceguera motivada, no vemos lo que no nos conviene ver
 
 La **"motivated blindness"** (ceguera motivada) es especialmente peligrosa: no vemos lo que no queremos ver porque verlo nos perjudicaría.[^2]
 
@@ -207,7 +252,9 @@ Lo insidioso es que no sientes que estás ignorando nada. Tu mente simplemente n
 
 La meta-consciencia de M6 es la herramienta para contrarrestar esto — pero requiere hacerte preguntas que no quieres hacerte: "¿Tengo algún conflicto de interés que pueda estar cegándome?"
 
-### Slippery slope: la pendiente que no notas mientras bajas
+### 3.5 Slippery slope: la pendiente que no notas mientras bajas
+
+#grafica ![graf-m07-01-slippery-slope](assets/graf-m07-01-slippery-slope.png) Pendiente resbaladiza: Paso 1 (pequeña excepción) → Paso 10 (corrupción sistemática)
 
 La **"slippery slope"** (pendiente resbaladiza) explica cómo personas decentes terminan en lugares que jamás habrían elegido de golpe:[^2]
 
@@ -224,7 +271,7 @@ La primera vez que "redondeas" un número en un informe, sientes incomodidad. La
 
 **Pregunta para reflexionar:** ¿Qué "pequeñas excepciones" se han normalizado en tu práctica de liderazgo? ¿Hacia dónde llevarían si siguieran acumulándose?
 
-### El cuerpo como sistema de alerta
+### 3.6 El cuerpo como sistema de alerta
 
 Aquí es donde M2 y M7 se encuentran de forma crucial.
 
@@ -236,7 +283,9 @@ El cuerpo sabe antes que la mente racionalice. El problema es que hemos aprendid
 
 **La práctica de escucha corporal de M2 es también práctica de ética: aprender a no ignorar las señales que avisan que algo no está bien.**
 
-### La meta-consciencia como antídoto
+### 3.7 La meta-consciencia como antídoto
+
+#ppt ![ppt-m07-01-antidoto-metaconsciencia](assets/ppt-m07-01-antidoto-metaconsciencia.png) "El Antídoto: Meta-Consciencia" — ojo central con ciclo ANTES-DURANTE-DESPUÉS
 
 La capacidad de M6 — observar tu propio proceso mental — es la herramienta principal para contrarrestar estos mecanismos.
 
@@ -249,7 +298,9 @@ La capacidad de M6 — observar tu propio proceso mental — es la herramienta p
 
 Estas preguntas son incómodas. Precisamente por eso funcionan: te obligan a mirar donde preferirías no mirar.
 
-### Estructuras que ayudan
+### 3.8 Estructuras que ayudan
+
+#grafica ![graf-m07-01-estructuras-integridad](assets/graf-m07-01-estructuras-integridad.png) Columna "Integridad" sostenida por Truth-tellers, Pausas éticas, Diversidad de perspectivas
 
 La meta-consciencia individual es necesaria pero no suficiente. También necesitas estructuras que te ayuden a ver lo que no quieres ver:
 
@@ -261,7 +312,7 @@ La meta-consciencia individual es necesaria pero no suficiente. También necesit
 
 ---
 
-## Integrando las dos partes
+## 3. Integrando las dos partes
 
 La virtud sin consciencia de los puntos ciegos es arrogancia: "Soy buena persona, así que lo que hago está bien."
 
@@ -276,9 +327,14 @@ La humildad epistemológica de M1 ("no soy tan racional como creía") se extiend
 
 Esa humildad no paraliza. Moviliza. Precisamente porque sé que puedo fallar sin notarlo, cultivo las prácticas y las estructuras que me ayudan a ver.
 
----
+#ppt ![ppt-m07-01-integracion-virtud-consciencia-v1](assets/ppt-m07-01-integracion-virtud-consciencia-v1.png) Opción 1: Diagrama Venn: Virtud ∩ Consciencia = Humildad Epistemológica del líder ético
+#grafica ![graf-m07-01-integracion-virtud-consciencia-v2](assets/graf-m07-01-integracion-virtud-consciencia-v2.png) Opción 2: Ecuación con iconos: Intención (Virtud) + Atención (Consciencia) = Liderazgo Ético
+#ppt ![ppt-m07-01-integracion-virtud-consciencia-v3](assets/ppt-m07-01-integracion-virtud-consciencia-v3.png) Opción 3: "La ética no se decide en los grandes momentos. Se revela en ellos." — texto tipográfico
 
-## Conexión con el proceso de decisión de M6
+---
+## Conexiones
+
+**Conexión con el proceso de decisión de M6
 
 En M6 trabajaste un proceso de tres fases: ANTES (preparar la decisión), DURANTE (sostener sin ser arrastrado), DESPUÉS (transitar lo que ha pasado).
 
@@ -292,9 +348,7 @@ Cada fase tiene ahora dimensión ética:
 
 El T3 de este módulo desarrollará esta integración en detalle.
 
----
-
-## Conexion con M1
+**Conexion con M1
 
 M1 mostro que no eres tan racional como crees. Aqui eso se extiende: no eres tan etico como crees.
 
@@ -306,9 +360,7 @@ M1 mostro que no eres tan racional como crees. Aqui eso se extiende: no eres tan
 
 La humildad de M1 se extiende a la etica: mis certezas morales tambien pueden estar sesgadas.
 
----
-
-## Conexion con M2
+**Conexion con M2
 
 M2 mostro que el cuerpo sabe antes que la mente. En la etica, el cuerpo registra la incoherencia antes de que racionalices.
 
@@ -320,9 +372,7 @@ M2 mostro que el cuerpo sabe antes que la mente. En la etica, el cuerpo registra
 
 El cuerpo es sistema de alerta etica, no solo informacion sobre tu estado.
 
----
-
-## Conexion con M3
+**Conexion con M3
 
 M3 mostro que puedes crear espacio entre estimulo y respuesta. En la etica, ese espacio es donde puedes elegir lo correcto.
 
@@ -334,9 +384,7 @@ M3 mostro que puedes crear espacio entre estimulo y respuesta. En la etica, ese 
 
 El espacio de M3 es donde la prudencia puede operar.
 
----
-
-## Conexion con M4
+**Conexion con M4
 
 M4 mostro que el agotamiento erosiona capacidades. Aqui: el agotamiento erosiona tambien la integridad.
 
@@ -348,9 +396,7 @@ M4 mostro que el agotamiento erosiona capacidades. Aqui: el agotamiento erosiona
 
 El autocuidado de M4 es tambien cuidado de tu integridad.
 
----
-
-## Conexion con M5
+**Conexion con M5
 
 M5 mostro que la consciencia se extiende hacia el otro. La etica es fundamentalmente relacional.
 
@@ -362,9 +408,7 @@ M5 mostro que la consciencia se extiende hacia el otro. La etica es fundamentalm
 
 La extension hacia el otro de M5 es la base de la consideracion etica.
 
----
-
-## Conexion con M6
+**Conexion con M6
 
 M6 mostro el proceso ANTES-DURANTE-DESPUES. M7 anade la capa etica a cada fase.
 
@@ -378,7 +422,7 @@ La meta-consciencia de M6 es la herramienta para contrarrestar los puntos ciegos
 
 ---
 
-## Dimensión experiencial
+## Dimensión experiencial #insight
 
 - ¿Qué pequeña decisión de hoy podría ser una oportunidad de fortalecer (o erosionar) tu carácter?
 - Piensa en una situación donde usaste el encuadre "es una decisión de negocio". ¿Había una dimensión ética que ese encuadre hizo invisible?
@@ -405,3 +449,10 @@ El Tema 2 trabajará el propósito como esa brújula — y el modelo para traduc
 [^2]: Bazerman, M.H. & Tenbrunsel, A.E. (2011). _Blind Spots: Why We Fail to Do What's Right and What to Do About It._ Princeton University Press.
 
 [^3]: Tenbrunsel, A.E. & Messick, D.M. (2004). Ethical fading: The role of self-deception in unethical behavior. _Social Justice Research_, 17(2), 223-236.
+
+
+---
+## Material adicional del tema #aux
+### Infografías del tema 
+
+#infografia ![infog-m07-01-territorio-liderazgo-etico](assets/infog-m07-01-territorio-liderazgo-etico.jpg) El Territorio del Liderazgo Ético: virtud vs cumplimiento, phronesis, puntos ciegos (bounded ethicality, ethical fading, slippery slope)

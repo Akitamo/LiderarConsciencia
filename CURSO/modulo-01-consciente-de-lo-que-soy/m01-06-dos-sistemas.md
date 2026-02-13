@@ -3,11 +3,31 @@ id: m01-06
 titulo: "Dos Sistemas de Pensamiento"
 modulo: 1
 orden: 06
-tags: [kahneman, sistema1, sistema2, pensamiento, sesgos, neurociencia]
+tags: [sistema1-sistema2, pensamiento-dual, kahneman, procesamiento-automatico]
 ultima_actualizacion: "21/01/2026"
 ---
 # Tema 6: Dos sistemas de pensamiento
 
+- [Por que este tema es necesario](#por-que-este-tema-es-necesario)
+		- [El piloto automatico y el copiloto dormido](#el-piloto-automatico-y-el-copiloto-dormido)
+- [1. Dos Sistemas de Pensamiento](#1-dos-sistemas-de-pensamiento)
+		- [1.1 Sistema 1 y Sistema 2: introducción](#11-sistema-1-y-sistema-2-introducción)
+		- [1.2 Comparativa entre sistemas](#12-comparativa-entre-sistemas)
+		- [1.3 Sistema 1: El piloto automatico](#13-sistema-1-el-piloto-automatico)
+		- [1.4 Sistema 2: El copiloto dormido](#14-sistema-2-el-copiloto-dormido)
+		- [1.5 La interacción entre sistemas](#15-la-interacción-entre-sistemas)
+- [2. La ilusion de control](#2-la-ilusion-de-control)
+		- [Ejercicios: el sistema automático en acción](#ejercicios-el-sistema-automático-en-acción)
+- [3. Implicaciones para el lider](#3-implicaciones-para-el-lider)
+- [Conexion con M1](#conexion-con-m1)
+- [Conexion con el programa](#conexion-con-el-programa)
+- [Dimension experiencial](#dimension-experiencial)
+- [Referencias incluidas](#referencias-incluidas)
+- [Material adicional del tema](#material-adicional-del-tema)
+	- [Infografías del tema](#infografías-del-tema)
+
+
+---
 ## Por que este tema es necesario
 
 #### El piloto automatico y el copiloto dormido
@@ -19,35 +39,37 @@ El modelo de Kahneman (Sistema 1/Sistema 2) ofrece el vocabulario central para e
 
 El participante descubre que el "yo" que cree decidir (Sistema 2) es, la mayor parte del tiempo, un ratificador pasivo de lo que el Sistema 1 ya decidio.
 
+#imagen ![img-m01-06-cerebro-dos-mitades](assets/img-m01-06-cerebro-dos-mitades.png) Cerebro azul (racional) vs naranja (emocional).
+
 ---
-## Dos Sistemas de Pensamiento
+## 1. Dos Sistemas de Pensamiento
 
-#### Sistema 1 y Sistema 2: introducción
+#### 1.1 Sistema 1 y Sistema 2: introducción
 
-La mente opera mediante dos sistemas distintos:
+#imagen
+![](assets/img-m01-06-libro-kahneman.png) *Portada del libro "Pensar rápido, pensar despacio" de Daniel Kahneman[^1]. Kahneman es descrito como "El psicólogo más importante de la actualidad y Premio Nobel de Economía".
+
+Daniel Kahneman describe la mente no como una unidad, sino como dos agentes o sistemas que operan con agendas y capacidades opuestas:
 
 **Sistema 1**: Rápido, automático, sin esfuerzo aparente ni sensación de control voluntario.
 **Sistema 2**: Focaliza la atención en operaciones mentales que requieren esfuerzo. Estas operaciones se asocian con la experiencia subjetiva de actuar, elegir y concentrarse.
 
 Tendemos a identificarnos con el Sistema 2 —el yo consciente y racional que sostiene creencias, toma decisiones y determina qué pensar y hacer. Sin embargo, **aunque el Sistema 2 cree estar donde ocurre la acción, el protagonista habitual es el Sistema 1**. El Sistema 2 puede intervenir, tomando el control y anulando los impulsos y asociaciones automáticas del Sistema 1.
 
-#ejemplo 
+#ppt ![ppt-m01-06-pregunta-incomoda](assets/ppt-m01-06-pregunta-incomoda.png) "La pregunta incómoda" - Piloto automático vs copiloto.
+
+#grafica ![graf-m01-06-sistemas-comparativa-v1](assets/graf-m01-06-sistemas-comparativa-v1.png) Opción 1: Tabla S1 (liebre) vs S2 (tortuga) - 95%/5%.
+
+#grafica ![graf-m01-06-sistemas-comparativa-v2](assets/graf-m01-06-sistemas-comparativa-v2.png) Opción 2: Velocista vs halterófilo.
+
+#ejercicio  
 - Conducir por una carretera vacía es tarea del Sistema 1. La experiencia permite ejecutarla de forma casi automática, sin análisis consciente de cada paso.
 - Resolver 17 x 24 requiere al Sistema 2. Hay que concentrarse, aplicar reglas matemáticas y realizar esfuerzo deliberado para llegar a la solución.
 
-Podemos estar ciegos para lo evidente y, además, ciegos para nuestra propia ceguera.
 
-#imagen
-![img-m01-portada-kahneman](recursos/imagenes/img-m01-portada-kahneman.jpeg) Portada del libro "Pensar rápido, pensar despacio" de Daniel Kahneman[^1]. Kahneman es descrito como "El psicólogo más importante de la actualidad y Premio Nobel de Economía".
+#### 1.2 Comparativa entre sistemas
 
-#imagen
-![img-m01-cerebros-corriendo](recursos/imagenes/img-m01-cerebros-corriendo.png) Ilustración humorística de dos cerebros antropomorfizados corriendo. El cerebro etiquetado como "System 1" va adelantado y corre rápidamente, mientras el cerebro "System 2" va detrás, más lento. Representa metafóricamente cómo el pensamiento automático (Sistema 1) suele llegar antes que el pensamiento deliberativo (Sistema 2).
-
----
-## Comparativa entre sistemas
-
-#imagen
-![img-m01-tabla-comparativa-sistemas](recursos/imagenes/img-m01-tabla-comparativa-sistemas.png) Tabla comparativa entre Sistema 1 y Sistema 2 con las siguientes características: Velocidad, Esfuerzo, Base, Control, Precisión, Eficiencia.
+#grafica ![graf-m01-06-analisis-rendimiento](assets/graf-m01-06-analisis-rendimiento.png) Tabla comparativa características S1 vs S2.
 
 | Característica | Sistema 1 | Sistema 2 |
 |----------------|-----------|-----------|
@@ -58,7 +80,9 @@ Podemos estar ciegos para lo evidente y, además, ciegos para nuestra propia ceg
 | Precisión | Propenso a sesgos y errores | Más preciso y confiable |
 | Eficiencia | Eficiente para tareas rutinarias | Necesario para tareas complejas |
 
-#### Sistema 1: El piloto automatico
+#### 1.3 Sistema 1: El piloto automatico
+
+#ppt ![ppt-m01-06-sistema1-protagonista](assets/ppt-m01-06-sistema1-protagonista.png) "Sistema 1: El Protagonista Oculto" - Interruptor ON.
 
 El Sistema 1 —pensamiento rápido— es intuitivo, automático y emocional. Opera sin esfuerzo, basándose en impresiones, asociaciones y respuestas preestablecidas. Resulta eficiente para tareas rutinarias y situaciones familiares, pero es propenso a sesgos y errores cuando la situación es compleja o novedosa.
 
@@ -84,7 +108,9 @@ El Sistema 1 —pensamiento rápido— es intuitivo, automático y emocional. Op
 
 La investigacion es clara: **el Sistema 1 toma la mayoria de nuestras decisiones**. Incluso cuando creemos estar "pensando cuidadosamente", el Sistema 1 ya ha generado una propuesta que el Sistema 2 suele ratificar.
 
-#### Sistema 2: El copiloto dormido
+#### 1.4 Sistema 2: El copiloto dormido
+
+#ppt ![ppt-m01-06-sistema2-analista](assets/ppt-m01-06-sistema2-analista.png) "Sistema 2: El Analista Perezoso" - Calculadora.
 
 El Sistema 2 —pensamiento lento— es deliberativo, lógico y analítico. Requiere esfuerzo consciente, atención focalizada y aplicación de reglas para procesar información. Más preciso y confiable que el Sistema 1, pero más lento y costoso en recursos cognitivos.
 
@@ -110,7 +136,7 @@ El Sistema 2 consume mucha energia (la corteza prefrontal es metabolicamente cos
 
 El resultado: **la pereza del Sistema 2 es una caracteristica de diseno, no un defecto**.
 
-#### La interacción entre sistemas
+#### 1.5 La interacción entre sistemas
 
 Ambos operan en constante diálogo. El Sistema 1 ofrece sugerencias, impresiones e intuiciones al Sistema 2, que puede aceptarlas, modificarlas o rechazarlas. Idealmente, el Sistema 2 actúa como supervisor del Sistema 1, revisando sus sugerencias y corrigiendo errores. Pero **el Sistema 2 tiende a conservar energía —es "perezoso"— y a menudo acepta las propuestas del Sistema 1 sin escrutinio**. Esta dinámica puede derivar en decisiones precipitadas e irracionales.
 
@@ -129,7 +155,12 @@ Ambos operan en constante diálogo. El Sistema 1 ofrece sugerencias, impresiones
 *Control de impulsos*: El Sistema 2 controla los impulsos del Sistema 1 —como evitar decir algo inapropiado en un momento de ira. Cuando el Sistema 2 está ocupado o cansado, el Sistema 1 gana influencia sobre el comportamiento.
 
 ---
-## La ilusion de control
+## 2. La ilusion de control
+
+#grafica ![graf-m01-06-mentira-racionalidad](assets/graf-m01-06-mentira-racionalidad.png) "La Mentira de la Racionalidad" - Cerebro dividido.
+
+
+#ppt ![ppt-m01-06-quien-conduce](assets/ppt-m01-06-quien-conduce.png) "¿Quién conduce realmente?" - Proceso de decisión inconsciente.
 
 El Sistema 1 proporciona una primera respuesta rápida; el Sistema 2 tiene la capacidad de analizar, cuestionar y modificar esta respuesta para llegar a una decisión más informada. **La tendencia del Sistema 2 a conservar energía puede llevar a aceptar las sugerencias del Sistema 1 sin análisis adecuado**, resultando en decisiones sesgadas. Reconocer esta dinámica —cuándo el Sistema 1 está operando sin supervisión— es el primer paso para intervenir deliberadamente cuando la situación lo requiere.
 
@@ -149,30 +180,38 @@ El Sistema 1 proporciona una primera respuesta rápida; el Sistema 2 tiene la ca
 
 Muchas veces, el Sistema 2 no decide; **justifica**. Genera argumentos logicos para una conclusion a la que el Sistema 1 ya llego por otra via.
 
+#grafica ![graf-m01-06-flujo-decision](assets/graf-m01-06-flujo-decision.png) Flujo: S1 propone → S2 ratifica → "decisión consciente".
+
 
 #### Ejercicios: el sistema automático en acción
 
-#practica 
-![img-m01-ejercicio-derecha-izquierda](recursos/imagenes/img-m01-ejercicio-derecha-izquierda.png) Ejercicio tipo Stroop con las palabras "IZQUIERDA", "izquierda", "Derecha", "DERECHA", "derecha" dispuestas en diferentes posiciones y con diferentes formatos (mayúsculas/minúsculas). El ejercicio demuestra la interferencia cognitiva entre el Sistema 1 (leer automáticamente) y el Sistema 2 (identificar la posición).
+#ejercicio ![img-m01-06-stroop-v1](assets/img-m01-06-stroop-v1.png) Opción 1: Ejercicio tipo Stroop - interferencia izquierda/derecha.
+*Ejercicio tipo Stroop con las palabras "IZQUIERDA", "izquierda", "Derecha", "DERECHA", "derecha" dispuestas en diferentes posiciones y con diferentes formatos (mayúsculas/minúsculas). El ejercicio demuestra la interferencia cognitiva entre el Sistema 1 (leer automáticamente) y el Sistema 2 (identificar la posición).
 
-#practica 
-![img-m01-ejercicio-lectura-inconsciente](recursos/imagenes/img-m01-ejercicio-lectura-inconsciente.png) Experimento que muestra cómo somos capaces de leer texto que no está bien escrito pero nuestro cerebro le da sentido automáticamente.
+#ejercicio ![img-m01-06-stroop-v2](assets/img-m01-06-stroop-v2.png) Opción 2: Variante ejercicio Stroop - palabras de colores.
 
-#practica 
-![img-m01-ejercicio-you-simple](recursos/imagenes/img-m01-ejercicio-you-simple.png) Cuadrícula de 3x3 con la palabra "YOU" repetida 9 veces, pero una de ellas dice "YOO". Ejercicio de atención selectiva que demuestra cómo el Sistema 1 puede hacernos pasar por alto detalles cuando cree reconocer un patrón familiar.
+#ejercicio 
+![img-m01-ejercicio-lectura-inconsciente](assets/img-m01-ejercicio-lectura-inconsciente.png)*Experimento que muestra cómo somos capaces de leer texto que no está bien escrito pero nuestro cerebro le da sentido automáticamente.
 
-#practica 
-![](recursos/imagenes/img-m01-solucion-ejercicio-you-simple.png) Solución: Cuadrícula de 3x3 con la palabra "YOU" repetida 9 veces, pero una de ellas dice "YOO" (marcada con círculo rojo).
 
-#practica 
-![img-m01-ejercicio-you-completo](recursos/imagenes/img-m01-ejercicio-you-completo.png) Versión ampliada del ejercicio anterior: múltiples filas con la palabra "YOU" repetida muchas veces (aproximadamente 100+ repeticiones), con un único "YOO" escondido entre ellas. Demuestra la ceguera por inatención y cómo el Sistema 1 nos hace "ver" lo que esperamos ver en lugar de lo que realmente hay.
 
-#practica 
-![img-m01-solucion-ejercicio-you-completo](recursos/imagenes/img-m01-solucion-ejercicio-you-completo.png) Solución: Versión ampliada del ejercicio anterior con el único "YOO" marcado con círculo rojo.
+#ejercicio 
+![img-m01-ejercicio-you-simple](../0-Auxiliar/assets/img-m01-ejercicio-you-simple.png) *Cuadrícula de 3x3 con la palabra "YOU" repetida 9 veces, pero una de ellas dice "YOO". Ejercicio de atención selectiva que demuestra cómo el Sistema 1 puede hacernos pasar por alto detalles cuando cree reconocer un patrón familiar.
+
+#ejercicio ![](assets/img-m01-solucion-ejercicio-you-simple.png) *Solución: Cuadrícula de 3x3 con la palabra "YOU" repetida 9 veces, pero una de ellas dice "YOO" (marcada con círculo rojo).
+
+#ejercicio
+![img-m01-ejercicio-you-completo](assets/img-m01-ejercicio-you-completo.png)*Versión ampliada del ejercicio anterior: múltiples filas con la palabra "YOU" repetida muchas veces (aproximadamente 100+ repeticiones), con un único "YOO" escondido entre ellas. Demuestra la ceguera por inatención y cómo el Sistema 1 nos hace "ver" lo que esperamos ver en lugar de lo que realmente hay.
+
+#ejercicio 
+![img-m01-solucion-ejercicio-you-completo](assets/img-m01-solucion-ejercicio-you-completo.png) *Solución: Versión ampliada del ejercicio anterior con el único "YOO" marcado con círculo rojo.
 
 ---
 
-## Implicaciones para el lider
+## 3. Implicaciones para el lider
+
+
+#grafica ![graf-m01-06-sistema2-desactivado](assets/graf-m01-06-sistema2-desactivado.png) Condiciones que desactivan S2: fatiga, estrés, sobrecarga, presión.
 
 **Decisiones bajo presion
 
@@ -193,6 +232,8 @@ Esto explica por que:
 
 El lider que cree que "piensa bien bajo presion" puede estar simplemente inconsciente de cuanto el Sistema 1 esta dominando.
 
+#imagen ![img-m01-06-marionetas-lider](assets/img-m01-06-marionetas-lider.png) Metáfora visual: líder como marioneta de procesos inconscientes.
+
 **La oportunidad del entrenamiento
 
 La buena noticia: **se puede entrenar la capacidad de "pillar" al Sistema 1 en accion**. Eso es precisamente lo que haremos en M6 (decision consciente), donde aprenderas a observar tu proceso de decidir con el modelo ANTES-DURANTE-DESPUES.
@@ -200,8 +241,6 @@ La buena noticia: **se puede entrenar la capacidad de "pillar" al Sistema 1 en a
 ---
 
 ## Conexion con M1
-
-### Integracion con T1-T5
 
 Los temas anteriores prepararon este modelo:
 - **T1** establecio que el cerebro predice y construye
@@ -244,3 +283,11 @@ La realidad: el Sistema 1 opera tambien en contextos organizacionales, y los pro
 **Otras posibles referencias a valorar:
 - Evans, J.St.B.T. (2008). *Dual-processing accounts of reasoning, judgment, and social cognition.* Annual Review of Psychology.
 - Stanovich, K.E. & West, R.F. (2000). *Individual differences in reasoning: Implications for the rationality debate.* Behavioral and Brain Sciences.
+
+
+---
+
+## Material adicional del tema #aux
+### Infografías del tema 
+
+#infografia ![infog-m01-06-dos-sistemas](assets/infog-m01-06-dos-sistemas.jpg) Infografía síntesis: Sistema 1 vs Sistema 2.

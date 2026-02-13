@@ -3,10 +3,23 @@ id: m02-03
 titulo: "El mapa interoceptivo en el cerebro"
 modulo: 2
 orden: 03
-tags: [interocepcion, cerebro, insula, corteza-somatosensorial, talamo, nervio-vago]
+tags: [interocepcion, insula, mapa-interoceptivo, corteza-somatosensorial, talamo, nervio-vago, momento-emocional-global, intuicion-corporal]
 ultima_actualizacion: "21/01/2026"
 ---
 # Tema 3: El mapa interoceptivo en el cerebro
+
+- [Por que este tema es necesario](#por-que-este-tema-es-necesario)
+		- [Centro de integracion y consciencia corporal](#centro-de-integracion-y-consciencia-corporal)
+- [1. Las vias de comunicacion cuerpo-cerebro](#1-las-vias-de-comunicacion-cuerpo-cerebro)
+- [2. La insula: donde todo se integra](#2-la-insula-donde-todo-se-integra)
+- [Conexion con M1](#conexion-con-m1)
+- [Conexion con el programa](#conexion-con-el-programa)
+- [Referencias incluidas](#referencias-incluidas)
+- [Material adicional del tema](#material-adicional-del-tema)
+	- [Infografías del tema](#infografías-del-tema)
+
+
+---
 
 ## Por que este tema es necesario
 
@@ -22,7 +35,9 @@ La insula es la "piedra angular de la consciencia" (Damasio, Craig).
 
 ---
 
-## Las vias de comunicacion cuerpo-cerebro
+## 1. Las vias de comunicacion cuerpo-cerebro
+
+#grafica ![graf-m02-03-vias-comunicacion-cuerpo-cerebro](assets/graf-m02-03-vias-comunicacion-cuerpo-cerebro.png) Silueta anatómica mostrando las tres vías de comunicación cuerpo-cerebro: nervio vago (bidireccional, órganos), médula espinal (dolor, temperatura, tacto) y tálamo (estación de relevo y filtrado).
 
 El cerebro integra la información de los órganos internos mediante una red neuronal distribuida. Las señales interoceptivas viajan al cerebro a través del nervio vago y la médula espinal. El tálamo las recibe y distribuye a las áreas corticales, donde se procesan e integran con información sensorial, emocional y cognitiva.
 
@@ -30,40 +45,39 @@ Este sistema opera de forma continua y mayormente automática: el cuerpo informa
 
 El cuerpo y el cerebro mantienen un dialogo continuo a traves de multiples canales:
 
-### Nervio vago
+**Nervio vago
 
 - Conecta organos internos con el cerebro
 - Transmite informacion sobre estado visceral
 - Opera bidireccionalmente: cerebro → cuerpo y cuerpo → cerebro
 
-### Medula espinal
+**Medula espinal
 
 - Canal de informacion somatica
 - Transmite sensaciones de dolor, temperatura, tacto
 - Tambien bidireccional
 
-### Talamo
+**Talamo
 
 - "Estacion de relevo" que filtra y distribuye informacion
 - Recibe senales corporales y las envia a areas corticales
 
 
-#imagen
-![img-m02-referencia-articulo](recursos/imagenes/img-m02-referencia-articulo.png) Recuadro con referencia bibliográfica: "The Emerging Science of Interoception: Sensing, Integrating, Interpreting, and Regulating Signals within the Self"[^1]
+#imagen ![img-m02-03-referencia-emerging-science](assets/img-m02-03-referencia-emerging-science.png) Captura de referencia bibliográfica: "The Emerging Science of Interoception" (Trends in Neurosciences, 2021, CC BY 4.0).[^1]
 
 
 ---
 
-## La insula: donde todo se integra
+## 2. La insula: donde todo se integra
 
-#imagen
-![img-m02-cerebro-insula](recursos/imagenes/img-m02-cerebro-insula.png) Ilustración anatómica del cerebro humano en vista lateral, con dos áreas señaladas: la "Corteza somatosensorial" (parte superior, sombreada en gris oscuro) y la "Ínsula" (parte inferior central, sombreada en gris). Dibujo en estilo científico con líneas limpias.
+#ppt ![ppt-m02-03-insula-torre-control](assets/ppt-m02-03-insula-torre-control.png) Diapositiva "La Ínsula como torre de control" con corte sagital del cerebro señalando ínsula, corteza prefrontal, tronco cerebral y médula espinal, junto al mecanismo de la intuición en tres fases.
+
 
 **La corteza insular** proporciona un contexto emocional para cada experiencia sensorial. Su posición estratégica —en la profundidad del cerebro— le permite combinar información sobre el estado del cuerpo y ponerla a disposición de los procesos cognitivos y emocionales superiores.
 
 Según los investigadores Antonio Damasio y Bud Craig[^2], la ínsula constituye una piedra angular de la consciencia. Esta capacidad emerge de su función integradora: combina información visceral, emocional y del entorno para crear lo que se denomina el "momento emocional global".
 
-#### El mecanismo en cuatro fases
+**El mecanismo en cuatro fases
 
 - **Recepción de señales**: La ínsula recibe señales interoceptivas del tálamo, que a su vez las obtiene del nervio vago, la médula espinal y los nervios que inervan los órganos internos.
 
@@ -86,6 +100,8 @@ Este "resumen corporal" influye en:
 - Que emociones experimentas
 
 **La insula y la intuicion
+
+#grafica ![graf-m02-03-intuicion-tres-niveles](assets/graf-m02-03-intuicion-tres-niveles.png) Diagrama ascendente de tres niveles: señal corporal (nervio vago, milisegundos) → integración insular (corazonada) → pensamiento consciente (mente verbal, más lento).
 
 Cuando tienes una "corazonada", no es magia. Es la insula integrando informacion corporal que no ha llegado a la consciencia verbal.
 
@@ -138,3 +154,10 @@ Los meditadores muestran mayor activacion y grosor cortical en la insula.
 - Craig, A.D. (2009). *How do you feel — now? The anterior insula and human awareness.* Nature Reviews Neuroscience.
 - Damasio, A. (1999). *The Feeling of What Happens: Body and Emotion in the Making of Consciousness.* Harcourt.
 - Critchley, H.D. & Harrison, N.A. (2013). *Visceral influences on brain and behavior.* Neuron.
+
+
+---
+## Material adicional del tema #aux
+### Infografías del tema 
+
+#infografia ![infog-m02-03-mapa-interoceptivo-cerebro](assets/infog-m02-03-mapa-interoceptivo-cerebro.jpg) Infografía "El Mapa Interoceptivo: ¿Cómo el Cerebro Siente al Cuerpo?" — vías de comunicación, ínsula como centro de integración, momento emocional global, intuición y comparación Sistema 1/Sistema 2.

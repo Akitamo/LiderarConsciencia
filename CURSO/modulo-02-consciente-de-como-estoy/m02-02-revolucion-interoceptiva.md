@@ -3,11 +3,27 @@ id: m02-02
 titulo: "La Interocepción: Un cambio de paradigma"
 modulo: 2
 orden: 02
-tags: [interocepcion, neurociencia, damasio, tallon-baudry, homeostasis, cannon, mente-cuerpo, cartesianismo, corazon, respiracion, percepcion, identidad, emociones, HER, VFC, william-james, experimentos]
+tags: [interocepcion, revolucion-interoceptiva, dualismo-cartesiano, integracion-mente-cuerpo, homeostasis, HER, VFC, patron-respiratorio, ciclo-cardiaco-percepcion, william-james-emociones]
 ultima_actualizacion: "21/01/2026"
 ---
 # Tema 2: La revolucion interoceptiva
 
+
+- [Por que este tema es necesario](#por-que-este-tema-es-necesario)
+		- [Del dualismo a la integracion cuerpo-mente](#del-dualismo-a-la-integracion-cuerpo-mente)
+- [1. El legado cartesiano](#1-el-legado-cartesiano)
+- [2. Revolución interoceptiva](#2-revolución-interoceptiva)
+- [3. La respiración y la cognición](#3-la-respiración-y-la-cognición)
+- [4. El corazón y la experiencia humana](#4-el-corazón-y-la-experiencia-humana)
+- [Que significa esto para ti](#que-significa-esto-para-ti)
+- [Conexion con M1](#conexion-con-m1)
+- [Conexion con el programa](#conexion-con-el-programa)
+- [Dimension experiencial](#dimension-experiencial)
+- [Referencias incluidas](#referencias-incluidas)
+- [Material adicional del tema](#material-adicional-del-tema)
+	- [Infografías del tema](#infografías-del-tema)
+
+---
 ## Por que este tema es necesario
 
 #### Del dualismo a la integracion cuerpo-mente
@@ -21,7 +37,7 @@ Entenderas que la separacion mente/cuerpo no es un hecho natural sino una herenc
 
 ---
 
-## El legado cartesiano
+## 1. El legado cartesiano
 
 El dualismo cartesiano ha moldeado profundamente el pensamiento occidental, incluyendo medicina y ciencia. Descartes concebía el **cuerpo como una máquina** operando según principios mecánicos, mientras la **mente era una entidad inmaterial y separada**, responsable del pensamiento y la consciencia.
 
@@ -39,14 +55,12 @@ Esta separacion tuvo consecuencias duraderas:
 - Las senales corporales como "ruido" a ignorar
 - El enfoque "cerebrocentrico" de la ciencia
 
-#imagen
-![img-m02-dualidad-cartesiana](recursos/imagenes/img-m02-dualidad-cartesiana.png) Ilustración artística estilo grabado/vintage mostrando un corazón anatómico y un cerebro conectados por rayos eléctricos azules, representando la tensión entre cuerpo y mente en la visión dualista. Tonos sepia y azul sobre fondo beige.
+#grafica ![graf-m02-02-dualismo-vs-integracion-v1](assets/graf-m02-02-dualismo-vs-integracion-v1.png) Opción 1: Esquema obsoleto (mente/cuerpo separados, tachado) frente a "Unidad funcional" (símbolo infinito integrando mente y cuerpo).
 
-#imagen
-![img-m02-corazon-cerebro-integrados](recursos/imagenes/img-m02-corazon-cerebro-integrados.png) Icono minimalista de un corazón y un cerebro unidos en un solo diseño, representando la integración cuerpo-mente de la revolución interoceptiva. Líneas simples en color turquesa/cian.
+#grafica ![graf-m02-02-dualismo-vs-integracion-v2](assets/graf-m02-02-dualismo-vs-integracion-v2.png) Opción 2: "El Viejo Paradigma (Descartes)" con cuerpo-máquina de engranajes frente a "La Ciencia Actual (Biología Integrada)" con cuerpo como co-creador de la experiencia.
 
 
-#### El problema del enfoque cerebrocentrico
+**El problema del enfoque cerebrocentrico
 
 Durante decadas, la neurociencia se concentro en el cerebro como si fuera un ordenador aislado:
 
@@ -57,14 +71,16 @@ Esta vision ignora que el cerebro no es un organo aislado. Esta en dialogo conti
 
 ---
 
-## Revolución interoceptiva
+## 2. Revolución interoceptiva
 
 La evidencia acumulada revierte esta fragmentación. La experiencia no se reduce a actividad cerebral; surge de la interacción dinámica entre cerebro y cuerpo. Percepción, emociones, memoria e identidad están enraizadas en el organismo, moldeadas por señales interoceptivas que el dualismo ignoraba.
 
 Este cambio de paradigma propone una **"biología humanista"**: un enfoque holístico que reconoce la interdependencia entre cuerpo y mente. El cuerpo deja de ser contenedor pasivo para convertirse en co-creador de la experiencia.
 
 
-#### Pioneros de la revolución interoceptiva
+**Pioneros de la revolución interoceptiva
+
+#grafica ![graf-m02-02-pioneros-revolucion-interoceptiva](assets/graf-m02-02-pioneros-revolucion-interoceptiva.png) Línea temporal de la revolución interoceptiva: Cannon (1929, homeostasis), neurociencia, y Damasio & Tallon-Baudry (Teoría del Marco Subjetivo Neuronal).
 
 Esta revolución se ha nutrido del trabajo de investigadores y de evidencia científica que demuestra la importancia de las señales corporales en la percepción, las emociones, la cognición y la identidad.
 
@@ -85,44 +101,44 @@ Dentro del marco de la Teoría del Marco Subjetivo Neuronal, el corazón juega u
 
 Como argumenta Damasio en "Sentir y saber"[^3]: cualquier teoría que ignore el sistema nervioso al explicar mente y consciencia está destinada al fracaso, pero también lo está cualquier teoría que se base exclusivamente en él.
 
-#### Experimentos: la interacción cuerpo-mente
+**Experimentos: la interacción cuerpo-mente
 
 La evidencia experimental confirma lo que la teoría propone: el cuerpo moldea activamente la cognición y la emoción.
+#grafica ![graf-m02-02-experimentos-cuerpo-mente](assets/graf-m02-02-experimentos-cuerpo-mente.png) Dos experimentos clave: el bolígrafo en la boca (1988, expresión facial altera percepción del humor) y postura y memoria (cuerpo encorvado facilita recuerdo negativo).
 
 **El Experimento del Bolígrafo en la Boca
 
 #ejemplo
 Los participantes leían viñetas de humor mientras sostenían un bolígrafo de dos maneras: con los dientes, forzando una sonrisa, o con los labios, adoptando una expresión de enfado. Resultado: quienes sonreían encontraron las viñetas más graciosas[^4]. Este experimento ilustra la **hipótesis de retroalimentación facial**: la expresión facial no solo refleja las emociones, sino que influye en la percepción y la experiencia subjetiva. El cuerpo no solo expresa; configura.
 
-#imagen
-![recursos/imagenes/img-m02-boligrafo-boca](recursos/imagenes/img-m02-boligrafo-boca.png) imagen de mujer sujetando bolígrafo en la boca
+#imagen ![img-m02-02-boligrafo-boca](assets/img-m02-02-boligrafo-boca.png) Fotografía de mujer sujetando un bolígrafo en la boca, ilustrando el experimento de retroalimentación facial.
 
 **El Impacto de la Postura Corporal en la Memoria
 
 #ejemplo
 Investigadores alemanes estudiaron la influencia de la postura corporal en la memoria[^5]. Los participantes leían palabras con el ordenador a la altura de los ojos (postura erguida) o en el suelo (postura encorvada). Quienes encorvaban la espalda recordaron menos palabras en general y retuvieron en mayor proporción las de connotación negativa. La postura corporal sesga la codificación de información hacia lo negativo.
 
-#imagen
-![img-m02-postura-corporal](recursos/imagenes/img-m02-postura-corporal.png) Fotografía de una mujer mostrada en tres posturas diferentes de perfil: completamente erguida (izquierda), ligeramente encorvada (centro) y muy encorvada hacia adelante (derecha). Fondo blanco neutro. Ilustra el impacto de la postura corporal en la cognición y el estado emocional.
+#imagen ![img-m02-02-postura-corporal](assets/img-m02-02-postura-corporal.png) Fotografía de una mujer en tres posturas de perfil: erguida, ligeramente encorvada y muy encorvada. Ilustra el impacto de la postura corporal en la cognición y el estado emocional.
 
 El cuerpo actúa como una "bisagra" que permite transitar entre diferentes estados emocionales. De la misma manera que el cerebro interpreta la postura para inferir el estado emocional, un cambio deliberado de postura puede contribuir a modificar ese estado.
 
 La implicación es directa: la postura corporal no solo influye en la salud física, sino en la memoria, el procesamiento de información y el estado emocional. Lo que parece puramente "mental" tiene raíces corporales.
 
 ---
-## La respiración y la cognición
+## 3. La respiración y la cognición
 
-#imagen
-![img-m02-respiracion-silueta](recursos/imagenes/img-m02-respiracion-silueta.png) Ilustración minimalista de una silueta de cabeza humana de perfil en tonos azul claro/gris suave. Líneas onduladas representan el flujo de la respiración conectando con el área cerebral. Estilo limpio y sereno.
 
-#### Influencia en la Memoria
+**Influencia en la Memoria
 
 - **Codificación y Recuperación:** La respiración, especialmente la inspiración nasal, influye en la memoria. Actúa como un "marcapasos" para los ritmos neuronales del hipocampo —área cerebral crucial para la memoria—, mejorando la capacidad de codificar y recuperar información.
 
 - **Modulación de la Respiración para Mejorar la Memoria:** Ajustar la respiración en respuesta a un evento puede mejorar la memoria de ese evento. Un estudio de 2014 del profesor Huijbers y su equipo demostró una relación significativa entre la respiración y la cantidad de elementos que es posible memorizar[^6].
 
-#### Patrones Respiratorios Específicos
+**Patrones Respiratorios Específicos
 
+#grafica ![graf-m02-02-patrones-respiratorios-emociones-v1](assets/graf-m02-02-patrones-respiratorios-emociones-v1.png) Opción 1: Tabla "Patrones Respiratorios y Emociones" con ondas diferenciadas para rabia, miedo, tristeza y alegría.
+
+#grafica ![graf-m02-02-patrones-respiratorios-emociones-v2](assets/graf-m02-02-patrones-respiratorios-emociones-v2.png) Opción 2: Ilustración anatómica de pulmones con ondas respiratorias contrastando miedo/ansiedad (caótica) y calma/tristeza (pausada).
 Cada emoción se asocia a un patrón respiratorio particular:
 
 - **Rabia:** Respiración rápida, profunda y nasal.
@@ -137,28 +153,32 @@ La respiración no es solo consecuencia del estado emocional; es también palanc
 
 ---
 
-## El corazón y la experiencia humana
+## 4. El corazón y la experiencia humana
 
 El corazón, además de su función vital de bombear sangre, ejerce influencia profunda en percepción, identidad, emociones y toma de decisiones.
 
-#### El Corazón y la Percepción
+#grafica ![graf-m02-02-ciclo-cardiaco-percepcion-v1](assets/graf-m02-02-ciclo-cardiaco-percepcion-v1.png) Opción 1: "Tu corazón marca el ritmo de lo que ves" — corazón y ojo conectados por ondas, mostrando sístole (búsqueda) y diástole (fijación).
+
+**El Corazón y la Percepción
 
 - **El Ciclo Cardíaco como Modulador de la Percepción:** La Universidad de Londres investigó cómo el ciclo cardíaco influye en las tres fases de la percepción: búsqueda, encuentro y alejamiento[^7]. Durante la sístole —cuando el corazón se contrae— los ojos se mueven más en busca de información. En la diástole —cuando el corazón se relaja— la mirada se fija en la información seleccionada. El latido cardíaco marca el ritmo al que percibimos.
 
 - **Percepción del Dolor Influenciada por el Ciclo Cardíaco:** La Universidad de Sussex demostró que la percepción del dolor se intensifica durante la sístole[^8]. Los participantes experimentaron estímulos dolorosos en diferentes fases del ciclo cardíaco; el dolor se percibía con mayor intensidad cuando coincidía con la sístole. Las imágenes de fMRI revelaron mayor actividad neuronal en áreas relacionadas con la emoción, como la amígdala y la ínsula, durante la sístole.
 
 - **El Estudio de Tallon-Baudry (2013):** Utilizando EEG y ECG, se registró la actividad cerebral y cardíaca mientras los participantes observaban imágenes[^9]. La respuesta del cerebro al latido del corazón (HER) predecía si percibían o no los estímulos visuales. Una HER alta facilitaba la percepción; una HER baja la dificultaba.
+#grafica ![graf-m02-02-ciclo-cardiaco-percepcion-v2](assets/graf-m02-02-ciclo-cardiaco-percepcion-v2.png) Opción 2: Diagrama técnico del ciclo sístole/diástole con corazón, nervio vago y cerebro, mostrando cómo la contracción cardíaca modula el procesamiento visual y del dolor.
 
-#### La Conexión Entre el Corazón y la Percepción del "Yo"
+**La Conexión Entre el Corazón y la Percepción del "Yo"
+
+#imagen ![img-m02-02-heart-evoked-response](assets/img-m02-02-heart-evoked-response.png) Silueta humana con conexión luminosa corazón-cerebro representando la HER (Heart Evoked Response), clave en la construcción del sentido de identidad.
 
 - **El Latido Cardíaco como Señal Interna para la Construcción del "Yo":** La respuesta del cerebro al latido del corazón (HER - Heart Evoked Response) es clave en la formación del sentido de identidad. Cuanto mayor es la respuesta neuronal al latido cardíaco, mayor es la activación de áreas cerebrales relacionadas con la memoria autobiográfica y la conciencia del yo, como el precúneo —región crucial para integrar información sensorial y construir una imagen coherente de uno mismo en el mundo.
 
 - **Debilitamiento de la Conexión Corazón-Cerebro en el Alzheimer:** En las primeras etapas de esta enfermedad —caracterizada por pérdida de memoria y desorientación— se observa debilitamiento de la conexión entre corazón y cerebro. La comunicación fluida entre estos órganos es esencial para mantener una percepción del "yo" estable y coherente.
 
-#imagen
-![img-m02-corazon-cerebro-conexion](recursos/imagenes/img-m02-corazon-cerebro-conexion.png) Ilustración de un corazón y un cerebro conectados, con el corazón en tonos rojos/rosados y el cerebro en tonos azules. Representación visual de la comunicación bidireccional entre ambos órganos y su influencia en la experiencia subjetiva.
 
-#### El Corazón y las Emociones
+
+**El Corazón y las Emociones
 
 - **VFC y Estado Emocional:** La variabilidad de la frecuencia cardíaca (VFC) se relaciona con el estado emocional. La alegría incrementa la VFC; el miedo y la ira la disminuyen.
 
@@ -166,7 +186,7 @@ El corazón, además de su función vital de bombear sangre, ejerce influencia p
 
 - **Regulación Emocional a través de la Atención:** La atención consciente puede influir en la VFC. Focalizar la atención en sensaciones positivas o en la respiración puede modular la actividad cardíaca y promover la calma.
 
-#### El Corazón y la Toma de Decisiones
+**El Corazón y la Toma de Decisiones
 
 Las personas con mayor conciencia interoceptiva —mayor capacidad de percibir las señales internas del cuerpo— tienden a tomar decisiones más acertadas, ya que son más sensibles a las señales corporales que indican riesgo o beneficio. Sintonizar con el corazón y sus señales permite acceder a información que la deliberación consciente puede pasar por alto.
 
@@ -176,8 +196,7 @@ Las personas con mayor conciencia interoceptiva —mayor capacidad de percibir l
 
 **William James. Principios de Psicología.**[^10]
 
-#imagen
-![img-m02-william-james-libro](recursos/imagenes/img-m02-william-james-libro.png) Portada del libro "The Principles of Psychology" de William James. Fotografía en blanco y negro del autor (hombre con barba, mano en la mejilla) junto al título del libro en letras blancas. Editorial Walrus Books. Fondo oscuro.
+#imagen ![img-m02-02-william-james-libro](assets/img-m02-02-william-james-libro.png) Portada del libro "The Principles of Psychology" de William James. Fotografía en blanco y negro del autor junto al título del libro.
 
 ---
 
@@ -211,7 +230,7 @@ Esta integracion cuerpo-mente fundamenta:
 
 ---
 
-## Dimension experiencial
+## Dimension experiencial #insight
 
 Reflexiona:
 
@@ -251,3 +270,11 @@ El lider que trabaja "solo con la cabeza" esta operando con parte del sistema.
 - Riskind, J.H. & Gotay, C.C. (1982). *Physical posture: Could it have regulatory or feedback effects on motivation and emotion?* Motivation and Emotion.
 - Zelano, C. et al. (2016). *Nasal respiration entrains human limbic oscillations and modulates cognitive function.* Journal of Neuroscience.
 - Park, H.D. et al. (2014). *Spontaneous fluctuations in neural responses to heartbeats predict visual detection.* Nature Neuroscience.
+
+
+---
+## Material adicional del tema #aux
+### Infografías del tema 
+
+#infografia ![infog-m02-02-revolucion-interoceptiva](assets/infog-m02-02-revolucion-interoceptiva.jpg) Infografía "La Revolución Interoceptiva: El Cuerpo como Co-creador de tu Mente" — del dualismo a la integración, Marco Subjetivo Neuronal, homeostasis, HER, respiración, postura y patrones emocionales.
+

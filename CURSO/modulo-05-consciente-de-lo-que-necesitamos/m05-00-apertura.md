@@ -1,3 +1,10 @@
+---
+id: m05-00
+titulo: "Consciente de lo que necesitamos"
+modulo: 5
+orden: 00
+ultima_actualizacion: "12/02/2026"
+---
 # Modulo 5: Consciente de lo que necesitamos
 
 ## Del yo al nosotros: La extension de la consciencia hacia el otro
@@ -102,3 +109,6 @@ M5-M7: EXTENSION
 ```
 
 M5 abre el segundo arco: la consciencia se extiende mas alla de uno mismo.
+
+
+#infografia ![infog-m05-00-del-yo-al-nosotros](assets/infog-m05-00-del-yo-al-nosotros.jpg) Mapa del módulo: evolución del "yo" al "nosotros", pilares del liderazgo relacional y transformación de habilidades M1-M4 → M5

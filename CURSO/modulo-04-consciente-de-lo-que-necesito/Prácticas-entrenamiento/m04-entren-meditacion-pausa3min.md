@@ -1,8 +1,11 @@
 ---
+id: m04-entren-01
 titulo: "Pausa de 3 minutos"
 modulo: 4
+orden: entren-01
 Tiempo: 3-min
 tags: [práctica, modulo-4]
+ultima_actualizacion: "10/02/2026"
 ---
 
 Parar durante unos minutos puede ser suficiente para reconectarte con el momento presente, soltar tensión, reducir tu estrés  y crear el espacio necesario para poder responder más eficientemente a  tus necesidades.  Puedes hacer esta pausa durante las horas de trabajo, al salir, de camino a casa… Empieza colocándote en una posición cómoda sentado, con la espalda erguida pero no rígida, con el cuello y los hombros relajados. Apoya los pies en el suelo y coloca tus manos sobre tu regazo.  Esta meditación consta de tres pasos y dura unos tres minutos. Es importante que no dure más de 3 minutos para que tu mente sepa que la puedes practicar en cualquier momento y lugar.  Inicialmente puedes hacerla con el audio, pero a medida que practiques, ya serás capaz de realizarla tu solo. 

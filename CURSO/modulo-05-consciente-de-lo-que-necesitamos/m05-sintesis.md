@@ -1,3 +1,11 @@
+---
+id: m05-07
+titulo: "Síntesis del Módulo 5"
+modulo: 5
+orden: 07
+tags: [consciencia-relacional, cerebro-social, sesgos-interpersonales, autocompasion, yo-tu-yo-ello, compasion-sabia, comunicacion-consciente, escucha-profunda]
+ultima_actualizacion: "12/02/2026"
+---
 # Sintesis del Modulo 5
 
 ## Lo que hemos recorrido
@@ -102,3 +110,10 @@ Has extendido tu consciencia del yo al nosotros.
 Pero hay un nivel mas profundo: la consciencia del proceso de decidir. Como decides cuando hay tension? Puedes observar tu proceso mientras decides?
 
 M6 te espera con el modelo ANTES-DURANTE-DESPUES.
+
+
+---
+## Material adicional del tema #aux
+### Infografías del tema 
+
+#infografia ![infog-m05-07-sintesis-yo-al-nosotros](assets/infog-m05-07-sintesis-yo-al-nosotros.jpg) Síntesis visual del módulo: conexión neuronal, autocompasión, Yo-Tú, compasión sabia y zona verde integrados

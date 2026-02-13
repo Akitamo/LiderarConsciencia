@@ -3,11 +3,24 @@ id: m01-04
 titulo: "Jerarquía de las Emociones en el Aprendizaje"
 modulo: 1
 orden: 04
-tags: [emociones, aprendizaje, dopamina, memoria, neurociencia, hipocampo]
+tags: [emociones-aprendizaje, dopamina, marcador-somatico, jerarquia-emocional]
 ultima_actualizacion: "21/01/2026"
 ---
 # Tema 4: Las emociones en el aprendizaje
 
+- [Por que este tema es necesario](#por-que-este-tema-es-necesario)
+		- [El amplificador que decide que recordar](#el-amplificador-que-decide-que-recordar)
+- [1. Las emociones como marcadores de importancia](#1-las-emociones-como-marcadores-de-importancia)
+- [2. El efecto amplificador](#2-el-efecto-amplificador)
+- [3. El poder emocional de los recuerdos](#3-el-poder-emocional-de-los-recuerdos)
+- [4. Como las emociones fortalecen el aprendizaje](#4-como-las-emociones-fortalecen-el-aprendizaje)
+- [5. Implicaciones para el lider](#5-implicaciones-para-el-lider)
+- [Conexion con M1](#conexion-con-m1)
+- [Referencias incluidas](#referencias-incluidas)
+- [Material adicional del tema](#material-adicional-del-tema)
+	- [Infografías del tema](#infografías-del-tema)
+
+---
 ## Por que este tema es necesario
 
 #### El amplificador que decide que recordar
@@ -21,51 +34,67 @@ La respuesta son las emociones. Este tema revela el **mecanismo por el cual las 
 
 Esta comprension prepara para entender por que los automatismos (T3) y los sesgos (T8) tienen carga emocional: fueron grabados porque algo los marco como relevantes.
 
+#imagen ![img-m01-04-cerebro-neuronas-emociones](assets/img-m01-04-cerebro-neuronas-emociones.png) Cabeza con neuronas de colores interconectadas.
+
 
 ---
 
-## Las emociones como marcadores de importancia
+## 1. Las emociones como marcadores de importancia
 
 No podemos recordar todo. El cerebro necesita un criterio para seleccionar que merece ser almacenado.
 
+#ppt ![ppt-m01-04-paradoja-olvido-selectivo](assets/ppt-m01-04-paradoja-olvido-selectivo.png) "Paradoja del olvido selectivo" - Desvanecimiento vs Impronta.
+
 Ese criterio son las emociones: cuando un evento tiene carga emocional intensa —positiva o negativa—, el cerebro lo etiqueta como **relevante para la supervivencia**.
 
-**El marcaje neurobiologico
+#grafica ![graf-m01-04-filtro-memoria-emocional](assets/graf-m01-04-filtro-memoria-emocional.png) Embudo: carga emocional → memoria largo plazo.
 
-Este marcaje no es metaforico: las emociones desencadenan la liberacion de neuromoduladores, particularmente dopamina, que actuan como senales de refuerzo.
+#imagen ![img-m01-04-sello-supervivencia](assets/img-m01-04-sello-supervivencia.png) Sello "SUPERVIVENCIA" - Mecanismo de etiquetado emocional.
+
 
 El mensaje al sistema: "esto importa, presta atencion, actualiza tu modelo del mundo".
 
 #imagen
-![img-m01-cabeza-emociones](recursos/imagenes/img-m01-cabeza-emociones.png) Ilustración de una silueta de cabeza humana de perfil con tres emoticonos en su interior representando diferentes emociones: alegría (amarillo sonriente), tristeza (azul), enfado (naranja). Representa cómo las emociones habitan en nuestra mente e influyen en el procesamiento de la información.
+![img-m01-cabeza-emociones](assets/img-m01-cabeza-emociones.png) Ilustración de una silueta de cabeza humana de perfil con tres emoticonos en su interior representando diferentes emociones: alegría (amarillo sonriente), tristeza (azul), enfado (naranja). Representa cómo las emociones habitan en nuestra mente e influyen en el procesamiento de la información.
 
 ---
 
-## El efecto amplificador
+## 2. El efecto amplificador
 
 **Las emociones operan como un amplificador para el aprendizaje:** intensifican la senal neuronal y fortalecen las conexiones sinapticas.
 
 Este mecanismo evolutivo asegura que los eventos importantes para la supervivencia —que suelen tener carga emocional— se graben con mayor fuerza en la memoria.
 
+#grafica ![graf-m01-04-aprendizaje-neutro-vs-emocional](assets/graf-m01-04-aprendizaje-neutro-vs-emocional.png) Comparación: conexiones débiles (neutro) vs robustas (emocional).
+
 **Implicacion practica**: No solo recordamos mejor lo que nos emociona; lo que nos emociona configura literalmente que tipo de aprendizaje se consolida y cual se pierde.
+
 
 ---
 
-## El poder emocional de los recuerdos
+## 3. El poder emocional de los recuerdos
 
 Un estimulo sensorial cargado de emocion puede activar todo un conjunto de recuerdos asociados. Un aroma, una melodia, un sabor —disparan escenas enteras porque las neuronas asociadas se activaron juntas cuando se formo el recuerdo (complecion hebbiana de T3).
 
 Este tema incluye demostraciones de como funciona este mecanismo.
-#video
-![vid-m01-ratatouille-memoria](recursos/videos/vid-m01-ratatouille-memoria.mp4)Escena de la película Ratatouille (Pixar) donde el crítico gastronómico Anton Ego prueba el plato de ratatouille. Al probarlo, es transportado instantáneamente a un recuerdo vívido de su infancia, cuando su madre le preparaba ese mismo plato. Ilustra perfectamente cómo un estímulo sensorial (el sabor) cargado de emoción puede activar todo un conjunto de recuerdos asociados, demostrando el poder de las emociones en la consolidación y evocación de la memoria.
+
+#imagen ![img-m01-04-ratatouille-memoria](assets/img-m01-04-ratatouille-memoria.png) Secuencia Pixar: estímulo → emoción → recuerdo.
+
+#video![](assets/vid-m01-ratatouille-memoria.mp4)*escena de la película Ratatouille (Pixar) donde el crítico gastronómico Anton Ego prueba el plato de ratatouille. Al probarlo, es transportado instantáneamente a un recuerdo vívido de su infancia, cuando su madre le preparaba ese mismo plato. Ilustra perfectamente cómo un estímulo sensorial (el sabor) cargado de emoción puede activar todo un conjunto de recuerdos asociados, demostrando el poder de las emociones en la consolidación y evocación de la memoria.
 
 ---
 
-## Como las emociones fortalecen el aprendizaje
+## 4. Como las emociones fortalecen el aprendizaje
+
+#grafica ![graf-m01-04-dopamina-flujo](assets/graf-m01-04-dopamina-flujo.png) Evento inesperado → Dopamina → Ajuste modelo.
 
 El mecanismo opera en varios niveles simultaneos:
 
 **La dopamina como senal de error y refuerzo
+
+
+#grafica ![graf-m01-04-dopamina-error-prediccion](assets/graf-m01-04-dopamina-error-prediccion.png) "Dopamina: Señal de Error de Predicción" - curva de sorpresa.
+
 
 La dopamina se libera en respuesta a eventos inesperados, tanto recompensas como errores de prediccion. Esta senal indica al cerebro que debe ajustar su modelo del mundo (conectando con T1).
 
@@ -86,11 +115,14 @@ Esto explica por que los recuerdos emocionales son:
 - Mas duraderos
 - Se activan con mayor facilidad en el futuro
 
+#grafica ![graf-m01-04-tres-caracteristicas-recuerdo](assets/graf-m01-04-tres-caracteristicas-recuerdo.png) 3 características: Vívido, Duradero, Accesible.
+
+
+
 ---
+## 5. Implicaciones para el lider
 
-## Implicaciones para el lider
-
-** Lo que emociona se aprende
+**Lo que emociona se aprende
 
 Si quieres que tu equipo recuerde algo, necesita tener carga emocional. Las presentaciones "neutrales" no se graban.
 
@@ -98,9 +130,13 @@ Si quieres que tu equipo recuerde algo, necesita tener carga emocional. Las pres
 
 Los patrones de respuesta que ejecutas automaticamente fueron grabados porque algo los marco como importantes. Entender la emocion original puede ayudar a entender el automatismo.
 
+#imagen ![img-m01-04-iceberg-automatismos](assets/img-m01-04-iceberg-automatismos.png) Iceberg: comportamiento vs emociones subyacentes.
+
 **El aprendizaje organizacional tiene dimension emocional
 
 Las organizaciones que ignoran la dimension emocional del aprendizaje tienen dificultades para consolidar cambios.
+
+**Cómo líder, no solo gestionas tareas; eres el arquitecto de las emociones que decidirán qué recordará su equipo y qué olvidará.
 
 ---
 
@@ -124,3 +160,9 @@ Las organizaciones que ignoran la dimension emocional del aprendizaje tienen dif
 
 
 
+---
+
+## Material adicional del tema #aux
+### Infografías del tema 
+
+#infografia ![infog-m01-04-emociones-aprendizaje](assets/infog-m01-04-emociones-aprendizaje.jpg) Infografía: "El Amplificador del Aprendizaje".

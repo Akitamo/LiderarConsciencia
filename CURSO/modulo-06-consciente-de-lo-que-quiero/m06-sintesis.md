@@ -1,14 +1,15 @@
 ---
-id: m06-sintesis
+id: m06-05
 titulo: "Síntesis del Módulo 6"
 modulo: 6
-orden: 99
-fase: SINTESIS
-tags: [sintesis, resumen, integracion, cierre]
-ultima_actualizacion: "27/01/2026"
+orden: 05
+tags: [decision-consciente, direccion-intencional, meta-consciencia, antes-durante-despues, open-monitoring, reperceiving, autocompasion-decisional]
+ultima_actualizacion: "12/02/2026"
 ---
 
 # Síntesis del Módulo 6
+
+#imagen ![img-m06-05-portada-sintesis-faro-direccion](assets/img-m06-05-portada-sintesis-faro-direccion.png) Faro con haz dorado sobre fondo náutico — portada síntesis del módulo de decisión consciente
 
 ## Lo que hemos recorrido
 
@@ -226,3 +227,10 @@ Has desarrollado la capacidad de dirigir tu consciencia con intención: preparar
 Pero hay una dimensión más: ¿qué hacer cuando sabes lo que quieres, pero tus valores entran en tensión? ¿Cómo actuar cuando no hay opciones "limpias"?
 
 M7 te espera.
+
+
+---
+## Material adicional del tema #aux
+### Infografías del tema 
+
+#infografia ![infog-m06-05-decision-consciente-lider-semilla](assets/infog-m06-05-decision-consciente-lider-semilla.jpg) Síntesis del módulo: camino del líder semilla integrando intención, meta-consciencia, cuerpo como alerta, revisar vs rumiar, autocompasión, ciclo espiral

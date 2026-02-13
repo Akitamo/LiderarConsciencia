@@ -3,10 +3,29 @@ id: m02-04
 titulo: "El cuerpo como anclaje"
 modulo: 2
 orden: 04
-tags: [mindfulness, interocepcion, conciencia-corporal, regulacion-emocional, ansiedad, insula, MBSR, neurociencia, bienestar, neuroplasticidad]
+tags: [mindfulness, interocepcion, cuerpo-anclaje, regulacion-emocional, deteccion-temprana, respiracion-ancla, interrupcion-rumiacion, circulo-vicioso-ansiedad]
 ultima_actualizacion: "21/01/2026"
 ---
 # Tema 4: El cuerpo como anclaje
+
+#imagen ![img-m02-04-cuerpo-raices-anatomicas](assets/img-m02-04-cuerpo-raices-anatomicas.png) Figura humana anatómica con raíces neurales, sistema nervioso autónomo, fluidez vascular y anclaje estructural extendiéndose como raíces de árbol.
+
+- [Por que este tema es necesario](#por-que-este-tema-es-necesario)
+		- [Por que el mindfulness usa el cuerpo](#por-que-el-mindfulness-usa-el-cuerpo)
+- [1. El cuerpo siempre esta en el presente](#1-el-cuerpo-siempre-esta-en-el-presente)
+- [2. El cuerpo como interruptor](#2-el-cuerpo-como-interruptor)
+- [3. Conciencia interoceptiva y deteccion temprana](#3-conciencia-interoceptiva-y-deteccion-temprana)
+- [4. El circulo vicioso de la ansiedad](#4-el-circulo-vicioso-de-la-ansiedad)
+- [5. Por que la respiracion es el ancla universal](#5-por-que-la-respiracion-es-el-ancla-universal)
+- [Conexion con M1](#conexion-con-m1)
+- [Conexion con el programa](#conexion-con-el-programa)
+- [Dimension experiencial](#dimension-experiencial)
+- [Referencias incluidas](#referencias-incluidas)
+- [Material adicional del tema](#material-adicional-del-tema)
+	- [Infografías del tema](#infografías-del-tema)
+
+
+---
 
 ## Por que este tema es necesario
 
@@ -21,7 +40,10 @@ Esta comprension transforma la practica de ejercicio tecnico a necesidad logica.
 
 ---
 
-## El cuerpo siempre esta en el presente
+## 1. El cuerpo siempre esta en el presente
+
+#grafica ![graf-m02-04-ancla-pasado-presente-futuro](assets/graf-m02-04-ancla-pasado-presente-futuro.png) Figura meditando sobre un ancla en el "Aquí y Ahora", con flechas hacia Pasado (rumiación, arrepentimiento) y Futuro (anticipación, ansiedad).
+
 
 En el mindfulness y en numerosas tradiciones meditativas, el cuerpo funciona como anclaje primario de la atención. La razón es simple y poderosa: **el cuerpo siempre está en el presente**. Mientras la mente puede vagar hacia el pasado o anticipar el futuro, el cuerpo permanece anclado en el ahora. Dirigir la atención hacia él inhibe el vagabundeo mental —esas rumiaciones que consumen energía sin resolver nada.
 
@@ -36,9 +58,11 @@ El cuerpo no puede. **Siempre esta aqui y ahora.**
 
 Tu cuerpo no puede respirar en el pasado. No puede sentir tension en el futuro. Solo puede existir en el presente.
 
+#grafica ![graf-m02-04-triangulo-sensaciones-estabiliza](assets/graf-m02-04-triangulo-sensaciones-estabiliza.png) Triángulo de la atención con el foco en Sensaciones: "Al enfocar el vértice de las sensaciones, estabilizamos los pensamientos y las emociones."
+
 ---
 
-## El cuerpo como interruptor
+## 2. El cuerpo como interruptor
 
 Cuando la mente se pierde en rumiacion o ansiedad, dirigir la atencion al cuerpo **interrumpe la cadena de pensamientos**.
 
@@ -46,9 +70,13 @@ No por fuerza de voluntad ("deja de pensar en eso").
 
 Por diseno atencional: cuando atiendas al cuerpo, no puedes simultaneamente sostener la cadena de pensamiento.
 
+#grafica ![graf-m02-04-interruptor-vias-tren](assets/graf-m02-04-interruptor-vias-tren.png) Metáfora de vías de tren: la atención como cambio de agujas que desvía de la rumiación mental hacia la sensación somática.
+
 ---
 
-## Conciencia interoceptiva y deteccion temprana
+## 3. Conciencia interoceptiva y deteccion temprana
+
+#imagen ![img-m02-04-senales-corporales-circulos](assets/img-m02-04-senales-corporales-circulos.png) Silueta humana con círculos concéntricos emanando del pecho, representando las señales interoceptivas que irradian desde el cuerpo.
 
 Atender al cuerpo permite detectar emociones en etapas iniciales:
 
@@ -65,18 +93,16 @@ Prestar atención a las sensaciones corporales permite detectar las emociones en
 
 En lugar de alimentar la espiral con nuevos pensamientos que generan más emociones, la atención al cuerpo interrumpe el procesamiento automático que sostiene los patrones rumiativos. La ansiedad ilustra este mecanismo: se asocia con una mayor atención a las señales interoceptivas, lo que puede crear un círculo vicioso. La persona ansiosa percibe con mayor intensidad las palpitaciones, la dificultad para respirar —y esa percepción amplificada aumenta la preocupación, intensificando la experiencia de ansiedad. Reconocer el patrón es el primer paso para interrumpirlo.
 
-#imagen
-![img-m02-cuerpo-raices](recursos/imagenes/img-m02-cuerpo-raices.png) imagen de un cuerpo humano con raíces que se adentran en la tierra
+#grafica ![graf-m02-04-deteccion-temprana-emociones-v1](assets/graf-m02-04-deteccion-temprana-emociones-v1.png) Opción 1: Línea temporal desde activación corporal hasta reacción automática, mostrando la "ventana de intervención" donde el mindfulness permite modular la respuesta.
 
-#imagen
-![img-m02-ondas-atencion-cuerpo](recursos/imagenes/img-m02-ondas-atencion-cuerpo.png) Ilustración abstracta mostrando ondas concéntricas rojas/naranjas (como ondas de radar o sismógrafo) emanando de un punto central, con líneas diagonales grises en el fondo. Representa la atención focalizada en las sensaciones corporales internas y la amplificación de la consciencia interoceptiva.
 
-#imagen
-![img-m02-triangulo-sensaciones](recursos/imagenes/img-m02-triangulo-sensaciones.png) Diagrama del triángulo de la atención con los tres vértices: "Pensamientos" (arriba, gris), "Emociones" (derecha, gris) y "SENSACIONES" (izquierda, destacado en azul). En el interior, tres círculos superpuestos: el círculo verde (Sensaciones) resaltado en primer plano, los otros dos grises. Representa el foco del mindfulness en las sensaciones corporales.
+#grafica ![graf-m02-04-deteccion-temprana-emociones-v2](assets/graf-m02-04-deteccion-temprana-emociones-v2.png) Opción 2: Silueta femenina con ondas concéntricas, mostrando señal física → detección temprana (intervenir y modular) vs. no detección (secuestro emocional).
 
 ---
 
-## El circulo vicioso de la ansiedad
+## 4. El circulo vicioso de la ansiedad
+
+#grafica ![graf-m02-04-circulo-vicioso-ansiedad-v1](assets/graf-m02-04-circulo-vicioso-ansiedad-v1.png) Opción 1: Círculo vicioso de la ansiedad: Sensación → Interpretación mental ('amenaza') → Reacción (aumenta ansiedad) → Amplificación (más tensión).
 
 La ansiedad amplifica la atencion a senales corporales:
 
@@ -89,6 +115,8 @@ La ansiedad amplifica la atencion a senales corporales:
 
 **Reconocer el patron permite interrumpirlo:**
 
+#grafica ![graf-m02-04-circulo-vicioso-ansiedad-v2](assets/graf-m02-04-circulo-vicioso-ansiedad-v2.png) Opción 2: Mismo círculo vicioso con la intervención del Reconocimiento (Mindfulness) que interrumpe el ciclo entre sensación e interpretación.
+
 1. Siento tension
 2. Reconozco: "esto es ansiedad en el cuerpo"
 3. No alimento la interpretacion catastrofica
@@ -96,7 +124,7 @@ La ansiedad amplifica la atencion a senales corporales:
 
 ---
 
-## Por que la respiracion es el ancla universal
+## 5. Por que la respiracion es el ancla universal
 
 Todas las tradiciones contemplativas usan la respiracion:
 
@@ -106,6 +134,7 @@ Todas las tradiciones contemplativas usan la respiracion:
 - Responde inmediatamente a cambios de estado
 
 La practica de M1 (atencion a la respiracion) es el primer paso. M2 expande: todo el cuerpo es ancla.
+#ppt ![ppt-m02-04-respiracion-ancla-universal](assets/ppt-m02-04-respiracion-ancla-universal.png) Diapositiva "¿Por qué la respiración?" con cuatro propiedades: Disponibilidad, Dualidad (automática/controlable), Conexión mente-cuerpo y Sensibilidad emocional.
 
 ---
 
@@ -119,6 +148,7 @@ M2 proporciona la fundamentacion:
 |----|----|
 | "Atiende a la respiracion" | "Porque el cuerpo es tu anclaje al presente" |
 | Instruccion practica | Comprension del por que |
+#grafica ![graf-m02-04-triangulo-sensaciones-ancla](assets/graf-m02-04-triangulo-sensaciones-ancla.png) Triángulo Sensaciones (Ancla) — Pensamientos (Narrativa) — Emociones (Energía) con flechas de interacción circular.
 
 ---
 
@@ -134,7 +164,7 @@ El cuerpo como anclaje reaparecera:
 
 ---
 
-## Dimension experiencial
+## Dimension experiencial #insight 
 
 Reflexiona:
 
@@ -159,3 +189,10 @@ El lider que ignora el cuerpo pierde acceso a su mejor herramienta de regulacion
 - Kabat-Zinn, J. (1990). *Full Catastrophe Living.* Delacorte.
 - Farb, N.A.S. et al. (2015). *Interoception, contemplative practice, and health.* Frontiers in Psychology.
 - Mehling, W.E. et al. (2012). *The Multidimensional Assessment of Interoceptive Awareness (MAIA).* PLoS ONE.
+
+
+---
+## Material adicional del tema #aux
+### Infografías del tema 
+
+#infografia ![infog-m02-04-cuerpo-anclaje-presente](assets/infog-m02-04-cuerpo-anclaje-presente.jpg) Infografía "El Cuerpo: Tu Anclaje al Momento Presente" — mente errante vs. cuerpo como herramienta de regulación, conciencia interoceptiva, respiración como ancla, y comparación ansiedad vs. respuesta mindfulness. 

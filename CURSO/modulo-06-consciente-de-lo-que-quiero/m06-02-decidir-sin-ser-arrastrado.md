@@ -4,15 +4,38 @@ titulo: "Decidir sin ser arrastrado — Sostener la consciencia en el momento"
 modulo: 6
 orden: 02
 fase: DURANTE
-tags: [decision, captura, meta-consciencia, inhibicion, sostener, proceso, coherencia]
-ultima_actualizacion: "27/01/2026"
+tags: [meta-consciencia, balcon-y-pista, captura-emocional, inhibicion-consciente, consciencia-dual, impulso-como-ola]
+ultima_actualizacion: "12/02/2026"
 ---
 
 # Tema 2: Decidir sin ser arrastrado
 
+#imagen ![img-m06-02-portada-decidir-sin-arrastro](assets/img-m06-02-portada-decidir-sin-arrastro.png) Vórtice abstracto marrón y gris: fuerzas que arrastran en el momento de decidir
+
+- [Por que este tema es necesario](#por-que-este-tema-es-necesario)
+	- [DURANTE: Sostener la consciencia cuando todo empuja hacia la reaccion](#durante-sostener-la-consciencia-cuando-todo-empuja-hacia-la-reaccion)
+- [1. El momento donde todo se juega](#1-el-momento-donde-todo-se-juega)
+- [2. Notar que está pasando mientras pasa](#2-notar-que-está-pasando-mientras-pasa)
+- [3. El balcón y la pista](#3-el-balcón-y-la-pista)
+- [4. El cuerpo como sistema de alerta temprana](#4-el-cuerpo-como-sistema-de-alerta-temprana)
+- [5. Sostener sin actuar automáticamente](#5-sostener-sin-actuar-automáticamente)
+- [6. La intención como punto de retorno](#6-la-intención-como-punto-de-retorno)
+- [7. Cuando ya te han capturado](#7-cuando-ya-te-han-capturado)
+- [8. Sostener la consciencia a lo largo del proceso](#8-sostener-la-consciencia-a-lo-largo-del-proceso)
+- [9. Lo diferencial de este enfoque](#9-lo-diferencial-de-este-enfoque)
+- [Práctica: El ritmo de la consciencia sostenida](#práctica-el-ritmo-de-la-consciencia-sostenida)
+- [Conexiones](#conexiones)
+- [Dimensión experiencial](#dimensión-experiencial)
+- [Referencias](#referencias)
+- [Material adicional del tema](#material-adicional-del-tema)
+	- [Infografías del tema](#infografías-del-tema)
+
+
+---
+
 ## Por que este tema es necesario
 
-#### Sostener la consciencia cuando todo empuja hacia la reaccion
+#### DURANTE: Sostener la consciencia cuando todo empuja hacia la reaccion
 
 **Pregunta que responde:**
 Como mantengo la consciencia en el momento de decidir — y como la sostengo a lo largo del proceso para no perderme?
@@ -23,11 +46,9 @@ La meta-consciencia — observarte mientras actuas — es lo que distingue al li
 
 ---
 
-## DURANTE: Sostener la consciencia en el momento
+## 1. El momento donde todo se juega
 
----
-
-## El momento donde todo se juega
+#grafica ![graf-m06-02-momento-donde-todo-se-juega](assets/graf-m06-02-momento-donde-todo-se-juega.png) Silueta con fuerzas externas (urgencia, expectativas, entorno) e internas (emociones, impulsos, malestar)
 
 Te has preparado. Sabes qué quieres y desde dónde quieres actuar (T1, Parte 1). Has ampliado tu campo para ver lo que normalmente no ves (T1, Parte 2). Pero ahora estás dentro del momento — la conversación difícil, la negociación, la reunión donde hay que decidir.
 
@@ -39,7 +60,7 @@ En M1 aprendiste que tu mente opera con automatismos. En M3 aprendiste a crear e
 
 ---
 
-## Notar que está pasando mientras pasa
+## 2. Notar que está pasando mientras pasa
 
 Hay una diferencia crucial entre dos capacidades:[^1]
 
@@ -47,13 +68,22 @@ Hay una diferencia crucial entre dos capacidades:[^1]
 
 **Meta-consciencia:** Notar lo que está pasando mientras pasa. Durante la reunión, notas: "Estoy reaccionando con intensidad. ¿Qué está ocurriendo?"
 
+#grafica ![graf-m06-02-metacognicion-vs-metaconsciencia-v1](assets/graf-m06-02-metacognicion-vs-metaconsciencia-v1.png) Opción 1: No basta con reflexionar después — metacognición vs meta-consciencia
+
+#grafica ![graf-m06-02-metacognicion-vs-metaconsciencia-v2](assets/graf-m06-02-metacognicion-vs-metaconsciencia-v2.png) Opción 2: Pensar después vs notar ahora — pasado vs presente con flechas temporales
 La metacognición te ayuda a aprender del pasado. La meta-consciencia te permite intervenir en el presente.
+
+
 
 Esta capacidad de observarte mientras actúas es lo que distingue al líder que decide del líder que es decidido por sus automatismos. No es pensar más rápido. Es estar presente con lo que ocurre — en ti y en la situación — mientras ocurre.
 
 ---
 
-## El balcón y la pista
+## 3. El balcón y la pista
+
+#grafica ![graf-m06-02-balcon-y-pista-v1](assets/graf-m06-02-balcon-y-pista-v1.png) Opción 1: Ilustración artística del balcón (observación arriba) y la pista (bailarines abajo)
+
+#ppt ![ppt-m06-02-balcon-y-pista-v2](assets/ppt-m06-02-balcon-y-pista-v2.png) Opción 2: Consciencia dual: el balcón y la pista de baile — vista isométrica con texto
 
 Ronald Heifetz[^2] ofrece una metáfora útil para algo tan abstracto: el balcón y la pista de baile.
 
@@ -73,7 +103,11 @@ No es fácil. Requiere práctica. Pero es entrenable — y es exactamente lo que
 
 ---
 
-## El cuerpo como sistema de alerta temprana
+## 4. El cuerpo como sistema de alerta temprana
+
+#ppt ![ppt-m06-02-cuerpo-alerta-temprana-v1](assets/ppt-m06-02-cuerpo-alerta-temprana-v1.png) Opción 1: El cuerpo avisa antes que la mente — mandíbula, respiración, calor, estómago
+
+#ppt ![ppt-m06-02-cuerpo-alerta-temprana-v2](assets/ppt-m06-02-cuerpo-alerta-temprana-v2.png) Opción 2: El sistema de alerta temprana — tensión muscular, hombros, respiración, nudo, urgencia
 
 En M2 aprendiste que el cuerpo es fuente de información. Aquí esa información se vuelve crucial: el cuerpo te avisa antes que la mente de que algo te está capturando.
 
@@ -93,8 +127,15 @@ El cuerpo no es solo un sistema de alerta puntual. Es tu ancla constante durante
 
 ---
 
-## Sostener sin actuar automáticamente
+## 5. Sostener sin actuar automáticamente
 
+#grafica ![graf-m06-02-impulso-como-ola-v1](assets/graf-m06-02-impulso-como-ola-v1.png) Opción 1: Surfear la Ola — curva dorada con 4 fases: notar, nombrar, respirar, acción consciente
+
+#ppt ![ppt-m06-02-arte-sostener-v1](assets/ppt-m06-02-arte-sostener-v1.png) Opción 1: El Arte de Sostener — sostener ≠ reprimir, umbral de acción automática
+
+#ppt ![ppt-m06-02-arte-sostener-v2](assets/ppt-m06-02-arte-sostener-v2.png) Opción 2: Sostener: "Te veo, pero voy a esperar" — impulso como ola, libertad de elección
+
+#grafica ![graf-m06-02-impulso-como-ola-v2](assets/graf-m06-02-impulso-como-ola-v2.png) Opción 2: Sostener la ola del impulso — ola sinusoidal con 3 pasos: notar, sostener, recuperar
 Notar no es suficiente. Puedes notar perfectamente que un impulso te está empujando — y actuar igual. El paso siguiente es **sostener**: no ceder automáticamente al impulso.
 
 Sostener no es reprimir. No es forzarte a no actuar. Es reconocer que tienes un impulso y elegir no seguirlo todavía. Es decirle al impulso: "Te veo. Pero voy a esperar."
@@ -115,7 +156,11 @@ El objetivo no es nunca actuar. Es elegir cuándo actuar en lugar de ser arrastr
 
 ---
 
-## La intención como punto de retorno
+## 6. La intención como punto de retorno
+
+#ppt ![ppt-m06-02-intencion-punto-retorno-v1](assets/ppt-m06-02-intencion-punto-retorno-v1.png) Opción 1: La Intención como Punto de Retorno — brújula en la niebla
+
+#ppt ![ppt-m06-02-intencion-punto-retorno-v2](assets/ppt-m06-02-intencion-punto-retorno-v2.png) Opción 2: Rosa de los vientos con opciones: volver, elegir de nuevo, arrastrado
 
 En el Tema 1 clarificaste tu intención: qué quieres conseguir y desde dónde quieres actuar. Esa intención no era un ejercicio previo que ya cumplió su función. Es tu punto de retorno durante todo el proceso.
 
@@ -132,7 +177,9 @@ La intención funciona como brújula precisamente porque no te dice qué hacer e
 
 ---
 
-## Cuando ya te han capturado
+## 7. Cuando ya te han capturado
+
+#ppt ![ppt-m06-02-protocolo-recuperacion-captura](assets/ppt-m06-02-protocolo-recuperacion-captura.png) Cuando ya te han capturado: ciclo reconoce → para → cuerpo → retoma
 
 A veces no notas a tiempo. El impulso fue más rápido, la emoción más intensa, la presión demasiado fuerte. Ya reaccionaste. Ya dijiste algo que no querías decir. Ya tomaste una dirección que no habías elegido conscientemente.
 
@@ -150,7 +197,11 @@ Lo que importa es qué haces después.
 
 ---
 
-## Sostener la consciencia a lo largo del proceso
+## 8. Sostener la consciencia a lo largo del proceso
+
+#ppt ![ppt-m06-02-decision-proceso-no-punto-v1](assets/ppt-m06-02-decision-proceso-no-punto-v1.png) Opción 1: Decidir es un proceso, no un punto — fugas graduales y resiliencia consciente
+
+#ppt ![ppt-m06-02-decision-proceso-no-punto-v2](assets/ppt-m06-02-decision-proceso-no-punto-v2.png) Opción 2: La decisión no es un punto; es una duración — erosión gradual de la intención
 
 Hay algo que la formación tradicional en toma de decisiones no suele reconocer: **decidir no es un momento puntual**. Es un proceso que se extiende en el tiempo — a veces minutos, a veces días, a veces meses.
 
@@ -175,7 +226,7 @@ Cada vez que vuelves, fortaleces la capacidad de volver. Cada vez que notas una 
 
 ---
 
-## Lo diferencial de este enfoque
+## 9. Lo diferencial de este enfoque
 
 La formación tradicional en liderazgo trata la decisión como un evento: analizas, decides, ejecutas. Si la decisión era buena, el resultado será bueno.
 
@@ -189,17 +240,19 @@ Eso no se aprende leyendo. Se entrena practicando.
 
 ---
 
-## Práctica: El ritmo de la consciencia sostenida
+## Práctica: El ritmo de la consciencia sostenida #practica
 
 **Esta no es una técnica para usar una vez. Es una forma de estar con el proceso de decidir.**
 
-### Antes de entrar
+**Antes de entrar
 
 - Recuerda tu intención en una frase: qué quieres conseguir, desde dónde quieres actuar.
 - Nota cómo está tu cuerpo: ¿hay tensión, activación, calma?
 - Reconoce tu estado: ¿cómo estás llegando a este momento? ¿Qué fuerzas ya están operando?
 
-### Durante — el ritmo de los tres segundos
+**Durante — el ritmo de los tres segundos
+
+#ejercicio ![ppt-m06-02-practica-ritmo-3-segundos](assets/ppt-m06-02-practica-ritmo-3-segundos.png) El Ritmo de 3 Segundos: Cuerpo, Impulso, Intención + NOTAR.SOSTENER.VOLVER
 
 - Mantén un hilo de atención en el balcón. No constantemente — eso sería imposible — pero regularmente.
 - Cada cierto tiempo, haz una pausa interna de tres segundos:
@@ -212,26 +265,26 @@ No necesitas respuestas elaboradas. Solo notar.
 
 Mantén un hilo de atención en el cuerpo durante toda la interacción. El cuerpo te avisa antes que la mente.
 
-### Cuando te han capturado
+**Cuando te han capturado
 
 1. **Reconoce:** "Me han capturado."
 2. **Para si puedes:** "Necesito un momento."
 3. **Vuelve al cuerpo:** Pies en el suelo, hombros sueltos, exhala largo.
 4. **Retoma desde la intención:** "¿Qué quería realmente aquí?"
 
-### A lo largo del proceso
+**A lo largo del proceso
 
 - Revisa regularmente: ¿hay fugas? ¿pequeñas desviaciones que se están acumulando?
 - Renueva la intención conscientemente. No asumas que sigue vigente solo porque la declaraste al principio.
 - Cuando te desvíes, vuelve. Sin drama. Con honestidad.
 
-### El mantra del DURANTE
+**El mantra del DURANTE
 
 **Notar. Sostener. Volver.**
 
----
+#ppt ![ppt-m06-02-mantra-notar-sostener-volver](assets/ppt-m06-02-mantra-notar-sostener-volver.png) El Mantra del Líder Consciente: NOTAR (balcón), SOSTENER (ola), VOLVER (intención)
 
-## Lo que llevas al DESPUÉS
+**Lo que llevas al DESPUÉS
 
 Todo lo que has notado durante el proceso — dónde mantuviste la consciencia, dónde la perdiste, qué te capturó, cuántas veces volviste — es el material con el que trabajarás en el Tema 3.
 
@@ -247,7 +300,9 @@ Esas observaciones, tratadas con honestidad y sin destrucción, son las que perm
 
 ---
 
-## Conexión con lo que viene
+## Conexiones
+
+**Conexión con lo que viene
 
 Has trabajado el ANTES (clarificar intención, ampliar campo) y el DURANTE (sostener consciencia, no ser arrastrado, volver cuando te capturan).
 
@@ -255,9 +310,7 @@ El **Tema 3** entrará en el DESPUÉS: qué hacer cuando ya has decidido. Cómo 
 
 Pero antes de llegar ahí, quédate con esto: la consciencia durante el proceso no es un lujo ni un añadido. Es lo que hace posible que tu decisión sea tuya — y no de las fuerzas que querían decidir por ti.
 
----
-
-## Conexion con M1
+**Conexion con M1
 
 M1 mostro que tu mente opera con automatismos que no ves. En el DURANTE, esos automatismos son las fuerzas de captura.
 
@@ -269,9 +322,7 @@ M1 mostro que tu mente opera con automatismos que no ves. En el DURANTE, esos au
 
 El DURANTE pone a prueba si puedes observar tus automatismos mientras operan, no solo despues.
 
----
-
-## Conexion con M2
+**Conexion con M2
 
 M2 mostro que el cuerpo es fuente de informacion. En el DURANTE, el cuerpo es tu sistema de alerta temprana.
 
@@ -283,9 +334,7 @@ M2 mostro que el cuerpo es fuente de informacion. En el DURANTE, el cuerpo es tu
 
 El cuerpo no es solo alerta puntual — es tu ancla constante durante todo el DURANTE.
 
----
-
-## Conexion con M3
+**Conexion con M3
 
 M3 mostro que puedes crear espacio entre estimulo y respuesta. El DURANTE es donde mas necesitas ese espacio.
 
@@ -297,9 +346,7 @@ M3 mostro que puedes crear espacio entre estimulo y respuesta. El DURANTE es don
 
 Sostener en el DURANTE es la practica de M3 bajo presion real.
 
----
-
-## Conexion con M4
+**Conexion con M4
 
 M4 mostro que tu estado afecta tu capacidad. En el DURANTE, si estas fuera de tu ventana de tolerancia, tu capacidad de sostener colapsa.
 
@@ -311,9 +358,7 @@ M4 mostro que tu estado afecta tu capacidad. En el DURANTE, si estas fuera de tu
 
 El autocuidado de M4 hace posible el DURANTE; sin regulacion, no hay meta-consciencia sostenida.
 
----
-
-## Conexion con M5
+**Conexion con M5
 
 M5 mostro que la consciencia se extiende hacia el otro. En el DURANTE, eso significa no perderte en la reaccion al otro.
 
@@ -327,13 +372,14 @@ Sostener consciencia en el DURANTE incluye sostener la consciencia del otro como
 
 ---
 
-## Dimensión experiencial
+## Dimensión experiencial #insight
 
 - ¿Recuerdas un momento donde pudiste observarte mientras decidías — notar qué estaba pasando en ti mientras pasaba?
 - ¿Cuál es el impulso que más te cuesta sostener sin actuar: interrumpir, defender tu posición, cerrar para acabar con la incomodidad, otro?
 - Piensa en un proceso de decisión extendido (días o semanas). ¿Hubo fugas? ¿Pequeñas desviaciones que se acumularon? ¿Pudiste notarlas o solo las viste después?
 - Cuando te desvías de tu intención, ¿tiendes a volver, a ajustar conscientemente, o a seguir desviado sin haberlo elegido?
 - ¿Cómo sería tu liderazgo si pudieras mantener un hilo de consciencia en el balcón mientras bailas en la pista?
+#grafica ![graf-m06-02-calidad-presencia-resultado](assets/graf-m06-02-calidad-presencia-resultado.png) La calidad de tu presencia determina la calidad del resultado
 
 ---
 
@@ -342,3 +388,10 @@ Sostener consciencia en el DURANTE incluye sostener la consciencia del otro como
 [^1]: Schooler, J.W. (2002). Re-representing consciousness: Dissociations between experience and meta-consciousness. *Trends in Cognitive Sciences*, 6(8), 339-344.
 
 [^2]: Heifetz, R., & Linsky, M. (2002). *Leadership on the Line: Staying Alive Through the Dangers of Leading.* Harvard Business School Press.
+
+
+---
+## Material adicional del tema #aux
+### Infografías del tema 
+
+#infografia ![infog-m06-02-meta-consciencia-decidir](assets/infog-m06-02-meta-consciencia-decidir.jpg) Arte de la meta-consciencia: balcón y pista, cuerpo como alerta, impulso como ola, ritmo de 3 segundos, mantra notar-sostener-volver

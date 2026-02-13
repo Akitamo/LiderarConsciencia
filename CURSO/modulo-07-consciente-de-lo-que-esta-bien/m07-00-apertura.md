@@ -4,7 +4,7 @@ titulo: "Apertura: La consciencia se vuelve ética"
 modulo: 7
 orden: 00
 fase: APERTURA
-tags: [etica, atencion, consciencia, unselfing, apertura]
+tags: [atencion-etica, percepcion-etica, unselfing, firma-somatica-etica, apertura]
 ultima_actualizacion: "27/01/2026"
 ---
 
@@ -17,6 +17,8 @@ ultima_actualizacion: "27/01/2026"
 ---
 
 ## El paso que falta
+
+#grafica ![graf-m07-00-consciencia-se-vuelve-etica](assets/graf-m07-00-consciencia-se-vuelve-etica.png) Brújula con aguja roja: "La Consciencia se Vuelve Ética — ¿Hacia dónde debería dirigir mi consciencia?"
 
 En M6 trabajaste una pregunta poderosa: ¿hacia dónde dirijo mi consciencia?
 
@@ -32,9 +34,14 @@ La consciencia sin dirección ética es poder sin brújula moral. Puedes ver muy
 
 M7 completa el arco: la consciencia que empezó siendo descriptiva — "soy consciente de X" — se vuelve prescriptiva — "elijo conscientemente dirigir mi atención hacia Y porque es lo correcto".
 
+
+#ppt ![ppt-m07-00-paso-que-falta-descriptivo-prescriptivo](assets/ppt-m07-00-paso-que-falta-descriptivo-prescriptivo.png) El paso que falta: M6 descriptivo (ojo) → M7 prescriptivo (brújula), poder sin brújula moral
+
 ---
 
 ## Lo que traes de los módulos anteriores
+
+#grafica ![graf-m07-00-integracion-capacidades-m1-m7](assets/graf-m07-00-integracion-capacidades-m1-m7.png) Torre de bloques M1→M7: no llegas vacío, integración de capacidades del programa
 
 No llegas aquí vacío. Has construido capacidades que ahora se ponen al servicio de algo mayor:
 
@@ -51,6 +58,7 @@ No llegas aquí vacío. Has construido capacidades que ahora se ponen al servici
 **De M6** traes la meta-consciencia: observar tu proceso mientras decides. Esa capacidad es la herramienta central para detectar cuándo te desvías de tus valores.
 
 Todo esto se integra ahora en una pregunta: **¿Cómo traduzco mi consciencia en acción alineada con lo que está bien?**
+
 
 ---
 
@@ -74,6 +82,8 @@ Esta pregunta tiene varias capas:
 
 ## La atención como acto moral
 
+#ppt ![ppt-m07-00-atencion-acto-moral](assets/ppt-m07-00-atencion-acto-moral.png) "La atención es un acto moral. Lo que eliges mirar — y lo que eliges no mirar — es ya una valoración ética."
+
 Aquí está la tesis central de este módulo:
 
 **Lo que eliges mirar — y lo que eliges no mirar — es ya un acto moral.**
@@ -94,6 +104,8 @@ Ignorar sistemáticamente a ciertas personas, datos o perspectivas no es descuid
 ---
 
 ## "Unselfing": salir del centro para ver al otro
+
+#ppt ![ppt-m07-00-ego-como-filtro-unselfing](assets/ppt-m07-00-ego-como-filtro-unselfing.png) El obstáculo: EGO como filtro (flechas centrípetas) vs UNSELFING (luz hacia Realidad del Otro) — Murdoch
 
 La filósofa Iris Murdoch[^1] identificó el obstáculo principal para ver bien: **el ego**.
 
@@ -117,6 +129,8 @@ Esto conecta directamente con M5: la relación Yo-Tú versus Yo-Ello. Ver al otr
 
 ## "La atención es la forma más rara de generosidad"
 
+#ppt ![ppt-m07-00-atencion-generosidad-weil](assets/ppt-m07-00-atencion-generosidad-weil.png) "La atención como la forma más rara de generosidad" — Atención Superficial vs Atención Plena (Ética) — Weil
+
 Simone Weil[^2] fue más lejos: propuso que la atención plena al otro es la forma más pura de amor.
 
 No es lo que haces por el otro. Es cómo lo miras.
@@ -137,6 +151,8 @@ Piensa en la diferencia entre un colaborador que sientes que te ve de verdad, y 
 ---
 
 ## La firma somática de la atención ética
+
+#ppt ![ppt-m07-00-firma-somatica-etica](assets/ppt-m07-00-firma-somatica-etica.png) La firma somática de la ética: Contracción (deshumanizar) vs Apertura (ver al otro como sujeto)
 
 El cuerpo sabe de ética antes que la mente.
 
@@ -197,6 +213,8 @@ Ampliar el campo no es solo estrategia para decidir mejor. Es responsabilidad é
 ---
 
 ## La transformación de M7
+
+#grafica ![graf-m07-00-progresion-regulacion-observacion-intencion](assets/graf-m07-00-progresion-regulacion-observacion-intencion.png) Progresión M1-M4 Regulación → M5-M6 Observación → M7 Intención Ética — círculos concéntricos
 
 Al completar este módulo, la transformación esperada es:
 
@@ -269,3 +287,10 @@ Bienvenido al cierre del programa.
 [^1]: Murdoch, I. (1970). _The Sovereignty of Good._ Routledge.
 
 [^2]: Weil, S. (1947). _Gravity and Grace._ Routledge.
+
+
+---
+## Material adicional del tema #aux
+### Infografías del tema 
+
+#infografia ![infog-m07-00-etica-atencion-ver-bien-actuar-bien](assets/infog-m07-00-etica-atencion-ver-bien-actuar-bien.jpg) Ética de la Atención: atención como acto moral, percepción ética, unselfing, firma somática, líder semilla

@@ -13,7 +13,7 @@ MEDITACIÓN EN EL CUERPO Y LA RESPIRACIÓN
 
 - No es necesario que intentes controlar la respiración, simplemente deja que funcione a su ritmo…observa con curiosidad cómo se manifiesta en el abdomen, cómo son las sensaciones que se producen con cada inspiración…y con cada expiración….quizás percibiendo también las ligeras pausas entre una y otra….permaneces unos minutos en esta presencia consciente en la repiración en el abdomen…Recuerda que no hay una forma correcta de sentir o de estar en el ejercicio…sólo  la intención de permanecer alerta y consciente momento a momento…
 
-- Quizás en algún momento tu mente haya dejado de prestar atención a la respiración y se haya ido a otra parte…un recuerdo, un pensamiento,,,una emoción…una molestia física…cuando esto  suceda, simplemente te das cuenta de ello, sin juicio alguno (entendiendo que es normal que la mente tenga esta tendencia a distraerse) e invitas a la atención a abandonar el objeto que te ha distraído y vuelves de nuevo  la atención a las sensaciones de la repiración en el abdomen…..
+- Quizás en algún momento tu mente haya dejado de prestar atención a la respiración y se haya ido a otra parte…un recuerdo, un pensamiento…una emoción…una molestia física…cuando esto  suceda, simplemente te das cuenta de ello, sin juicio alguno (entendiendo que es normal que la mente tenga esta tendencia a distraerse) e invitas a la atención a abandonar el objeto que te ha distraído y vuelves de nuevo  la atención a las sensaciones de la repiración en el abdomen…..
 
   -----5 MINUTOS 
 
@@ -51,7 +51,7 @@ MEDITACIÓN EN EL CUERPO Y LA RESPIRACIÓN
 
   Dejando que la respiración siga fluyendo a su ritmo…sin tratar de controlarla…experimentando en el abdomen la inspiración…..y la expiración…con curiosidad….quizás percibiendo cambios en esta parte del cuerpo después del  tiempo de ejercicio….abierto a lo que pueda aparecer en esta parte del  cuerpo…sin forzar nada..sin esperar nada…sólo recogiendo en tu consciencia cualquier sensación que aparezca….buena, mala…o neutra…. 
 
-- Permaneces unos minutos en esta experimentación de la respiración en el abdomen…recordando que es normal que la mente pueda distraerse en algún momento…y que  tu única intención es darte cuenta de que esta distracción se ha producido…registrar por un instante dónde se ha ido la atención (quizás a un recuerdo,,,una idea..una preocupación…un pensamiento sin ninguna lógica…)..lo que sea…sólo el tiempo de darte cuenta y con naturalidad, volver de nuevo la atención a la respiración en el abdomen…una y otra vez..
+- Permaneces unos minutos en esta experimentación de la respiración en el abdomen…recordando que es normal que la mente pueda distraerse en algún momento…y que  tu única intención es darte cuenta de que esta distracción se ha producido…registrar por un instante dónde se ha ido la atención (quizás a un recuerdo…una idea..una preocupación…un pensamiento sin ninguna lógica…)..lo que sea…sólo el tiempo de darte cuenta y con naturalidad, volver de nuevo la atención a la respiración en el abdomen…una y otra vez..
 
   ……………………. 
 

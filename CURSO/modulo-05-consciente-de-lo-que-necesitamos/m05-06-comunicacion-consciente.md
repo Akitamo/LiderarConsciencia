@@ -3,10 +3,27 @@ id: m05-06
 titulo: "Comunicación consciente"
 modulo: 5
 orden: 06
-tags: [comunicacion, escucha-activa, escucha-profunda, zona-verde, mindfulness, presencia]
+tags: [comunicacion-consciente, escucha-profunda, semaforo-comunicacion, zona-verde, conversaciones-dificiles]
 ultima_actualizacion: "21/01/2026"
 ---
 # Tema 6: Comunicacion consciente
+
+#imagen ![img-m05-06-flujo-comunicacion](assets/img-m05-06-flujo-comunicacion.png) Dos perfiles frente a frente con flechas bidireccionales: flujo verbal y no verbal de la comunicación
+
+- [Por que este tema es necesario](#por-que-este-tema-es-necesario)
+	- [Aplicando la consciencia a las conversaciones](#aplicando-la-consciencia-a-las-conversaciones)
+- [1. Fundamentos de la comunicación consciente](#1-fundamentos-de-la-comunicación-consciente)
+- [2. La escucha profunda](#2-la-escucha-profunda)
+- [3. El semaforo de la comunicacion](#3-el-semaforo-de-la-comunicacion)
+	- [Protocolo para conversaciones dificiles](#protocolo-para-conversaciones-dificiles)
+- [Conexiones](#conexiones)
+- [Dimension experiencial](#dimension-experiencial)
+- [Referencias incluidas](#referencias-incluidas)
+- [Material adicional del tema](#material-adicional-del-tema)
+	- [Infografías del tema](#infografías-del-tema)
+
+
+---
 
 ## Por que este tema es necesario
 
@@ -20,24 +37,30 @@ Este tema cierra el modulo con aplicacion practica. Las herramientas de conscien
 
 ---
 
-## Fundamentos de la comunicación consciente
+## 1. Fundamentos de la comunicación consciente
 
 Comunicar conscientemente es expresar y recibir información desde la presencia: atención al mensaje verbal, pero también a las emociones y necesidades que lo sostienen.
+
+#grafica ![graf-m05-06-habitual-vs-consciente](assets/graf-m05-06-habitual-vs-consciente.png) Comunicación habitual (reactiva, solo verbal) vs consciente (presencia + emociones + necesidades)
+
 
 **Establecer la intención** marca la dirección interna de una conversación. Ese anclaje mantiene las palabras y actitudes alineadas con lo que se busca lograr —claridad, respeto, comprensión genuina.
 
 La comunicación consciente exige **presencia plena** durante la interacción: escuchar sin juzgar, expresarse con claridad y consideración. El foco no está solo en las palabras, sino en comprender las emociones, intenciones y necesidades detrás del mensaje.
 
+#grafica ![graf-m05-06-tres-pilares-comunicacion](assets/graf-m05-06-tres-pilares-comunicacion.png) Tres columnas: Establecer Intención, Presencia Plena y Base Somática
 
-#imagen
-![img-m05-comunicacion-consciente](recursos/imagenes/img-m05-comunicacion-consciente.png) Ilustración de dos figuras humanas estilizadas en tonos grises mirándose a través de prismáticos con lentes azules y rosas. Los brazos se cruzan en el centro, sugiriendo diferentes perspectivas en la comunicación y la importancia de ver desde el punto de vista del otro.
 
 ---
-## La escucha profunda
+## 2. La escucha profunda
+
+#grafica ![graf-m05-06-modelo-escucha-profunda](assets/graf-m05-06-modelo-escucha-profunda.png) Diagrama de Venn[^1]: Conciencia Corporal + Presencia de Apoyo + Conexión Compasiva = Escucha Profunda
 
 Este modelo va más allá de captar información: busca comprender el flujo completo de la comunicación, verbal y no verbal. Parte de una premisa: la capacidad de escucha profunda es innata y puede cultivarse mediante práctica y consciencia.
 
 El modelo se compone de tres habilidades centrales interconectadas:
+
+#grafica ![graf-m05-06-tres-habilidades-escucha](assets/graf-m05-06-tres-habilidades-escucha.png) Tres cartas: Conciencia Corporal (El Ancla), Presencia de Apoyo (El Espacio), Conexión Compasiva (El Vínculo)
 
 **1. Conciencia corporal:** Utiliza el "centro de escucha" —un punto físico en el cuerpo como abdomen, corazón o garganta— donde anclar la atención y expandirla hacia el hablante. La conciencia corporal transforma el cuerpo en instrumento de escucha. Prestar atención a las sensaciones físicas, la postura y la respiración ancla la presencia y la receptividad. Sin esa consciencia, los pensamientos y emociones internas capturan la atención y la conexión con el hablante se pierde.
 
@@ -45,10 +68,9 @@ El modelo se compone de tres habilidades centrales interconectadas:
 
 **3. Conexión compasiva:** Introduce la dimensión de la compasión en la escucha. Conectar con el sufrimiento del hablante —y con el propio— desde la amabilidad y la comprensión. La conexión compasiva no busca solucionar los problemas del otro, sino ofrecer presencia empática que permita explorar sentimientos y experiencias propias. La compasión protege del agotamiento por empatía: mantiene la estabilidad emocional propia mientras se conecta con el sufrimiento del otro.
 
-#imagen
-![img-m05-modelo-escucha-profunda](recursos/imagenes/img-m05-modelo-escucha-profunda.png) Diagrama de Venn con tres círculos interconectados titulado "The Deep Listening Model"[^1] (Figure 6.1). Los tres círculos representan: "Coming to EMBODIED AWARENESS", "Holding SUPPORTIVE PRESENCE", y "Generating COMPASSIONATE CONNECTION". En el centro donde se cruzan los tres: "AWARENESS CENTRED DEEP LISTENING".
+**Tres niveles de escucha
 
-#### Tres niveles de escucha
+#grafica ![graf-m05-06-niveles-escucha](assets/graf-m05-06-niveles-escucha.png) Círculos concéntricos: Nivel 1 Interna (foco en mí) → Nivel 2 Enfocada (foco en el otro) → Nivel 3 Global (lo no dicho)
 
 **Nivel 1: Escucha interna**
 - Escuchas mientras piensas en tu respuesta
@@ -69,13 +91,18 @@ El liderazgo consciente requiere al menos Nivel 2, y cultivar Nivel 3.
 
 ---
 
-## El semaforo de la comunicacion
+## 3. El semaforo de la comunicacion
 
 La comunicación de zona verde es un enfoque desarrollado por Susan Gillis Chapman[^2]. Integra los principios de atención plena en las interacciones diarias, transformando conversaciones cotidianas en práctica de consciencia.
 
+#grafica ![graf-m05-06-semaforo-zonas](assets/graf-m05-06-semaforo-zonas.png) Tres zonas del semáforo: Verde (Fluidez/Nosotros), Amarillo (Transición/Alerta), Rojo (Cierre/Yo)
+
 El **modelo del semáforo** captura la dinámica de apertura y cierre en la comunicación:
 
-### Zona verde
+**Zona verde
+
+#grafica ![graf-m05-06-zona-verde](assets/graf-m05-06-zona-verde.png) Zona verde: mindset "Nosotros juntos", conexión y confianza, momento ideal para feedback y temas difíciles
+
 Comunicación fluida y abierta. Presencia y conexión con uno mismo y con los demás. Predomina la intención de "Nosotros juntos" —la conversación fluye con facilidad y los temas difíciles se abordan con respeto y apertura.
 
 - Conexion establecida
@@ -85,7 +112,10 @@ Comunicación fluida y abierta. Presencia y conexión con uno mismo y con los de
 
 **Que hacer:** Aprovechar para temas importantes, feedback, desarrollo.
 
-### Zona amarilla
+**Zona amarilla
+
+#grafica ![graf-m05-06-zona-amarilla](assets/graf-m05-06-zona-amarilla.png) Zona amarilla: transición/alerta, tensión manejable; crucial no ignorar e intervenir antes del bloqueo
+
 Fase de transición entre apertura y cierre. A menudo pasa desapercibida, pero es el punto crucial para reconocer señales de tensión e intervenir antes de que la comunicación se bloquee.
 
 - Tension presente pero manejable
@@ -94,7 +124,10 @@ Fase de transición entre apertura y cierre. A menudo pasa desapercibida, pero e
 
 **Que hacer:** Atender la tension antes de avanzar. Preguntar: "Noto algo, que esta pasando?"
 
-### Zona roja
+**Zona roja
+
+#grafica ![graf-m05-06-zona-roja](assets/graf-m05-06-zona-roja.png) Zona roja: mindset "Yo primero" (defensa), desconexión total; regla de oro: PARAR y reconectar
+
 Estado de cierre. La comunicación se ha detenido. Se erigen barreras entre nosotros y los demás; la intención se centra en "Yo primero". Estado inconsciente donde se deja de escuchar con atención y pueden aparecer comportamientos defensivos o agresivos.
 
 - Desconexion
@@ -104,12 +137,17 @@ Estado de cierre. La comunicación se ha detenido. Se erigen barreras entre noso
 
 **Que hacer:** No intentar conversaciones importantes. Primero, reconectar.
 
-#imagen
-![img-m05-semaforo-comunicacion](recursos/imagenes/img-m05-semaforo-comunicacion.png) Ilustración de un semáforo con tres luces y sus correspondientes etiquetas a la derecha. Luz roja: "PARAR". Luz amarilla: "PENSAR". Luz verde: "ACTUAR". Representa el modelo de comunicación de zona verde de Susan Gillis Chapman.
+
+
+---
 
 #practica 
 
 #### Protocolo para conversaciones dificiles
+
+#grafica ![graf-m05-06-protocolo-antes](assets/graf-m05-06-protocolo-antes.png) Protocolo conversaciones difíciles — Fase 1 Preparación: pausa 3 min, clarificar intención, anticipar perspectiva
+#grafica ![graf-m05-06-protocolo-durante](assets/graf-m05-06-protocolo-durante.png) Protocolo — Fase 2 Interacción: presencia, relación Yo-Tú, franqueza cuidadosa, espacio para el otro
+#grafica ![graf-m05-06-protocolo-despues](assets/graf-m05-06-protocolo-despues.png) Protocolo — Fase 3 Cierre: acuerdos claros, recuperación y cerrar el ciclo (M4)
 
 **Antes
 
@@ -162,7 +200,9 @@ Estado de cierre. La comunicación se ha detenido. Se erigen barreras entre noso
 
 ---
 
-## Conexion con M3
+## Conexiones
+
+**Conexion con M3
 
 M3 enseno el espacio entre estimulo y respuesta.
 
@@ -173,9 +213,7 @@ En conversaciones dificiles:
 
 El espacio de M3 es crucial para la comunicacion consciente.
 
----
-
-## Conexion con M4
+**Conexion con M4
 
 M4 introdujo la pausa de 3 minutos.
 
@@ -184,9 +222,7 @@ Aplicada a comunicacion:
 - Cuando notas que te activas durante la conversacion
 - Despues, para cerrar el ciclo
 
----
-
-## Conexion con T1-T5
+**Conexion con T1-T5
 
 La comunicacion consciente integra todo M5:
 
@@ -200,7 +236,7 @@ La comunicacion consciente integra todo M5:
 
 ---
 
-## Dimension experiencial
+## Dimension experiencial #insight
 
 Reflexiona:
 
@@ -226,3 +262,10 @@ La comunicacion del lider modela la comunicacion organizacional:
 - Scharmer, O. (2009). *Theory U: Leading from the Future as It Emerges.* Berrett-Koehler.
 - Stone, D., Patton, B. & Heen, S. (2010). *Difficult Conversations.* Penguin.
 - Rosenberg, M. (2015). *Nonviolent Communication.* PuddleDancer Press.
+
+
+---
+## Material adicional del tema #aux
+### Infografías del tema 
+
+#infografia ![infog-m05-06-comunicacion-consciente](assets/infog-m05-06-comunicacion-consciente.jpg) Escucha profunda (3 pilares, niveles) y semáforo relacional para comunicación con presencia

@@ -24,6 +24,4 @@ Ver [README.md](README.md) para filosofía y tono del curso.
 ver [La progresión epistemológica del programa](La%20progresión%20epistemológica%20del%20programa.md) para entender todo el flujo y conexión entre los módulos del curso
 
 ---
-## Presentaciones de cursos impartidos
-Esta es el documento de la presentación V0 del curso que se impartió por primera vez en el año 2025 [TODOS LOS MÓDULOS DEL CURSO LIDERAR CON CONSCIENCIA Mayo2025Comprimido](Documentos/TODOS%20LOS%20MÓDULOS%20DEL%20CURSO%20LIDERAR%20CON%20CONSCIENCIA%20Mayo2025Comprimido.pdf)
-*Última actualización: Enero 2026*
+

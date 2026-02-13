@@ -3,14 +3,35 @@ id: m01-01
 titulo: "El cerebro como maquina de prediccion"
 modulo: 1
 orden: 01
-tags: [neurociencia, cerebro, evolucion, supervivencia]
+tags: [cerebro-predictivo, free-energy, evolucion-cerebral, supervivencia-adaptacion]
 ultima_actualizacion: "21/01/2026"
 ---
 # Tema 1: El cerebro como maquina de prediccion
 
+- [Por que este tema es necesario](#por-que-este-tema-es-necesario)
+		- [No percibes, construyes](#no-percibes-construyes)
+- [1. El cerebro como maquina de supervivencia](#1-el-cerebro-como-maquina-de-supervivencia)
+- [2. El modelo predictivo](#2-el-modelo-predictivo)
+		- [2.1 La percepcion como prediccion](#21-la-percepcion-como-prediccion)
+		- [2.2 Comparacion y ajuste](#22-comparacion-y-ajuste)
+		- [2.3 La memoria como prediccion del futuro](#23-la-memoria-como-prediccion-del-futuro)
+- [3. La evolución humana reflejada en la estructura cerebral](#3-la-evolución-humana-reflejada-en-la-estructura-cerebral)
+		- [Otras estructuras cerebrales clave](#otras-estructuras-cerebrales-clave)
+- [4. Implicaciones para el lider](#4-implicaciones-para-el-lider)
+- [Referencias incluidas](#referencias-incluidas)
+- [Material adicional del tema](#material-adicional-del-tema)
+	- [Infografías del tema](#infografías-del-tema)
+
+
+
+
+#imagen ![img-m01-01-cerebro-teatro](assets/img-m01-01-cerebro-teatro.png) Cabeza humana con teatro y proyector en el interior. El cerebro como constructor de realidad.
+
 ## Por que este tema es necesario
 
 #### No percibes, construyes
+
+#ppt ![ppt-m01-01-no-percibes-construyes](assets/ppt-m01-01-no-percibes-construyes.png) "No percibes, construyes" - El mito de la cámara pasiva vs. la realidad del simulador activo.
 
 **Pregunta que responde:**
 Por que mi cerebro no percibe la realidad tal como es?
@@ -19,9 +40,17 @@ Este tema establece el marco fundamental: el cerebro no es una camara que regist
 
 Esta comprension desmonta la ilusion de objetividad y prepara para entender por que los sesgos son estructurales, no accidentales.
 
+
+
+
+#imagen ![img-m01-01-craneo-proyector](assets/img-m01-01-craneo-proyector.png) Cráneo con proyector de cine interior proyectando paisaje. Metáfora del cerebro como proyector de realidad.
+
+
+#ppt ![ppt-m01-01-maquina-prediccion](assets/ppt-m01-01-maquina-prediccion.png) "El Cerebro: La Máquina de Predicción" - Portada del concepto central del tema.
+
 ---
 
-## El cerebro como maquina de supervivencia
+## 1. El cerebro como maquina de supervivencia
 
 Toda estructura cerebral sirve a un proposito: **anticipar y sobrevivir**.
 
@@ -30,30 +59,29 @@ El cerebro se ha desarrollado evolutivamente para una función primordial: **ant
 No se trata de percibir el presente tal como es. Se trata de proyectar el futuro probable y actuar en consecuencia. Lo que llamamos "percepción" es, en realidad, predicción constante.
 
 #imagen
-![img-m01-vineta-evolucion](recursos/imagenes/img-m01-vineta-evolucion.png) Viñeta humorística de evolución mostrando reptil, mamífero, primate y humano en secuencia, todos pensando "COMER, SOBREVIVIR, REPRODUCIRSE" excepto el humano que piensa "¿...DE QUÉ IBA ESTO...?" Firmada por HARDIN
+![img-m01-vineta-evolucion](assets/img-m01-vineta-evolucion.png)*Viñeta humorística de evolución mostrando reptil, mamífero, primate y humano en secuencia, todos pensando "COMER, SOBREVIVIR, REPRODUCIRSE" excepto el humano que piensa "¿...DE QUÉ IBA ESTO...?" Firmada por HARDIN*
 
 Este diseño no es accidental. Ha sido moldeado para responder rápidamente a las amenazas, reconocer patrones en el entorno y aprovechar oportunidades con precisión. **Un sistema de supervivencia eficiente donde cada parte cumple una función crucial en la anticipación y adaptación al entorno.**
 
-#imagen
-![img-m01-hominido-tigre](recursos/imagenes/img-m01-hominido-tigre.png) Homínido prehistórico enfrentándose a un tigre dientes de sable.
+#imagen ![img-m01-01-hominido-observa-depredador](assets/img-m01-01-hominido-observa-depredador.png) Homínido observando tranquilamente a un depredador (no anticipa = no sobrevive).
 
-#imagen
-![img-m01-hominido-dinosaurio](recursos/imagenes/img-m01-hominido-dinosaurio.png) Homínido prehistórico huyendo de un dinosaurio depredador.
 
-#imagen
-![img-m01-mono-confundido](recursos/imagenes/img-m01-mono-confundido.jpeg) Mono confundido con signos de interrogación, representando el punto de partida de la evolución cognitiva.
+#imagen ![img-m01-01-hominido-huye-depredador](assets/img-m01-01-hominido-huye-depredador.png)Homínido huyendo del depredador (anticipa = sobrevive).
 
-#imagen
-![img-m01-evolucion-cerebro](recursos/imagenes/img-m01-evolucion-cerebro.png) Secuencia de 4 homínidos en progresión evolutiva (de primate a humano moderno) con cerebros vistos desde arriba mostrando incremento progresivo de tamaño y complejidad.
 
-#video
-![Gif-m01-cerebro-huida](recursos/imagenes/Gif-m01-cerebro-huida.gif) Ejercicio dinámica mostrar qué cerebro es el que ha evolucionado con la necesidad de supervivencia (dinamización de las imagenes anteriores)
+#gif ![gif-m01-01-cerebro-supervivencia](assets/gif-m01-01-cerebro-supervivencia.gif) Ejercicio dinámico: mostrar qué cerebro ha evolucionado con la supervivencia.
 
 ---
 
-## El modelo predictivo
+## 2. El modelo predictivo
 
-#### La percepcion como prediccion
+#### 2.1 La percepcion como prediccion
+
+#grafica ![graf-m01-01-flujo-percepcion](assets/graf-m01-01-flujo-percepcion.png) Diagrama: Input Sensorial → Predicciones → Percepción Consciente (90% predicción).
+
+#grafica ![graf-m01-01-ciclo-predictivo-v1](assets/graf-m01-01-ciclo-predictivo-v1.png) Opción 1: Ciclo Generación-Comparación-Ajuste en 3 pasos circulares.
+
+#grafica ![graf-m01-01-ciclo-predictivo-v2](assets/graf-m01-01-ciclo-predictivo-v2.png) Opción 2: Ciclo en 4 pasos (Predicción, Input, Comparación, Actualización).
 
 Tu cerebro no espera pasivamente a que llegue informacion del exterior. En lugar de eso:
 
@@ -68,12 +96,14 @@ El cerebro construye un "modelo del mundo" interno para anticipar eventos futuro
 Redes neuronales, memoria, sentidos, corteza asociativa, emociones —todos trabajan en conjunto para generar este "teatro mental" que permite navegar el mundo e interactuar con él. Aunque parezca que habitamos la realidad, en realidad habitamos una interpretación construida por el cerebro: una realidad virtual personalizada.
 
 #imagen
-![img-m01-libro-rafael-yuste](recursos/imagenes/img-m01-libro-rafael-yuste.jpeg) Portada del libro "El cerebro, el teatro del mundo" de Rafael Yuste con subtítulo "Descubre cómo funciona y cómo crea nuestra realidad". Rafael Yuste describe el cerebro como un "teatro del mundo" —una representación creada internamente donde actuamos continuamente[^1]. La "realidad" que experimentamos es construcción interna. Por eso la percepción puede fallar o ser selectiva: el cerebro prioriza lo relevante para la supervivencia o la experiencia previa.
+![img-m01-libro-rafael-yuste](assets/img-m01-libro-rafael-yuste.jpeg) *Portada del libro "El cerebro, el teatro del mundo" de Rafael Yuste con subtítulo "Descubre cómo funciona y cómo crea nuestra realidad". Rafael Yuste describe el cerebro como un "teatro del mundo" —una representación creada internamente donde actuamos continuamente[^1]. La "realidad" que experimentamos es construcción interna. Por eso la percepción puede fallar o ser selectiva: el cerebro prioriza lo relevante para la supervivencia o la experiencia previa.
 
-#imagen
-![img-m01-diagrama-modelo-mundo](recursos/imagenes/img-m01-diagrama-modelo-mundo.png) Diagrama circular con cerebro en el centro rodeado de 4 elementos conectados: "Memoria y recuerdos" (arriba), "Emociones" (derecha), "Información sentidos" (abajo), "Modelo del mundo" (izquierda). Todos conectados por flechas bidireccionales hacia "Supervivencia" en el exterior
+#grafica 
+![img-m01-diagrama-modelo-mundo](assets/img-m01-diagrama-modelo-mundo.png) Diagrama circular con cerebro en el centro rodeado de 4 elementos conectados: "Memoria y recuerdos" (arriba), "Emociones" (derecha), "Información sentidos" (abajo), "Modelo del mundo" (izquierda). Todos conectados por flechas bidireccionales hacia "Supervivencia" en el exterior
 
-#### Comparacion y ajuste
+#### 2.2 Comparacion y ajuste
+
+#grafica ![graf-m01-01-cerebro-ojo-feedback](assets/graf-m01-01-cerebro-ojo-feedback.png) Diagrama Brain-Eye: predicción hacia afuera, ajuste de error hacia adentro.
 
 El modelo predictivo opera mediante comparación constante. Cada vez que percibes algo, el cerebro ya tiene una expectativa de qué esperar —y se ajusta cuando encuentra algo diferente. Los sentidos no muestran la realidad tal cual; alimentan y ajustan el modelo interno mediante retroalimentación continua.
 
@@ -86,7 +116,7 @@ Esto explica por que:
 - Ignoramos lo que contradice nuestras expectativas
 - Los cambios de perspectiva son tan dificiles
 
-#### La memoria como prediccion del futuro
+#### 2.3 La memoria como prediccion del futuro
 
 La memoria cumple una función específica en este sistema: **no existe para archivar el pasado, sino para predecir el futuro**. Los recuerdos proporcionan pistas sobre lo que podría ocurrir, permitiendo respuestas rápidas sin tener que aprender todo de nuevo. De aquí surgen los automatismos: patrones de respuesta casi inconsciente basados en experiencia previa.
 
@@ -96,9 +126,10 @@ Por eso:
 - Los recuerdos cambian cada vez que los evocamos
 - Recordamos mejor lo emocionalmente relevante
 - "Inventamos" detalles para completar el cuadro
+#ppt ![ppt-m01-01-memoria-simula-futuro](assets/ppt-m01-01-memoria-simula-futuro.png) "La memoria no archiva el pasado, simula el futuro" - Concepto de memoria predictiva.
 
 ---
-## La evolución humana reflejada en la estructura cerebral
+## 3. La evolución humana reflejada en la estructura cerebral
 
 La estructura del cerebro humano revela la historia evolutiva de la especie. El tamaño y complejidad de la corteza cerebral —la capa externa del cerebro— constituye testimonio directo de la capacidad cognitiva avanzada.
 
@@ -118,22 +149,31 @@ Otras estructuras cerebrales también revelan información sobre la evolución:
 
 La estructura del cerebro humano, particularmente la corteza cerebral, revela una historia de selección natural que ha favorecido el desarrollo de habilidades cognitivas superiores, la capacidad de controlar movimientos y emociones, y una percepción sofisticada del mundo. **Estas adaptaciones han permitido prosperar como especie y dominar el entorno de maneras que ningún otro animal ha logrado.**
 
+#grafica ![graf-m01-01-estructuras-cerebrales-v1](assets/graf-m01-01-estructuras-cerebrales-v1.png) Opción 1: Estructuras cerebrales (Ganglios, Tálamo, Hipotálamo) con colores y descripciones funcionales.
+
+#grafica ![graf-m01-01-estructuras-cerebrales-v2](assets/graf-m01-01-estructuras-cerebrales-v2.png) Opción 2: Estructuras cerebrales en corte sagital con etiquetas descriptivas.
+
 ---
 
-## Implicaciones para el lider
+## 4. Implicaciones para el lider
 
 **La ilusion de objetividad
+
+#imagen ![img-m01-01-ilusion-percepcion](assets/img-m01-01-ilusion-percepcion.png) Cilindro iluminado desde dos ángulos: misma realidad, percepciones diferentes.
 
 Cuando crees que "ves las cosas como son", estas cayendo en una ilusion. Lo que ves es tu construccion, filtrada por tus predicciones, expectativas y sesgos.
 
 **La importancia de la perspectiva multiple
 
+#imagen ![img-m01-01-perspectiva-multiple](assets/img-m01-01-perspectiva-multiple.png) Puzzle esférico con manos colaborando: cada cerebro construye su realidad.
 Si cada cerebro construye su propia realidad, entonces:
 - Diferentes personas literalmente "ven" cosas diferentes
 - El desacuerdo no siempre es mala fe; puede ser diferente construccion
 - Necesitamos activamente buscar otras perspectivas para completar nuestro modelo
 
 **El fundamento de la humildad
+
+#imagen ![img-m01-01-cerebro-humildad](assets/img-m01-01-cerebro-humildad.png) Cerebro con brote/planta creciendo. Metáfora de la humildad epistemológica.
 
 Entender que construyes tu realidad es el primer paso hacia la humildad epistemologica del lider semilla.
 
@@ -156,3 +196,10 @@ Entender que construyes tu realidad es el primer paso hacia la humildad epistemo
 - Friston, K. (2010). *The free-energy principle: a unified brain theory?* Nature Reviews Neuroscience.
 - Barrett, L.F. (2017). *How Emotions Are Made: The Secret Life of the Brain.* Houghton Mifflin Harcourt.
 
+
+
+---
+
+## Material adicional del tema #aux
+### Infografías del tema 
+#infografia ![infog-m01-01-cerebro-predictivo](assets/infog-m01-01-cerebro-predictivo.jpg) Infografía resumen: "Tu Cerebro: La Máquina de Predecir".

@@ -1,3 +1,11 @@
+---
+id: m03-07
+titulo: "Síntesis del Módulo 3"
+modulo: 3
+orden: 07
+tags: [unidad-funcional, marcador-somatico, cadena-automatica, filtro-atencional, bidireccionalidad, mindfulness, espacio-respuesta, lider-semilla]
+ultima_actualizacion: "10/02/2026"
+---
 # Sintesis del Modulo 3
 
 ## Lo que hemos recorrido
@@ -17,6 +25,9 @@ M3 "Consciente de lo que pienso y siento" ha completado el triangulo de la atenc
 5. **Los pensamientos moldean las emociones:** La relacion es bidireccional. Reestructuracion cognitiva, etiquetado emocional, reinterpretacion y flexibilidad cognitiva permiten intervenir.
 
 6. **Mindfulness para generar espacio:** Entre estimulo y respuesta hay un espacio. Ese espacio se crea, se entrena. Observar pensamientos y emociones como eventos mentales permite elegir en lugar de reaccionar.
+
+
+#grafica ![graf-m03-07-intervencion-libertad-pausa](assets/graf-m03-07-intervencion-libertad-pausa.png) "La Intervención: La libertad reside en la pausa" — estímulo → espacio de elección consciente (mindfulness + reestructuración) → respuesta.
 
 ---
 
@@ -112,6 +123,8 @@ El lider que reacciona automaticamente pierde acceso a su capacidad de eleccion.
 
 El espacio entre estimulo y respuesta es donde reside el liderazgo consciente.
 
+#grafica ![graf-m03-07-lider-semilla-espacio-interior](assets/graf-m03-07-lider-semilla-espacio-interior.png) Líder Semilla M3: definición (observar pensamientos y emociones sin ser arrastrado) y capacidades adquiridas del módulo.
+
 ---
 
 ## El viaje continua
@@ -123,3 +136,8 @@ Pero hay una pregunta pendiente: como te cuidas a ti mismo para poder sostener t
 El estres cronico erosiona la capacidad que has desarrollado. M4 abordara esta cuestion crucial.
 
 M4 te espera.
+
+## Material adicional del tema #aux
+### Infografías del tema 
+
+#infografia ![infog-m03-07-impulso-eleccion-lider-consciente](assets/infog-m03-07-impulso-eleccion-lider-consciente.jpg) Infografía "Del Impulso a la Elección: El Espacio del Líder Consciente" — resumen completo del módulo.

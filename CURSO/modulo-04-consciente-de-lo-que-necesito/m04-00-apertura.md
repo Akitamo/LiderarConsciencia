@@ -1,3 +1,10 @@
+---
+id: m04-00
+titulo: "Consciente de lo que necesito"
+modulo: 4
+orden: 00
+ultima_actualizacion: "10/02/2026"
+---
 # Modulo 4: Consciente de lo que necesito
 
 ## Del autocuidado como lujo al autocuidado como necesidad del liderazgo
@@ -32,6 +39,8 @@ Ahora toca una pregunta crucial: como cuidas todo esto bajo la presion del lider
 ## Pregunta central
 
 > Que necesito para funcionar bien bajo la presion del liderazgo, y como lo cuido?
+
+#grafica ![graf-m04-00-triangulo-atencion-bajo-presion](assets/graf-m04-00-triangulo-atencion-bajo-presion.png) Triángulo de la atención (pensamientos, sensaciones, emociones) sometido a presión, urgencia e incertidumbre del liderazgo.
 
 ---
 

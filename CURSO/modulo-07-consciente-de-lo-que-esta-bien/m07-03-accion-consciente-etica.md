@@ -4,11 +4,33 @@ titulo: "La acción consciente y ética"
 modulo: 7
 orden: 03
 fase: TEMA
-tags: [accion-etica, modelo-integrador, antes-durante-despues, capacidades]
+tags: [accion-etica, modelo-integrador, capa-etica, repertorio-capacidades, antes-durante-despues]
 ultima_actualizacion: "27/01/2026"
 ---
 
 # Tema 3: La acción consciente y ética
+
+#imagen ![img-m07-03-portada-blueprint-modelo](assets/img-m07-03-portada-blueprint-modelo.png) Blueprint técnico con ejes Propósito, Capacidades, Ética: portada del modelo integrador
+
+- [Por que este tema es necesario](#por-que-este-tema-es-necesario)
+		- [Integrar todo lo aprendido en accion real con orientacion etica](#integrar-todo-lo-aprendido-en-accion-real-con-orientacion-etica)
+- [1. El momento de integrar](#1-el-momento-de-integrar)
+- [2. El modelo integrador: una visión de conjunto](#2-el-modelo-integrador-una-visión-de-conjunto)
+	- [2.1 El eje de alineamiento (de T2)](#21-el-eje-de-alineamiento-de-t2)
+	- [2.2 El ciclo temporal (de M6)](#22-el-ciclo-temporal-de-m6)
+	- [2.3 El núcleo: la atención](#23-el-núcleo-la-atención)
+	- [2.3 El contexto: donde todo se pone a prueba](#23-el-contexto-donde-todo-se-pone-a-prueba)
+	- [2.4 Las capacidades: un repertorio circular](#24-las-capacidades-un-repertorio-circular)
+- [3. La capa ética: lo que M7 añade al proceso](#3-la-capa-ética-lo-que-m7-añade-al-proceso)
+- [4. Las capacidades M1-M5 en acción ética](#4-las-capacidades-m1-m5-en-acción-ética)
+- [5. Cuando el contexto cambia: actualizar la atención](#5-cuando-el-contexto-cambia-actualizar-la-atención)
+- [Dimensión experiencial #insight](#insight)
+- [Referencias](#referencias)
+- [Material adicional del tema #aux](#aux)
+	- [Infografías del tema](#infografías-del-tema)
+
+
+----
 
 ## Por que este tema es necesario
 
@@ -23,12 +45,12 @@ Las capacidades de M1-M5, el proceso de M6, y la orientacion etica de M7 se unen
 
 ---
 
-## El modelo integrador en la práctica
+## 1. El momento de integrar
 
----
+#grafica ![graf-m07-03-momento-integrar-v1](assets/graf-m07-03-momento-integrar-v1.png) Opción 1: "Capacidades Aisladas → Arquitectura Operativa" — engranajes sueltos M1-M7 → máquina integrada
+#ppt ![ppt-m07-03-momento-integrar-v2](assets/ppt-m07-03-momento-integrar-v2.png) Opción 2: "Cómo integrar lo aprendido en el flujo real" — puente Golden Gate: M1-M6 → Vida Real
 
-## El momento de integrar
-
+#ppt ![ppt-m07-03-momento-integrar-v3](assets/ppt-m07-03-momento-integrar-v3.png) Opción 3: "El Desafío de la Integración" — tuberías: Capacidades + Proceso + Ética → Acción Real
 Has recorrido un camino largo.
 
 En M1-M5 desarrollaste capacidades: entender tu arquitectura mental, escuchar tu cuerpo, crear espacio entre estímulo y respuesta, regularte, conectar con otros.
@@ -43,12 +65,21 @@ Este tema presenta un modelo integrador que conecta todas las piezas. No como te
 
 ---
 
-## El modelo integrador: una visión de conjunto
+## 2. El modelo integrador: una visión de conjunto
 
 El modelo tiene varios componentes que operan simultáneamente:
 
-![](recursos/imagenes/modelo%20integral%20vfinal.png)
-### El eje de alineamiento (de T2)
+#grafica ![graf-m07-03-modelo-integrador-vision-v1](assets/graf-m07-03-modelo-integrador-vision-v1.png) Opción 1: Modelo integrador completo — círculo ATENCIÓN central, M1-M6, ejes alineamiento y temporal
+
+#grafica ![graf-m07-03-modelo-integrador-vision-v2](assets/graf-m07-03-modelo-integrador-vision-v2.png) Opción 2: "Entrenamiento Mindfulness" — versión polished: ATENCIÓN central, M1-M7, Propósito→Objetivos→Intención, Antes/Durante/Después
+
+
+#grafica ![graf-m07-03-modelo-integrador-vision-v3](assets/graf-m07-03-modelo-integrador-vision-v3.png) Opción 3: "Las Coordenadas de la Acción" — dos ejes separados: Vertical (Alineamiento) + Horizontal (Ciclo Temporal)
+### 2.1 El eje de alineamiento (de T2)
+
+#ppt ![ppt-m07-03-eje-alineamiento-v1](assets/ppt-m07-03-eje-alineamiento-v1.png) Opción 1: "CAPA 2: El Eje de Alineamiento" — esquemático: Propósito(Ser)→Objetivos(Hacer)→Intención(Actuar)
+
+#ppt ![ppt-m07-03-eje-alineamiento-v2](assets/ppt-m07-03-eje-alineamiento-v2.png) Opción 2: "El Eje de Alineamiento: De lo Profundo a lo Concreto" — árbol con raíces (Propósito) → puente (Objetivos) → flechas (Intención)
 
 ```
 PROPÓSITO → OBJETIVOS → INTENCIÓN
@@ -61,7 +92,9 @@ Este eje va de lo profundo a lo concreto:
 - Los **objetivos** operan en el nivel profesional — traducen el propósito al trabajo
 - La **intención** se activa en el nivel conductual — es lo que llevas a cada acción específica
 
-### El ciclo temporal (de M6)
+### 2.2 El ciclo temporal (de M6)
+
+#ppt ![ppt-m07-03-capa-ciclo-temporal](assets/ppt-m07-03-capa-ciclo-temporal.png) "CAPA 3: El Ciclo Temporal" — ANTES (Preparar) → DURANTE (Sostener) → DESPUÉS (Revisar)
 
 ```
 ANTES → DURANTE → DESPUÉS
@@ -73,7 +106,9 @@ Cada situación significativa tiene estos tres momentos:
 - **DURANTE:** Sostener la consciencia
 - **DESPUÉS:** Revisar y aprender
 
-### El núcleo: la atención
+### 2.3 El núcleo: la atención
+
+#ppt ![ppt-m07-03-capa-nucleo-contexto](assets/ppt-m07-03-capa-nucleo-contexto.png) "CAPA 1: El Núcleo y el Contexto" — ATENCIÓN central + CONTEXTO REAL exterior
 
 En el centro de todo está la **atención**. Es el mecanismo que hace posible tanto el alineamiento como el ciclo temporal.
 
@@ -85,13 +120,15 @@ Sin atención entrenada:
 
 La atención es lo que has entrenado con mindfulness a lo largo del programa. Aquí se pone al servicio de la acción ética.
 
-### El contexto: donde todo se pone a prueba
+### 2.3 El contexto: donde todo se pone a prueba
 
 La atención no opera en el vacío. Opera en **contextos reales**: reuniones, conversaciones difíciles, decisiones bajo presión, emails que escribes, planificaciones que haces.
 
 El contexto demanda actualización constante. Lo que funcionó en una reunión puede no funcionar en la siguiente. La atención debe recalibrarse continuamente según lo que el momento requiere.
 
-### Las capacidades: un repertorio circular
+### 2.4 Las capacidades: un repertorio circular
+
+#grafica ![graf-m07-03-capa-repertorio-capacidades](assets/graf-m07-03-capa-repertorio-capacidades.png) "CAPA 4: El Repertorio de Capacidades" — M1-M5 circular alrededor de ATENCIÓN, herramientas disponibles
 
 Las capacidades de M1-M5 no son pasos secuenciales. Son un **repertorio disponible** que se activa según lo que el momento necesita:
 
@@ -107,8 +144,6 @@ Las capacidades de M1-M5 no son pasos secuenciales. Son un **repertorio disponib
 
 No hay un orden fijo. El contexto determina qué capacidad necesitas activar.
 
-### M6 y M7: el marco que contiene todo
-
 M6 y M7 no son capacidades más que añadir a la lista. Son el **marco contenedor**:
 
 - **M6** aporta la estructura temporal: ANTES-DURANTE-DESPUÉS
@@ -116,7 +151,11 @@ M6 y M7 no son capacidades más que añadir a la lista. Son el **marco contenedo
 
 ---
 
-## La capa ética: lo que M7 añade al proceso
+## 3. La capa ética: lo que M7 añade al proceso
+
+#ppt ![ppt-m07-03-capa-etica-v1](assets/ppt-m07-03-capa-etica-v1.png) Opción 1: "CAPA 5: La Mejora Ética (M7)" — capa ética atraviesa todo el ciclo, busca puntos ciegos y coherencia
+
+#grafica ![graf-m07-03-capa-etica-v2](assets/graf-m07-03-capa-etica-v2.png) Opción 2: "La Capa Ética: Una Nueva Dimensión" — Proceso Estándar M6 → Lente Ética M7: ¿Es correcto? ¿A quién afecta? ¿Hay puntos ciegos?
 
 El modelo de M6 era potente pero incompleto. Te permitía observar tu proceso de decisión, pero no te preguntaba si lo que decidías era correcto.
 
@@ -124,45 +163,45 @@ M7 añade una capa que atraviesa todo el proceso: **la orientación ética**.
 
 En cada fase del ciclo, además de las preguntas de M6, ahora hay preguntas de M7:
 
-### ANTES: Preparar la intención ética
+- **ANTES: Preparar la intención ética**
 
-**Preguntas de M6:**
+Preguntas de M6:
 
 - ¿Qué quiero conseguir en esta situación?
 - ¿Desde dónde quiero actuar?
 - ¿Qué no estoy viendo que debería ver?
 
-**Preguntas que M7 añade:**
+Preguntas que M7 añade:
 
 - ¿Es correcto lo que voy a hacer? ¿Está alineado con mi propósito y valores?
 - ¿A quién podría afectar esta acción que no estoy considerando?
 - ¿Hay algún punto ciego ético operando? ¿Estoy enmarcando esto como "decisión de negocio" para evitar ver la dimensión humana?
 - ¿Mi intención sirve solo a mis intereses o también al bien de otros?
 
-### DURANTE: Sostener la consciencia ética
+- **DURANTE: Sostener la consciencia ética**
 
-**Preguntas de M6:**
+Preguntas de M6:
 
 - ¿Dónde está mi atención ahora mismo?
 - ¿Estoy actuando desde mi intención o me han capturado?
 - ¿Qué siento en el cuerpo? ¿Qué emoción está operando?
 
-**Preguntas que M7 añade:**
+Preguntas que M7 añade:
 
 - ¿Sigo actuando desde mis valores o me he desviado?
 - ¿Estoy tratando a esta persona como sujeto (Yo-Tú) o la he reducido a objeto (Yo-Ello)?
 - ¿El ethical fading está operando? ¿He perdido de vista la dimensión humana de lo que está pasando?
 - Si alguien que respeto estuviera observando, ¿me sentiría bien con lo que estoy haciendo?
 
-### DESPUÉS: Revisar la coherencia ética
+- **DESPUÉS: Revisar la coherencia ética**
 
-**Preguntas de M6:**
+Preguntas de M6:
 
 - ¿Actué desde mi intención o me desvié?
 - ¿Qué me capturó? ¿En qué momento?
 - ¿Qué aprendí para la próxima vez?
 
-**Preguntas que M7 añade:**
+Preguntas que M7 añade:
 
 - ¿Hubo coherencia entre mi propósito, mis valores y mi acción?
 - ¿Hubo algún punto ciego ético que ahora puedo ver?
@@ -171,11 +210,15 @@ En cada fase del ciclo, además de las preguntas de M6, ahora hay preguntas de M
 
 ---
 
-## Las capacidades M1-M5 en acción ética
+## 4. Las capacidades M1-M5 en acción ética
 
+#ppt ![ppt-m07-03-capacidades-brujula-etica-v1](assets/ppt-m07-03-capacidades-brujula-etica-v1.png) Opción 1: "Las Capacidades como Brújula Ética" — tabla compacta M1-M5 con aplicación ética
+
+#grafica ![graf-m07-03-capacidades-brujula-etica-v2](assets/graf-m07-03-capacidades-brujula-etica-v2.png) Opción 2: Tabla visual M1-M3: Humildad Ética, Brújula Somática, Elección Moral (con iconos)
+#grafica ![graf-m07-03-capacidades-brujula-etica-v3](assets/graf-m07-03-capacidades-brujula-etica-v3.png) Opción 3: Tabla visual M4-M5: Sostenibilidad Ética, Ética Relacional (continuación de v2)
 Cada capacidad desarrollada tiene aplicación ética específica:
 
-### M1 — Consciencia de lo que soy: Humildad ética
+- **M1 — Consciencia de lo que soy: Humildad ética**
 
 Lo que aprendiste: Tu mente construye la realidad, opera con sesgos, no es tan racional como crees.
 
@@ -183,7 +226,7 @@ Lo que aprendiste: Tu mente construye la realidad, opera con sesgos, no es tan r
 
 **Pregunta práctica:** "¿Estoy tan seguro de tener razón que he dejado de escuchar?"
 
-### M2 — Consciencia de cómo estoy: El cuerpo como brújula ética
+- **M2 — Consciencia de cómo estoy: El cuerpo como brújula ética**
 
 Lo que aprendiste: El cuerpo es fuente de información, registra lo que la mente no procesa.
 
@@ -191,7 +234,7 @@ Lo que aprendiste: El cuerpo es fuente de información, registra lo que la mente
 
 **Pregunta práctica:** "¿Qué me está diciendo el cuerpo sobre lo que estoy a punto de hacer (o acabo de hacer)?"
 
-### M3 — Consciencia de lo que pienso-siento: El espacio de la elección moral
+- **M3 — Consciencia de lo que pienso-siento: El espacio de la elección moral**
 
 Lo que aprendiste: Puedes crear espacio entre estímulo y respuesta. Puedes observar pensamientos y emociones sin ser arrastrado.
 
@@ -199,7 +242,7 @@ Lo que aprendiste: Puedes crear espacio entre estímulo y respuesta. Puedes obse
 
 **Pregunta práctica:** "¿Estoy reaccionando automáticamente o estoy eligiendo conscientemente?"
 
-### M4 — Consciencia de lo que necesito: Sostenibilidad ética
+- **M4 — Consciencia de lo que necesito: Sostenibilidad ética**
 
 Lo que aprendiste: El autocuidado no es lujo, es necesidad. Sin regulación, colapso.
 
@@ -207,7 +250,7 @@ Lo que aprendiste: El autocuidado no es lujo, es necesidad. Sin regulación, col
 
 **Pregunta práctica:** "¿Estoy en condiciones de decidir bien, o necesito regular antes de actuar?"
 
-### M5 — Consciencia de lo que necesitamos: La ética es relacional
+- **M5 — Consciencia de lo que necesitamos: La ética es relacional**
 
 Lo que aprendiste: Del yo al nosotros. Empatía, compasión sabia, escucha profunda.
 
@@ -215,13 +258,11 @@ Lo que aprendiste: Del yo al nosotros. Empatía, compasión sabia, escucha profu
 
 **Pregunta práctica:** "¿Estoy considerando genuinamente el impacto en el otro, o solo en mí?"
 
----
-
-## El proceso completo: un ejemplo
+==**El proceso completo: un ejemplo== #practica
 
 Imagina una situación concreta: tienes que dar feedback difícil a un colaborador sobre su desempeño. La conversación es en una hora.
 
-### ANTES (30 minutos antes)
+**ANTES (30 minutos antes)
 
 **Alineamiento:**
 
@@ -241,7 +282,7 @@ Imagina una situación concreta: tienes que dar feedback difícil a un colaborad
 - "¿Hay algo que prefiero no ver sobre mi responsabilidad en la situación?"
 - "¿Estoy a punto de tratarle como problema a resolver (Ello) o como persona que merece respeto (Tú)?"
 
-### DURANTE (en la conversación)
+**DURANTE (en la conversación)
 
 **Atención como núcleo:**
 
@@ -266,7 +307,7 @@ Imagina una situación concreta: tienes que dar feedback difícil a un colaborad
 3. Vuelvo al cuerpo: respiración, pies en el suelo
 4. Retomo desde la intención: "Mi propósito es ayudarle a crecer"
 
-### DESPUÉS (tras la conversación)
+**DESPUÉS (tras la conversación)
 
 **Cuidarme antes de revisar:**
 
@@ -285,9 +326,7 @@ Imagina una situación concreta: tienes que dar feedback difícil a un colaborad
 - "¿Hay algo que reparar? Quizás fui demasiado directo en un momento. Mañana le pregunto cómo está."
 - "¿Esta conversación me acercó o me alejó de la persona que quiero ser como líder?"
 
----
-
-## La práctica: no perfección, sino dirección
+**La práctica: no perfección, sino dirección
 
 Este proceso puede parecer abrumador. Demasiadas preguntas. Demasiadas capas.
 
@@ -296,6 +335,8 @@ Pero no se trata de hacerlo perfecto. Se trata de tener una **dirección**.
 Al principio, quizás solo recuerdas una pregunta antes de una reunión difícil. Con práctica, el proceso se va internalizando. Las preguntas dejan de ser lista que consultas y se convierten en forma de estar.
 
 **La progresión natural:**
+
+#grafica ![graf-m07-03-curva-aprendizaje](assets/graf-m07-03-curva-aprendizaje.png) "La Curva de Aprendizaje" — Mecánica → Intermedia → Integrada (Maestría): de lista de verificación a virtud encarnada
 
 |Fase|Experiencia|
 |---|---|
@@ -308,7 +349,11 @@ El objetivo no es depender del modelo. Es que la consciencia que representa se v
 
 ---
 
-## Cuando el contexto cambia: actualizar la atención
+## 5. Cuando el contexto cambia: actualizar la atención
+
+#imagen ![img-m07-03-actualizacion-contexto-v1](assets/img-m07-03-actualizacion-contexto-v1.png) Opción 1: Modelo con formas orgánicas fluidas y "ACTUALIZACIÓN" — el contexto cambia, la atención se recalibra
+
+#grafica ![graf-m07-03-actualizacion-contexto-v2](assets/graf-m07-03-actualizacion-contexto-v2.png) Opción 2: "Actualización Dinámica del Contexto" — 4 pasos: NOTAR → PAUSAR → PREGUNTAR → AJUSTAR
 
 El modelo no es rígido. El contexto real es fluido, impredecible, demandante.
 
@@ -326,46 +371,7 @@ Esto significa:
 
 ---
 
-## Sintesis de conexiones con modulos anteriores
-
-Este tema integra todo el programa. Las conexiones explicitas:
-
-| Modulo | Capacidad | Aplicacion etica en este tema |
-|--------|-----------|------------------------------|
-| M1 | Humildad epistemologica | Humildad etica: puedo estar equivocado sobre lo correcto |
-| M2 | Cuerpo como informacion | El cuerpo como brujula etica: siente la incoherencia |
-| M3 | Espacio entre estimulo y respuesta | El espacio de la eleccion moral |
-| M4 | Autocuidado | Sostenibilidad etica: sin regulacion no hay integridad |
-| M5 | Extension hacia el otro | La etica es relacional: considerar el impacto |
-| M6 | ANTES-DURANTE-DESPUES | Estructura con capa etica anadida en cada fase |
-| M7 T1 | Virtud y puntos ciegos | Base del discernimiento etico |
-| M7 T2 | Proposito y alineamiento | Brujula que orienta la accion |
-
-Las secciones anteriores de este tema desarrollan cada aplicacion en detalle.
-
----
-
-## El modelo visual: para rediseñar
-
-El modelo que has visto integra visualmente estos elementos:
-
-**Eje izquierdo:** Propósito → Objetivos → Intención (de lo profundo a lo conductual)
-
-**Eje superior:** ANTES → DURANTE → DESPUÉS (el ciclo temporal)
-
-**Centro:** La Atención operando en un Contexto real
-
-**Alrededor:** Las capacidades M1-M5 como repertorio circular disponible en cualquier momento
-
-**Lo que falta añadir (capa ética de M7):**
-
-- La pregunta "¿es correcto?" atravesando todo el proceso
-- Los puntos ciegos éticos como zona de vigilancia
-- El propósito no solo como "para qué" sino como orientación hacia el bien
-
----
-
-## Dimensión experiencial
+## Dimensión experiencial #insight
 
 - Piensa en una situación difícil que tengas próximamente. ¿Cómo aplicarías el ANTES ético?
 - ¿Cuál de las capacidades M1-M5 tiendes a olvidar? ¿Cuál necesitas activar más conscientemente?
@@ -374,21 +380,6 @@ El modelo que has visto integra visualmente estos elementos:
 
 ---
 
-## Hacia el cierre del programa
-
-Has recorrido el modelo completo:
-
-- Sabes qué significa ser ético (T1)
-- Tienes una brújula de propósito (T2)
-- Tienes una estructura para la acción (T3)
-
-El Tema 4 cierra el programa. No añade contenido nuevo — integra todo el viaje y te proyecta hacia adelante.
-
-La metáfora del líder semilla que abrió el programa encuentra ahí su cierre: cada acción consciente, alineada con tus valores, es una semilla de cambio. No necesitas transformar el mundo entero. Solo actuar con consciencia y ética en tu círculo de influencia.
-
-Eso es suficiente. Y es mucho.
-
----
 
 ## Referencias
 
@@ -398,3 +389,9 @@ Este tema integra conceptos desarrollados a lo largo del programa:
 - Estructura ANTES-DURANTE-DESPUÉS: desarrollada en M6 basándose en Schön, D. (1983). _The Reflective Practitioner._
 - Capacidades M1-M5: síntesis del programa completo.
 - Capa ética: integración de Murdoch, I. (1970), Bazerman & Tenbrunsel (2011), y Aristóteles (_Ética a Nicómaco_).
+
+---
+## Material adicional del tema #aux
+### Infografías del tema 
+
+#infografia ![infog-m07-03-guia-accion-consciente-etica](assets/infog-m07-03-guia-accion-consciente-etica.jpg) Guía para la Acción Consciente y Ética: modelo circular ANTES-DURANTE-DESPUÉS, atención como núcleo, repertorio M1-M5

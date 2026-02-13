@@ -4,11 +4,36 @@ titulo: "Preparar la decisión — Clarificar intención y ampliar campo"
 modulo: 6
 orden: 01
 fase: ANTES
-tags: [intencion, campo, preparacion, direccion-intencional, puntos-ciegos]
-ultima_actualizacion: "27/01/2026"
+tags: [intencion-consciente, ampliar-campo, puntos-ciegos-poder, preparacion-contemplativa, wanting-vs-choosing]
+ultima_actualizacion: "12/02/2026"
 ---
 
 # Tema 1: Preparar la decisión
+
+- [Por que este tema es necesario](#por-que-este-tema-es-necesario)
+	- [Clarificar intencion y ampliar campo antes de decidir](#clarificar-intencion-y-ampliar-campo-antes-de-decidir)
+- [1. La ventana que casi nadie usa](#1-la-ventana-que-casi-nadie-usa)
+- [2. PARTE 1: CLARIFICAR LA INTENCIÓN](#2-parte-1-clarificar-la-intención)
+	- [2.1 Desear no es lo mismo que elegir](#21-desear-no-es-lo-mismo-que-elegir)
+	- [2.2 Qué quiero conseguir, desde dónde quiero actuar](#22-qué-quiero-conseguir-desde-dónde-quiero-actuar)
+	- [2.3 La intención como brújula](#23-la-intención-como-brújula)
+- [3. PARTE 2: AMPLIAR EL CAMPO](#3-parte-2-ampliar-el-campo)
+	- [3.1 Saber qué quieres no es suficiente](#31-saber-qué-quieres-no-es-suficiente)
+	- [3.2 Los filtros internos](#32-los-filtros-internos)
+	- [3.2 Los filtros externos](#32-los-filtros-externos)
+- [4. INTEGRACIÓN: PREPARAR COMO PRÁCTICA CONTEMPLATIVA](#4-integración-preparar-como-práctica-contemplativa)
+	- [4.1 No es pensar más, es estar presente](#41-no-es-pensar-más-es-estar-presente)
+	- [4.2 Lo diferencial de este enfoque](#42-lo-diferencial-de-este-enfoque)
+- [Práctica: Preparación contemplativa](#práctica-preparación-contemplativa)
+- [Práctica breve: Ancla de intención (30 segundos)](#práctica-breve-ancla-de-intención-30-segundos)
+- [Conexiones](#conexiones)
+- [Dimensión experiencial](#dimensión-experiencial)
+- [Referencias](#referencias)
+- [Material adicional del tema](#material-adicional-del-tema)
+	- [Infografías del tema](#infografías-del-tema)
+
+
+---
 
 ## Por que este tema es necesario
 
@@ -23,11 +48,10 @@ Sin preparacion, lo que aparezca te arrastra. Con preparacion, puedes responder 
 
 ---
 
-## ANTES: Clarificar intención y ampliar campo
+## 1. La ventana que casi nadie usa
 
----
 
-## La ventana que casi nadie usa
+#ppt ![ppt-m06-01-ventana-invisible-decision](assets/ppt-m06-01-ventana-invisible-decision.png) Existe una ventana invisible antes de cada decisión: Estímulo → Líder Reactivo vs Ventana de preparación → Acción consciente
 
 Antes de cada decisión importante hay una ventana de preparación. Un momento — a veces solo unos segundos — en el que todavía no estás dentro del problema, la conversación o la urgencia.
 
@@ -43,9 +67,11 @@ La diferencia no está en ignorar las demandas externas. Eso sería irresponsabl
 
 ---
 
-# PARTE 1: CLARIFICAR LA INTENCIÓN
+## 2. PARTE 1: CLARIFICAR LA INTENCIÓN
 
-## Desear no es lo mismo que elegir
+#### 2.1 Desear no es lo mismo que elegir
+
+#ppt ![ppt-m06-01-desear-vs-elegir](assets/ppt-m06-01-desear-vs-elegir.png) Desear no es lo mismo que elegir: Wanting vs Liking, Goal Contagion — metas que "pillamos" del entorno
 
 Hay una distinción sutil pero importante que la neurociencia ha clarificado: el sistema cerebral que genera el impulso de perseguir algo (*wanting*) es diferente del sistema que genera satisfacción cuando lo obtienes (*liking*).[^1]
 
@@ -64,11 +90,13 @@ La investigación muestra que adoptamos metas del entorno de forma automática, 
 
 La ventana de preparación es donde puedes hacer esa distinción. Una vez dentro del momento, es mucho más difícil preguntarse: *¿esto es lo que yo quiero, o es lo que me está arrastrando?*
 
----
+#### 2.2 Qué quiero conseguir, desde dónde quiero actuar
 
-## Qué quiero conseguir, desde dónde quiero actuar
+#ppt ![ppt-m06-01-anatomia-intencion-v1](assets/ppt-m06-01-anatomia-intencion-v1.png) Opción 1: Anatomía de una intención completa — brújula con objetivo + actitud
 
 Clarificar la intención tiene dos partes:
+
+#grafica ![graf-m06-01-anatomia-intencion-v2](assets/graf-m06-01-anatomia-intencion-v2.png) Opción 2: Los dos pilares de la intención — diana (objetivo) + ojo (actitud)
 
 **1. El objetivo:** ¿Qué quiero conseguir aquí?
 Cerrar un acuerdo. Dar feedback. Tomar una decisión. Resolver un conflicto.
@@ -84,10 +112,12 @@ Clarificar antes de entrar incluye ambas preguntas:
 - ¿Qué quiero conseguir?
 - ¿Desde dónde quiero actuar?
 
----
 
-## La intención como brújula
+#### 2.3 La intención como brújula
 
+#ppt ![ppt-m06-01-intencion-brujula-v1](assets/ppt-m06-01-intencion-brujula-v1.png) Opción 1: La intención no evita el desvío, permite notarlo — metacognición, deriva vs norte
+
+#grafica ![graf-m06-01-intencion-brujula-v2](assets/graf-m06-01-intencion-brujula-v2.png) Opción 2: La intención como brújula — notar desviación en la niebla
 La intención clara no evita que te desvíes. Las fuerzas de captura operarán igualmente en el momento (eso lo verás en el Tema 2).
 
 Pero te da algo a lo que volver.
@@ -100,17 +130,25 @@ Solo puedes observar una desviación si tenías un rumbo inicial.
 
 ---
 
-# PARTE 2: AMPLIAR EL CAMPO
+## 3. PARTE 2: AMPLIAR EL CAMPO
 
-## Saber qué quieres no es suficiente
+#### 3.1 Saber qué quieres no es suficiente
+
+#ppt ![ppt-m06-01-ceguera-inevitable-v1](assets/ppt-m06-01-ceguera-inevitable-v1.png) Opción 1: La ceguera inevitable — cono 45°, 4 filtros que limitan la visión
+
+#ppt ![ppt-m06-01-ceguera-inevitable-v2](assets/ppt-m06-01-ceguera-inevitable-v2.png) Opción 2: Por qué la inteligencia no basta para ver claro — Easterbrook, tarea inmediata
 
 Puedes tener una intención impecable y aun así decidir con un campo incompleto. No por falta de inteligencia ni de voluntad, sino porque hay fuerzas que limitan lo que eres capaz de percibir — y la mayoría operan sin que te des cuenta.
 
 Ampliar el campo antes de decidir es el segundo movimiento del ANTES: reconocer qué te limita y dirigir deliberadamente tu atención hacia donde no iría sola.
 
----
+#### 3.2 Los filtros internos 
 
-## Lo que tu posición te impide ver
+**Lo que tu posición te impide ver
+
+#ppt ![ppt-m06-01-filtros-internos-v1](assets/ppt-m06-01-filtros-internos-v1.png) Opción 1: Filtros Internos — Posición (Filtro 1) e Historia (Filtro 2)
+
+#ppt ![ppt-m06-01-filtros-internos-v2](assets/ppt-m06-01-filtros-internos-v2.png) Opción 2: Lo que tu mente descarta — posición + historia como filtros invisibles
 
 Ocupas un lugar en el sistema. Ese lugar te da acceso a ciertas cosas y te ciega a otras.
 
@@ -122,9 +160,7 @@ También hay territorios que no visitas porque tu agenda no te lleva ahí. El d�
 
 **Pregunta para el ANTES:** ¿Qué no llega hasta donde estoy? ¿Qué voces no escucho porque mi posición las silencia?
 
----
-
-## Lo que tu historia te lleva a filtrar
+**Lo que tu historia te lleva a filtrar
 
 En M1 exploraste algo incómodo: tu mente construye la realidad más de lo que la percibe. Esa construcción no es neutral. Está moldeada por tu historia, tus experiencias, lo que has aprendido a valorar.
 
@@ -134,9 +170,13 @@ El líder con humildad epistemológica — la capacidad que trabajaste en M1 —
 
 **Pregunta para el ANTES:** ¿Qué descarto antes de considerarlo porque no encaja con mi historia, mis preferencias, mi forma de entender las cosas?
 
----
+#### 3.2 Los filtros externos
 
-## Lo que la interdependencia hace invisible
+#ppt ![ppt-m06-01-filtros-externos-v1](assets/ppt-m06-01-filtros-externos-v1.png) Opción 1: Filtros Sistémicos — Interdependencia (Filtro 3) y Entorno (Filtro 4)
+
+#ppt ![ppt-m06-01-filtros-externos-v2](assets/ppt-m06-01-filtros-externos-v2.png) Opción 2: Lo que el sistema oculta — interdependencia + entorno como filtros
+
+**Lo que la interdependencia hace invisible
 
 Ninguna decisión ocurre aislada. Operas en un sistema de relaciones donde todo está conectado — aunque las conexiones no siempre sean visibles.
 
@@ -146,9 +186,7 @@ Implementas un cambio en un área → genera carga de trabajo en otra área que 
 
 **Pregunta para el ANTES:** ¿Qué conexiones estoy pasando por alto? ¿Quién se verá afectado que ahora no estoy considerando?
 
----
-
-## Lo que el entorno estrecha adicionalmente
+**Lo que el entorno estrecha adicionalmente
 
 Además de tu posición, tu historia y las interdependencias que no ves, hay fuerzas situacionales que reducen aún más tu campo.
 
@@ -165,9 +203,12 @@ El día a día del líder está saturado de estas fuerzas:
 
 ---
 
-# INTEGRACIÓN: PREPARAR COMO PRÁCTICA CONTEMPLATIVA
+## 4. INTEGRACIÓN: PREPARAR COMO PRÁCTICA CONTEMPLATIVA
 
-## No es pensar más, es estar presente
+#### 4.1 No es pensar más, es estar presente
+#ppt ![ppt-m06-01-preparacion-contemplativa-v1](assets/ppt-m06-01-preparacion-contemplativa-v1.png) Opción 1: No es pensar, es estar — Análisis Cognitivo vs Práctica Contemplativa
+
+#ppt ![ppt-m06-01-preparacion-contemplativa-v2](assets/ppt-m06-01-preparacion-contemplativa-v2.png) Opción 2: No es pensar más, es sentir la realidad — inteligencia somática + espacio
 
 Preparar la decisión no es hacerse preguntas y responderlas mentalmente. Eso sería análisis — puedes hacerlo perfectamente mientras permaneces capturado por tus preferencias sin darte cuenta.
 
@@ -185,7 +226,7 @@ Esto requiere integrar lo que ya has desarrollado:
 
 Esta es la diferencia entre saber que tienes puntos ciegos (intelectual) y experimentar cómo operan en ti ahora mismo (consciencia encarnada). La primera te da información. La segunda te transforma.
 
-## Lo diferencial de este enfoque
+#### 4.2 Lo diferencial de este enfoque
 
 La mayoría de la formación en liderazgo trata "ampliar perspectivas" como un ejercicio cognitivo: considera otros puntos de vista, piensa en las consecuencias, haz de abogado del diablo. Todo eso ocurre en la cabeza, y puedes hacerlo perfectamente mientras permaneces capturado por tus preferencias sin darte cuenta.
 
@@ -195,7 +236,11 @@ Esto no es más lento necesariamente. Es más honesto. Y produce decisiones de o
 
 ---
 
-## Práctica: Preparación contemplativa
+## Práctica: Preparación contemplativa #practica
+
+
+
+#ppt ![ppt-m06-01-practica-preparacion-5pasos](assets/ppt-m06-01-practica-preparacion-5pasos.png) Práctica: La Preparación Contemplativa — 5 pasos: Detente, Clarifica, Amplía, Sostén, Lleva
 
 **Antes de una decisión importante, crea un espacio real — no un momento de "pensar rápido".**
 
@@ -226,7 +271,9 @@ Formula tu intención y lo que has visto al ampliar el campo. Esto será tu brú
 
 ---
 
-## Práctica breve: Ancla de intención (30 segundos)
+## Práctica breve: Ancla de intención (30 segundos) #practica
+
+#grafica ![graf-m06-01-ancla-30-segundos](assets/graf-m06-01-ancla-30-segundos.png) El Ancla de 30 Segundos — cronómetro con Objetivo, Actitud, Campo
 
 Para decisiones menores o cuando no hay tiempo para la práctica completa:
 
@@ -242,7 +289,12 @@ La clave no es nunca desviarte. Es darte cuenta cuando ha pasado.
 
 ---
 
-## Conexión con lo que viene
+## Conexiones
+
+#grafica ![graf-m06-01-ecosistema-decision-consciente](assets/graf-m06-01-ecosistema-decision-consciente.png) El ecosistema de la decisión consciente — M1-M5 alrededor de La Decisión
+
+
+**Conexión con lo que viene
 
 Has preparado el terreno: sabes qué quieres y has ampliado lo que ves.
 
@@ -252,23 +304,20 @@ El **Tema 2** entrará en el DURANTE: qué fuerzas operan cuando estás dentro d
 
 La intención que has clarificado aquí será tu brújula. El campo que has ampliado será tu mapa. Pero en el momento, necesitarás algo más: la capacidad de observarte mientras actúas.
 
----
-
-## Conexion con M1
+**Conexion con M1
 
 M1 mostro que tu mente construye la realidad mas de lo que la percibe. Esa construccion no es neutral — esta moldeada por tu historia, tus experiencias, lo que has aprendido a valorar.
 
-| Concepto de M1 | Como se conecta aqui |
-|----------------|---------------------|
-| El cerebro como maquina predictiva | Tus predicciones determinan lo que ves y lo que ignoras |
-| Sesgos cognitivos | Operan en el ANTES estrechando tu campo sin que lo notes |
-| Humildad epistemologica | Base para preguntarte "que no estoy viendo" |
+| Concepto de M1                     | Como se conecta aqui                                     |
+| ---------------------------------- | -------------------------------------------------------- |
+| El cerebro como maquina predictiva | Tus predicciones determinan lo que ves y lo que ignoras  |
+| Sesgos cognitivos                  | Operan en el ANTES estrechando tu campo sin que lo notes |
+| Humildad epistemologica            | Base para preguntarte "que no estoy viendo"              |
+|                                    |                                                          |
 
 El ANTES es donde aplicas la humildad epistemologica: sabes que tu percepcion no es la realidad, y antes de una decision importante te preguntas que estas dejando fuera.
 
----
-
-## Conexion con M2
+**Conexion con M2
 
 M2 mostro que el cuerpo es fuente de informacion. En el ANTES, el cuerpo te dice cosas que la mente todavia no ha procesado.
 
@@ -280,9 +329,8 @@ M2 mostro que el cuerpo es fuente de informacion. En el ANTES, el cuerpo te dice
 
 Preparar contemplativamente significa escuchar al cuerpo, no solo pensar.
 
----
 
-## Conexion con M3
+**Conexion con M3
 
 M3 mostro que puedes crear espacio entre estimulo y respuesta. Ese espacio es exactamente lo que el ANTES cultiva.
 
@@ -294,9 +342,7 @@ M3 mostro que puedes crear espacio entre estimulo y respuesta. Ese espacio es ex
 
 El ANTES es practica de M3 aplicada a la decision.
 
----
-
-## Conexion con M4
+**Conexion con M4
 
 M4 mostro que el estado del lider afecta su capacidad de decidir. El estres cronico reduce el campo perceptivo.
 
@@ -308,9 +354,7 @@ M4 mostro que el estado del lider afecta su capacidad de decidir. El estres cron
 
 El autocuidado de M4 es prerequisito para un ANTES efectivo.
 
----
-
-## Conexion con M5
+**Conexion con M5
 
 M5 mostro que la consciencia se extiende hacia el otro. En el ANTES, eso significa considerar a quienes afecta tu decision.
 
@@ -322,9 +366,11 @@ M5 mostro que la consciencia se extiende hacia el otro. En el ANTES, eso signifi
 
 El ANTES integra la consciencia relacional de M5: no decides solo para ti.
 
+#grafica ![graf-m06-01-guia-referencia-rapida](assets/graf-m06-01-guia-referencia-rapida.png) Guía de Referencia Rápida — Análisis Convencional vs Preparación Contemplativa
+
 ---
 
-## Dimensión experiencial
+## Dimensión experiencial #insight
 
 - ¿Recuerdas una decisión donde, mirando hacia atrás, te das cuenta de que fuiste capturado por algo en lugar de elegir conscientemente?
 
@@ -345,3 +391,10 @@ El ANTES integra la consciencia relacional de M5: no decides solo para ti.
 [^3]: Easterbrook, J.A. (1959). The effect of emotion on cue utilization and the organization of behavior. *Psychological Review*, 66(3), 183-201.
 
 [^4]: Wu, C.M., et al. (2022). Time pressure changes how people explore and respond to uncertainty. *Scientific Reports*, 12, 4122.
+
+
+---
+## Material adicional del tema #aux
+### Infografías del tema 
+
+#infografia ![infog-m06-01-ventana-preparacion-intencion-campo](assets/infog-m06-01-ventana-preparacion-intencion-campo.jpg) La ventana de preparación: clarificar intención (objetivo vs actitud, brújula) y ampliar campo (posición, historia, interdependencia, estrés)

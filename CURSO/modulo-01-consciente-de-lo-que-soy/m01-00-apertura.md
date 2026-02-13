@@ -1,6 +1,26 @@
+---
+id: m01-00
+titulo: "Consciente de lo que soy"
+modulo: 1
+orden: 00
+ultima_actualizacion: "06/02/2026"
+---
+
 # Modulo 1: Consciente de lo que soy
 
+- [El cerebro que crees ser vs. el cerebro que realmente eres](#el-cerebro-que-crees-ser-vs-el-cerebro-que-realmente-eres)
+- [Por que este modulo es el cimiento](#por-que-este-modulo-es-el-cimiento)
+- [Pregunta central](#pregunta-central)
+- [Transformacion esperada](#transformacion-esperada)
+- [Lo que encontraras en este modulo](#lo-que-encontraras-en-este-modulo)
+- [Primera caracteristica del lider semilla](#primera-caracteristica-del-lider-semilla)
+- [Material adicional del tema](#material-adicional-del-tema)
+	- [Infografías del tema](#infografías-del-tema)
+
+
 ## El cerebro que crees ser vs. el cerebro que realmente eres
+
+#imagen ![img-m01-00-cerebro-maquina](assets/img-m01-00-cerebro-maquina.png) Mitad escultura clásica / mitad maquinaria cerebral. El cerebro que crees ser vs. el que realmente eres.
 
 ---
 
@@ -13,6 +33,9 @@ M1 no es un modulo "introductorio" en sentido debil. Es el cimiento epistemologi
 - Por que la humildad epistemologica es prerequisito para todo lo demas
 
 Sin M1, el mindfulness se convierte en tecnica superficial. Con M1, se convierte en necesidad existencial.
+
+
+#ppt ![ppt-m01-00-cimiento-epistemologico](assets/ppt-m01-00-cimiento-epistemologico.png) "Esto no es una introducción; es un cimiento epistemológico." Estado por defecto, mecánica del sistema, requisito previo.
 
 ---
 
@@ -47,6 +70,8 @@ Al terminar este modulo, habras integrado una verdad incomoda pero liberadora:
 | T9   | Descubriendo el mindfulness               | Que es el mindfulness y por que funciona?                       |
 | T10  | Entrenando la atencion                    | Como puedo entrenar mi capacidad de atencion consciente?        |
 
+#ppt ![ppt-m01-00-mapa-modulo](assets/ppt-m01-00-mapa-modulo.png) "El Mapa del Módulo" - 5 etapas: predicción/sentidos, memoria/emociones, sistemas/sesgos, atención, mindfulness.
+
 ---
 
 ## Primera caracteristica del lider semilla
@@ -54,3 +79,11 @@ Al terminar este modulo, habras integrado una verdad incomoda pero liberadora:
 **Humildad epistemologica:** Sabe que no sabe todo; que su cerebro construye la realidad, no la percibe.
 
 Esta humildad es el primer paso para poder aprender. Sin ella, no hay transformacion posible.
+
+
+---
+
+## Material adicional del tema #aux
+### Infografías del tema 
+
+#infografia ![infog-m01-00-apertura](assets/m01-00infografia.png) Infografía resumen del módulo 1: Consciente de lo que soy.

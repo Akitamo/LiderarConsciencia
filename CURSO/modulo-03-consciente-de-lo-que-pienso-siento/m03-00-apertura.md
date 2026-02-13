@@ -1,4 +1,23 @@
+---
+id: m03-00
+titulo: "Consciente de lo que pienso y siento"
+modulo: 3
+orden: 00
+ultima_actualizacion: "10/02/2026"
+---
 # Modulo 3: Consciente de lo que pienso y siento
+
+- [De la reaccion automatica al espacio de eleccion](#de-la-reaccion-automatica-al-espacio-de-eleccion)
+- [Lo que traes de M1 y M2](#lo-que-traes-de-m1-y-m2)
+- [Pregunta central](#pregunta-central)
+- [Transformacion esperada](#transformacion-esperada)
+- [La brecha que M3 cierra](#la-brecha-que-m3-cierra)
+- [Lo que encontraras en este modulo](#lo-que-encontraras-en-este-modulo)
+- [Practica de este modulo](#practica-de-este-modulo)
+- [Conexion con el programa](#conexion-con-el-programa)
+- [Tercera caracteristica del lider semilla](#tercera-caracteristica-del-lider-semilla)
+- [El triangulo de la atencion](#el-triangulo-de-la-atencion)
+
 
 ## De la reaccion automatica al espacio de eleccion
 
@@ -27,11 +46,14 @@ Has desmontado la ilusion del agente racional (M1) y descubierto al cuerpo como 
 
 Ahora toca completar el triangulo: entender como pensamientos y emociones se encadenan para producir reacciones automaticas, y como crear el espacio para elegir.
 
+
 ---
 
 ## Pregunta central
 
 > Como se encadenan mis pensamientos y emociones, y como puedo crear espacio antes de reaccionar?
+
+#grafica ![graf-m03-00-cadena-estimulo-accion](assets/graf-m03-00-cadena-estimulo-accion.png) Cadena de eslabones que conecta estímulo → percepción → emoción/pensamiento → acción, representando el proceso de reacción automática.
 
 ---
 
@@ -40,6 +62,8 @@ Ahora toca completar el triangulo: entender como pensamientos y emociones se enc
 Al terminar este modulo, habras integrado:
 
 > "Puedo crear espacio antes de reaccionar. Pensamientos y emociones surgen automaticamente, pero no tengo que actuar desde ellos. Al observarlos como eventos mentales —no como verdades absolutas—, recupero la capacidad de elegir mi respuesta."
+
+
 
 ---
 
@@ -111,3 +135,8 @@ M3 completa el triangulo introducido en M1:
 ```
 
 Al terminar M3, podras observar los tres vertices de tu experiencia interna.
+
+## Material adicional del tema #aux
+### Infografías del tema 
+
+#infografia ![infog-m03-00-reaccion-automatica-espacio-eleccion](assets/infog-m03-00-reaccion-automatica-espacio-eleccion.jpg) Infografía resumen del módulo: de la reacción automática al espacio de elección, mostrando los conceptos clave de M3.

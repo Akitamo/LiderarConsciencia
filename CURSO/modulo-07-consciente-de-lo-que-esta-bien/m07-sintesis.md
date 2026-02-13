@@ -1,10 +1,10 @@
 ---
-id: m07-sintesis
+id: m07-05
 titulo: "Síntesis del Módulo 7"
 modulo: 7
-orden: 99
+orden: 05
 fase: SINTESIS
-tags: [sintesis, resumen, metta, lider-semilla, transformacion]
+tags: [sintesis, metta, lider-semilla, transformacion, practica-continua]
 ultima_actualizacion: "27/01/2026"
 ---
 
@@ -32,103 +32,39 @@ M7 "Consciente de lo que está bien" ha completado el arco del programa: de cons
 
 > "Cada pequeña acción consciente, alineada con mis valores y propósito, es una semilla de cambio. Puedo actuar con intención clara incluso cuando no tengo certeza, porque sé desde dónde actúo y hacia dónde miro."
 
----
-
-## Práctica: Metta (amor benevolente)
-
-### Qué es
-
-Metta es la práctica de cultivar intención benevolente deliberada. El meditador genera activamente estados de bondad y los dirige hacia círculos cada vez más amplios.
-
-### Diferencia con prácticas anteriores
-
-| Práctica | Tipo | Foco |
-|----------|------|------|
-| M1: Atención focalizada | Focused Attention | Un objeto (respiración) |
-| M2: Body Scan | FA extendida | El cuerpo completo |
-| M3: Observar pensamientos | Transición FA→OM | Eventos mentales |
-| M4: Pausa de 3 minutos | Regulación | Interrupción de cadenas |
-| M5: Compasión | Generativa | Extensión hacia el otro |
-| M6: Open Monitoring | OM puro | El proceso de consciencia |
-| **M7: Metta** | **Generativa dirigida** | **Intención ética activa** |
-
-### Paralelo con el contenido
-
-| Práctica de Metta | Contenido de M7 |
-|-------------------|-----------------|
-| Cultivar intención deliberada | Establecer intención (plantilla ANTES) |
-| Dirigir la atención con propósito | La atención como acto ético (Apertura) |
-| Extender bondad hacia círculos cada vez más amplios | Ampliar el campo hacia stakeholders invisibles |
-| Incluir a personas difíciles | Superar puntos ciegos y motivated blindness |
-
-### Instrucción
-
-> "En esta meditación cultivarás intención benevolente y la dirigirás deliberadamente. Empezarás contigo mismo, luego hacia alguien que quieres, luego hacia alguien neutro, luego hacia alguien difícil, y finalmente hacia todos los seres.
->
-> Esta práctica entrena exactamente la capacidad que necesitas como líder consciente: generar intención clara y dirigirla con propósito. No esperas a que surja la bondad; la cultivas. No esperas a que la claridad aparezca; la generas.
->
-> El modelo de alineamiento funciona igual: no esperas a que tu acción se alinee con tu propósito; trabajas activamente para alinearla. Metta es el entrenamiento de esa capacidad de intención dirigida.
->
-> Frases sugeridas para cada fase:
-> - 'Que pueda estar bien. Que pueda estar en paz. Que pueda vivir con facilidad.'
-> - Luego: 'Que puedas estar bien...' (hacia el otro)
->
-> No se trata de sentir algo específico; se trata de cultivar la intención. La repetición paciente crea el surco."
 
 ---
+## Sintesis de conexiones con modulos anteriores
 
-## La transformación completa del programa
+Este tema integra todo el programa. Las conexiones explicitas:
 
-| Módulo | Transformación | Capacidad |
-|--------|----------------|-----------|
-| M1 | "No soy tan racional como creía" | Humildad epistemológica |
-| M2 | "Mi cuerpo es fuente de información" | Arraigo corporal |
-| M3 | "Puedo crear espacio antes de reaccionar" | Espacio interior |
-| M4 | "El autocuidado no es lujo, es necesidad" | Autocuidado |
-| M5 | "Del yo al nosotros. La compasión incluye sabiduría" | Compasión sabia |
-| M6 | "Puedo observar dónde está mi atención mientras decido" | Dirección intencional |
-| **M7** | **"Cada acción consciente, alineada con mis valores, es una semilla de cambio"** | **Acción ética** |
+| Modulo | Capacidad | Aplicacion etica en este tema |
+|--------|-----------|------------------------------|
+| M1 | Humildad epistemologica | Humildad etica: puedo estar equivocado sobre lo correcto |
+| M2 | Cuerpo como informacion | El cuerpo como brujula etica: siente la incoherencia |
+| M3 | Espacio entre estimulo y respuesta | El espacio de la eleccion moral |
+| M4 | Autocuidado | Sostenibilidad etica: sin regulacion no hay integridad |
+| M5 | Extension hacia el otro | La etica es relacional: considerar el impacto |
+| M6 | ANTES-DURANTE-DESPUES | Estructura con capa etica anadida en cada fase |
+| M7 T1 | Virtud y puntos ciegos | Base del discernimiento etico |
+| M7 T2 | Proposito y alineamiento | Brujula que orienta la accion |
 
----
-
-## Las siete características del líder semilla
-
-| Módulo | Característica | Lo que significa |
-|--------|----------------|------------------|
-| M1 | **Humildad epistemológica** | Sabe que su cerebro construye la realidad. Puede estar equivocado. |
-| M2 | **Arraigo corporal** | Usa el cuerpo como fuente de información. |
-| M3 | **Espacio interior** | Crea pausa entre estímulo y respuesta. No reacciona; elige. |
-| M4 | **Autocuidado** | Cuida su recurso más valioso: él mismo. |
-| M5 | **Compasión sabia** | Extiende consciencia hacia el otro con sabiduría. |
-| M6 | **Dirección intencional** | Sabe lo que quiere porque observa su proceso. |
-| M7 | **Acción ética** | Traduce consciencia en acción alineada con valores. |
+Las secciones anteriores de este tema desarrollan cada aplicacion en detalle.
 
 ---
+## Hacia el cierre del programa
 
-## Capacidades adquiridas en M7
+Has recorrido el modelo completo:
 
-Al completar este módulo, tienes:
+- Sabes qué significa ser ético (T1)
+- Tienes una brújula de propósito (T2)
+- Tienes una estructura para la acción (T3)
 
-- [ ] Comprensión de la atención como acto moral
-- [ ] Fundamento de liderazgo ético: virtud y prudencia
-- [ ] Consciencia de los puntos ciegos éticos
-- [ ] Claridad sobre tu propósito como brújula
-- [ ] Modelo de alineamiento: Propósito → Objetivos → Intención
-- [ ] Proceso ANTES-DURANTE-DESPUÉS con capa ética
-- [ ] Visión del líder como semilla de cambio
-- [ ] Práctica de Metta
+El Tema 4 cierra el programa. No añade contenido nuevo — integra todo el viaje y te proyecta hacia adelante.
 
----
+La metáfora del líder semilla que abrió el programa encuentra ahí su cierre: cada acción consciente, alineada con tus valores, es una semilla de cambio. No necesitas transformar el mundo entero. Solo actuar con consciencia y ética en tu círculo de influencia.
 
-## Mapa de referencias M7
-
-| Tema | Referencias principales |
-|------|------------------------|
-| Apertura: Atención como acto moral | Murdoch (1970), Weil (1947) |
-| T1: Territorio de la acción ética | Aristóteles, Bazerman & Tenbrunsel (2011), Schwartz (2010) |
-| T2: Propósito y alineamiento | Frankl (1946), Sinek (2009), Scharmer (2009), Covey (1989) |
-| T3: Acción consciente y ética | Schön (1983), integración M1-M6 |
-| T4: El líder semilla | Greenleaf (1970), Salzberg (1995), Marco Aurelio |
+Eso es suficiente. Y es mucho.
 
 ---
 
@@ -166,6 +102,50 @@ M6: Consciente de lo que quiero
 M7: Consciente de lo que está bien
 ```
 
+
+---
+
+## La práctica continua
+
+El programa termina aquí. La práctica no.
+
+### Práctica formal
+
+El mindfulness requiere mantenimiento. Los efectos se acumulan con práctica sostenida, pero también se erosionan sin ella.
+
+No necesitas horas diarias. Necesitas **consistencia**:
+
+- 10-15 minutos diarios es suficiente para mantener
+- Menos es mejor que nada
+- La regularidad importa más que la duración
+
+### Práctica informal
+
+El programa te ha dado herramientas para usar en la vida real:
+
+- Las plantillas ANTES-DURANTE-DESPUÉS
+- La escucha corporal
+- La pausa de tres minutos
+- Las preguntas de meta-consciencia
+
+Úsalas. No como lista que consultas, sino como hábitos que integras.
+
+### Reflexión periódica
+
+De vez en cuando, detente y revisa:
+
+- ¿Sigo conectado con mi propósito?
+- ¿Dónde ha habido alineamiento? ¿Dónde desalineamiento?
+- ¿Qué característica del líder semilla necesito cultivar más?
+
+### Comunidad de práctica
+
+No practiques solo.
+
+La práctica sostenida es más fácil con otros. Busca personas que practican — en tu organización, fuera de ella, online. El contagio funciona en ambas direcciones: estar con otros que practican fortalece tu práctica.
+
+Y tu práctica modela para otros. Sin decir nada, tu forma de estar invita a otros a estar de forma similar.
+
 ---
 
 ## El viaje continúa
@@ -184,3 +164,10 @@ Cada día es una nueva oportunidad de:
 Eres una semilla. El suelo es este momento. La práctica es el agua.
 
 Buena siembra.
+
+
+---
+## Material adicional del tema #aux
+### Infografías del tema 
+
+#infografia ![infog-m07-05-ver-bien-actuar-bien-sintesis](assets/infog-m07-05-ver-bien-actuar-bien-sintesis.jpg) Síntesis: de ver bien a actuar bien, alineación propósito→objetivos→intención, capa ética en proceso de decisión

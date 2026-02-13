@@ -4,15 +4,41 @@ titulo: "El líder semilla"
 modulo: 7
 orden: 04
 fase: CIERRE
-tags: [lider-semilla, metta, integracion, cierre, servicio]
+tags: [lider-semilla, metta-benevolencia, siete-caracteristicas, refugio-cercano, cierre]
 ultima_actualizacion: "27/01/2026"
 ---
 
 # Tema 4: El líder semilla
 
+- [Por que este tema es necesario](#por-que-este-tema-es-necesario)
+		- [Cierre del programa e integracion del viaje completo](#cierre-del-programa-e-integracion-del-viaje-completo)
+- [1. El arco que se cierra](#1-el-arco-que-se-cierra)
+- [2. El viaje que has recorrido](#2-el-viaje-que-has-recorrido)
+	- [2.1 Fase 1: Consciencia ACTIVADA (M1-M3)](#21-fase-1-consciencia-activada-m1-m3)
+	- [2.2 Fase 2: Consciencia APLICADA (M4-M5)](#22-fase-2-consciencia-aplicada-m4-m5)
+	- [2.3 Fase 3: Consciencia DIRIGIDA (M6-M7)](#23-fase-3-consciencia-dirigida-m6-m7)
+- [3. Las siete características del líder semilla](#3-las-siete-características-del-líder-semilla)
+- [4. El ser que has construido](#4-el-ser-que-has-construido)
+- [5. La práctica de Metta: cierre ceremonial](#5-la-práctica-de-metta-cierre-ceremonial)
+- [6. Cada acción es una semilla](#6-cada-acción-es-una-semilla)
+- [El refugio de lo cercano](#el-refugio-de-lo-cercano)
+- [La transformación completa](#la-transformación-completa)
+- [Cierre](#cierre)
+- [El viaje continúa](#el-viaje-continúa)
+- [Referencias](#referencias)
+- [Material adicional del tema #aux](#aux)
+	- [Infografías del tema](#infografías-del-tema)
+
+
+---
+
 ## Por que este tema es necesario
 
 #### Cierre del programa e integracion del viaje completo
+
+#ppt ![ppt-m07-04-retorno-origen-v1](assets/ppt-m07-04-retorno-origen-v1.png) Opción 1: El retorno al origen — semilla con hojas, mandala floral, metáfora líder semilla
+
+#ppt ![ppt-m07-04-retorno-origen-v2](assets/ppt-m07-04-retorno-origen-v2.png) Opción 2: El arco se cierra — ondas concéntricas, semilla dorada central
 
 **Lo que este tema hace:**
 No anade contenido nuevo. Integra todo el viaje, cierra el arco narrativo y te proyecta hacia adelante.
@@ -23,15 +49,13 @@ El programa no termina con una conclusion — termina con una invitacion a conti
 
 ---
 
-## Cierre del programa
-
----
-
-## El arco que se cierra
+## 1. El arco que se cierra
 
 En M0 — el pórtico del programa — apareció una metáfora: el **líder semilla**.
 
 La idea era simple pero poderosa: en un mundo que cambia más rápido de lo que podemos asimilar, donde la incertidumbre y la presión son constantes, el líder no puede cambiar el sistema entero. Pero puede crear **refugios de lo cercano** — espacios donde es posible filtrar el ruido, anclar al equipo en un propósito, cultivar seguridad psicológica.
+
+#ppt ![ppt-m07-04-refugios-cercano](assets/ppt-m07-04-refugios-cercano.png) "Refugios de lo cercano" — nido con plantas, micro-climas de seguridad psicológica
 
 No cambia el mundo entero. Transforma el mundo de quienes tienen la fortuna de cruzarse en su camino.
 
@@ -41,11 +65,15 @@ Ahora, siete módulos después, esa metáfora se completa.
 
 ---
 
-## El viaje que has recorrido
+## 2. El viaje que has recorrido
+
+#ppt ![ppt-m07-04-mapa-viaje-fases](assets/ppt-m07-04-mapa-viaje-fases.png) El mapa del viaje — planta creciendo: Fase 1 semilla → Fase 2 brote → Fase 3 flor
 
 Mira hacia atrás. Has cruzado tres fases de consciencia:
 
-### Fase 1: Consciencia DE (M1-M3)
+### 2.1 Fase 1: Consciencia ACTIVADA (M1-M3)
+
+#grafica ![graf-m07-04-fase1-consciencia-activada](assets/graf-m07-04-fase1-consciencia-activada.png) Fase 1 Consciencia Activada: M1 Humildad Epistemológica, M2 Arraigo Corporal, M3 Espacio Interior — ojo decorado
 
 Aprendiste a ser consciente de objetos internos.
 
@@ -61,7 +89,9 @@ _Transformación: "Mi cuerpo es fuente de información."_
 
 _Transformación: "Puedo crear espacio antes de reaccionar."_
 
-### Fase 2: Consciencia APLICADA (M4-M5)
+### 2.2 Fase 2: Consciencia APLICADA (M4-M5)
+
+#ppt ![ppt-m07-04-fase2-consciencia-aplicada](assets/ppt-m07-04-fase2-consciencia-aplicada.png) Fase 2 Consciencia Aplicada: M4 Autocuidado, M5 Compasión Sabia — Venn Yo/Otros con árbol
 
 Aplicaste la consciencia desarrollada para regularte y relacionarte.
 
@@ -73,7 +103,9 @@ _Transformación: "El autocuidado no es lujo, es necesidad."_
 
 _Transformación: "Del yo al nosotros. La compasión incluye sabiduría."_
 
-### Fase 3: Consciencia DIRIGIDA (M6-M7)
+### 2.3 Fase 3: Consciencia DIRIGIDA (M6-M7)
+
+#ppt ![ppt-m07-04-fase3-consciencia-dirigida](assets/ppt-m07-04-fase3-consciencia-dirigida.png) Fase 3 Consciencia Dirigida: M6 Dirección Intencional, M7 Acción Ética — brújula con semilla
 
 Aprendiste a dirigir tu consciencia con intención y orientación ética.
 
@@ -87,7 +119,11 @@ _Transformación: "Cada acción consciente, alineada con mis valores, es una sem
 
 ---
 
-## Las siete características del líder semilla
+## 3. Las siete características del líder semilla
+
+#grafica ![graf-m07-04-siete-caracteristicas-v1](assets/graf-m07-04-siete-caracteristicas-v1.png) Opción 1: Las 7 Características del Líder Semilla — flor/mandala con pétalos, esquema radial
+
+#ppt ![ppt-m07-04-siete-caracteristicas-v2](assets/ppt-m07-04-siete-caracteristicas-v2.png) Opción 2: Perfil Integrado del Líder Semilla — silueta humana con plantas, 7 características numeradas
 
 Cada módulo cultivó una característica. Juntas, forman el perfil del líder consciente:
 
@@ -105,7 +141,9 @@ Estas siete características no son logros que se alcanzan una vez. Son práctic
 
 ---
 
-## El ser que has construido
+## 4. El ser que has construido
+
+#ppt ![ppt-m07-04-transformacion-interior](assets/ppt-m07-04-transformacion-interior.png) "La Transformación Interior" — tabla Antes/Ahora, 5 cambios de paradigma del programa
 
 Has recorrido un viaje de construcción interior.
 
@@ -121,61 +159,27 @@ Por eso el programa no te ha dado solo información. Te ha dado práctica. Porqu
 
 ---
 
-## La práctica de Metta: cierre ceremonial
+## 5. La práctica de Metta: cierre ceremonial
 
 La práctica que cierra el programa es **Metta** — amor benevolente.
 
-### Por qué Metta
-
 A lo largo del programa, las prácticas han seguido una progresión:
 
-|Módulo|Práctica|Tipo|Lo que entrena|
-|---|---|---|---|
-|M1|Atención focalizada|Focused Attention|Concentración sostenida|
-|M2|Body Scan|FA extendida|Consciencia corporal|
-|M3|Observar pensamientos|Transición FA→OM|Ver eventos mentales|
-|M4|Pausa de 3 minutos|Regulación|Interrupción de cadenas|
-|M5|Compasión|Generativa|Extensión hacia el otro|
-|M6|Open Monitoring|OM puro|Observar el proceso|
-|**M7**|**Metta**|**Generativa dirigida**|**Intención ética activa**|
-
+| Módulo | Práctica              | Tipo                    | Lo que entrena             |
+| ------ | --------------------- | ----------------------- | -------------------------- |
+| M1     | Atención focalizada   | Focused Attention       | Concentración sostenida    |
+| M2     | Body Scan             | FA extendida            | Consciencia corporal       |
+| M3     | Observar pensamientos | Transición FA→OM        | Ver eventos mentales       |
+| M4     | Pausa de 3 minutos    | Regulación              | Interrupción de cadenas    |
+| M5     | Compasión             | Generativa              | Extensión hacia el otro    |
+| M6     | Open Monitoring       | OM puro                 | Observar el proceso        |
+| **M7** | **Metta**             | **Generativa dirigida** | **Intención ética activa** |
+#grafica ![graf-m07-04-metta-circulos-concentricos](assets/graf-m07-04-metta-circulos-concentricos.png) "La Práctica: Metta" — círculos concéntricos: uno mismo → seres queridos → neutros → difíciles → todos
 Metta es **generativa** (cultivas activamente un estado) y **dirigida** (lo diriges deliberadamente hacia destinatarios específicos).
 
 Entrena exactamente lo que M7 requiere: generar intención clara de bien y dirigirla con propósito. No esperas a que surja la bondad; la cultivas. No esperas a que la claridad aparezca; la generas.
 
-### La práctica
-
-**Preparación:** Siéntate en postura cómoda pero alerta. Cierra los ojos. Toma unas respiraciones para llegar al presente.
-
-**Fase 1 — Hacia ti mismo:** Comienza dirigiendo la intención benevolente hacia ti mismo. Puedes usar frases como:
-
-- "Que pueda estar bien."
-- "Que pueda estar en paz."
-- "Que pueda vivir con facilidad."
-
-No se trata de sentir algo específico. Se trata de cultivar la intención, aunque la emoción no aparezca. La repetición paciente crea el surco.
-
-**Fase 2 — Hacia alguien querido:** Trae a tu mente a alguien a quien quieres — alguien cuyo bienestar te importa genuinamente. Dirige hacia esa persona las mismas frases:
-
-- "Que puedas estar bien."
-- "Que puedas estar en paz."
-- "Que puedas vivir con facilidad."
-
-**Fase 3 — Hacia alguien neutro:** Piensa en alguien a quien conoces pero hacia quien no tienes sentimientos fuertes — el barista, un vecino, alguien del trabajo con quien no interactúas mucho. Dirige hacia esa persona la misma intención.
-
-**Fase 4 — Hacia alguien difícil:** Esta es la fase más desafiante. Trae a tu mente a alguien con quien tienes dificultad — no necesariamente tu mayor enemigo, quizás alguien que te irrita o con quien hay tensión. Intenta dirigir hacia esa persona la misma intención benevolente.
-
-No tienes que sentir amor. Solo cultivar la intención de que esa persona también pueda estar bien. Si es demasiado difícil, vuelve a la fase anterior.
-
-**Fase 5 — Hacia todos los seres:** Expande la intención hacia todos los seres — tu comunidad, tu ciudad, el mundo. Sin límites.
-
-- "Que todos los seres puedan estar bien."
-- "Que todos los seres puedan estar en paz."
-- "Que todos los seres puedan vivir con facilidad."
-
-**Cierre:** Vuelve a ti mismo. Nota cómo estás. Abre los ojos cuando estés listo.
-
-### Lo que Metta entrena
+**Lo que Metta entrena
 
 Metta no es solo "pensar cosas bonitas". Es entrenamiento de capacidades específicas:
 
@@ -188,23 +192,9 @@ Estas son exactamente las capacidades que la acción ética requiere.
 
 ---
 
-## El liderazgo servicial
+## 6. Cada acción es una semilla
 
-El líder semilla no lidera para sí mismo.
-
-La consciencia desarrollada se pone al servicio de algo mayor. El propósito (T2) apunta más allá del ego. El "unselfing" de Murdoch (Apertura) no es solo para ver mejor; es para servir mejor.
-
-Robert Greenleaf, fundador del concepto de liderazgo servicial:
-
-> "El líder servidor es servidor primero... Comienza con el sentimiento natural de querer servir, de servir primero. Luego la elección consciente le lleva a aspirar a liderar."
-
-No lideras para que te sigan. Lideras para que otros crezcan, florezcan, alcancen su potencial. Tu éxito se mide por el éxito de quienes lideras.
-
-Esto no es sacrificio que te vacía. Es propósito que te llena.
-
----
-
-## Cada acción es una semilla
+#ppt ![ppt-m07-04-acumulacion-pequeno](assets/ppt-m07-04-acumulacion-pequeno.png) "La acumulación de lo pequeño" — mito vs verdad, cada acción consciente es una semilla
 
 No necesitas cambiar el mundo de golpe.
 
@@ -227,54 +217,11 @@ Tú eres una de esas personas. Tu círculo de influencia — tu equipo, tus cole
 
 ---
 
-## La práctica continua
-
-El programa termina aquí. La práctica no.
-
-### Práctica formal
-
-El mindfulness requiere mantenimiento. Los efectos se acumulan con práctica sostenida, pero también se erosionan sin ella.
-
-No necesitas horas diarias. Necesitas **consistencia**:
-
-- 10-15 minutos diarios es suficiente para mantener
-- Menos es mejor que nada
-- La regularidad importa más que la duración
-
-### Práctica informal
-
-El programa te ha dado herramientas para usar en la vida real:
-
-- Las plantillas ANTES-DURANTE-DESPUÉS
-- La escucha corporal
-- La pausa de tres minutos
-- Las preguntas de meta-consciencia
-
-Úsalas. No como lista que consultas, sino como hábitos que integras.
-
-### Reflexión periódica
-
-De vez en cuando, detente y revisa:
-
-- ¿Sigo conectado con mi propósito?
-- ¿Dónde ha habido alineamiento? ¿Dónde desalineamiento?
-- ¿Qué característica del líder semilla necesito cultivar más?
-
-### Comunidad de práctica
-
-No practiques solo.
-
-La práctica sostenida es más fácil con otros. Busca personas que practican — en tu organización, fuera de ella, online. El contagio funciona en ambas direcciones: estar con otros que practican fortalece tu práctica.
-
-Y tu práctica modela para otros. Sin decir nada, tu forma de estar invita a otros a estar de forma similar.
-
----
-
 ## El refugio de lo cercano
 
 Volvemos a donde empezamos.
 
-En M0 planteamos que el mundo está en crisis — de sentido, de bienestar, de confianza. Que el 62% de los empleados no se sienten bien con su vida, y que el factor que más influye es el liderazgo.
+En M0 planteamos que el mundo está en crisis — de sentido, de bienestar, de confianza. Que el 62% de los empleados no se sienten bien con su vida[^1], y que el factor que más influye es el liderazgo.
 
 No puedes arreglar el mundo. Pero puedes crear **refugios de lo cercano**: espacios donde es posible trabajar con sentido, donde las personas se sienten vistas, donde hay coherencia entre lo que se dice y lo que se hace.
 
@@ -318,11 +265,13 @@ Y así, refugio a refugio, consciencia a consciencia, semilla a semilla, nace el
 
 ## El viaje continúa
 
+#ppt ![ppt-m07-04-viaje-continua](assets/ppt-m07-04-viaje-continua.png) "El viaje continúa" — cita Marco Aurelio, "Buena siembra", brote naciendo de semillas
+
 Has completado el programa.
 
 Pero el viaje no termina; comienza de nuevo cada día. Cada mañana despiertas con la posibilidad de practicar. Cada interacción es una oportunidad de ser consciente. Cada decisión es una semilla.
 
-Marco Aurelio, emperador romano y filósofo estoico, escribió para sí mismo:
+Marco Aurelio, emperador romano y filósofo estoico, escribió para sí mismo:[^2]
 
 > "No actúes como si fueras a vivir diez mil años. La muerte te acecha. Mientras vivas, mientras puedas, hazte bueno."
 
@@ -334,10 +283,21 @@ Buena siembra.
 
 ---
 
-## Referencias
+## Referencias incluidas
+
+[^1]: Gallup (2024). _State of the Global Workplace Report._
+
+[^2]: Marco Aurelio. _Meditaciones._
+
+## Otras referencias
 
 - Greenleaf, R. (1970). _The Servant as Leader._ (Ensayo fundacional del liderazgo servicial)
-- Marco Aurelio. _Meditaciones._
 - Salzberg, S. (1995). _Lovingkindness: The Revolutionary Art of Happiness._ Shambhala. (Referencia clásica sobre práctica de Metta)
 - Scharmer, O. & Kaufer, K. (2013). _Leading from the Emerging Future._ Berrett-Koehler.
-- Gallup (2024). _State of the Global Workplace Report._
+
+
+---
+## Material adicional del tema #aux
+### Infografías del tema 
+
+#infografia ![infog-m07-04-lider-semilla-viaje-consciente](assets/infog-m07-04-lider-semilla-viaje-consciente.jpg) El Líder Semilla: integración del viaje consciente, siete características, práctica Metta, buena siembra

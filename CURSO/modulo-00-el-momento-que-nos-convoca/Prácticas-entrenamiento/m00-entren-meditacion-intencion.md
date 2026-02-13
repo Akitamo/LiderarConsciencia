@@ -1,3 +1,10 @@
+---
+titulo: "Meditación de intención"
+modulo: 0
+tags: [práctica, modulo-0, meditacion-intencion]
+ultima_actualizacion: "06/02/2026"
+---
+
 ## Practica: Meditacion de intencion
 
 Antes de pasar a M1, toma unos minutos para esta practica:

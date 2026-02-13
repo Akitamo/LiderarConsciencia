@@ -1,3 +1,11 @@
+---
+id: m02-06
+titulo: "Síntesis del Módulo 2"
+modulo: 2
+orden: 06
+tags: [interocepcion, exterocepcion, propiocepcion, insula, cuerpo-anclaje, body-scan, consciencia-corporal, dualismo-integracion, regulacion-emocional, mindfulness-neurociencia]
+ultima_actualizacion: "08/02/2026"
+---
 # Sintesis del Modulo 2
 
 ## Lo que hemos recorrido
@@ -29,6 +37,8 @@ M2 "Consciente de como estoy" ha ampliado la consciencia de la arquitectura ment
 ### Por que Body Scan
 
 Mientras M1 uso la respiracion como objeto focal, M2 expande la atencion a todo el cuerpo, entrenando especificamente la capacidad interoceptiva.
+
+#grafica ![graf-m02-06-body-scan-capacidades](assets/graf-m02-06-body-scan-capacidades.png) Tabla visual "Qué entrena exactamente el Body Scan": recorrer el cuerpo → amplitud interoceptiva, notar sin juzgar → aceptación, detectar tensión → discriminación, sensaciones neutras → tolerancia, notar ganas de escapar → metacognición.
 
 ### Que entrena el Body Scan
 
@@ -113,3 +123,10 @@ Has descubierto que tu cuerpo es fuente de informacion, no solo contenedor.
 Ahora es momento de profundizar en una categoria especifica de esa informacion: tus emociones. Y de anadir un segundo flujo: tus pensamientos.
 
 M3 te espera.
+
+
+---
+## Material adicional del tema #aux
+### Infografías del tema 
+
+#infografia ![infog-m02-06-sintesis-cuerpo-inteligencia](assets/infog-m02-06-sintesis-cuerpo-inteligencia.jpg) Infografía "El Cuerpo: Tu Fuente de Inteligencia y Anclaje" — tres sistemas perceptivos, ínsula como puente, cuerpo co-creador, liderazgo y arraigo corporal, beneficios estructurales, y práctica de Body Scan.

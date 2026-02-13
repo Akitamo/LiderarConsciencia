@@ -1,4 +1,25 @@
+---
+id: m02-00
+titulo: "Consciente de cómo estoy"
+modulo: 2
+orden: 00
+ultima_actualizacion: "08/02/2026"
+---
 # Modulo 2: Consciente de como estoy
+
+- [El cuerpo como fuente de informacion y anclaje al presente](#el-cuerpo-como-fuente-de-informacion-y-anclaje-al-presente)
+- [Lo que traes de M1](#lo-que-traes-de-m1)
+- [Pregunta central](#pregunta-central)
+- [Transformacion esperada](#transformacion-esperada)
+- [La brecha que M2 cierra](#la-brecha-que-m2-cierra)
+- [Lo que encontraras en este modulo](#lo-que-encontraras-en-este-modulo)
+- [Practica de este modulo](#practica-de-este-modulo)
+- [Conexion con el programa](#conexion-con-el-programa)
+- [Segunda caracteristica del lider semilla](#segunda-caracteristica-del-lider-semilla)
+- [El triangulo de la atencion](#el-triangulo-de-la-atencion)
+
+
+#imagen ![img-m02-00-silueta-sensaciones-corporales](assets/img-m02-00-silueta-sensaciones-corporales.png) Silueta humana con líneas topográficas que representan el mapa de sensaciones corporales, metáfora del cuerpo como territorio por explorar.
 
 ## El cuerpo como fuente de informacion y anclaje al presente
 
@@ -34,6 +55,9 @@ M2 amplía el foco: de la arquitectura mental (M1) al vehículo corporal. El par
 Al terminar este modulo, habras integrado:
 
 > "Mi cuerpo es fuente de informacion, no solo contenedor de mi cerebro. Puedo acceder a datos sobre mi estado emocional, mi nivel de estres y mis necesidades a traves de sensaciones corporales. El cuerpo siempre esta en el presente —es mi anclaje mas fiable."
+
+#grafica ![graf-m02-00-ilusion-vs-realidad-cuerpo](assets/graf-m02-00-ilusion-vs-realidad-cuerpo.png) Contraste entre "La Ilusión" (cuerpo como contenedor de transporte) y "La Realidad" (cuerpo como fuente de datos en tiempo real).
+
 
 ---
 
@@ -80,14 +104,20 @@ No se trata de relajarte forzosamente, sino de notar que hay.
 ## Segunda caracteristica del lider semilla
 
 **Arraigo corporal:** Esta conectado con su cuerpo como fuente de informacion y anclaje al presente.
-
+#imagen ![img-m02-00-lider-arraigo-corporal](assets/img-m02-00-lider-arraigo-corporal.png) Silueta de líder con traje cuyos pies se extienden en raíces, metáfora del arraigo corporal como segunda característica del líder semilla.
 El lider que ignora su cuerpo pierde acceso a informacion crucial para decidir y regular su estado.
+
+
+#grafica ![graf-m02-00-cuerpo-como-anclaje](assets/graf-m02-00-cuerpo-como-anclaje.png) Infografía "El Cuerpo como Anclaje" con pies-raíces y cita: "El cuerpo siempre está en el presente. Es mi anclaje más fiable."
 
 ---
 
 ## El triangulo de la atencion
 
 M2 completa el segundo vertice del triangulo que M3 cerrara:
+
+#grafica ![graf-m02-00-triangulo-atencion-sensaciones](assets/graf-m02-00-triangulo-atencion-sensaciones.png) Triángulo de la atención (Sensaciones, Pensamientos, Emociones) con el foco del M2 destacado en el vértice Sensaciones.
+
 
 ```
         SENSACIONES (M2) <-- Aqui estamos
@@ -100,6 +130,4 @@ M2 completa el segundo vertice del triangulo que M3 cerrara:
       (M3)           (M3)
 ```
 
-
-#imagen
-![img-m02-triangulo-atencion](recursos/imagenes/img-m02-triangulo-atencion.png) Diagrama del triángulo de la atención con tres vértices etiquetados: "Pensamientos" (vértice superior), "Emociones" (vértice inferior derecho) y "SENSACIONES" (vértice inferior izquierdo, destacado en azul). En el interior del triángulo hay tres círculos superpuestos: uno verde (asociado a Sensaciones, resaltado), y dos grises (asociados a Pensamientos y Emociones). El círculo verde indica el foco temático del módulo.
+#infografia ![infog-m02-00-apertura-cuerpo-informacion](assets/infog-m02-00-apertura-cuerpo-informacion.jpg) Infografía de síntesis del módulo: el cuerpo como fuente de información y anclaje al presente, con los temas clave por explorar.

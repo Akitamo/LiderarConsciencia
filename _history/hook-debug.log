@@ -977,3 +977,46 @@
 [2026-02-11T16:56:39.859Z] Consolidando con Sonnet...
 [2026-02-11T16:56:40.080Z] ERROR: API error: 400 - {"type":"error","error":{"type":"invalid_request_error","message":"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."},"request_id":"req_011CY2dkS1P6wyiZy1oQEyKM"}
 [2026-02-11T16:56:40.082Z] === Fin hook save-session (ERROR) ===
+[2026-02-12T18:40:21.715Z] === Inicio hook save-session (v2 - jerárquico) ===
+[2026-02-12T18:40:21.733Z] Leyendo datos de stdin...
+[2026-02-12T18:40:21.742Z] Datos recibidos: session_id=4afc5bef-7d22-4933-979c-8bb1d384b0cf, reason=prompt_input_exit
+[2026-02-12T18:40:21.743Z] Leyendo transcripción desde: C:\Users\aluni\.claude\projects\C--dev-projects-LiderarConsciencia\4afc5bef-7d22-4933-979c-8bb1d384b0cf.jsonl
+[2026-02-12T18:40:23.727Z] Mensajes encontrados: 292
+[2026-02-12T18:40:23.729Z] Error leyendo prompt: ENOENT: no such file or directory, open 'C:\dev\projects\LiderarConsciencia\_ai\prompts\session-summary.md'
+[2026-02-12T18:40:23.730Z] Total caracteres en sesión: 196037
+[2026-02-12T18:40:23.732Z] Sesión larga - usando estrategia jerárquica (Haiku + Sonnet)
+[2026-02-12T18:40:23.734Z] Alcanzado límite de 20 chunks
+[2026-02-12T18:40:23.736Z] Sesión dividida en 21 chunks
+[2026-02-12T18:40:23.738Z] Generando mini-resúmenes con Haiku...
+[2026-02-12T18:40:23.740Z] Procesando chunk 1/21 (7124 chars)...
+[2026-02-12T18:40:24.213Z] Error en chunk 1: API error: 400 - {"type":"error","error":{"type":"invalid_request_error","message":"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."},"request_id":"req_011CY4fU2K9dAYdxKYcbukjv"}
+[2026-02-12T18:40:24.425Z] Procesando chunk 2/21 (6463 chars)...
+[2026-02-12T18:40:24.747Z] Error en chunk 2: API error: 400 - {"type":"error","error":{"type":"invalid_request_error","message":"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."},"request_id":"req_011CY4fU44pPP9ib9dYwoxxu"}
+[2026-02-12T18:40:24.952Z] Procesando chunk 3/21 (6783 chars)...
+[2026-02-12T18:40:25.135Z] Error en chunk 3: API error: 400 - {"type":"error","error":{"type":"invalid_request_error","message":"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."},"request_id":"req_011CY4fU6LEuXDMsV6MA67AJ"}
+[2026-02-13T04:49:50.970Z] === Inicio hook save-session (v2 - jerárquico) ===
+[2026-02-13T04:49:50.977Z] Leyendo datos de stdin...
+[2026-02-13T04:49:50.983Z] Datos recibidos: session_id=52f9f0fc-cae0-43db-a2c8-a878f2774eb6, reason=prompt_input_exit
+[2026-02-13T04:49:50.984Z] Leyendo transcripción desde: C:\Users\aluni\.claude\projects\C--dev-projects-LiderarConsciencia\52f9f0fc-cae0-43db-a2c8-a878f2774eb6.jsonl
+[2026-02-13T04:49:50.985Z] Mensajes encontrados: 10
+[2026-02-13T04:49:50.986Z] Error leyendo prompt: ENOENT: no such file or directory, open 'C:\dev\projects\LiderarConsciencia\_ai\prompts\session-summary.md'
+[2026-02-13T04:49:50.986Z] Total caracteres en sesión: 844
+[2026-02-13T04:49:50.986Z] Sesión corta - usando estrategia de pasada única con Sonnet
+[2026-02-13T04:49:51.219Z] ERROR: API error: 400 - {"type":"error","error":{"type":"invalid_request_error","message":"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."},"request_id":"req_011CY5TwcHfciuyQmz8qBMud"}
+[2026-02-13T04:49:51.219Z] === Fin hook save-session (ERROR) ===
+[2026-02-13T04:50:10.136Z] === Inicio hook save-session (v2 - jerárquico) ===
+[2026-02-13T04:50:10.146Z] Leyendo datos de stdin...
+[2026-02-13T04:50:10.152Z] Datos recibidos: session_id=1b067e85-1e79-485c-9b9e-4c8323dd5077, reason=other
+[2026-02-13T04:50:10.153Z] Leyendo transcripción desde: C:\Users\aluni\.claude\projects\C--dev-projects-LiderarConsciencia\1b067e85-1e79-485c-9b9e-4c8323dd5077.jsonl
+[2026-02-13T04:50:10.155Z] ERROR: Archivo de transcripción no encontrado: C:\Users\aluni\.claude\projects\C--dev-projects-LiderarConsciencia\1b067e85-1e79-485c-9b9e-4c8323dd5077.jsonl
+[2026-02-13T04:50:10.155Z] === Fin hook save-session (ERROR) ===
+[2026-02-13T05:18:08.642Z] === Inicio hook save-session (v2 - jerárquico) ===
+[2026-02-13T05:18:08.660Z] Leyendo datos de stdin...
+[2026-02-13T05:18:08.666Z] Datos recibidos: session_id=aa248bb1-2b6d-4283-9564-b28c871b7b9d, reason=clear
+[2026-02-13T05:18:08.667Z] Leyendo transcripción desde: C:\Users\aluni\.claude\projects\C--dev-projects-LiderarConsciencia\aa248bb1-2b6d-4283-9564-b28c871b7b9d.jsonl
+[2026-02-13T05:18:08.677Z] Mensajes encontrados: 16
+[2026-02-13T05:18:08.677Z] Error leyendo prompt: ENOENT: no such file or directory, open 'C:\dev\projects\LiderarConsciencia\_ai\prompts\session-summary.md'
+[2026-02-13T05:18:08.678Z] Total caracteres en sesión: 2201
+[2026-02-13T05:18:08.678Z] Sesión corta - usando estrategia de pasada única con Sonnet
+[2026-02-13T05:18:08.981Z] ERROR: API error: 400 - {"type":"error","error":{"type":"invalid_request_error","message":"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."},"request_id":"req_011CY5W6kewBi38uTiubQmjj"}
+[2026-02-13T05:18:08.981Z] === Fin hook save-session (ERROR) ===

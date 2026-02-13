@@ -4,13 +4,44 @@ titulo: "Por qué mindfulness lo hace posible — El entrenamiento detrás de la
 modulo: 6
 orden: 04
 fase: FUNDAMENTACION
-tags: [mindfulness, open-monitoring, practica, capacidad, integracion]
-ultima_actualizacion: "27/01/2026"
+tags: [open-monitoring, reperceiving, shapiro-iam, saber-vs-poder, ecuanimidad, inhibicion-prefrontal]
+ultima_actualizacion: "12/02/2026"
 ---
 
 # Tema 4: Por qué mindfulness lo hace posible
 
+- [Por que este tema es necesario](#por-que-este-tema-es-necesario)
+	- [El entrenamiento que desarrolla las capacidades](#el-entrenamiento-que-desarrolla-las-capacidades)
+- [1. La brecha que nadie menciona](#1-la-brecha-que-nadie-menciona)
+- [2. Cómo funciona: los tres ingredientes](#2-cómo-funciona-los-tres-ingredientes)
+- [3. El cambio que lo hace posible: reperceiving](#3-el-cambio-que-lo-hace-posible-reperceiving)
+- [4. Lo que el mindfulness hace posible en el ANTES](#4-lo-que-el-mindfulness-hace-posible-en-el-antes)
+	- [4.1 Lo que T1 requiere](#41-lo-que-t1-requiere)
+	- [4.2 Lo que la práctica entrena](#42-lo-que-la-práctica-entrena)
+	- [4.3 Evidencia de que funciona](#43-evidencia-de-que-funciona)
+- [5. Lo que el mindfulness hace posible en el DURANTE](#5-lo-que-el-mindfulness-hace-posible-en-el-durante)
+	- [5.1 Lo que T2 requiere](#51-lo-que-t2-requiere)
+	- [5.2 Lo que la práctica entrena](#52-lo-que-la-práctica-entrena)
+	- [5.3 Evidencia de que funciona](#53-evidencia-de-que-funciona)
+- [6. Lo que el mindfulness hace posible en el DESPUÉS](#6-lo-que-el-mindfulness-hace-posible-en-el-después)
+	- [6.1 Lo que T3 requiere](#61-lo-que-t3-requiere)
+	- [6.2 Lo que la práctica entrena](#62-lo-que-la-práctica-entrena)
+	- [6.3 Evidencia de que funciona](#63-evidencia-de-que-funciona)
+- [7. Open Monitoring: la práctica que integra todo](#7-open-monitoring-la-práctica-que-integra-todo)
+- [Cierre del módulo: La transformación lograda](#cierre-del-módulo-la-transformación-lograda)
+- [La característica del líder semilla](#la-característica-del-líder-semilla)
+- [Conexiones](#conexiones)
+- [Dimensión experiencial](#dimensión-experiencial)
+- [Referencias](#referencias)
+- [Material adicional del tema](#material-adicional-del-tema)
+	- [Infografías del tema](#infografías-del-tema)
+
+
+---
+
 ## Por que este tema es necesario
+
+#imagen ![img-m06-04-mapa-vs-territorio-v1](assets/img-m06-04-mapa-vs-territorio-v1.png) Opción 1: Marinero al timón en tormenta — el mapa (teoría) vs el territorio (realidad)
 
 #### El entrenamiento que desarrolla las capacidades
 
@@ -22,13 +53,13 @@ Este tema cierra el modulo revelando lo que hace posible todo lo anterior. La br
 Las capacidades de ANTES-DURANTE-DESPUES no son tecnicas que se aplican. Son capacidades que se entrenan. Y el entrenamiento que las desarrolla es la practica contemplativa que has cultivado a lo largo del programa.
 
 ---
+## 1. La brecha que nadie menciona
 
-## El entrenamiento detrás de la capacidad
+#imagen ![img-m06-04-mapa-vs-territorio-v2](assets/img-m06-04-mapa-vs-territorio-v2.png) Opción 2: Hologramas vs sendero oscuro — brecha entre saber teórico y realidad
 
----
+#ppt ![ppt-m06-04-brecha-saber-poder-v1](assets/ppt-m06-04-brecha-saber-poder-v1.png) Opción 1: Puente detallado — la brecha silenciosa entre saber y poder, capacidad entrenada
 
-## La brecha que nadie menciona
-
+#grafica ![graf-m06-04-brecha-saber-poder-v2](assets/graf-m06-04-brecha-saber-poder-v2.png) Opción 2: Mindfulness como puente simple entre Saber y Poder
 Has recorrido un proceso completo: clarificar tu intención y ampliar el campo antes de decidir (T1), sostener la consciencia sin ser arrastrado durante el momento (T2), transitar lo que ha pasado con honestidad y sin destruirte (T3).
 
 Ahora sabes qué hacer en cada fase. Tienes el mapa.
@@ -43,7 +74,9 @@ Lo que has trabajado en T1, T2 y T3 no son técnicas que se aplican. Son capacid
 
 ---
 
-## Cómo funciona: los tres ingredientes
+## 2. Cómo funciona: los tres ingredientes
+
+#grafica ![graf-m06-04-tres-ingredientes-shapiro](assets/graf-m06-04-tres-ingredientes-shapiro.png) Tres engranajes: Intención, Atención, Actitud — modelo IAM de Shapiro
 
 Shapiro y colaboradores[^1] identificaron tres componentes que operan juntos cada vez que practicas:
 
@@ -57,7 +90,11 @@ Estos tres no son pasos separados. Operan simultáneamente en cada momento de pr
 
 ---
 
-## El cambio que lo hace posible: reperceiving
+## 3. El cambio que lo hace posible: reperceiving
+
+#grafica ![graf-m06-04-reperceiving-v1](assets/graf-m06-04-reperceiving-v1.png) Opción 1: Fusión → Reperceiving — siluetas con humo, cambio de perspectiva
+
+#grafica ![graf-m06-04-reperceiving-v2](assets/graf-m06-04-reperceiving-v2.png) Opción 2: SUJETO (soy la emoción) → OBJETO (noto la emoción) — desidentificación
 
 Cuando los tres ingredientes funcionan juntos de forma sostenida, producen algo que Shapiro llama **reperceiving** — un cambio fundamental en cómo te relacionas con tu propia experiencia.[^1]
 
@@ -73,9 +110,11 @@ Cuando puedes ver un pensamiento como pensamiento — no como verdad —, puedes
 
 ---
 
-## Lo que el mindfulness hace posible en el ANTES
+## 4. Lo que el mindfulness hace posible en el ANTES
 
-### Lo que T1 requiere
+### 4.1 Lo que T1 requiere
+
+#grafica ![graf-m06-04-antes-filtros-invisibles](assets/graf-m06-04-antes-filtros-invisibles.png) T1 (Antes): Ver los filtros invisibles — cerebro X-Ray con sesgos, miedos, preferencias
 
 En el Tema 1 trabajaste la preparación: clarificar tu intención distinguiendo lo que realmente quieres de lo que te captura, y ampliar el campo para ver lo que tus filtros habituales dejan fuera.
 
@@ -85,7 +124,7 @@ Si estás fusionado con tus preferencias, no puedes verlas — simplemente actú
 
 Eso es exactamente reperceiving aplicado al ANTES.
 
-### Lo que la práctica entrena
+### 4.2 Lo que la práctica entrena
 
 Cada vez que te sientas a meditar y notas que tu mente se ha ido a una preocupación, una fantasía o una planificación, estás entrenando exactamente lo que T1 requiere: **la capacidad de ver qué te captura**.
 
@@ -93,7 +132,7 @@ No luchas contra el pensamiento. No te frustras por haberte distraído. Simpleme
 
 Cada vez que observas una preferencia ("esto me gusta", "esto no me gusta") y la dejas pasar en lugar de seguirla automáticamente, estás practicando lo que T1 requiere: **no quedarte atrapado en el primer lugar donde tu atención aterriza**.
 
-### Evidencia de que funciona
+### 4.3 Evidencia de que funciona
 
 Maymin y Langer[^2] encontraron que una breve inducción de mindfulness reducía la susceptibilidad a sesgos cognitivos. En 19 de 22 sesgos evaluados — incluyendo anclaje, aversión a la pérdida y exceso de confianza — los participantes en estado de mindfulness mostraron menor captura.
 
@@ -105,9 +144,13 @@ Kiken y Shook demostraron que incluso intervenciones breves de mindfulness reduc
 
 ---
 
-## Lo que el mindfulness hace posible en el DURANTE
+## 5. Lo que el mindfulness hace posible en el DURANTE
 
-### Lo que T2 requiere
+#grafica ![graf-m06-04-durante-metaconsciencia-v1](assets/graf-m06-04-durante-metaconsciencia-v1.png) Opción 1: El Balcón (perspectiva) / La Pista de Baile (acción) — ojo observando desde arriba
+
+#grafica ![graf-m06-04-durante-metaconsciencia-v2](assets/graf-m06-04-durante-metaconsciencia-v2.png) Opción 2: T2 (Durante): Inhibición consciente bajo fuego — EKG con impulso, espacio, meta-consciencia
+
+### 5.1 Lo que T2 requiere
 
 En el Tema 2 trabajaste el momento de decidir: sostener la consciencia cuando las fuerzas de captura operan, notar qué está pasando mientras pasa, mantener el impulso sin actuar automáticamente.
 
@@ -115,7 +158,7 @@ Esto requiere **meta-consciencia**: la capacidad de observarte mientras actúas,
 
 También requiere **inhibición consciente**: poder ver un impulso intenso y no seguirlo automáticamente, sostener la tensión de no actuar mientras el impulso sube y baja.
 
-### Lo que la práctica entrena
+### 5.2 Lo que la práctica entrena
 
 La meta-consciencia es exactamente lo que entrenas cuando meditas y notas que tu mente se ha ido. Ese momento de "darme cuenta de que estaba pensando" es meta-consciencia en acción. Cuantas más veces lo haces, más se fortalece la capacidad de notarte.
 
@@ -123,7 +166,7 @@ La inhibición consciente es lo que entrenas cuando observas un impulso durante 
 
 Cada vez que haces esto en el cojín, estás preparándote para hacerlo en la reunión difícil.
 
-### Evidencia de que funciona
+### 5.3 Evidencia de que funciona
 
 Hafenbrack y colaboradores[^3] estudiaron el efecto del mindfulness sobre el sesgo de costes hundidos — la tendencia a seguir invirtiendo en algo solo porque ya has invertido, aunque la evidencia diga que deberías parar.
 
@@ -133,9 +176,11 @@ Encontraron que 15 minutos de meditación focalizando la atención en el present
 
 ---
 
-## Lo que el mindfulness hace posible en el DESPUÉS
+## 6. Lo que el mindfulness hace posible en el DESPUÉS
 
-### Lo que T3 requiere
+#grafica ![graf-m06-04-despues-error-aprendizaje](assets/graf-m06-04-despues-error-aprendizaje.png) ERROR/FALLO → dos caminos: Rumiación/Culpa vs Observación/Aprendizaje
+
+### 6.1 Lo que T3 requiere
 
 En el Tema 3 trabajaste el territorio posterior a la decisión: cuidarte antes de revisar, estar con lo que ha pasado sin huir ni quedarte atrapado, revisar con honestidad pero sin destruirte, aprender desde la autocompasión.
 
@@ -143,7 +188,7 @@ Esto requiere **ecuanimidad**: la capacidad de estar presente con experiencias d
 
 También requiere **autocompasión**: tratarte con la misma consideración que tratarías a alguien que respetas cuando comete un error.
 
-### Lo que la práctica entrena
+### 6.2 Lo que la práctica entrena
 
 La ecuanimidad se desarrolla cada vez que durante la meditación aparece algo incómodo — una emoción difícil, un recuerdo doloroso, una sensación desagradable — y te quedas con ello en lugar de huir. Cuando revisas una decisión que salió mal, aparece malestar. La respuesta automática es evitar ese malestar: minimizar lo que pasó, culpar a otros, distraerte, o en el otro extremo, rumiar indefinidamente. Ambas respuestas impiden el aprendizaje.
 
@@ -151,7 +196,7 @@ No te quedas para sufrir. Te quedas para observar. Notas la incomodidad, notas e
 
 La autocompasión tiene el mindfulness como uno de sus tres componentes.[^4] Antes de poder tratarte con amabilidad, necesitas ver lo que está pasando con suficiente claridad y distancia para no ser arrastrado por la autocrítica. La práctica desarrolla esa capacidad de observar el dolor sin identificarte completamente con él.
 
-### Evidencia de que funciona
+### 6.3 Evidencia de que funciona
 
 Neff y colaboradores[^5] estudiaron la relación entre autocompasión y respuesta al fracaso. Encontraron que las personas con mayor autocompasión mostraban mayor orientación hacia el aprendizaje, formas más adaptativas de afrontar el error, y menor tendencia a rumiar.
 
@@ -161,9 +206,13 @@ La autocompasión no hacía que el fracaso doliera menos. Hacía posible mirar e
 
 ---
 
-## Open Monitoring: la práctica que integra todo
+## 7. Open Monitoring: la práctica que integra todo 
 
-### Por qué Open Monitoring
+#grafica ![graf-m06-04-open-monitoring-v1](assets/graf-m06-04-open-monitoring-v1.png) Opción 1: Atención Focalizada (láser) vs Open Monitoring (linterna)
+
+#grafica ![graf-m06-04-open-monitoring-v2](assets/graf-m06-04-open-monitoring-v2.png) Opción 2: Focused Attention (taladro) vs Open Monitoring (radar)
+
+**Por qué Open Monitoring
 
 A lo largo del curso has practicado principalmente **Atención Focalizada**: dirigir y mantener la atención en un objeto específico, típicamente la respiración. Esta práctica desarrolla concentración y la capacidad de notar cuándo la mente se ha desviado.
 
@@ -177,9 +226,7 @@ Esta práctica entrena exactamente lo que el proceso de decisión consciente req
 
 **Para el DESPUÉS:** La capacidad de estar con lo que emerge — autocrítica, malestar, arrepentimiento, alivio — sin huir ni quedarte atrapado. Presencia ecuánime.
 
----
-
-## La práctica continua
+**La práctica continua
 
 La capacidad de decidir conscientemente no es un logro que se alcanza una vez. Es una práctica continua que se fortalece o se debilita según cómo la cuides.
 
@@ -190,6 +237,10 @@ Pero estos efectos requieren práctica sostenida. No basta con entender cómo fu
 La buena noticia es que no necesitas horas diarias. Investigaciones sugieren que incluso prácticas breves pero consistentes producen efectos medibles. Lo que importa es la regularidad más que la duración.
 
 **La invitación es simple:** Practica. No porque debas. Porque quieres desarrollar la capacidad de decidir conscientemente cuando más importa.
+
+#grafica ![graf-m06-04-neuroplasticidad-v1](assets/graf-m06-04-neuroplasticidad-v1.png) Opción 1: "No es magia. Es gimnasio para la mente." — neuroplasticidad acumulativa
+
+#grafica ![graf-m06-04-neuroplasticidad-v2](assets/graf-m06-04-neuroplasticidad-v2.png) Opción 2: "Neuroplasticidad: El efecto acumulativo" — anillos de árbol con capas
 
 ---
 
@@ -219,6 +270,8 @@ No es que ahora decidas perfectamente. Es que ahora puedes verte decidiendo. Pue
 
 ## La característica del líder semilla
 
+#imagen ![img-m06-04-lider-semilla-direccion-intencional](assets/img-m06-04-lider-semilla-direccion-intencional.png) Dirección Intencional — semilla brotando con potencial ascendente
+
 Cada módulo cultiva una característica. La de M6 es:
 
 > **Dirección intencional:** Sabe lo que quiere porque observa su proceso.
@@ -231,11 +284,15 @@ Esa es la dirección intencional. Y es una capacidad que has trabajado a lo larg
 
 ---
 
-## Conexión con M7: De lo que quiero a lo que está bien
+## Conexiones
+
+**Conexión con M7: De lo que quiero a lo que está bien
+
+#grafica ![graf-m06-04-conexion-m7-intencion-etica](assets/graf-m06-04-conexion-m7-intencion-etica.png) Puente "Intención Clara" → "Acción Ética" — conexión con M7
 
 Has desarrollado la capacidad de saber lo que quieres y de perseguirlo conscientemente. Pero hay una pregunta que este módulo no ha respondido:
 
-**¿Y si lo que quiero no es lo que está bien?**
+¿Y si lo que quiero no es lo que está bien?
 
 Puedes tener claridad perfecta sobre lo que quieres, campo ampliado, capacidad de sostener el proceso, y autocompasión para aprender de los errores. Y aun así, usar todo eso para fines que no están alineados con lo que realmente importa.
 
@@ -245,9 +302,7 @@ La consciencia de lo que quieres necesita encontrarse con la consciencia de lo q
 
 Ese es el paso final del viaje: de líder consciente a líder ético. De semilla a fruto.
 
----
-
-## Conexion con M1
+**Conexion con M1
 
 M1 mostro que el cerebro opera con automatismos. El mindfulness entrena la capacidad de verlos.
 
@@ -259,9 +314,7 @@ M1 mostro que el cerebro opera con automatismos. El mindfulness entrena la capac
 
 El mindfulness hace operativa la humildad epistemologica de M1.
 
----
-
-## Conexion con M2
+**Conexion con M2
 
 M2 mostro que el cuerpo es fuente de informacion. El mindfulness entrena la capacidad de escucharlo.
 
@@ -273,9 +326,7 @@ M2 mostro que el cuerpo es fuente de informacion. El mindfulness entrena la capa
 
 El entrenamiento corporal de M2 es entrenamiento de mindfulness aplicado.
 
----
-
-## Conexion con M3
+**Conexion con M3
 
 M3 mostro que puedes crear espacio entre estimulo y respuesta. El mindfulness es lo que crea ese espacio.
 
@@ -287,9 +338,7 @@ M3 mostro que puedes crear espacio entre estimulo y respuesta. El mindfulness es
 
 El espacio de M3 es el producto central del entrenamiento en mindfulness.
 
----
-
-## Conexion con M4
+**Conexion con M4
 
 M4 mostro que el autocuidado es base del liderazgo. El mindfulness es una forma de autocuidado.
 
@@ -301,9 +350,7 @@ M4 mostro que el autocuidado es base del liderazgo. El mindfulness es una forma 
 
 El mindfulness no es solo herramienta cognitiva; es practica de cuidado de M4.
 
----
-
-## Conexion con M5
+**Conexion con M5
 
 M5 mostro que la consciencia se extiende hacia el otro. El mindfulness desarrolla las bases de esa extension.
 
@@ -317,7 +364,7 @@ La extension hacia el otro de M5 requiere la presencia que el mindfulness cultiv
 
 ---
 
-## Dimensión experiencial
+## Dimensión experiencial #insight
 
 - ¿Cuál es tu experiencia con la práctica de mindfulness hasta ahora? ¿Qué has notado que entrena?
 - Cuando meditas, ¿qué tipo de contenidos te capturan más fácilmente? ¿Qué dice eso sobre lo que podría capturarte en decisiones reales?
@@ -342,3 +389,10 @@ La extension hacia el otro de M5 requiere la presencia que el mindfulness cultiv
 [^6]: Davidson, R.J., Kabat-Zinn, J., Schumacher, J., Rosenkranz, M., Muller, D., Santorelli, S.F., ... & Sheridan, J.F. (2003). Alterations in brain and immune function produced by mindfulness meditation. *Psychosomatic Medicine*, 65(4), 564-570.
 
 [^7]: Deyo, M., Wilson, K.A., Ong, J., & Koopman, C. (2009). Mindfulness and rumination: Does mindfulness training lead to reductions in the ruminative thinking associated with depression? *Explore*, 5(5), 265-271.
+
+
+---
+## Material adicional del tema #aux
+### Infografías del tema 
+
+#infografia ![infog-m06-04-mindfulness-puente-saber-poder](assets/infog-m06-04-mindfulness-puente-saber-poder.jpg) Mindfulness como puente entre saber y poder decidir: tres ingredientes (Shapiro), reperceiving, open monitoring; evidencia por fase

@@ -3,10 +3,23 @@ id: m04-01
 titulo: "Autocuidado para un liderazgo efectivo"
 modulo: 4
 orden: 01
-tags: [autocuidado, liderazgo, bienestar, estres]
+tags: [autocuidado-competencia, narrativa-sacrificio, contagio-emocional, reencuadre-autocuidado]
 ultima_actualizacion: "21/01/2026"
 ---
 # Tema 1: El autocuidado como fundamento del liderazgo
+
+- [Por que este tema es necesario](#por-que-este-tema-es-necesario)
+	- [No es lujo, es necesidad](#no-es-lujo-es-necesidad)
+- [1. La falsa narrativa del sacrificio](#1-la-falsa-narrativa-del-sacrificio)
+- [2. Autocuidado como competencia de liderazgo](#2-autocuidado-como-competencia-de-liderazgo)
+- [3. El contagio emocional](#3-el-contagio-emocional)
+- [4. Reencuadre del autocuidado](#4-reencuadre-del-autocuidado)
+- [Conexiones](#conexiones)
+- [Dimension experiencial](#dimension-experiencial)
+- [Referencias incluidas](#referencias-incluidas)
+- [Material adicional del tema](#material-adicional-del-tema)
+	- [Infografías del tema](#infografías-del-tema)
+
 
 ## Por que este tema es necesario
 
@@ -22,7 +35,7 @@ Desmonta la narrativa del lider que se sacrifica, reemplazandola por la del lide
 
 ---
 
-## La falsa narrativa del sacrificio
+## 1. La falsa narrativa del sacrificio
 
 La cultura del liderazgo heroico glorifica el agotamiento:
 
@@ -39,14 +52,15 @@ Pero el lider agotado:
 
 El sacrificio no es heroismo. Es insostenibilidad.
 
+#grafica ![graf-m04-01-falsa-narrativa-sacrificio](assets/graf-m04-01-falsa-narrativa-sacrificio.png) Metáfora visual de batería corroída: superficie glorificada (frases del liderazgo heroico) y costo oculto (peores decisiones, relaciones dañadas, erosión de salud).
+
 ---
 
-## Autocuidado como competencia de liderazgo
+## 2. Autocuidado como competencia de liderazgo
 
+#ppt ![ppt-m04-01-autocuidado-no-es-si-es](assets/ppt-m04-01-autocuidado-no-es-si-es.png) Tabla comparativa "Lo que NO es" (extra, recompensa, debilidad) vs. "Lo que SÍ es" (claridad mental, regulación emocional, efectividad sostenida).
 En el entorno empresarial actual, donde la presión y el ritmo frenético son la norma, el autocuidado se asocia casi exclusivamente al bienestar personal. Esta dimensión es real, pero incompleta. Existe otra que va más allá: el autocuidado **impacta directamente en la efectividad del liderazgo, la calidad de la gestión y la eficacia del equipo**.
 
-#imagen
-![img-m04-lider-bajo-presion](recursos/imagenes/img-m04-lider-bajo-presion.png) Ilustración de figura ejecutiva en silueta gris, de pie sobre una escalera/pirámide ascendente con manos en la cadera, flanqueada por dos grandes bolas de demolición suspendidas que representan amenazas o presiones. Fondo beige/arena con flechas ascendentes blancas detrás de la figura.
 
 El autocuidado no es:
 - Un extra
@@ -62,22 +76,25 @@ El autocuidado **es**:
 
 ---
 
-## El contagio emocional
+## 3. El contagio emocional
+
+#grafica ![graf-m04-01-contagio-emocional-lider-equipo](assets/graf-m04-01-contagio-emocional-lider-equipo.png) Cuatro estados del líder (estresado, agotado, regulado, energizado) y su efecto propagado al equipo mediante ondas/flechas.
 
 El estado del lider se propaga.
 
-| Estado del lider | Efecto en el equipo |
-|------------------|---------------------|
+| Estado del lider    | Efecto en el equipo          |
+| ------------------- | ---------------------------- |
 | Estresado, reactivo | Tension, miedo, defensividad |
-| Regulado, presente | Calma, apertura, confianza |
-| Agotado, cinico | Desmoralizacion, cinismo |
-| Energizado, claro | Energia, claridad |
+| Regulado, presente  | Calma, apertura, confianza   |
+| Agotado, cinico     | Desmoralizacion, cinismo     |
+| Energizado, claro   | Energia, claridad            |
+|                     |                              |
 
 El autocuidado tiene impacto sistemico. No es solo "para ti".
 
----
+**Datos del contexto actual
 
-## Datos del contexto actual
+#ppt ![ppt-m04-01-contexto-critico-41-porciento](assets/ppt-m04-01-contexto-critico-41-porciento.png) "41% Gallup: State of the Global Workplace" — el agotamiento como fenómeno ocupacional (OMS).
 
 Los numeros son alarmantes:
 
@@ -90,7 +107,9 @@ El problema es epidemico. Y los lideres estan en el centro.
 
 ---
 
-## Reencuadre del autocuidado
+## 4. Reencuadre del autocuidado
+
+#ppt ![ppt-m04-01-reencuadre-autocuidado-v1](assets/ppt-m04-01-reencuadre-autocuidado-v1.png) Opción 1: Tabla visión tradicional vs. propuesta (tiempo para mí → inversión en capacidad, egoísta → responsable).
 
 | Vision tradicional | Vision propuesta |
 |--------------------|------------------|
@@ -99,24 +118,25 @@ El problema es epidemico. Y los lideres estan en el centro.
 | Egoista | Responsable |
 | Opcional | Necesario |
 | Recompensa | Fundamento |
+#ppt ![ppt-m04-01-reencuadre-autocuidado-v2](assets/ppt-m04-01-reencuadre-autocuidado-v2.png) Opción 2: Pirámide de productividad con autocuidado como fundamento → liderazgo/toma de decisiones → resultados.
 
 ---
 
-## Conexion con M1-M3
+## Conexiones
+
+**Conexion con M1-M3
 
 Todo lo aprendido sobre arquitectura mental, cuerpo y emociones **se deteriora bajo estres cronico**:
 
-| Lo que aprendiste | Lo que el estres hace |
-|-------------------|----------------------|
-| M1: Sistema 2 puede modular al 1 | El estres colapsa el Sistema 2 |
-| M2: El cuerpo informa | El estres desconecta del cuerpo |
-| M3: Espacio entre estimulo y respuesta | El estres cierra el espacio |
+| Lo que aprendiste                      | Lo que el estres hace           |
+| -------------------------------------- | ------------------------------- |
+| M1: Sistema 2 puede modular al 1       | El estres colapsa el Sistema 2  |
+| M2: El cuerpo informa                  | El estres desconecta del cuerpo |
+| M3: Espacio entre estimulo y respuesta | El estres cierra el espacio     |
 
 M4 muestra como proteger esas capacidades.
 
----
-
-## Conexion con el programa
+**Conexion con el programa
 
 M4 prepara para M5: **no puedo extender consciencia hacia el otro si mi propia consciencia esta colapsada por la presion**.
 
@@ -124,7 +144,7 @@ El orden importa: primero cuido de mi para poder cuidar de otros.
 
 ---
 
-## Dimension experiencial
+## Dimension experiencial #insight
 
 Reflexiona:
 
@@ -151,3 +171,9 @@ Las organizaciones inteligentes cultivan el autocuidado como competencia estrate
 - Gallup. *State of the Global Workplace Report.*
 - Boyatzis, R. & McKee, A. (2005). *Resonant Leadership: Renewing Yourself and Connecting with Others Through Mindfulness, Hope, and Compassion.* Harvard Business School Press.
 - Goleman, D. et al. (2002). *Primal Leadership: Unleashing the Power of Emotional Intelligence.* Harvard Business School Press.
+
+---
+## Material adicional del tema #aux
+### Infografías del tema 
+
+#infografia ![infog-m04-01-autocuidado-fundamento-liderazgo](assets/infog-m04-01-autocuidado-fundamento-liderazgo.jpg) Visión tradicional (mito del sacrificio) vs. propuesta (inversión): contagio emocional, reencuadre del liderazgo y pirámide del autocuidado como condición básica.
