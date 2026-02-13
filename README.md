@@ -32,7 +32,7 @@ El curso estructura la consciencia en ocho módulos entrenables, de dentro hacia
 6. **Lo que quiero** → Decisión consciente y dirección intencional
 7. **Lo que está bien** → Ética vivida y coherencia valores-acciones
 
-Para detalle completo: `Marketing/Ideas iniciales proyecto/4-Pilares-curso-liderar-con-consciencia.md`
+Para detalle completo: `CURSO/LIDERAR_CON_CONSCIENCIA_Documento_Maestro.md`
 
 ## Infraestructura IA del proyecto
 

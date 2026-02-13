@@ -21,7 +21,7 @@ tags: [indice, estructura, pedagogia, narrativa]
 ## Visión General
 
 Ver [README.md](README.md) para filosofía y tono del curso.
-ver [La progresión epistemológica del programa](La%20progresión%20epistemológica%20del%20programa.md) para entender todo el flujo y conexión entre los módulos del curso
+ver [Documento Maestro del Programa](LIDERAR_CON_CONSCIENCIA_Documento_Maestro.md) para la visión completa, progresión epistemológica y conexiones entre módulos
 
 ---
 

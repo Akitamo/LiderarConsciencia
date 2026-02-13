@@ -16,8 +16,7 @@ Viaje de autoconocimiento y desarrollo de liderazgo consciente, desde las bases 
 ## Estructura
 
 Ver [Índice General](00-indice-general-curso.md) para módulos, 
-ver [La progresión epistemológica del programa](La%20progresión%20epistemológica%20del%20programa.md) para entender todo el flujo y conexión entre los módulos del curso
-ver [VISIÓN COMPLETA DEL CURSO](../VISIÓN%20COMPLETA%20DEL%20CURSO.md) para tener una visión del contenido general de los diferentes módulos ddel curso
+ver [Documento Maestro del Programa](LIDERAR_CON_CONSCIENCIA_Documento_Maestro.md) para la visión completa, progresión epistemológica y conexiones entre módulos
 
 
 ## Backups
