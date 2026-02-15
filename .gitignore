@@ -9,6 +9,7 @@ desktop.ini
 # Archivos temporales
 *.tmp
 *~
+~$*
 tmpclaude-*
 nul
 
@@ -19,6 +20,7 @@ nul
 _exports/
 *.pdf
 *.pptx
+!_wip/curso/Presentación Powerpoint/PresentacionesSERGIO/*.pptx
 !Documentos/*.pdf
 
 # Node modules (si se usan scripts)
