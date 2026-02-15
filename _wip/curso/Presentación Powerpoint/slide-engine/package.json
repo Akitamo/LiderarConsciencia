@@ -1,0 +1,15 @@
+{
+  "name": "slide-engine",
+  "version": "1.0.0",
+  "description": "Motor de generación de presentaciones PPTX — Liderar con Consciencia",
+  "main": "generate-m00.js",
+  "scripts": {
+    "generate:m00": "node generate-m00.js",
+    "test": "node generate-m00.js"
+  },
+  "dependencies": {
+    "pptxgenjs": "^3.12.0",
+    "@iconify/json": "^2.2.0",
+    "sharp": "^0.33.0"
+  }
+}

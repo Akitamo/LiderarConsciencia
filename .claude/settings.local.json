@@ -12,7 +12,14 @@
       "WebFetch(domain:github.com)",
       "WebFetch(domain:raw.githubusercontent.com)",
       "WebFetch(domain:www.thoughtworks.com)",
-      "WebFetch(domain:api.github.com)"
+      "WebFetch(domain:api.github.com)",
+      "WebFetch(domain:www.liderarconconsciencia.com)",
+      "mcp__playwright__browser_navigate",
+      "WebFetch(domain:manus.im)",
+      "mcp__context7__resolve-library-id",
+      "mcp__context7__query-docs",
+      "WebFetch(domain:medium.com)",
+      "WebFetch(domain:gist.github.com)"
     ]
   },
   "enableAllProjectMcpServers": true,

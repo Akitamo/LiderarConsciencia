@@ -1,0 +1,351 @@
+{
+  "_meta": {
+    "description": "Source of truth for texts extracted from Manus PPTX files. DO NOT edit manually.",
+    "extracted_from": "Manus PPTX originals in _wip/curso/Presentación Powerpoint/Diapos Manus/",
+    "m07_reference": "m07-ppt-Consciente_de_lo_que_Está_Bien.pptx"
+  },
+  "M00": {
+    "filename": "M00-ppt-El-Momento-que-Nos-Convoca.pptx",
+    "output_filename": "M00-El-Momento-que-Nos-Convoca.pptx",
+    "total_slides": 29,
+    "portada": {
+      "tag": "Módulo 00",
+      "title": "El Momento que\nNos Convoca",
+      "quote": "La consciencia se entrena, no se enseña"
+    },
+    "separators": [],
+    "gracias": null,
+    "refs": null
+  },
+  "M01A": {
+    "filename": "M01-BloqueA-El-Cerebro-Constructor.pptx",
+    "output_filename": "M01A-El-Cerebro-Constructor.pptx",
+    "total_slides": 10,
+    "portada": {
+      "tag": "Módulo 01 · Bloque A",
+      "title": "El Cerebro\nConstructor",
+      "quote": "\"El cerebro que crees ser vs. el cerebro que realmente eres.\""
+    },
+    "separators": [],
+    "gracias": null,
+    "refs": null
+  },
+  "M01B": {
+    "filename": "M01-BloqueB-El-Piloto-Automatico.pptx",
+    "output_filename": "M01B-El-Piloto-Automatico.pptx",
+    "total_slides": 16,
+    "portada": {
+      "tag": "Módulo 01 · Bloque B",
+      "title": "El Piloto Automático\nal Mando",
+      "quote": "¿Quién gobierna realmente tus decisiones?"
+    },
+    "separators": [],
+    "gracias": null,
+    "refs": null
+  },
+  "M01C": {
+    "filename": "M01-BloqueC-La-Puerta-de-Salida.pptx",
+    "output_filename": "M01C-La-Puerta-de-Salida.pptx",
+    "total_slides": 22,
+    "portada": {
+      "tag": "Módulo 01 · Bloque C",
+      "title": "La Puerta\nde Salida",
+      "quote": "Atención y Mindfulness"
+    },
+    "separators": [],
+    "gracias": null,
+    "refs": null
+  },
+  "M01D": {
+    "filename": "M01-BloqueD-El-Viaje-y-el-Compromiso.pptx",
+    "output_filename": "M01D-El-Viaje-y-el-Compromiso.pptx",
+    "total_slides": 6,
+    "portada": {
+      "tag": "Módulo 01 · Bloque D",
+      "title": "El Viaje y el\nCompromiso",
+      "quote": "Integración y cierre"
+    },
+    "separators": [],
+    "gracias": {
+      "slide_index": 5
+    },
+    "refs": null
+  },
+  "M02": {
+    "filename": "M02-ppt-Consciente-como-estoy.pptx",
+    "output_filename": "M02-Consciente-de-Como-Estoy.pptx",
+    "total_slides": 55,
+    "portada": {
+      "tag": "Módulo 02",
+      "title": "Consciente de\nCómo Estoy",
+      "quote": "\"El cuerpo como fuente de inteligencia\ny anclaje al presente.\""
+    },
+    "separators": [
+      {
+        "slide_index": 9,
+        "number": "01",
+        "title": "El Hardware Oculto\nde tu Liderazgo",
+        "subtitle": "Más allá de los 5 sentidos: 3 sistemas completos de procesamiento."
+      }
+    ],
+    "gracias": null,
+    "refs": null
+  },
+  "M03": {
+    "filename": "M03-ppt_Consciente_de_lo_que_pienso_y_siento.pptx",
+    "output_filename": "M03-Consciente-de-lo-que-Pienso-y-Siento.pptx",
+    "total_slides": 39,
+    "portada": {
+      "tag": "Módulo 03",
+      "title": "Consciente de lo que\nPienso y Siento",
+      "quote": "\"La mente no es el enemigo, es una herramienta que ha tomado el mando.\""
+    },
+    "separators": [
+      {
+        "slide_index": 1,
+        "number": "01",
+        "title": "El Mito de la\n\"Cabeza Fría\"",
+        "subtitle": "Descubrir que la razón y la emoción no son enemigas, sino socias inseparables."
+      },
+      {
+        "slide_index": 12,
+        "number": "02",
+        "title": "Tu Cuerpo Sabe\nAntes que Tú",
+        "subtitle": "Aprender a escuchar la inteligencia somática que guía tus decisiones."
+      },
+      {
+        "slide_index": 16,
+        "number": "03",
+        "title": "Anatomía de un\nSecuestro Emocional",
+        "subtitle": "Entender la cadena de reacción para poder intervenir en ella."
+      },
+      {
+        "slide_index": 20,
+        "number": "04",
+        "title": "Dime qué Sientes y\nte Diré qué Ves",
+        "subtitle": "Cómo tu estado emocional dirige el foco de tu atención."
+      },
+      {
+        "slide_index": 25,
+        "number": "05",
+        "title": "El Bucle: Lo que Piensas,\nSientes (y Viceversa)",
+        "subtitle": "Aprender a intervenir en la conversación constante entre mente y cuerpo."
+      },
+      {
+        "slide_index": 29,
+        "number": "06",
+        "title": "De Reaccionar a\nResponder",
+        "subtitle": "Usar el mindfulness para crear el espacio entre el estímulo y la respuesta."
+      }
+    ],
+    "gracias": {
+      "slide_index": 38
+    },
+    "refs": null
+  },
+  "M04": {
+    "filename": "M04-ppt-Consciente_de_lo_que_Necesito.pptx",
+    "output_filename": "M04-Consciente-de-lo-que-Necesito.pptx",
+    "total_slides": 40,
+    "portada": {
+      "tag": "Módulo 04",
+      "title": "Consciente de lo\nque Necesito",
+      "quote": "\"Cuidarte no es egoísmo; es la condición para poder liderar.\""
+    },
+    "separators": [
+      {
+        "slide_index": 4,
+        "number": "01",
+        "title": "El Mito del\nLíder Inagotable",
+        "subtitle": "Del autocuidado como lujo al autocuidado como necesidad del liderazgo"
+      },
+      {
+        "slide_index": 9,
+        "number": "02",
+        "title": "Diseñado para la Sabana,\nPerdido en la Oficina",
+        "subtitle": "La respuesta de estrés: diseñada para sobrevivir, no para liderar"
+      },
+      {
+        "slide_index": 14,
+        "number": "03",
+        "title": "El Ciclo que\nNunca se Cierra",
+        "subtitle": "Por qué el estrés del trabajo no \"se pasa\""
+      },
+      {
+        "slide_index": 18,
+        "number": "04",
+        "title": "El Precio Invisible\nde la Presión",
+        "subtitle": "Consecuencias del estrés crónico en tu cuerpo, tu mente y tu liderazgo"
+      },
+      {
+        "slide_index": 23,
+        "number": "05",
+        "title": "Luchar Solo Añade\nMás Leña al Fuego",
+        "subtitle": "Por qué luchar contra el estrés lo empeora, y cómo la aceptación lo regula"
+      },
+      {
+        "slide_index": 27,
+        "number": "06",
+        "title": "La Ciencia de\nla Calma",
+        "subtitle": "Mindfulness y regulación emocional: la evidencia científica"
+      }
+    ],
+    "gracias": null,
+    "refs": null
+  },
+  "M05": {
+    "filename": "m05-ppt-Consciente_de_lo_que_necesitamos.pptx",
+    "output_filename": "M05-Consciente-de-lo-que-Necesitamos.pptx",
+    "total_slides": 39,
+    "portada": {
+      "tag": "Módulo 05",
+      "title": "Consciente de lo\nque Necesitamos",
+      "quote": "\"¿Cómo extiendo mi consciencia hacia los demás para liderar con compasión sabia y comunicarme conscientemente?\""
+    },
+    "separators": [
+      {
+        "slide_index": 4,
+        "number": "01",
+        "title": "Diseñados para\nla Conexión",
+        "subtitle": "Por qué tu cerebro es una máquina social"
+      },
+      {
+        "slide_index": 8,
+        "number": "02",
+        "title": "Los Fantasmas\nen la Máquina",
+        "subtitle": "Sesgos que distorsionan cómo ves a los demás"
+      },
+      {
+        "slide_index": 12,
+        "number": "03",
+        "title": "La Batería\nInterna",
+        "subtitle": "Autocompasión como base para conectar con otros"
+      },
+      {
+        "slide_index": 17,
+        "number": "04",
+        "title": "Dos Formas\nde Mirar",
+        "subtitle": "Yo-Tú vs Yo-Ello: cómo te relacionas con las personas"
+      },
+      {
+        "slide_index": 21,
+        "number": "05",
+        "title": "Más Allá de\nla Empatía",
+        "subtitle": "Compasión sabia: sentir con el otro y actuar por él"
+      },
+      {
+        "slide_index": 26,
+        "number": "06",
+        "title": "Comunicar\npara Conectar",
+        "subtitle": "Escucha profunda, semáforo conversacional y protocolo consciente"
+      }
+    ],
+    "gracias": {
+      "slide_index": 38
+    },
+    "refs": null
+  },
+  "M06": {
+    "filename": "m06-ppt-Consciente_de_lo_que_Quiero.pptx",
+    "output_filename": "M06-Consciente-de-lo-que-Quiero.pptx",
+    "total_slides": 41,
+    "portada": {
+      "tag": "Módulo 06",
+      "title": "Consciente de\nlo que Quiero",
+      "quote": "\"¿Hacia dónde dirijo mi consciencia — y cómo sé que lo estoy eligiendo yo?\""
+    },
+    "separators": [
+      {
+        "slide_index": 5,
+        "number": "01",
+        "title": "La Ventana que\nCasi Nadie Usa",
+        "subtitle": "Del deseo automático a la intención elegida"
+      },
+      {
+        "slide_index": 13,
+        "number": "02",
+        "title": "Sostenerse en\nel Fuego",
+        "subtitle": "Decidir sin ser arrastrado por la tormenta"
+      },
+      {
+        "slide_index": 22,
+        "number": "03",
+        "title": "Transitar la\nDecisión",
+        "subtitle": "Integrar lo vivido con honestidad y compasión"
+      },
+      {
+        "slide_index": 30,
+        "number": "04",
+        "title": "Fundamentación",
+        "subtitle": "La ciencia detrás de la práctica"
+      }
+    ],
+    "gracias": {
+      "slide_index": 39
+    },
+    "refs": {
+      "slide_index": 40,
+      "sources": [
+        "Argyris, C. (1991). Teaching Smart People How to Learn. Harvard Business Review.",
+        "Duke, A. (2018). Thinking in Bets: Making Smarter Decisions When You Don't Have All the Facts. Portfolio.",
+        "Ekman, P. (2003). Emotions Revealed: Recognizing Faces and Feelings to Improve Communication and Emotional Life. Times Books.",
+        "Heifetz, R. & Linsky, M. (2002). Leadership on the Line: Staying Alive through the Dangers of Leading. Harvard Business School Press.",
+        "Kegan, R. (1982). The Evolving Self: Problem and Process in Human Development. Harvard University Press.",
+        "Marlatt, G.A. & Gordon, J.R. (1985). Relapse Prevention: Maintenance Strategies in the Treatment of Addictive Behaviors. Guilford Press.",
+        "Neff, K. (2011). Self-Compassion: The Proven Power of Being Kind to Yourself. William Morrow.",
+        "Shapiro, S.L., Carlson, L.E., Astin, J.A., & Freedman, B. (2006). Mechanisms of Mindfulness. Journal of Clinical Psychology.",
+        "Siegel, D.J. (2010). Mindsight: The New Science of Personal Transformation. Bantam."
+      ]
+    }
+  },
+  "M07": {
+    "filename": "m07-ppt-Consciente_de_lo_que_Está_Bien.pptx",
+    "output_filename": null,
+    "total_slides": 43,
+    "portada": {
+      "tag": "Módulo 07",
+      "title": "Consciente de lo\nque Está Bien",
+      "quote": "\"Cada acción consciente, alineada con tus valores, es una semilla de cambio.\""
+    },
+    "separators": [
+      {
+        "slide_index": 6,
+        "number": "01",
+        "title": "El Territorio de la\nAcción Ética",
+        "subtitle": "Virtud, prudencia y los puntos ciegos que nos desvían."
+      },
+      {
+        "slide_index": 16,
+        "number": "02",
+        "title": "Propósito y\nAlineamiento",
+        "subtitle": "La brújula para navegar la ambigüedad."
+      },
+      {
+        "slide_index": 23,
+        "number": "03",
+        "title": "La Acción\nConsciente y Ética",
+        "subtitle": "El modelo integrador en la acción real."
+      },
+      {
+        "slide_index": 32,
+        "number": "04",
+        "title": "El Líder\nSemilla",
+        "subtitle": "Cierre del programa e integración."
+      }
+    ],
+    "gracias": {
+      "slide_index": 41
+    },
+    "refs": {
+      "slide_index": 42,
+      "sources": [
+        "Bazerman, M. & Tenbrunsel, A. (2011). Blind Spots: Why We Fail to Do What's Right and What to Do about It.",
+        "Murdoch, I. (1970). The Sovereignty of Good.",
+        "Varela, F. (1999). Ethical Know-How: Action, Wisdom, and Cognition.",
+        "Aristóteles. Ética a Nicómaco.",
+        "Scharmer, O. (2009). Theory U: Leading from the Future as It Emerges.",
+        "Marco Aurelio. Meditaciones."
+      ]
+    }
+  }
+}

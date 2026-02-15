@@ -1,0 +1,416 @@
+{
+  "M00": {
+    "filename": "M00-ppt-El-Momento-que-Nos-Convoca.pptx",
+    "total_slides": 29,
+    "portada": [
+      "Liderar con Consciencia",
+      "MÓDULO 0 · APERTURA",
+      "El Momento que\nNos Convoca",
+      "La consciencia se entrena, no se enseña"
+    ],
+    "separators": [],
+    "gracias_slide": null,
+    "refs_slide": null
+  },
+  "M01A": {
+    "filename": "M01-BloqueA-El-Cerebro-Constructor.pptx",
+    "total_slides": 10,
+    "portada": [
+      "MÓDULO 01",
+      "Consciente de lo que soy",
+      "\"El cerebro que crees ser vs. el cerebro que realmente eres.\"",
+      "[IMAGEN: img-m01-00-cerebro-maquina.png]",
+      "Imagen sugerente de un cerebro mecánico/orgánico o la metáfora de la máquina predictiva."
+    ],
+    "separators": [],
+    "gracias_slide": null,
+    "refs_slide": null
+  },
+  "M01B": {
+    "filename": "M01-BloqueB-El-Piloto-Automatico.pptx",
+    "total_slides": 16,
+    "portada": [
+      "Liderar con Consciencia",
+      "02",
+      "El Piloto Automático al Mando",
+      "¿Quién gobierna realmente tus decisiones?",
+      "11 / 26"
+    ],
+    "separators": [
+      {
+        "slide_index": 3,
+        "texts": [
+          "14",
+          "95%",
+          "de tus decisiones diarias son tomadas por el Sistema 1",
+          "El Sistema 2 es perezoso por diseño: ahorra energía para lo vital.",
+          "\"Crees que decides, pero en realidad justificas.\""
+        ]
+      }
+    ],
+    "gracias_slide": null,
+    "refs_slide": null
+  },
+  "M01C": {
+    "filename": "M01-BloqueC-La-Puerta-de-Salida.pptx",
+    "total_slides": 22,
+    "portada": [
+      "03",
+      "La Puerta\nde Salida",
+      "Atención y Mindfulness",
+      "Módulo 01 — Consciente de lo que soy"
+    ],
+    "separators": [],
+    "gracias_slide": null,
+    "refs_slide": null
+  },
+  "M01D": {
+    "filename": "M01-BloqueD-El-Viaje-y-el-Compromiso.pptx",
+    "total_slides": 6,
+    "portada": [
+      "04",
+      "El Viaje y el\nCompromiso",
+      "Integración y cierre",
+      "Módulo 01 — Consciente de lo que soy"
+    ],
+    "separators": [],
+    "gracias_slide": 5,
+    "refs_slide": null
+  },
+  "M02": {
+    "filename": "M02-ppt-Consciente-como-estoy.pptx",
+    "total_slides": 55,
+    "portada": [
+      "LIDERAR CON CONSCIENCIA",
+      "PROGRAMA LIDERAR CON CONSCIENCIA",
+      "MÓDULO 02",
+      "CONSCIENTE DE CÓMO ESTOY",
+      "\"El cuerpo como fuente de inteligencia\ny anclaje al presente.\""
+    ],
+    "separators": [
+      {
+        "slide_index": 9,
+        "texts": [
+          "BLOQUE B",
+          "01",
+          "El Hardware Oculto\nde tu Liderazgo",
+          "Más allá de los 5 sentidos: 3 sistemas completos de procesamiento.",
+          "07"
+        ]
+      }
+    ],
+    "gracias_slide": null,
+    "refs_slide": null
+  },
+  "M03": {
+    "filename": "M03-ppt_Consciente_de_lo_que_pienso_y_siento.pptx",
+    "total_slides": 39,
+    "portada": [
+      "Liderar con Consciencia",
+      "Programa Liderar con Consciencia",
+      "MÓDULO 03",
+      "Consciente de lo que pienso y siento",
+      "\"La mente no es el enemigo, es una herramienta que ha tomado el mando.\""
+    ],
+    "separators": [
+      {
+        "slide_index": 1,
+        "texts": [
+          "TEMA",
+          "01",
+          "El Mito de la\n\"Cabeza Fría\"",
+          "Descubrir que la razón y la emoción no son enemigas, sino socias inseparables."
+        ]
+      },
+      {
+        "slide_index": 12,
+        "texts": [
+          "TEMA",
+          "02",
+          "Tu Cuerpo Sabe\nAntes que Tú",
+          "Aprender a escuchar la inteligencia somática que guía tus decisiones."
+        ]
+      },
+      {
+        "slide_index": 16,
+        "texts": [
+          "TEMA",
+          "03",
+          "Anatomía de un\nSecuestro Emocional",
+          "Entender la cadena de reacción para poder intervenir en ella."
+        ]
+      },
+      {
+        "slide_index": 20,
+        "texts": [
+          "TEMA",
+          "04",
+          "Dime qué Sientes y\nte Diré qué Ves",
+          "Cómo tu estado emocional dirige el foco de tu atención."
+        ]
+      },
+      {
+        "slide_index": 25,
+        "texts": [
+          "TEMA",
+          "05",
+          "El Bucle: Lo que Piensas,\nSientes (y Viceversa)",
+          "Aprender a intervenir en la conversación constante entre mente y cuerpo."
+        ]
+      },
+      {
+        "slide_index": 29,
+        "texts": [
+          "TEMA",
+          "06",
+          "De Reaccionar a\nResponder",
+          "Usar el mindfulness para crear el espacio entre el estímulo y la respuesta."
+        ]
+      }
+    ],
+    "gracias_slide": 38,
+    "refs_slide": null
+  },
+  "M04": {
+    "filename": "M04-ppt-Consciente_de_lo_que_Necesito.pptx",
+    "total_slides": 40,
+    "portada": [
+      "MÓDULO 04",
+      "Consciente de lo\nque Necesito",
+      "\"Cuidarte no es egoísmo; es la condición para poder liderar.\""
+    ],
+    "separators": [
+      {
+        "slide_index": 4,
+        "texts": [
+          "01",
+          "TEMA 01",
+          "El Mito del\nLíder Inagotable",
+          "Del autocuidado como lujo al autocuidado como necesidad del liderazgo"
+        ]
+      },
+      {
+        "slide_index": 9,
+        "texts": [
+          "02",
+          "TEMA 02",
+          "Diseñado para la Sabana,\nPerdido en la Oficina",
+          "La respuesta de estrés: diseñada para sobrevivir, no para liderar"
+        ]
+      },
+      {
+        "slide_index": 14,
+        "texts": [
+          "03",
+          "TEMA 03",
+          "El Ciclo que\nNunca se Cierra",
+          "Por qué el estrés del trabajo no \"se pasa\""
+        ]
+      },
+      {
+        "slide_index": 18,
+        "texts": [
+          "04",
+          "TEMA 04",
+          "El Precio Invisible\nde la Presión",
+          "Consecuencias del estrés crónico en tu cuerpo, tu mente y tu liderazgo"
+        ]
+      },
+      {
+        "slide_index": 23,
+        "texts": [
+          "05",
+          "TEMA 05",
+          "Luchar Solo Añade\nMás Leña al Fuego",
+          "Por qué luchar contra el estrés lo empeora, y cómo la aceptación lo regula"
+        ]
+      },
+      {
+        "slide_index": 27,
+        "texts": [
+          "06",
+          "TEMA 06",
+          "La Ciencia de\nla Calma",
+          "Mindfulness y regulación emocional: la evidencia científica"
+        ]
+      }
+    ],
+    "gracias_slide": null,
+    "refs_slide": null
+  },
+  "M05": {
+    "filename": "m05-ppt-Consciente_de_lo_que_necesitamos.pptx",
+    "total_slides": 39,
+    "portada": [
+      "Módulo 05",
+      "Consciente de lo\nque Necesitamos",
+      "Del yo al nosotros: la extensión de la consciencia hacia el otro",
+      "\"¿Cómo extiendo mi consciencia hacia los demás para liderar con compasión sabia y comunicarme conscientemente?\""
+    ],
+    "separators": [
+      {
+        "slide_index": 4,
+        "texts": [
+          "TEMA",
+          "01",
+          "Diseñados para\nla Conexión",
+          "Por qué tu cerebro es una máquina social"
+        ]
+      },
+      {
+        "slide_index": 8,
+        "texts": [
+          "TEMA",
+          "02",
+          "Los Fantasmas\nen la Máquina",
+          "Sesgos que distorsionan cómo ves a los demás"
+        ]
+      },
+      {
+        "slide_index": 12,
+        "texts": [
+          "TEMA",
+          "03",
+          "La Batería\nInterna",
+          "Autocompasión como base para conectar con otros"
+        ]
+      },
+      {
+        "slide_index": 17,
+        "texts": [
+          "TEMA",
+          "04",
+          "Dos Formas\nde Mirar",
+          "Yo-Tú vs Yo-Ello: cómo te relacionas con las personas"
+        ]
+      },
+      {
+        "slide_index": 21,
+        "texts": [
+          "TEMA",
+          "05",
+          "Más Allá de\nla Empatía",
+          "Compasión sabia: sentir con el otro y actuar por él"
+        ]
+      },
+      {
+        "slide_index": 26,
+        "texts": [
+          "TEMA",
+          "06",
+          "Comunicar\npara Conectar",
+          "Escucha profunda, semáforo conversacional y protocolo consciente"
+        ]
+      },
+      {
+        "slide_index": 37,
+        "texts": [
+          "PRÓXIMO MÓDULO",
+          "Consciente de lo que Quiero",
+          "Módulo 06 — Propósito y Sistema",
+          "\"Pasaremos de ser jardineros de una sola planta a ser arquitectos del ecosistema.\""
+        ]
+      }
+    ],
+    "gracias_slide": 38,
+    "refs_slide": null
+  },
+  "M06": {
+    "filename": "m06-ppt-Consciente_de_lo_que_Quiero.pptx",
+    "total_slides": 41,
+    "portada": [
+      "Módulo 06",
+      "Consciente de\nlo que Quiero",
+      "\"¿Hacia dónde dirijo mi consciencia — y cómo sé que lo estoy eligiendo yo?\""
+    ],
+    "separators": [
+      {
+        "slide_index": 5,
+        "texts": [
+          "01",
+          "Tema 01",
+          "La Ventana que\nCasi Nadie Usa",
+          "Del deseo automático a la intención elegida"
+        ]
+      },
+      {
+        "slide_index": 13,
+        "texts": [
+          "02",
+          "Tema 02",
+          "Sostenerse en\nel Fuego",
+          "Decidir sin ser arrastrado por la tormenta"
+        ]
+      },
+      {
+        "slide_index": 22,
+        "texts": [
+          "03",
+          "Tema 03",
+          "Transitar la\nDecisión",
+          "Integrar lo vivido con honestidad y compasión"
+        ]
+      },
+      {
+        "slide_index": 30,
+        "texts": [
+          "04",
+          "Tema 04",
+          "Fundamentación",
+          "La ciencia detrás de la práctica"
+        ]
+      }
+    ],
+    "gracias_slide": 39,
+    "refs_slide": 40
+  },
+  "M07": {
+    "filename": "m07-ppt-Consciente_de_lo_que_Está_Bien.pptx",
+    "total_slides": 43,
+    "portada": [
+      "Módulo 07",
+      "Consciente de lo\nque Está Bien",
+      "\"Cada acción consciente, alineada con tus valores, es una semilla de cambio.\""
+    ],
+    "separators": [
+      {
+        "slide_index": 6,
+        "texts": [
+          "01",
+          "TEMA",
+          "El Territorio de la\nAcción Ética",
+          "Virtud, prudencia y los puntos ciegos que nos desvían."
+        ]
+      },
+      {
+        "slide_index": 16,
+        "texts": [
+          "02",
+          "TEMA",
+          "Propósito y\nAlineamiento",
+          "La brújula para navegar la ambigüedad."
+        ]
+      },
+      {
+        "slide_index": 23,
+        "texts": [
+          "03",
+          "TEMA",
+          "La Acción\nConsciente y Ética",
+          "El modelo integrador en la acción real."
+        ]
+      },
+      {
+        "slide_index": 32,
+        "texts": [
+          "04",
+          "TEMA",
+          "El Líder\nSemilla",
+          "Cierre del programa e integración."
+        ]
+      }
+    ],
+    "gracias_slide": 41,
+    "refs_slide": 42
+  }
+}

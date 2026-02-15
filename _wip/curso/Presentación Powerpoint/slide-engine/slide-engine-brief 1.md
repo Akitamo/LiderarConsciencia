@@ -1,0 +1,1 @@
+Este archivo se ha generado como referencia. El contenido completo está en el archivo descargado desde Claude.ai. Por favor, copia el archivo slide-engine-brief.md desde la descarga a esta ubicación.
